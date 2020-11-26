@@ -4,7 +4,9 @@ date: '2020-11-26'
 description: ''
 ---
 
-Source: [https://www.goodreads.com/book/show/25541028-elon-musk](https://www.goodreads.com/book/show/25541028-elon-musk)
+Źródło: [https://www.goodreads.com/book/show/25541028-elon-musk](https://www.goodreads.com/book/show/25541028-elon-musk)
+
+Moja ocena: 8/10
 
 ## Elon Musk's characteristics
 

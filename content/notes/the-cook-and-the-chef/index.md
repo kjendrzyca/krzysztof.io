@@ -4,7 +4,9 @@ date: '2020-11-26'
 description: ''
 ---
 
-Source: [https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html)
+Źródło: [https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html)
+
+Moja ocena: 10/10
 
 ## Apply Logical Reasoning to Everything
 
