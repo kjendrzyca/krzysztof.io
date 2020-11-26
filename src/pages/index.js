@@ -5,6 +5,16 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
+function IndexLink({ title, slug }) {
+  return (
+    <li>
+      <Link to={slug} itemProp="url">
+        <span itemProp="headline">{title}</span>
+      </Link>
+    </li>
+  )
+}
+
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
@@ -55,19 +65,16 @@ const BlogIndex = ({ data, location }) => {
         Obecnie najlepiej złapać mnie na <a href="https://instagram.com/kjendrzyca/">Instagramie</a> lub <a href="https://twitter.com/kjendrzyca/">Twitterze</a>.
       </p>
 
-      <h3>Wybrane wpisy</h3>
+      <h3>Notatki z książek i artykułów</h3>
       <ul>
-        {posts.map(post => {
-          const title = post.frontmatter.title || post.fields.slug
-
-          return (
-            <li key={post.fields.slug}>
-              <Link to={post.fields.slug} itemProp="url">
-                <span itemProp="headline">{title}</span>
-              </Link>
-            </li>
-          )
-        })}
+        <IndexLink
+          title="Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future"
+          slug="elon-musk-ashlee-vance"
+        />
+        <IndexLink
+          title="The Cook and the Chef: Musk’s Secret Sauce"
+          slug="the-cook-and-the-chef"
+        />
       </ul>
     </Layout>
   )
