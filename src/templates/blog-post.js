@@ -23,7 +23,6 @@ const BlogPostTemplate = ({ data, location }) => {
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.date}</p>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
@@ -31,35 +30,9 @@ const BlogPostTemplate = ({ data, location }) => {
         />
         <hr />
         <footer>
-          <Bio />
+          <p>Ostatnia aktualizacja: {post.frontmatter.date}</p>
         </footer>
       </article>
-      <nav className="blog-post-nav">
-        <ul
-          style={{
-            display: `flex`,
-            flexWrap: `wrap`,
-            justifyContent: `space-between`,
-            listStyle: `none`,
-            padding: 0,
-          }}
-        >
-          <li>
-            {previous && (
-              <Link to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.title}
-              </Link>
-            )}
-          </li>
-          <li>
-            {next && (
-              <Link to={next.fields.slug} rel="next">
-                {next.frontmatter.title} →
-              </Link>
-            )}
-          </li>
-        </ul>
-      </nav>
     </Layout>
   )
 }
