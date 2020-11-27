@@ -3,17 +3,17 @@ title: 'Rób swoje'
 date: '2020-11-27'
 ---
 
-Domyśnym trybem człowieka, jest przejmować się zbyt wieloma rzeczami.
+Domyślnym trybem człowieka, jest przejmować się zbyt wieloma rzeczami.
 
-Niektórzy, tak jak ja, będą mieli szczęście i trafią przypadkiem na blog [Marka Mansona](https://markmanson.net/), lub kogoś podobnego i przestaną się przejmować wszystkim dookoła. Innym zostanie to niestety do końca życia.
+Niektórzy, tak jak ja, będą mieli szczęście i trafią przypadkiem na blog [Marka Mansona](https://markmanson.net/), lub kogoś podobnego i przestaną przejmować się wszystkim dookoła. Innym zostanie to niestety do końca życia.
 
-Nauczłem się, że najlepiej jest skupić na tym, nad czym mamy kontrolę i zacząć powoli robić swoje. Najlepsze źródło wiedzy w tej kwestii to stoicyzm.
+Nauczyłem się, że najlepiej jest skupić na tym, nad czym mamy kontrolę i zacząć powoli robić swoje. Najlepsze źródło wiedzy w tej kwestii to stoicyzm.
 
 Samo ["The Subtle Art of Not Giving a F*ck"](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck/) od Mansona, to praktycznie stoicyzm z przekleństwami i humorem.
 
-Innym dobrym źródłem, na które się natknąłem, jest artykuł [Paula Jarvisa](https://pjrvs.com/) - "Winning Life in 19 Super Difficult Steps".
+Innym dobrym źródłem, jest artykuł [Paula Jarvisa](https://pjrvs.com/) - "Winning Life in 19 Super Difficult Steps".
 
-Artykuł już nie istnieje w oryginalnej formie, ale na szczęście zapisałem sobie główne punkty i teraz zostawiam je Tobie. W całej chwale i bez mojego komentarza.
+Artykuł już nie istnieje w oryginalnej formie, ale zapisałem sobie jego główne punkty i teraz zostawiam je Tobie. W całej chwale i bez mojego komentarza.
 
 1. Everyone is offended all of the time.
 1. If someone is offended by you, that’s because they’ve noticed you.
