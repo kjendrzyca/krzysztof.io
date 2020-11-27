@@ -316,6 +316,9 @@ a:focus {
 .blog-post footer > p {
   color: var(--color-text-light);
   font-family: var(--font-heading);
+}
+
+.blog-post footer {
   text-align: right;
 }
 

@@ -1,14 +1,14 @@
 import React from "react"
-import { Link, graphql } from "gatsby"
+import { graphql } from "gatsby"
 
-import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-const BlogPostTemplate = ({ data, location }) => {
+const BlogPostTemplate = ({ data, location, pageContext }) => {
+  const { contentPath } = pageContext
   const post = data.markdownRemark
+  const { slug } = post.fields
   const siteTitle = data.site.siteMetadata?.title || `Title`
-  const { previous, next } = data
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -30,7 +30,17 @@ const BlogPostTemplate = ({ data, location }) => {
         />
         <hr />
         <footer>
-          <p>Ostatnia aktualizacja: {post.frontmatter.date}</p>
+          <p>
+            Ostatnia aktualizacja: {post.frontmatter.date}
+            <br />
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              href={`https://github.com/kjendrzyca/kjendrzyca.com/blob/master/content/${contentPath}${slug}`}
+            >
+              Edytuj ten wpis na GitHubie
+            </a>
+          </p>
         </footer>
       </article>
     </Layout>
@@ -58,6 +68,9 @@ export const pageQuery = graphql`
         title
         date(formatString: "YYYY-MM-DD")
         description
+      }
+      fields {
+        slug
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
