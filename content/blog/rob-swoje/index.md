@@ -9,7 +9,7 @@ Niektórzy, tak jak ja, będą mieli szczęście i trafią przypadkiem na blog [
 
 Nauczłem się, że najlepiej jest skupić na tym, nad czym mamy kontrolę i zacząć powoli robić swoje. Najlepsze źródło wiedzy w tej kwestii to stoicyzm.
 
-Samo ["The Subtle Art of Not Giving a F*ck"](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive-ebook/dp/B019MMUA8S/) od Mansona, to praktycznie stoicyzm z przekleństwami i humorem.
+Samo ["The Subtle Art of Not Giving a F*ck"](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck/) od Mansona, to praktycznie stoicyzm z przekleństwami i humorem.
 
 Innym dobrym źródłem, na które się natknąłem, jest artykuł [Paula Jarvisa](https://pjrvs.com/) - "Winning Life in 19 Super Difficult Steps".
 
