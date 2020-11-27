@@ -65,6 +65,18 @@ const BlogIndex = ({ data, location }) => {
         Obecnie najlepiej złapać mnie na <a href="https://instagram.com/kjendrzyca/">Instagramie</a> lub <a href="https://twitter.com/kjendrzyca/">Twitterze</a>.
       </p>
 
+      <h3>Wybrane wpisy</h3>
+      <ul>
+        <IndexLink
+          title="Ego i niepokój"
+          slug="ego-i-niepokoj"
+        />
+        <IndexLink
+          title="Rób swoje"
+          slug="rob-swoje"
+        />
+      </ul>
+
       <h3>Notatki z książek i artykułów</h3>
       <ul>
         <IndexLink
