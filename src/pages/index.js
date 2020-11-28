@@ -68,10 +68,6 @@ const BlogIndex = ({ data, location }) => {
       <h3>Wybrane wpisy</h3>
       <ul>
         <IndexLink
-          title="Ego i niepokój"
-          slug="ego-i-niepokoj"
-        />
-        <IndexLink
           title="Rób swoje"
           slug="rob-swoje"
         />
