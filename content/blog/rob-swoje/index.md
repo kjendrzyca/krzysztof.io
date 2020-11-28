@@ -5,11 +5,13 @@ date: '2020-11-27'
 
 Domyślnym trybem człowieka, jest przejmować się zbyt wieloma rzeczami.
 
-Niektórzy, tak jak ja, będą mieli szczęście i trafią przypadkiem na blog [Marka Mansona](https://markmanson.net/), lub kogoś podobnego i przestaną przejmować się wszystkim dookoła. Innym zostanie to niestety do końca życia.
+Niektórzy, będą mieli szczęście i tak jak ja trafią przypadkiem na jakiś dobry self-helpowy blog, który pokaże im jak przestać przejmować się wszystkim dookoła. Innym zostanie to niestety do końca życia.
 
-Nauczyłem się, że najlepiej jest skupić na tym, nad czym mamy kontrolę i zacząć powoli robić swoje. Najlepsze źródło wiedzy w tej kwestii to stoicyzm.
+Mnie początkowo bardzo pomógł blog [Marka Mansona](https://markmanson.net/), a potem książki o stoicyźmie.
 
-Samo ["The Subtle Art of Not Giving a F*ck"](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck/) od Mansona, to praktycznie stoicyzm z przekleństwami i humorem.
+Nauczyłem się, że najlepiej jest **skupić na tym, nad czym mamy kontrolę** i zacząć powoli robić swoje.
+
+Swoją drogą ["The Subtle Art of Not Giving a F*ck"](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck/) od Mansona, to praktycznie stoicyzm z przekleństwami i humorem.
 
 Innym dobrym źródłem, jest artykuł [Paula Jarvisa](https://pjrvs.com/) - "Winning Life in 19 Super Difficult Steps".
 
