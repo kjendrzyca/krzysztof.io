@@ -49,7 +49,7 @@ Linki w kolejności (uwaga, jest tego bardzo dużo):
 
 Mnie przejście, zrozumienie, zaimplementowanie i dostosowanie pod siebie większości tej wiedzy zajeło kilka miesięcy, które poświęcałem praktycznie tylko temu. Efekty są widoczne u mnie gołym okiem.
 
-Wpis, który teraz czytasz, powstał w jedno pomodoro, czyli 25 minut, o godzinie 21:30, kiedy marzę tylko o tym, żeby pójść spać. Moja energia nie jest najwyższych lotów, a dalej jestem w stanie wypluć z siebie coś sensownego.
+**Wpis, który teraz czytasz, powstał w jedno pomodoro, czyli 25 minut**, o godzinie 21:30, kiedy marzę tylko o tym, żeby pójść spać. Moja energia nie jest najwyższych lotów, a dalej jestem w stanie wypluć z siebie coś sensownego.
 
 Poniżej notaki z podcastu, które naprowadzają na mindset, który to wszystko umożliwia:
 
