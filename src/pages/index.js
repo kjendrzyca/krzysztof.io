@@ -40,15 +40,15 @@ const BlogIndex = ({ data, location }) => {
         Heja! 👋
       </p>
       <p>
-        Nazywam się Krzysztof Jendrzyca. Zawodowo jestem programistą, a po godzinach prowadzę stronę <a href="https://skutecznyprogramista.pl">skutecznyprogramista.pl</a>, gdzie staram się przekazać początkującym programistom wszystko, co może im pomóc wejść na wyższy poziom i uniknąć poważniejszych błędów, które ja popełniłem.
+        Nazywam się Krzysztof Jendrzyca. Zawodowo jestem programistą, a po godzinach prowadzę stronę <a href="https://skutecznyprogramista.pl">skutecznyprogramista.pl</a>, gdzie dokumentuję swoją drogę w IT.
       </p>
 
       <p>
-        Staram się zrozumieć jak prowadzić własną działalność w internecie tak, żeby zredukować ilość bullshitu do zera oraz zmaksymalizować dostarczaną wartość.
+        Obecnie staram się zrozumieć jak budować rzeczy w internecie w nienachalny i transparentny sposób.
       </p>
 
       <p>
-        Ta strona powstała dlatego, że potrzebowałem miejsca do myślenia, <a href="https://www.swyx.io/learn-in-public/">uczenia się na głos</a> i skracania pętli feedbackowej. Znajdziesz tutaj moje obserwacje i notatki.
+        Ta strona to moje miejsce do myślenia, <a href="https://www.swyx.io/learn-in-public/">uczenia się na głos</a> i skracania pętli feedbackowej. Znajdziesz tutaj moje obserwacje i notatki.
       </p>
 
       <blockquote>
@@ -59,10 +59,10 @@ const BlogIndex = ({ data, location }) => {
       </blockquote>
 
       <p>
-        Jeśli coś, co tu przeczytasz, w jakiś sposób z Tobą zarezonuje, to podziel się tym z innymi i daj mi znać. Feedback, zwłaszcza ten konstruktywny, jest zawsze mile widziany.
+        Jeśli coś, co tu przeczytasz, w jakiś sposób z Tobą zarezonuje, to podziel się tym z innymi i daj mi znać. Chętnie przyjmę konstruktywny feedback.
       </p>
       <p>
-        Obecnie najlepiej złapać mnie na <a href="https://instagram.com/kjendrzyca/">Instagramie</a> lub <a href="https://twitter.com/kjendrzyca/">Twitterze</a>.
+        Żeby pogadać złap mnie na <a href="https://instagram.com/kjendrzyca/">Instagramie</a> lub <a href="https://twitter.com/kjendrzyca/">Twitterze</a>.
       </p>
 
       <h3>Wybrane wpisy</h3>
