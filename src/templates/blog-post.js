@@ -36,7 +36,7 @@ const BlogPostTemplate = ({ data, location, pageContext }) => {
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href={`https://github.com/kjendrzyca/kjendrzyca.com/blob/master/content/${contentPath}${slug}`}
+              href={`https://github.com/kjendrzyca/krzysztof.io/blob/master/content/${contentPath}${slug}`}
             >
               Edytuj ten wpis na GitHubie
             </a>

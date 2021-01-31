@@ -1,13 +1,13 @@
-# kjendrzyca.com personal blog
+# krzysztof.io personal blog
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/18403c95-8cc3-4b8c-be14-b3a19c152b50/deploy-status)](https://app.netlify.com/sites/kjendrzyca/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/18403c95-8cc3-4b8c-be14-b3a19c152b50/deploy-status)](https://app.netlify.com/sites/krzysztof.io/deploys)
 
 1.  **Start developing.**
 
     Navigate into your new site’s directory and start it up.
 
     ```shell
-    cd kjendrzyca.com/
+    cd krzysztof.io/
     gatsby develop
     ```
 

@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `kjendrzyca.com`,
+    title: `krzysztof.io`,
     author: {
       name: `Krzysztof Jendrzyca`,
       summary: ``,
     },
     description: ``,
-    siteUrl: `https://kjendrzyca.com/`,
+    siteUrl: `https://krzysztof.io`,
     social: {
       social: `kjendrzyca`,
     },
@@ -67,8 +67,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `kjendrzyca.com`,
-        short_name: `kjendrzyca.com`,
+        name: `krzysztof.io`,
+        short_name: `krzysztof.io`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
