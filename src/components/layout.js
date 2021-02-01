@@ -1,5 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
+import CookieConsent from 'react-cookie-consent'
 
 const Layout = ({ location, title, children }) => {
   // eslint-disable-next-line no-undef
@@ -32,6 +33,13 @@ const Layout = ({ location, title, children }) => {
           <Link to="/polityka-prywatnosci">Polityka prywatności</Link>
         </div>
       </footer>
+      <CookieConsent
+        location="bottom"
+        buttonText="Rozumiem"
+        style={{ fontSize: '12px', textAlign: 'center' }}
+      >
+        Ta strona używa ciastek 🍪. <Link to="/polityka-prywatnosci">Tutaj</Link> możesz poczytać dlaczego.
+      </CookieConsent>
     </div>
   )
 }
