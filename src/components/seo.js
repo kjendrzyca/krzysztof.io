@@ -9,6 +9,7 @@ import React from "react"
 import PropTypes from "prop-types"
 import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
+import { MailerLiteScriptSrc, MailerLiteSuccessFunctionScript } from '../components/mailerlite'
 
 const SEO = ({ description, lang, meta, title }) => {
   const { site } = useStaticQuery(
@@ -75,12 +76,17 @@ const SEO = ({ description, lang, meta, title }) => {
           content: "hNVIfO59yoXw8FWgyNDGChui0n_ate1qgW15fBDJkLY",
         }
       ].concat(meta)}
-    />
+    >
+      <script>
+        {MailerLiteSuccessFunctionScript}
+      </script>
+      <script src={MailerLiteScriptSrc} type="text/javascript" />
+    </Helmet>
   )
 }
 
 SEO.defaultProps = {
-  lang: `en`,
+  lang: `pl`,
   meta: [],
   description: ``,
 }
