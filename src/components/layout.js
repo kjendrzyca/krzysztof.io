@@ -15,10 +15,22 @@ const Layout = ({ location, title, children }) => {
         </Link>
       </header>
       <main>{children}</main>
-      <footer>
-        © {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.com">Gatsby</a>
+      <footer
+        style={{
+          fontSize: '0.8rem',
+          display: `flex`,
+          flexWrap: `wrap`,
+          justifyContent: 'space-between',
+        }}
+      >
+        <div>
+          © {new Date().getFullYear()}, Built with
+          {` `}
+          <a href="https://www.gatsbyjs.com">Gatsby</a>
+        </div>
+        <div>
+          <Link to="/polityka-prywatnosci">Polityka prywatności</Link>
+        </div>
       </footer>
     </div>
   )
