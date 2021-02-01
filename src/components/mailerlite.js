@@ -61,6 +61,7 @@ export const MailerLiteForm = () => {
                       />
                     </div>
                   </div>
+
                   <div className="ml-form-fieldRow ml-last-item">
                     <div className="ml-field-group ml-field-email ml-validate-email ml-validate-required">
                       <input
@@ -75,16 +76,16 @@ export const MailerLiteForm = () => {
                       />
                     </div>
                   </div>
+
+                  <div className="ml-form-fieldRow ml-form-embedSubmit">
+                    <button type="submit" className="primary">Zapisz się</button>
+                    <button disabled="disabled" style={{display: 'none'}} type="button" className="loading">
+                      <div className="ml-form-embedSubmitLoad"></div> <span className="sr-only">Loading...</span>
+                    </button>
+                  </div>
                 </div>
 
                 <input type="hidden" name="ml-submit" value="1" />
-
-                <div className="ml-form-embedSubmit">
-                  <button type="submit" className="primary">Zapisz się</button>
-                  <button disabled="disabled" style={{display: 'none'}} type="button" className="loading">
-                    <div className="ml-form-embedSubmitLoad"></div> <span className="sr-only">Loading...</span>
-                  </button>
-                </div>
               </form>
             </div>
 

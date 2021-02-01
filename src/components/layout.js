@@ -1,6 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 import CookieConsent from 'react-cookie-consent'
+import Subscribe from '../components/subscribe'
 
 const Layout = ({ location, title, children }) => {
   // eslint-disable-next-line no-undef
@@ -16,21 +17,17 @@ const Layout = ({ location, title, children }) => {
         </Link>
       </header>
       <main>{children}</main>
-      <footer
-        style={{
-          fontSize: '0.8rem',
-          display: `flex`,
-          flexWrap: `wrap`,
-          justifyContent: 'space-between',
-        }}
-      >
-        <div>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.com">Gatsby</a>
-        </div>
-        <div>
-          <Link to="/polityka-prywatnosci">Polityka prywatności</Link>
+      <footer>
+        <Subscribe />
+        <div className="footer-bottom">
+          <div>
+            © {new Date().getFullYear()}, Built with
+            {` `}
+            <a href="https://www.gatsbyjs.com">Gatsby</a>
+          </div>
+          <div>
+            <Link to="/polityka-prywatnosci">Polityka prywatności</Link>
+          </div>
         </div>
       </footer>
       <CookieConsent

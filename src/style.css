@@ -55,11 +55,13 @@
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
   --color-primary: rgba(222, 1, 76, 1);
+  --color-primary-darker: rgba(197, 3, 69, 0.8);
   --color-text: rgba(0,0,0, .9);
   --color-text-light: rgba(0,0,0, .6);
   --color-heading: rgba(19, 20, 21, 1);
   --color-heading-black: black;
   --color-accent: #d1dce5;
+  --color-light: #fff2f1;
 }
 
 /* HTML elements */
@@ -237,7 +239,21 @@ a:focus {
   text-decoration: none;
 }
 
+/* forms */
+
+input, button {
+  border: none;
+}
+
 /* Custom classes */
+
+.footer-bottom {
+  font-size: var(--fontSize-0);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding-top: var(--spacing-16);
+}
 
 .global-wrapper {
   margin: var(--spacing-0) auto;
@@ -341,4 +357,61 @@ a:focus {
   ol {
     list-style-position: inside;
   }
+}
+
+/* Subscribe form */
+
+.subscribe-form {
+  margin-top: var(--spacing-12);
+}
+
+.subscribe-form h2 {
+  font-size: var(--fontSize-3);
+}
+
+.ml-form-formContent {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: space-between;
+}
+
+.ml-form-fieldRow {
+  flex-grow: 1;
+  flex-basis: 200px;
+  margin-bottom: 20px;
+}
+
+.ml-form-fieldRow input {
+  border: 1px solid var(--color-accent);
+  height: 50px;
+  border-radius: 3px;
+  border-color: #dedede;
+  box-shadow: none;
+  padding: 5px 10px;
+  width: 100%;
+}
+
+.ml-form-fieldRow button {
+  background-color: var(--color-primary);
+  color: var(--color-light);
+  cursor: pointer;
+  border-radius: 3px;
+  height: 50px;
+  padding: 5px 10px;
+  width: 100%;
+}
+
+.ml-form-fieldRow button:hover {
+  background-color: var(--color-primary-darker);
+}
+
+@media (min-width: 545px) {
+  .ml-form-fieldRow {
+    margin-right: 20px;
+  }
+
+  .ml-form-fieldRow:last-child {
+    margin: 0;
+}
 }

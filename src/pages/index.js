@@ -4,7 +4,6 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { MailerLiteForm } from "../components/mailerlite"
 
 function IndexLink({ title, slug }) {
   return (
@@ -37,10 +36,6 @@ const BlogIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title="Strona główna" />
-
-      <div style={{display: 'none'}}>
-        <MailerLiteForm />
-      </div>
 
       <p>
         Heja! 👋
