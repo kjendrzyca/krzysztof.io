@@ -5,8 +5,8 @@ const FormId = 'f0v8u0'
 
 export const MailerLiteSuccessFunctionScript = `
   function ml_webform_success_${WrapperId}() {
-    document.getElementsByClassName('.row-success')[0].style.display = 'block';
-    document.getElementsByClassName('.row-form')[0].style.display = 'none';
+    document.getElementsByClassName('row-success')[0].style.display = 'block';
+    document.getElementsByClassName('row-form')[0].style.display = 'none';
   }
 `
 
