@@ -77,8 +77,12 @@ const BlogIndex = ({ data, location }) => {
         />
       </ul>
 
-      <h3>Notatki z książek i artykułów</h3>
+      <h3>Notatki z książek, artykułów i podcastów</h3>
       <ul>
+        <IndexLink
+          title="The Building a Second Brain Podcast"
+          slug="basb-podcast"
+        />
         <IndexLink
           title="How to Win Friends and Influence People"
           slug="how-to-win-friends-and-influence-people"
