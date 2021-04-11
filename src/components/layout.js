@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 import CookieConsent from 'react-cookie-consent'
-import Subscribe from '../components/subscribe'
+// import Subscribe from '../components/subscribe'
 
 const Layout = ({ location, title, children }) => {
   // eslint-disable-next-line no-undef
@@ -18,7 +18,7 @@ const Layout = ({ location, title, children }) => {
       </header>
       <main>{children}</main>
       <footer>
-        <Subscribe />
+        {/* <Subscribe /> */}
         <div className="footer-bottom">
           <div>
             © {new Date().getFullYear()}, Built with
