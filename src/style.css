@@ -362,6 +362,7 @@ input, button {
 /* Subscribe form */
 
 .subscribe-form {
+  display: none;
   margin-top: var(--spacing-12);
 }
 
