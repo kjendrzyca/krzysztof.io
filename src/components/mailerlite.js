@@ -93,7 +93,9 @@ export const MailerLiteForm = () => {
             <div className="ml-form-successBody row-success" style={{display: 'none'}}>
               <div className="ml-form-successContent">
                 <h4>Poszło 👍</h4>
-                <p>Sprawdź swoją skrzynkę, żeby potwierdzić zapisanie się do newslettera.</p>
+                <p>Dostaniesz za chwilę email, w którym musisz potwierdzić zapisanie się do newslettera. Tylko wtedy będziesz dostawać kolejne wiadomości.</p>
+                <p>Polecam dodać adres <strong>krzysztof@krzysztof.io</strong> do swojej listy kontaktów, żeby upewnić się, że wiadomości zawsze będą docierać.</p>
+                <p>Do zobaczenia!</p>
               </div>
             </div>
 
