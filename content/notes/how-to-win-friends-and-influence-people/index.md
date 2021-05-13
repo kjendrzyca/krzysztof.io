@@ -2,6 +2,7 @@
 title: 'How to Win Friends and Influence People'
 date: '2020-11-26'
 description: ''
+published: true
 ---
 
 Źródło: [https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)

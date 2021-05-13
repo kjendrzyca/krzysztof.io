@@ -88,14 +88,6 @@ const BlogIndex = ({ data, location }) => {
           title="How to Win Friends and Influence People"
           slug="how-to-win-friends-and-influence-people"
         />
-        <IndexLink
-          title="The Cook and the Chef: Musk’s Secret Sauce"
-          slug="the-cook-and-the-chef"
-        />
-        <IndexLink
-          title="Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future"
-          slug="elon-musk-ashlee-vance"
-        />
       </ul>
     </Layout>
   )

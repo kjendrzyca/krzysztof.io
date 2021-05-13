@@ -1,6 +1,7 @@
 ---
 title: 'Jak zbudowałem swój Second Brain'
 date: '2021-02-01'
+published: true
 ---
 
 W 2020, kiedy zacząłem pisać bloga [skutecznyprogramista.pl](https://skutecznyprogramista.pl), mój system robienia notatek, który ewoluował razem ze mną od 2013 roku, przestał robić robotę.

@@ -1,6 +1,7 @@
 ---
 title: 'The Building a Second Brain Podcast'
 date: '2021-02-01'
+published: true
 ---
 
 Źródło: [https://fortelabs.co/blog/basbpodcast/](https://fortelabs.co/blog/basbpodcast/)

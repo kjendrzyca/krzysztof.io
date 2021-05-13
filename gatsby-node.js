@@ -12,7 +12,10 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     `
       {
         allMarkdownRemark(
-          filter: {fileAbsolutePath: {regex: "/blog/"  }}
+          filter: {
+            fileAbsolutePath: {regex: "/blog/"}
+            frontmatter: {published: {ne: false}}
+          }
           sort: { fields: [frontmatter___date], order: ASC }
           limit: 1000
         ) {
@@ -20,6 +23,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
             id
             fields {
               slug
+              published
             }
           }
         }
@@ -30,7 +34,9 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     `
       {
         allMarkdownRemark(
-          filter: {fileAbsolutePath: {regex: "/note/"  }}
+          filter: {fileAbsolutePath: {regex: "/note/"}
+          frontmatter: {published: {ne: false}}
+        }
           sort: { fields: [frontmatter___date], order: ASC }
           limit: 1000
         ) {
@@ -38,6 +44,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
             id
             fields {
               slug
+              published
             }
           }
         }
@@ -120,6 +127,12 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       node,
       value,
     })
+
+    createNodeField({
+      name: `published`,
+      node,
+      value: node.frontmatter.published,
+    })
   }
 }
 
@@ -157,10 +170,12 @@ exports.createSchemaCustomization = ({ actions }) => {
       title: String
       description: String
       date: Date @dateformat
+      published: Boolean
     }
 
     type Fields {
       slug: String
+      published: Boolean
     }
   `)
 }

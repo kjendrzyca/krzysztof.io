@@ -1,6 +1,7 @@
 ---
 title: 'Rób swoje'
 date: '2020-11-27'
+published: true
 ---
 
 Domyślnym trybem człowieka, jest przejmować się zbyt wieloma rzeczami.
