@@ -20,7 +20,7 @@ I z czasem staje się to niesamowicie męczące.
 
 Zdecydowanie bardziej wolę opierać relacje na szczerości i konstruktywnym konflikcie. Jest to początkowo trudniejsza ścieżka, ale opiera się wspólnym dążeniu do rozwiązania problemu. Zamiast maskować problem, rozwiązujemy go u źródła, bo inaczej się nie da, gdy wszystkie brudy wyjdą na wierzch. Jest też wtedy znacznie łatwiej znaleźć rozwiązanie i przy okazji oczyścić atmosferę.
 
-Dlatego podjąłem decyzję, że korzystam z tych notatek tylko w dwóch przypadkach:
+Dlatego korzystam z opisanych tutaj metod przeważnie w dwóch przypadkach:
 
 1. W podbramkowych sytuacjach krytycznych, gdy naprawdę nie potrafię sobie z kimś poradzić.
 2. W celu zbudowania zaufania, które jest niezbędne do konstruktywnego konfliktu.
@@ -29,7 +29,7 @@ Patrick Lencioni w książce [The Five Dysfunctions of a Team](https://www.goodr
 
 Bez zaufania, konflikt przeradza się w mało konstruktywną wojnę, ludzie się obrażają, a atmosfera robi się gęsta. Byłem tego świadkiem zbyt wiele razy.
 
-Dlatego, żeby zbudować zaufanie, możemy skorzystać z taktyk przedstawionych w "How to Win Friends...". Choć wspólne wyjście na piwo też działa bardzo dobrze.
+Dlatego, żeby zbudować zaufanie, możemy skorzystać z taktyk przedstawionych w "How to Win Friends...". Choć wspólne wyjście na piwo też dobrze działa.
 
 ## Notatki
 

@@ -54,7 +54,7 @@ const BlogIndex = ({ data, location }) => {
 
       <blockquote>
         <p>
-          An idea kept private is as good as one you never had. And a fact no one can reproduce is no fact at all. Making something public always means to write it down so it can be read. There is no such thing as a history of unwritten ideas.{' '}
+          An idea kept private is as good as one you never had. And a fact no one can reproduce is no fact at all. Making something public always means to write it down so it can be read.{' '}
           <a href="https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes">~Sönke Ahrens</a>
         </p>
       </blockquote>
