@@ -11,6 +11,8 @@ import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 import { MailerLiteScriptSrc, MailerLiteSuccessFunctionScript } from '../components/mailerlite'
 
+const logoSrc = '/bear.svg'
+
 const SEO = ({ description, lang, meta, title }) => {
   const { site } = useStaticQuery(
     graphql`
@@ -22,6 +24,7 @@ const SEO = ({ description, lang, meta, title }) => {
             social {
               twitter
             }
+            siteUrl
           }
         }
       }
@@ -30,6 +33,8 @@ const SEO = ({ description, lang, meta, title }) => {
 
   const metaDescription = description || site.siteMetadata.description
   const defaultTitle = site.siteMetadata?.title
+  const siteUrl = site.siteMetadata.siteUrl
+  const bannerAbsoluteUrl = `${siteUrl}${logoSrc}`
 
   return (
     <Helmet
@@ -70,6 +75,10 @@ const SEO = ({ description, lang, meta, title }) => {
         {
           name: `twitter:description`,
           content: metaDescription,
+        },
+        {
+          property: `og:image`,
+          content: bannerAbsoluteUrl,
         },
         {
           name: "google-site-verification",
