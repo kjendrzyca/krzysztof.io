@@ -81,6 +81,10 @@ const BlogIndex = ({ data, location }) => {
       <h3>Notatki z książek, artykułów i podcastów</h3>
       <ul>
         <IndexLink
+          title="Live: Płatne newslettery w Polsce - Mirek Burnejko"
+          slug="platne-newslettery-w-polsce"
+        />
+        <IndexLink
           title="The Building a Second Brain Podcast"
           slug="basb-podcast"
         />
