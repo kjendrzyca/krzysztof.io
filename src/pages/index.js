@@ -41,15 +41,13 @@ const BlogIndex = ({ data, location }) => {
         Heja! 👋
       </p>
       <p>
-        Nazywam się Krzysztof Jendrzyca. Zawodowo jestem programistą, a po godzinach prowadzę stronę <a href="https://skutecznyprogramista.pl">skutecznyprogramista.pl</a>, gdzie dokumentuję swoją drogę w IT.
+        Nazywam się Krzysztof Jendrzyca. Zawodowo jestem programistą i prowadzę stronę <a href="https://skutecznyprogramista.pl">skutecznyprogramista.pl</a>.
       </p>
 
       <p>
-        Obecnie staram się zrozumieć jak budować rzeczy w internecie w nienachalny i transparentny sposób.
-      </p>
-
-      <p>
-        Ta strona to moje miejsce do myślenia, <a href="https://www.swyx.io/learn-in-public/">uczenia się na głos</a> i skracania pętli feedbackowej. Znajdziesz tutaj moje obserwacje i notatki.
+        Ta <a href="https://joelhooks.com/digital-garden">strona</a> to moje miejsce do myślenia, <a href="https://www.swyx.io/learn-in-public/">uczenia się na głos</a> i skracania pętli feedbackowej.{' '}
+        Znajdziesz tutaj moje obserwacje i notatki na tematy, które obecnie mnie interesują,{' '}
+        m.in. jak być sobą i robić to dobrze, tworzenie treści, tworzenie produktów, praca w IT, technologie webowe (React, Node).
       </p>
 
       <blockquote>
