@@ -175,3 +175,40 @@ Mirek tworzy nowy kurs na temat budowania płatnych newsletterów w Polsce. Z te
     - 1. live - rzeczy do zrobienia
     - 2. nauka z lekcji
     - 3. live - podsumowanie i zadanie do zrobienia
+
+## Kilka przemyśleń
+
+To jest na pewno świetny model biznesowy i wszyscy pewnie teraz zaczną robić płatne newslettery tak, jak teraz robią kursy.
+
+95 tys. z newslettera od stycznia (tyle zarobił Mirek) - dobra statystyka, przydatna dla osób, które mają publiczność, zanim zaczną robić newsletter.
+
+### "Leczenie rynku"
+
+Jednym z argumentów, który ma przemawiać za płatnymi newsletterami, jest to, że ludziom przejadły się darmowe newslettery, że "zeszły na psy, bo wszyscy teraz tylko sprzedają", a robiąc płatny newsletter, w jakiś sposób "leczysz rynek".
+
+Przyznam, że nie do końca zrozumiałem, o co chodzi z "leczeniem rynku", ale wg mnie sprawa wygląda tak:
+
+"Darmowe" newslettery dalej są wartościowe, jeśli twórca się do nich przyłoży i nie ma znaczenia, że coś sprzedają. Wiem, bo jestem do kilku zapisany.
+
+Jeśli komuś przejadły się "darmowe" newslettery, to najprawopodobniej znaczy, że subskrybuje złe miejsca. Ja z moich jestem zadowolony. Gdy coś mi się nie podoba, to się wypisuję (a potem często zapisuję na nowo, gdy potrzebuję).
+
+Piszę "darmowe" w cudzysłowie, bo żaden newsletter nie jest naprawdę darmowy. Ostatecznym celem każdego jest zachęcenie do zakupu jakiegoś produktu. (Pewnie można spotkać altruistów, ale jeszcze takich nie spotkałem i nie zamierzam szukać).
+
+Nie widzę tutaj (na razie) miejsca na romantyczne wizje typu "leczysz rynek". Dla mnie to jest po prostu biznes, jak każdy inny, ale ma oczywistą zaletę:
+  - Płatny newsletter jest produktem sam w sobie, więc płatność nie jest odroczona w czasie.
+  - Dzięki temu od samego początku masz zasoby i mega zachętę do tego, żeby podpimpować swój newsletter o dodatkowe materiały, linki i inne bonusy. Cała energia skupiona jest na newsletterze, czyli na produkcie, który pojawia się teraz, a nie później.
+  - Większość podanych w livie przykładów opisywała dokładnie to - twórcy dawali coś ekstra od samego początku.
+  - To tak jakby budować kurs online na żywo - pisząc maile.
+  - Dzięki temu wartość samego maila się zwiększa i jest on lepszy od "darmowego" newslettera, bo tam płatność, a tym samym dodatkowe materiały i bonusy, są odroczone w czasie i możesz ich nigdy nie dostać, jeśli nie kupisz finalnego produktu.
+
+I na koniec: Nauczyłem się, że jeśli moją jedyną zachętą do pisania dobrych treści (albo robienia czegokolwiek) byłoby to, żeby ktoś mi za to zapłaci, to robię coś fundamentalnie źle na wielu poziomach i będę się z tym ekstremalnie źle czuł.
+
+Choć wiem też, że jest to ścieżka gorzej płatna i pewnie wiele osób po przeczytaniu takich opinii jak moja ociera sobie łzy kasą zarobioną za robienie czegoś tylko ze względu na pieniądze. Życie.
+
+### Sprzedaż newslettera
+
+Czyli innymi słowy "sprzedaż listy mailowej". Czyli coś, co dla mnie jest nieetyczne, ale dla osób, które robią to dla kasy, jest kopalnią złota.
+
+Każdy zawsze przestrzega, żeby nie kupować listy mailowej i z tego, co wiem, poza firmami, które chcą przeskoczyć kilka kroków dalej, nikt tego nie robi. Wchodzenie w biznes sprzedaży brzmi jak wejście w bardzo szarą strefę, ale pewnie ktoś potrafiłby znaleźć plusy takiego rozwiązania.
+
+Skoro jedynym celem takiego newslettera jest budować, żeby sprzedać, to zalatuje tu mocno brakiem szacunku do klienta. Takie rzeczy powodują potem, że "newslettery schodzą na psy", bo twórcom brakuje personalnego przywiązania do odbiorców.
