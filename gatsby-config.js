@@ -5,7 +5,7 @@ module.exports = {
       name: `Krzysztof Jendrzyca`,
       summary: ``,
     },
-    description: ``,
+    description: `Artykuły i notatki na temat tworzenia treści, tworzenia produktów, pracy w IT, technologii webowych (React, Node) oraz tego jak być sobą i robić to dobrze.`,
     siteUrl: `https://krzysztof.io`,
     social: {
       social: `kjendrzyca`,
@@ -73,7 +73,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/bear.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
