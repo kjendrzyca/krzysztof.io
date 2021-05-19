@@ -13,7 +13,7 @@ import { MailerLiteScriptSrc, MailerLiteSuccessFunctionScript } from '../compone
 
 import logoSrc from '../../content/assets/bear.png'
 
-const SEO = ({ description, lang, meta, title }) => {
+const SEO = ({ description, lang, meta, title, slug }) => {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -35,6 +35,7 @@ const SEO = ({ description, lang, meta, title }) => {
   const defaultTitle = site.siteMetadata?.title
   const siteUrl = site.siteMetadata.siteUrl
   const bannerAbsoluteUrl = `${siteUrl}${logoSrc}`
+  const postUrl = slug ? `${site.siteMetadata.siteUrl}${slug}` : site.siteMetadata.siteUrl
 
   return (
     <Helmet
@@ -63,6 +64,10 @@ const SEO = ({ description, lang, meta, title }) => {
         {
           property: `og:image`,
           content: bannerAbsoluteUrl,
+        },
+        {
+          property: `og:url`,
+          content: postUrl,
         },
         {
           name: `twitter:card`,
@@ -98,6 +103,7 @@ SEO.defaultProps = {
   lang: `pl`,
   meta: [],
   description: ``,
+  slug: null,
 }
 
 SEO.propTypes = {
@@ -105,6 +111,7 @@ SEO.propTypes = {
   lang: PropTypes.string,
   meta: PropTypes.arrayOf(PropTypes.object),
   title: PropTypes.string.isRequired,
+  slug: PropTypes.string,
 }
 
 export default SEO

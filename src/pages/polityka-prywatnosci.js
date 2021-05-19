@@ -133,7 +133,7 @@ const PolitykaPrywatnosciPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="Polityka Prywatności" />
+      <SEO title="Polityka Prywatności" slug="/polityka-prywatnosci" />
       <Markdown children={md} />
     </Layout>
   )
