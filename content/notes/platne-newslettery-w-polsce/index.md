@@ -166,7 +166,7 @@ Mirek tworzy nowy kurs na temat budowania płatnych newsletterów w Polsce. Z te
     - mailingr.com
     - easytools.pl EasyCart
       - Wkrótce otwarcie.
-      - Działa super, bo można podać NIP i od razu działa jako faktura na firmę.
+      - Działa super, bo kupujący może podać NIP i od razu tworzona jest faktura na firmę.
     - System poleceń https://sparkloop.app/
 
 ## Bonus
