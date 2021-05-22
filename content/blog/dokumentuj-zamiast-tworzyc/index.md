@@ -64,7 +64,7 @@ Działam zgodnie z myślą: **Jeśli wiesz więcej o Star Treku niż inni, to za
 
 Gary poleca tę taktykę głównie tym, którzy dopiero zaczynają, ale myślę, że działa ona niezależnie od stażu. I mam wielką nadzieję, że tak jest, bo dzięki temu pisanie jest łatwiejsze i znacznie bardziej szczere.
 
-## Źródła
+--
 
 - https://www.garyvaynerchuk.com/creating-content-that-builds-your-personal-brand/
 - https://www.youtube.com/watch?v=txHGjGeVhrE
