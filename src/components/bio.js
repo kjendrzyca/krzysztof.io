@@ -26,7 +26,7 @@ const Bio = () => {
             summary
           }
           social {
-            twitter
+            social
           }
         }
       }
@@ -55,7 +55,7 @@ const Bio = () => {
         <p>
           Autor: <strong>{author.name}</strong> {author?.summary || null}
           <br />
-          Twitter: <a href={`https://twitter.com/${social?.twitter || ``}`}>
+          Twitter: <a href={`https://twitter.com/${social?.social || ``}`}>
             @kjendrzyca
           </a>
         </p>

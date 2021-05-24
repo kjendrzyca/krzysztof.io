@@ -3,12 +3,15 @@ import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import ShareButtons from "../components/shareButtons"
 
 const BlogPostTemplate = ({ data, location, pageContext }) => {
   const { contentPath } = pageContext
   const post = data.markdownRemark
   const { slug } = post.fields
-  const siteTitle = data.site.siteMetadata?.title || `Title`
+  const siteUrl = data.site.siteMetadata.siteUrl
+  const siteTitle = data.site.siteMetadata?.title || siteUrl
+  const social = data.site.siteMetadata.social.social
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -44,6 +47,11 @@ const BlogPostTemplate = ({ data, location, pageContext }) => {
           </p>
         </footer>
       </article>
+      <ShareButtons
+         url={`${siteUrl}${slug}`}
+         title={post.frontmatter.title}
+         socialHandle={social}
+      />
     </Layout>
   )
 }
@@ -59,6 +67,10 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        siteUrl
+        social {
+          social
+        }
       }
     }
     markdownRemark(id: { eq: $id }) {
