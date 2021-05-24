@@ -44,7 +44,7 @@ Na szczęście dokumentowanie pozwala pozbyć się wszystkich "musisz" i "powini
 Prosty przykład:
 
 - "7 rzeczy, które *musisz* wiedzieć o TDD". 👎
-- "7 rzeczy, które *pomagają mi* pisać lepsze testy w stylu TDD". 👍
+- "7 rzeczy, które *pomagają mi* pisać lepsze testy techniką TDD". 👍
 
 ## Działanie zamiast rozmyślania
 
