@@ -12,7 +12,7 @@ Poza samymi wpisami muszę pisać newsletter, content na social media, scenarius
 
 Stało się dla mnie jasne, że mój system musi przejść kolejną (r)ewolucję. Miałem szczęście, bo 2020 to rok, w którym popularna stała się aplikacja do zarządzania wiedzą [Notion](https://www.notion.so/), a wraz z nią system PARA, który jest częścią metodyki "Second Brain".
 
-Autorem Second Brain jest Tiago Forte. Jego brackground w UX Designie i produktywności pomógł mu stworzyć system do zarządzania wiedzą, który mocno opiera się na tym, jak działa umysł człowieka, a przez to jest niesamowicie efektywny.
+Autorem Second Brain jest Tiago Forte. Jego background w UX Designie i produktywności pomógł mu stworzyć system do zarządzania wiedzą, który mocno opiera się na tym, jak działa umysł człowieka, a przez to jest niesamowicie efektywny.
 
 Żeby poznać Second Brain, można wziąć udział w [kursie online](buildingasecondbrain.com).
 
