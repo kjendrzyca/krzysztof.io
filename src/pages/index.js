@@ -67,6 +67,10 @@ const BlogIndex = ({ data, location }) => {
       <h3>Wybrane wpisy</h3>
       <ul>
         <IndexLink
+          title="Skup się na procesie, a nie na wynikach"
+          slug="proces"
+        />
+        <IndexLink
           title="Dokumentuj zamiast tworzyć"
           slug="dokumentuj-zamiast-tworzyc"
         />
