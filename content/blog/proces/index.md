@@ -7,7 +7,7 @@ description: 'Dlaczego powinienem skupiać się na dobrym wykonywaniu tego, co 
 
 Jedna z najważniejszych rzeczy, którą cały czas ćwiczę:
 
-Skup się na procesie, a nie na wynikach.
+Skupianie się na procesie, a nie na wynikach.
 
 Nie powinienem uzależniać swojej wartości od efektów swojej pracy.
 
