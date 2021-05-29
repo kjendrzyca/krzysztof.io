@@ -7,17 +7,16 @@ const ShareButtons = ({url, title, socialHandle}) => {
     <div className="share-buttons-container">
       <Bear />
       <h2>
-        <span>Jeśli spodobał Ci się ten wpis,to będę wdzięczny, jeśli <span className="click-it">klikniesz w jeden z poniższych linków</span> i podzielisz się nim w social mediach: <br /></span>
+        <span>Jeśli spodobał Ci się ten wpis, to będę wdzięczny, jeśli podzielisz się nim w social mediach, <span className="click-it">klikając w jeden z poniższych linków</span>: <br /></span>
 
         <span className="share-buttons">
-          {`na `}
           <TwitterShareButton
             className='share-button'
             url={url}
             title={title}
             via={socialHandle}
           >
-            Twitterze
+            Twitter
           </TwitterShareButton>
 
           {', '}
@@ -27,7 +26,7 @@ const ShareButtons = ({url, title, socialHandle}) => {
             url={url}
             quote={title}
           >
-            Facebooku
+            Facebook
           </FacebookShareButton>
 
           {' lub '}
@@ -37,7 +36,7 @@ const ShareButtons = ({url, title, socialHandle}) => {
             url={url}
             title={title}
           >
-            LinkedInie
+            LinkedIn
           </LinkedinShareButton>
 
           {'.'}
