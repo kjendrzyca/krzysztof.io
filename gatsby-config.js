@@ -33,6 +33,7 @@ module.exports = {
         name: `assets`,
       },
     },
+    `gatsby-plugin-use-dark-mode`,
     {
       resolve: `gatsby-transformer-remark`,
       options: {

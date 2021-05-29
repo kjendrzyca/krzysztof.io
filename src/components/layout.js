@@ -3,6 +3,7 @@ import { Link } from "gatsby"
 import CookieConsent from 'react-cookie-consent'
 import Subscribe from '../components/subscribe'
 import { GitHub, Instagram, Twitter } from "./Social"
+import ThemeToggler from "./ThemeToggler"
 
 const Layout = ({ location, title, children }) => {
   // eslint-disable-next-line no-undef
@@ -16,6 +17,7 @@ const Layout = ({ location, title, children }) => {
         <Link className="header-link-home" to="/">
           {title}
         </Link>
+        <ThemeToggler />
       </header>
       <main>{children}</main>
       <footer>
