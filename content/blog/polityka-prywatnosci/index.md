@@ -1,12 +1,9 @@
-import React from "react"
-import { graphql } from "gatsby"
-import Markdown from 'markdown-to-jsx'
-
-import Layout from "../components/layout"
-import SEO from "../components/seo"
-
-const md = `
-# Polityka prywatności
+---
+title: 'Polityka Prywatności'
+date: '2020-05-29'
+published: true
+description: 'Polityka Prywatności.'
+---
 
 Skoro trafiłeś na tę stronę, to znaczy, że ważne jest dla Ciebie bezpieczeństwo Twoich danych w Sieci. Wiedz, że dbam o odpowiednie
 traktowanie Twoich danych osobowych.
@@ -126,27 +123,3 @@ Wykorzystuję również cookies podmiotów zewnętrznych:
 ## Zmiana polityki bezpieczeństwa i plików cookies
 
 Zastrzegam sobie prawo do wprowadzania zmian w polityce prywatności. Zmiany będą wprowadzane jeśli będzie wymagać tego obowiązujące prawo lub ulegną zmianie warunki technologiczne funkcjonowania mojej strony internetowej. Aktualny tekst polityki prywatności oraz wersje archiwalne zawsze będą znajdować się na mojej stronie internetowej.
-`
-
-const PolitykaPrywatnosciPage = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata?.title
-
-  return (
-    <Layout location={location} title={siteTitle}>
-      <SEO title="Polityka Prywatności" slug="/polityka-prywatnosci" />
-      <Markdown children={md} />
-    </Layout>
-  )
-}
-
-export default PolitykaPrywatnosciPage
-
-export const pageQuery = graphql`
-  query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-  }
-`
