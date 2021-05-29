@@ -248,11 +248,18 @@ input, button {
 /* Custom classes */
 
 .footer-bottom {
+  padding-top: var(--spacing-16);
+}
+
+.footer-bottom-container {
   font-size: var(--fontSize-0);
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  padding-top: var(--spacing-16);
+}
+
+.footer-bottom-container a {
+  margin-right: 10px;
 }
 
 .global-wrapper {

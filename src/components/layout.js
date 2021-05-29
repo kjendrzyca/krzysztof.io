@@ -19,14 +19,15 @@ const Layout = ({ location, title, children }) => {
       <main>{children}</main>
       <footer>
         <Subscribe />
-        <div className="footer-bottom">
+        <div className="footer-bottom footer-bottom-container">
           <div>
             © {new Date().getFullYear()}, Built with
             {` `}
             <a href="https://www.gatsbyjs.com">Gatsby</a>
           </div>
-          <div>
-            <Link to="/polityka-prywatnosci">Polityka prywatności</Link>
+          <div className="footer-bottom-container">
+            <Link to="/narzedzia/">Narzędzia</Link>
+            <Link to="/polityka-prywatnosci/">Polityka prywatności</Link>
           </div>
         </div>
       </footer>
