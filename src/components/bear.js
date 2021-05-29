@@ -12,7 +12,7 @@ const Bear = () => {
         Created by potrace 1.15, written by Peter Selinger 2001-2017
       </metadata>
       <g transform="translate(0.000000,1280.000000) scale(0.100000,-0.100000)"
-        fill="#de014c" stroke="none">
+        fill="var(--color-primary)" stroke="none">
         <path d="M2870 12785 c-25 -8 -96 -43 -157 -79 -182 -104 -264 -126 -475 -126
 -101 0 -123 3 -202 31 -69 24 -98 29 -131 24 -94 -14 -180 -102 -212 -216
 l-16 -56 -80 -34 c-118 -50 -181 -94 -280 -198 -97 -103 -127 -152 -127 -209
