@@ -8,7 +8,7 @@ description: 'Zestaw narzędzi, który wypracowałem sobie w ciągu wielu lat te
 ## Notatki:
 
 - https://workflowy.com/ (mój [Second Brain](/second-brain/))
-- https://evernote.com/ (na telefon)
+- https://evernote.com/ (inbox na telefonie)
 - https://www.notion.so/ (do multiplayera)
 - https://readwise.io/i/krzysztof49
 
