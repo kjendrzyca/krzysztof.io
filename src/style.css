@@ -249,6 +249,7 @@ input, button {
 
 .footer-bottom {
   padding-top: var(--spacing-16);
+  color: var(--color-text-light);
 }
 
 .footer-bottom-container {
@@ -256,10 +257,20 @@ input, button {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  align-items: center;
 }
 
-.footer-bottom-container a {
-  margin-right: 10px;
+.footer-links a {
+  margin-left: 10px;
+}
+
+.footer-bottom-container .footer-social-links a {
+  margin-left: 10px;
+  color: var(--color-accent);
+}
+
+.footer-bottom-container .footer-social-links a:hover {
+  color: var(--color-primary);
 }
 
 .global-wrapper {

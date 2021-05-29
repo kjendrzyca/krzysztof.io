@@ -2,6 +2,7 @@ import React from "react"
 import { Link } from "gatsby"
 import CookieConsent from 'react-cookie-consent'
 import Subscribe from '../components/subscribe'
+import { GitHub, Instagram, Twitter } from "./Social"
 
 const Layout = ({ location, title, children }) => {
   // eslint-disable-next-line no-undef
@@ -25,7 +26,12 @@ const Layout = ({ location, title, children }) => {
             {` `}
             <a href="https://www.gatsbyjs.com">Gatsby</a>
           </div>
-          <div className="footer-bottom-container">
+          <div className="footer-social-links">
+            <Twitter />
+            <Instagram />
+            <GitHub />
+          </div>
+          <div className="footer-bottom-container footer-links">
             <Link to="/narzedzia/">Narzędzia</Link>
             <Link to="/polityka-prywatnosci/">Polityka prywatności</Link>
           </div>
