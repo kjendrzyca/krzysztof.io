@@ -32,9 +32,10 @@ const BlogPostTemplate = ({ data, location, pageContext }) => {
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
         />
-        <hr />
         <footer>
           <p>
+            ---
+            <br />
             Ostatnia aktualizacja: {post.frontmatter.date}
             <br />
             <a

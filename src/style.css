@@ -416,13 +416,22 @@ button:focus {outline:0;}
   margin: var(--spacing-0) var(--spacing-0) var(--spacing-4) var(--spacing-0);
 }
 
+.blog-post footer {
+  text-align: right;
+}
+
 .blog-post footer > p {
   color: var(--color-text-light);
   font-family: var(--font-heading);
+  font-size: var(--fontSize-0);
 }
 
-.blog-post footer {
-  text-align: right;
+.blog-post footer a {
+  color: var(--color-text-light);
+}
+
+.blog-post footer a:hover {
+  color: var(--color-primary);
 }
 
 .blog-post-nav ul {
