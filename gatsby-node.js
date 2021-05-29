@@ -171,6 +171,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       description: String
       date: Date @dateformat
       published: Boolean
+      shareButtons: Boolean
     }
 
     type Fields {

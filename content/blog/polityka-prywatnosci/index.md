@@ -3,6 +3,7 @@ title: 'Polityka Prywatności'
 date: '2020-05-29'
 published: true
 description: 'Polityka Prywatności.'
+shareButtons: false
 ---
 
 Skoro trafiłeś na tę stronę, to znaczy, że ważne jest dla Ciebie bezpieczeństwo Twoich danych w Sieci. Wiedz, że dbam o odpowiednie

@@ -47,11 +47,11 @@ const BlogPostTemplate = ({ data, location, pageContext }) => {
           </p>
         </footer>
       </article>
-      <ShareButtons
+      {post.frontmatter.shareButtons === false ? null : (<ShareButtons
          url={`${siteUrl}${slug}`}
          title={post.frontmatter.title}
          socialHandle={social}
-      />
+      />)}
     </Layout>
   )
 }
@@ -81,6 +81,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "YYYY-MM-DD")
         description
+        shareButtons
       }
       fields {
         slug
