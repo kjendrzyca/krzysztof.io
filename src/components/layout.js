@@ -20,7 +20,7 @@ const Layout = ({ location, title, children }) => {
       <main>{children}</main>
       <footer>
         <Subscribe />
-        <div className="footer-bottom footer-bottom-container">
+        <div className="footer-bottom">
           <div>
             © {new Date().getFullYear()}, Built with
             {` `}
@@ -31,7 +31,7 @@ const Layout = ({ location, title, children }) => {
             <Instagram />
             <GitHub />
           </div>
-          <div className="footer-bottom-container footer-links">
+          <div className="footer-links">
             <Link to="/narzedzia/">Narzędzia</Link>
             <Link to="/polityka-prywatnosci/">Polityka prywatności</Link>
           </div>
