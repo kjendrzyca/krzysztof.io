@@ -87,6 +87,10 @@ const BlogIndex = ({ data, location }) => {
       <h3>Notatki z książek, artykułów i podcastów</h3>
       <ul>
         <IndexLink
+          title="Company of One"
+          slug="company-of-one"
+        />
+        <IndexLink
           title="Live: Płatne newslettery w Polsce - Mirek Burnejko"
           slug="platne-newslettery-w-polsce"
         />
