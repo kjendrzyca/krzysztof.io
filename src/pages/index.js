@@ -5,10 +5,11 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-function IndexLink({ title, slug }) {
+function IndexLink({ title, slug, hot }) {
   return (
     <li>
       <Link to={slug} itemProp="url">
+        {hot ? <span role="img" aria-label="Nowy wpis">🔥 </span> : null}
         <span itemProp="headline">{title}</span>
       </Link>
     </li>
@@ -69,6 +70,7 @@ const BlogIndex = ({ data, location }) => {
         <IndexLink
           title="Skup się na procesie, a nie na wynikach"
           slug="proces"
+          hot
         />
         <IndexLink
           title="Dokumentuj zamiast tworzyć"
@@ -89,6 +91,7 @@ const BlogIndex = ({ data, location }) => {
         <IndexLink
           title="Company of One"
           slug="company-of-one"
+          hot
         />
         <IndexLink
           title="Live: Płatne newslettery w Polsce - Mirek Burnejko"
