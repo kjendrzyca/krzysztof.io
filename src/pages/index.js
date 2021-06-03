@@ -68,6 +68,11 @@ const BlogIndex = ({ data, location }) => {
       <h3>Wybrane wpisy</h3>
       <ul>
         <IndexLink
+          title="Ograniczam cytowanie"
+          slug="cytaty"
+          hot
+        />
+        <IndexLink
           title="Skup się na procesie, a nie na wynikach"
           slug="proces"
           hot
