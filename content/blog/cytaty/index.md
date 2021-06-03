@@ -5,7 +5,7 @@ published: true
 description: 'Dlaczego ograniczam cytowanie i skupiam się na tym, żeby kraść jak malarz.'
 ---
 
-Zamiast tego, zaczynam zamieniać pomysły oraz przemyślenia w coś swojego i mówić o nich własnymi słowami.
+Zamiast tego, skupiam się na tym, żeby zamieniać pomysły oraz przemyślenia w coś swojego i mówić o nich własnymi słowami.
 
 Wszystko stoi na barkach pracy wykonanej przez inne osoby w przeszłości. Wszystko jest remixem.
 
