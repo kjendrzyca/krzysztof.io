@@ -45,7 +45,7 @@ Mówię, co myślę, a nie co myślą inni. A gdy ktoś zapyta, to powiem, gdzie
 
 Spisywanie inforamcji po swojemu, to główna składowa mojego systemu do notatek już od długiego czasu.
 
-Gdy przerabiam czyjeś treści na swoje słowa, to **znacznie lepiej zapamiętuję informacje**.
+Gdy przerabiam [czyjeś treści na swoje słowa](/company-of-one/), to **znacznie lepiej zapamiętuję informacje**.
 
 To dlatego, że *opracowywanie* jest znacznie lepszą metodą nauki niż zwykłe *powtarzanie*. Są na to [badania](https://www.goodreads.com/book/show/18770267-make-it-stick), ale ja po prostu sprawdziłem, że to u mnie działa najlepiej.
 
