@@ -51,7 +51,7 @@ description: 'Zestaw narzędzi, który wypracowałem sobie w ciągu wielu lat te
 ## Frameworki, Libki, Platformy:
 
 - \#teamreact
-- https://www.gatsbyjs.com/ (wolnej chwili uciekam do https://nextjs.org/)
+- https://www.gatsbyjs.com/ (w wolnej chwili uciekam do https://nextjs.org/)
 - https://www.netlify.com/
 - https://www.mailerlite.com/invite/7ff80cb5801e5
 
