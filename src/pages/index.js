@@ -68,7 +68,7 @@ const BlogIndex = ({ data, location }) => {
       <h3>Wybrane wpisy</h3>
       <ul>
         <IndexLink
-          title="Ograniczam cytowanie"
+          title="Zamień to w coś swojego"
           slug="cytaty"
           hot
         />
@@ -99,7 +99,7 @@ const BlogIndex = ({ data, location }) => {
           hot
         />
         <IndexLink
-          title="Live: Płatne newslettery w Polsce - Mirek Burnejko"
+          title="Live: Płatne newslettery w Polsce"
           slug="platne-newslettery-w-polsce"
         />
         <IndexLink
