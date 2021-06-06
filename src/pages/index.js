@@ -69,7 +69,7 @@ const BlogIndex = ({ data, location }) => {
       <ul>
         <IndexLink
           title="Zamień to w coś swojego"
-          slug="cytaty"
+          slug="cos-swojego"
           hot
         />
         <IndexLink
