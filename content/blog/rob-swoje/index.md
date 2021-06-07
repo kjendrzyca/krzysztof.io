@@ -1,18 +1,16 @@
 ---
 title: 'Rób swoje'
-date: '2020-11-27'
+date: '2020-06-07'
 published: true
 ---
 
-Domyślnym trybem człowieka, jest przejmować się zbyt wieloma rzeczami.
+Domyślnym trybem wielu osób jest przejmować się zbyt wieloma rzeczami.
 
-Niektórzy, będą mieli szczęście i tak jak ja trafią przypadkiem na jakiś dobry self-helpowy blog, który pokaże im jak przestać przejmować się wszystkim dookoła. Innym zostanie to niestety do końca życia.
+Niektórzy, będą mieli szczęście i tak jak ja trafią przypadkiem na jakiś dobry self-helpowy blog, który pokaże im jak przestać przejmować się wszystkim dookoła. Innym zostanie to niestety do końca życia i nawet nie będą wiedzieć, że przejmując się, marnują olbrzymie zasoby energii oraz obniżają swój poziom szczęścia.
 
-Mnie początkowo bardzo pomógł blog [Marka Mansona](https://markmanson.net/), a potem książki o stoicyźmie.
+Mnie początkowo bardzo pomógł blog [Marka Mansona](https://markmanson.net/), a potem książki o stoicyźmie ([1](https://www.amazon.com/Guide-Good-Life-Ancient-Stoic-ebook/dp/B0040JHNQG/), [2](https://www.amazon.com/Daily-Stoic-Meditations-Wisdom-Perseverance-ebook/dp/B01HNJIJB2), [3](https://www.amazon.com/Letters-Stoic-Epistulae-Lucilium-Classics-ebook/dp/B002RI99KK/)).
 
 Nauczyłem się, że najlepiej jest **skupić na tym, nad czym mamy kontrolę** i zacząć powoli robić swoje.
-
-Swoją drogą ["The Subtle Art of Not Giving a F*ck"](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck/) od Mansona, to praktycznie stoicyzm z przekleństwami i humorem.
 
 Innym dobrym źródłem, jest artykuł [Paula Jarvisa](https://pjrvs.com/) - "Winning Life in 19 Super Difficult Steps".
 
@@ -37,3 +35,5 @@ Artykuł już nie istnieje w oryginalnej formie, ale zapisałem sobie jego głó
 1. Be honest about who you are and who you aren’t.
 1. You can be honest without being a jerk.
 1. The less you expect, the more accomplished you’ll feel.
+
+Te punkty przypominają mi, żeby nie przejmować się zbyt wieloma rzeczami i przestawić się w tryb dowożenia, które ma znacznie większe znaczenie niż opinie innych osób (oraz moje własne).
