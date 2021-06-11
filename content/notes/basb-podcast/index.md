@@ -109,8 +109,8 @@ published: true
 - But it changes if you think about concrete output.
 - A part can be something like an outline, an email.
 - But not "I spend 1h doing x".
-- Writing a book = Mount Olympus of knowledge work ;).
-- Tiago things about work in one intermediate packet at a given time.
+- Writing a book = Mount Olympus of knowledge work.
+- Tiago thinks about work in one intermediate packet at a given time.
 - Think about individual legos. Break everything down.
 - Tiago breaks everything into those small packets, groups them, makes them smaller.
 - **Break it to the level it can't possibly be intimidating and can't fail.**
