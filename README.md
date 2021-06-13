@@ -76,3 +76,7 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-blog)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+## TODOS
+
+- Add https://www.gatsbyjs.com/plugins/gatsby-remark-autolink-headers/
