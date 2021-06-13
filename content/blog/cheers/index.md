@@ -12,4 +12,4 @@ Wyślę do Ciebie pierwszy email, gdy już nazbiera mi się trochę osób na li�
 
 Pamiętaj, aby koniecznie dodać mój adres **krzysztof@krzysztof.io** do kontaktów.
 
-Dzięki temu moje treści na pewno do Ciebie dotrą i nie wylądują w sekcji **`/dev/null`** Twojej skrzynki mailowej (inaczej znane jako Oferty, Promotions i inne).
+Dzięki temu moje wiadomości na pewno do Ciebie dotrą i nie wylądują w sekcji **`/dev/null`** Twojej skrzynki mailowej (inaczej znane jako Oferty, Promotions i inne).
