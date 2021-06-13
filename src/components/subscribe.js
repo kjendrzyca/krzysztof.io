@@ -6,7 +6,10 @@ const Subscribe = () => {
     <div className="subscribe-form">
       <div>
         <h2>📰 Newsletter</h2>
-        <p>Jeśli chcesz pogadać i/lub od czasu do czasu dostać ode mnie wiadomość z nowym artykułem i aktualnymi przemyśleniami, to zostaw swój e-mail.</p>
+        <p>
+          Jeśli chcesz pogadać i/lub od czasu do czasu dostać ode mnie informacje{' '}
+          o nowych wpisach, ewentualnych projektach,{' '}
+          których się podejmuję oraz o postępach pracy nad sobą, to zostaw tutaj swój e-mail.</p>
       </div>
       <MailerLiteForm />
     </div>
