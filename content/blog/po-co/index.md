@@ -120,7 +120,7 @@ Zastanawiam się, czy nie jestem zbyt zmęczony tą branżą, która często prz
 
 (Przy okazji dowiedziałem się, nie tylko mnie męczą problemy z ludźmi, ale też wielu znajomych, którzy znaleźli się w podobnej roli, co ja. Tym, którym udało się znaleźć w takim miejscu, gdzie mają balans, jest względnie dobrze).
 
-Nie wiem też, czy powinienem teraz założyć własną firmę lub może zostać freelancerem, żeby unikać takich problemów i pracować na własnych zasadach (co też nie jest tak proste, jak się mówi), czy może np. prowadzić szkolenia, które zawsze przynosiły mi frajdę i zawsze mi wychodziły.
+Nie wiem też, czy powinienem teraz założyć własną firmę lub może zostać freelancerem, żeby unikać takich problemów i pracować na własnych zasadach (co też nie jest tak proste, jak się mówi i wydaje się naiwne), czy może np. prowadzić szkolenia, które zawsze przynosiły mi frajdę i zawsze mi wychodziły.
 
 Nawet gdybym podjął decyzję, to nie mam jeszcze zielonego pojęcia, jak się za to zabrać i muszę się dopiero nauczyć, jak zdobyć wszystkie potrzebne umiejętności.
 
