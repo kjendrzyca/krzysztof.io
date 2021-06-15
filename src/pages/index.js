@@ -51,15 +51,12 @@ const BlogIndex = ({ data, location }) => {
       </p>
 
       <p>
-        Pierwszym z nich jest <a href="/po-co/">znalezienie interesujących rzeczy, nad którymi będę chciał pracować</a>.
+        Pierwszym z nich jest <Link to="po-co">znalezienie interesujących rzeczy, nad którymi będę chciał pracować</Link>.
       </p>
 
       <p>
         Znajdziesz też tutaj moje obserwacje i notatki na tematy, które obecnie mnie interesują,{' '}
         m.in. tworzenie treści i notatek, tworzenie produktów, produktywność, praca w IT, technologie webowe (React, Node).
-      </p>
-
-      <p>
       </p>
 
       <blockquote>
