@@ -18,9 +18,15 @@ Na papierze wygląda to, jak idealna sytuacja, która powinna spowodować, że b
 
 Gdy już nie miałem przed oczami celów, do których dążyłem przez ostatnie kilka lat, zauważyłem, że popełniłem kilka dużych błędów, które doprowadziły do tego, że **znalazłem się w miejscu, w którym nie wiem, co mam dalej ze sobą zrobić**.
 
-Przez kilka miesięcy próbowałem zrozumieć, co tak naprawdę się stało i przez długi czas odkładałem tę analizę. Ten wpis jest wynikiem moich rozmyślań.
+Nie za bardzo wiem, gdzie i nad czym pracować, z czym będę się dobrze czuł, w czym się chcę rozwijać i jakie są moje cele.
 
-*Ważne: winy doszukuję się widocznie w sobie i nie widzę powodów, żeby szukać jej gdzie indziej.*
+Od 2012 roku, kiedy związałem się zawodowo z programowaniem, zawsze wiedziałem, że chcę mieć dobrą pracę (i wiedziałem, co to znaczy), być dobry w tym, co robię i dostawać za to sensowne pieniądze. Czasem przez przypadek, a czasem wg planu, ale jednak przez cały czas wiedziałem, którymi drogami mogę dojść do obranego celu.
+
+A teraz, mimo sukcesów, które wg mojej własnej definicji są naprawdę ok, te drogi poznikały.
+
+Przez kilka miesięcy próbowałem zrozumieć, co tak naprawdę doprowadziło mnie do takiej sytuacji. Ten wpis jest wynikiem moich rozmyślań i próbą wytyczenia kolejnych kroków.
+
+*Disclaimer: winy doszukuję się widocznie w sobie i nie widzę powodów, żeby szukać jej gdzie indziej.*
 
 ## Zniechęcenie
 
@@ -72,7 +78,7 @@ Przez cały 2020 rok **nie dowiozłem praktycznie żadnego z zamierzonych celów
 
 Myślę, że to wtedy **zupełnie zwątpiłem w siebie, w to, co wiem i w swoje umiejętności.**
 
-**Popadłem w marazm i straciłem energię na robienie czegokolwiek.** Miałem problemy, żeby wstać rano z łóżka, bo wiedziałem, że i ten dzień najprawdopodobniej zakończy się porażką. Przez to, że wstawałem zbyt późno z łóżka, brakowało mi w ciągu dnia czasu na zrobienie czegokolwiek, więc następnego dnia znowu nie umiałem wcześnie wstać i tak w kółko. Wpadłem w martwą pętlę.
+**Popadłem w marazm i straciłem energię na robienie czegokolwiek.** Miałem problemy, żeby wstać rano z łóżka, bo wiedziałem, że i ten dzień najprawdopodobniej zakończy się porażką. Przez to, że wstawałem zbyt późno z łóżka, brakowało mi w ciągu dnia czasu na dowiezienie tego, co sobie zaplanowałem, więc następnego dnia znowu nie umiałem wcześnie wstać i tak w kółko. Wpadłem w martwą pętlę.
 
 Zacząłem słuchać innych osób i robić rzeczy tak, jak twierdzili, że trzeba je zrobić, **nie miałem chęci, żeby cokolwiek kwestionować.** Podświadomie czułem, że mój sposób pracy powinien wyglądać inaczej i czasem próbowałem coś z tym zrobić. Jednak koniec końców zawsze brakowało energii, żeby postawić na swoim (nawet nie miałem lepszych pomysłów).
 
@@ -96,7 +102,7 @@ W pewnym momencie zaczęło to pomagać, zacząłem widzieć światełko w tunel
 
 Pomogło na tyle, że w grudniu **postanowiłem wrócić do kodzenia (i tylko kodzenia) na 4/5 etatu**, w projekcie, który wyglądał na taki, w którym będę miał w końcu do czynienia z problemami biznesowymi i technicznymi.
 
-Wiele osób zinterpretowałoby, że ten projekt dokładnie na tym polega. Ja jednak nauczyłem się już niestety rozpoznawać, kiedy problemy techniczne są tak naprawdę zakamuflowanymi problemami z ludźmi. Tak też niestety było w tym przypadku. Znowu.
+Wiele osób zinterpretowałoby, że ten projekt dokładnie na tym polega. Ja jednak nauczyłem się już *niestety* rozpoznawać, kiedy problemy techniczne są tak naprawdę zakamuflowanymi problemami z ludźmi. Tak też niestety było w tym przypadku. Znowu.
 
 Wróciłem więc do punktu wyjścia i znowu nie robiłem tego, co planowałem.
 
@@ -130,17 +136,17 @@ Nawet gdybym podjął decyzję, to nie mam jeszcze zielonego pojęcia, jak się 
 
 ## Co dalej?
 
-Zdaję sobie sprawę, że gdybym tylko potrafił mieć wyjebane, to nie istniałby żaden z moich problemów. Ja **niestety nie umiem zmusić się do robienia rzeczy, które nie mają dla mnie sensu.**
+Zdaję sobie sprawę, że gdybym tylko potrafił przestać przejmować się kilkoma rzeczami, to nie istniałby żaden z moich problemów. Ja **niestety nie umiem zmusić się do robienia rzeczy, które nie mają dla mnie sensu.**
 
-(Jeśli potrzebujesz technicznego przykładu: ostatnim takim bezsensownym problemem było dorzucanie do zespołu małpek do kodzenia, których rolą było poprawianie gównokodziku lidera technicznego, bo nie potrafił programować w używanej przez nich technologii i dorzucanie nowych ficzerów łopatami, bo CEO twierdził, że projekt nie potrzebuje żadnego procesu, który pokazałby jakieś priorytety, czy coś).
+(Jeśli potrzebujesz prostego przykładu: ostatnim takim bezsensownym problemem z jakim się spotkałem było dorzucanie do zespołu małpek do kodzenia, których rolą było poprawianie gównokodziku lidera technicznego, bo nie potrafił programować w używanej przez nich technologii i dorzucanie nowych ficzerów łopatami, bo CEO twierdził, że projekt nie potrzebuje żadnego procesu, który pokazałby jakieś priorytety i rozłożył pracę w sensowny sposób).
 
 Obecnie jestem pewien jedynie tego, że chcę znaleźć odpowiedź na wszystkie najważniejsze pytania, które mnie dręczą, zamiast pracować na ślepo.
 
-Z tego powodu **skończyłem pod koniec marca pracować na etacie i skupiłem się na odpoczynku, a teraz będę próbował wymyślić, co ze sobą zrobić.**
+Z tego powodu **skończyłem pod koniec marca pracować na etacie (co było bardzo trudne, bo ludzie fajni) i skupiłem się na odpoczynku, a teraz będę próbował wymyślić, co ze sobą zrobić.**
 
 (Hint: granie przez miesiąc na konsoli, to nie odpoczynek. Dawno nic mnie tak nie zmęczyło 🤦‍♂️).
 
-Jeszcze do niedawna nie byłem do końca pewny, dlaczego rzuciłem etat i był to w głównie gut feeling, którego posłuchałem. Dopiero napisanie tego wpisu ułożyło mi tę historię w głowie, a i tak jest wiele szczegółów oraz powodów, które pominąłem.
+Jeszcze do niedawna nie byłem do końca pewien, dlaczego rzuciłem etat i był to w głównie gut feeling, którego posłuchałem. Dopiero napisanie tego wpisu ułożyło mi tę historię w głowie, a i tak jest wiele szczegółów oraz powodów, które pominąłem.
 
 Wydaje mi się, że chcę teraz zoptymalizować to, na czym spędzam swój czas i będzie to najprawdopodobniej pierwsza rzecz, którą zweryfikuję. Chcę, żeby znowu zaczął płynąć wolniej tak, jak płynął dla mnie w latach 2014-2016.
 
