@@ -47,8 +47,19 @@ const BlogIndex = ({ data, location }) => {
 
       <p>
         Ta <a href="https://joelhooks.com/digital-garden">strona</a> to moje miejsce do myślenia, <a href="https://www.swyx.io/learn-in-public/">uczenia się na głos</a> i skracania pętli feedbackowej.{' '}
-        Znajdziesz tutaj moje obserwacje i notatki na tematy, które obecnie mnie interesują,{' '}
-        m.in. jak być sobą i robić to dobrze, tworzenie treści, tworzenie produktów, praca w IT, technologie webowe (React, Node).
+        Jest to baza wypadowa wszystkich moich projektów.
+      </p>
+
+      <p>
+        Pierwszym z nich jest <a href="/po-co/">znalezienie interesujących rzeczy, nad którymi będę chciał pracować</a>.
+      </p>
+
+      <p>
+        Znajdziesz też tutaj moje obserwacje i notatki na tematy, które obecnie mnie interesują,{' '}
+        m.in. tworzenie treści i notatek, tworzenie produktów, produktywność, praca w IT, technologie webowe (React, Node).
+      </p>
+
+      <p>
       </p>
 
       <blockquote>
