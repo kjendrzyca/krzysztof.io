@@ -1,6 +1,6 @@
 ---
 title: 'Rób swoje'
-date: '2020-06-07'
+date: '2021-06-07'
 published: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Po co to wszystko?'
-date: '2020-06-13'
+date: '2021-06-13'
 published: true
 description: 'Podsumowanie kilku ostatnich miesięcy zastanawiania się nad tym, w którą stronę powinienem popchnąć swoją pracę i rozwój.'
 ---

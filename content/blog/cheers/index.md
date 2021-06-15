@@ -1,6 +1,6 @@
 ---
 title: 'Cheers 🖖'
-date: '2020-05-29'
+date: '2021-05-29'
 published: true
 description: 'Dzięki za dołączenie do listy!'
 shareButtons: false

@@ -1,6 +1,6 @@
 ---
 title: 'Dokumentuj zamiast tworzyć'
-date: '2020-05-19'
+date: '2021-05-19'
 published: true
 description: 'Taktyka i mindset, które pomagają szybko wystartować i tworzyć autentyczne treści w Internecie bez nadmiernego wysiłku.'
 ---
