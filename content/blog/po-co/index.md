@@ -136,7 +136,7 @@ Nawet gdybym podjął decyzję, to nie mam jeszcze zielonego pojęcia, jak się 
 
 ## Co dalej?
 
-Zdaję sobie sprawę, że gdybym tylko potrafił przestać przejmować się kilkoma rzeczami, to nie istniałby żaden z moich problemów. Ja **niestety nie umiem zmusić się do robienia rzeczy, które nie mają dla mnie sensu.**
+Zdaję sobie sprawę, że gdybym tylko potrafił przestać przejmować się kilkoma rzeczami, to nie istniałby żaden z moich problemów. Jednak **nie umiem się niestety zmusić się do robienia rzeczy, które nie mają dla mnie sensu.**
 
 (Jeśli potrzebujesz prostego przykładu: ostatnim takim bezsensownym problemem z jakim się spotkałem było dorzucanie do zespołu małpek do kodzenia, których rolą było poprawianie gównokodziku lidera technicznego, bo nie potrafił programować w używanej przez nich technologii i dorzucanie nowych ficzerów łopatami, bo CEO twierdził, że projekt nie potrzebuje żadnego procesu, który pokazałby jakieś priorytety i rozłożył pracę w sensowny sposób).
 
