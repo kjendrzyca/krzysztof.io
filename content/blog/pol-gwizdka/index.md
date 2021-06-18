@@ -32,18 +32,16 @@ Aktywności **A** poświęcam **80% dostępnego czasu i 40% dostępnej energii**
 
 Aktywności **B** poświęcam **20% dostępnego czasu i 60% dostępnej energii**.
 
-Podzieliłem to w taki sposób, bo przeważnie na mniej ważne, ciekawsze (lub po prostu nowsze) aktywności poświęcam mniej czasu i więcej energii, a na te ważniejsze, więcej czasu i mniej energii. U każdego może wyglądać to inaczej, ale nie ma to znaczenia.
+Podzieliłem to w taki sposób, bo przeważnie na mniej ważne, choć ciekawsze (lub po prostu nowsze) aktywności poświęcam *mniej czasu i więcej energii*, a na te ważniejsze, *więcej czasu i mniej energii*. U każdego może wyglądać to inaczej, ale nie ma to znaczenia.
 
 Znaczenie ma to, że finalnie **praca na "pół gwizdka" wygląda jak wynik mnożenia** tych dwóch procentów:
 
 - A: 80% czasu * 40% energii = **0.32**
 - B: 20% czasu * 60% energii = **0.12**
 
-Nad żadną z tych aktywności nie pracuję na pół gwizdka. Tylko na 0.32 i 0.12, które łącznie wynoszą **0.44 gwizdka**, które przeznaczam na obydwie rzeczy. **0.56 znika w eterze**.
+Nad żadną z tych aktywności nie pracuję na pół gwizdka. Tylko na 0.32 i 0.12, które łącznie wynoszą **0.44 gwizdka**. **0.56 znika w eterze**.
 
-Gdybym pozbył się aktywności A i włożył 100% czasu w aktywność B, to wystarczyłoby 44% energii, żeby osiągnąć te same wyniki. Reszta leży wolna.
-
-Mógłbym też poświęcić 100% energii i tę samą robotę w 44% czasu.
+Gdybym pozbył się jednej aktywności i włożył 100% czasu w drugą, to wystarczyłoby 44% energii, żeby osiągnąć te same wyniki. Mógłbym też poświęcić 100% energii i wykonać tę samą robotę w 44% czasu. Reszta leży wolna.
 
 *(Początkowo chciałem to równianie oprzeć o jakiś sprytny wzór z fizyki, ale tak naprawdę jest to opis moich odczuć, a fizyka nie opisuje odczuć, więc nie ma co się spinać na siłę).*
 
@@ -51,38 +49,42 @@ Mógłbym też poświęcić 100% energii i tę samą robotę w 44% czasu.
 
 Taki sposób myślenia o podziale czasu i energii, powoduje, że łatwiej mi zrozumieć negatywne następstwa pracy w ten sposób.
 
-**1. Nie dowożę wyników na takim poziomie, jakbym chciał, bo tak naprawdę, pracuję nad wszystkim na 25% (50% * 50% w idealnym świecie).**
+**1. Brak dowożenia wyników na takim poziomie, jakbym chciał.**
 
-Siłą rzeczy nie jestem w stanie zrobić niczego, co jest zgodne z moimi standardami i z czego byłbym zadowolony.
+Gdy pracuję nad wszystkim na "pół gwizdka" (czy to na 0.32, 0.12 lub 0.25), to siłą rzeczy nie jestem w stanie zrobić niczego, co jest zgodne z moimi standardami i z czego byłbym zadowolony.
 
 A to właśnie te rzeczy, którym poświęcam się na 100%, powodują, że jestem zadowolony ze swoich wyników. To te rzeczy są najlepsze, na jakie mnie stać.
 
-Praca 10X polega na tym, żeby pracować 10X mocniej, niż mi się wydaje, że powinienem, bo po drodze wyłoży się tyle rzeczy, że finalnie skończę na wyniku 1X, czyli na takim poziomie, jaki jest wystarczająco zadowalający. Czasem jednak, przy odrobinie szczęścia, trafi się 2X lub 3X.
+Praca [10X](https://www.goodreads.com/book/show/10339170-the-10x-rule) polega na tym, żeby pracować 10X mocniej, niż mi się wydaje, że powinienem, bo po drodze wyłoży się tyle rzeczy, że finalnie skończę na wyniku 1X, czyli na takim poziomie, jaki jest wystarczająco zadowalający. Czasem jednak, przy odrobinie szczęścia, trafi się 2X lub 3X.
 
-**2. Tracę "efekt wow".**
+**2. Utrata "efektu WOW".**
 
 Wierzę, że praca "na pełnej" powoduje, że ludzie chętnie z Tobą pracują, chcą za tę pracę dobrze płącić i nie chcą się z Tobą rozstawać.
 
 Praca na pół gwizdka powoduje, że działam na gorszym poziomie niż ktoś, kto po prostu siedzi i robi tylko to, co mu kazali.
 
-**3. Nie rozwijam się i wkraczam w stan stagnacji, a nawet cofania się w rozwoju.**
+Przestaję być spójny, bo nie robię tego, co powiedziałem, że zrobię. Inne rzeczy odwracają moją uwagę.
+
+**3. Stagnacja, brak lub nawet cofanie się w rozwoju.**
 
 Wynika to z tego, że nie poświęcam wystarczająco dużo energii na to, żeby każde zadanie czegoś mnie nauczyło.
 
-Działanie na "pół gwizdka" powoduje, że najciekawsze i najtrudniejsze zadania muszę wydelegować komuś innemu, kto może zrobić to "na pełnej". Sam wybieram sobie zadania, które wiem, jak zrobić, a [takie zadania nie rozwijają](https://skutecznyprogramista.pl/trudne-zadania/).
+Działanie na "pół gwizdka" powoduje, że najciekawsze i najtrudniejsze zadania muszę wydelegować komuś innemu, kto może zrobić to "na pełnej".
+
+Sam wybieram sobie zadania, które wiem, jak zrobić, bo nie zabierają mi zbyt dużo czasu i energii. Takie zadania nie rozwijają. Rozwijają te, które są [na granicy naszych kompetencji](https://skutecznyprogramista.pl/trudne-zadania/) i na które trzeba poświęcić czas i energię.
 
 ## Co w związku z tym?
 
 Po pierwsze, muszę pamiętać o tym, że czasem trafią się takie sytuacje, w których będę musiał pracować na "pół gwizdka".
 
-Powinienem wtedy zapytać samego siebie, czy to, co chcę zrobić, jest warte drastycznego obniżenia moich standardów. W większości przypadków najprawdopodobniej nie. Zastanowię się więc dwa razy nad dołożeniem sobie kolejnych rzeczy do zrobienia.
+Powinienem wtedy zapytać samego siebie, czy to, co chcę zrobić, jest warte drastycznego obniżenia moich standardów i związanych z tym kompromisów. W większości przypadków najprawdopodobniej nie. **Zastanowię się więc dwa razy nad dołożeniem sobie kolejnych rzeczy do zrobienia.**
 
-Po drugie, jednym z rozwiązań, które najbardziej do mnie przemawia, jest sekwencyjne układanie zadań, projektów i wszystkiego, za co się zabieram.
+Po drugie, jednym z rozwiązań, które najbardziej do mnie przemawia, jest **sekwencyjne układanie zadań, projektów i wszystkiego, za co się zabieram.**
 
 Zawsze mogę się zastanowić jak podzielić pracę na mniejsze części, a potem każdą z nich wykonywać jedna za drugą, pracując "na pełnej" i dając z siebie wszystko.
 
 Mogę traktować zadania i projekty jak klocki lego, które układam jeden za drugim, a które w końcu tworzą rozbudowaną, wartościową strukturę.
 
-Nie jest to może specjalnie odkrywcze, (pisali o tym m.in. [Brian Tracy](https://www.goodreads.com/book/show/95887.Eat_That_Frog_), [Cal Newport](https://www.goodreads.com/book/show/25744928-deep-work), czy [Nathan Barry](https://nathanbarry.com/seasons/)), ale za to bardzo trudne do osiągnięcia. Przynajmniej dla mnie 🤷‍♂️.
+Nie jest to może specjalnie odkrywcze, (pisali o tym m.in. [Brian Tracy](https://www.goodreads.com/book/show/95887.Eat_That_Frog_), [Cal Newport](https://www.goodreads.com/book/show/25744928-deep-work), czy [Nathan Barry](https://nathanbarry.com/seasons/)), ale za to trudne do osiągnięcia, bo wymaga eksperymentów, umiejętności określenia początku i końca każdego zadania oraz zrozumienia zależności nimi.
 
 Wydaje mi się jednak, że warto próbować i trenować pracę w taki sposób, bo dzięki temu mam szansę na odblokowanie pełnej przepustowości i dowiezienie rezultatów 1X, a przy odrobinie szczęścia, może nawet 2X lub 3X.
