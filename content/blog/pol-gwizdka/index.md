@@ -47,7 +47,7 @@ Gdybym pozbył się jednej aktywności i włożył 100% czasu w drugą, to wysta
 
 ## Następstwa pracy na "pół gwizdka"
 
-Taki sposób myślenia o podziale czasu i energii, powoduje, że łatwiej mi zrozumieć negatywne następstwa pracy w ten sposób.
+Taki sposób myślenia o podziale czasu i energii powoduje, że łatwiej mi zrozumieć negatywne następstwa pracy w ten sposób.
 
 **1. Brak dowożenia wyników na takim poziomie, jakbym chciał.**
 
@@ -85,6 +85,8 @@ Zawsze mogę się zastanowić jak podzielić pracę na mniejsze części, a pote
 
 Mogę traktować zadania i projekty jak klocki lego, które układam jeden za drugim, a które w końcu tworzą rozbudowaną, wartościową strukturę.
 
-Nie jest to może specjalnie odkrywcze, (pisali o tym m.in. [Brian Tracy](https://www.goodreads.com/book/show/95887.Eat_That_Frog_), [Cal Newport](https://www.goodreads.com/book/show/25744928-deep-work), czy [Nathan Barry](https://nathanbarry.com/seasons/)), ale za to trudne do osiągnięcia, bo wymaga eksperymentów, umiejętności określenia początku i końca każdego zadania oraz zrozumienia zależności nimi.
+Nie jest to może specjalnie odkrywcze, ale za to trudne do osiągnięcia, bo wymaga eksperymentów, umiejętności określenia początku i końca każdego zadania oraz zrozumienia zależności nimi.
+
+Pisali o tym m.in. [Brian Tracy](https://www.goodreads.com/book/show/95887.Eat_That_Frog_), [Cal Newport](https://www.goodreads.com/book/show/25744928-deep-work), czy [Nathan Barry](https://nathanbarry.com/seasons/). Jest to też [część metodologii Second Brain](https://ramses.blog/intermediate-packets/).
 
 Wydaje mi się jednak, że warto próbować i trenować pracę w taki sposób, bo dzięki temu mam szansę na odblokowanie pełnej przepustowości i dowiezienie rezultatów 1X, a przy odrobinie szczęścia, może nawet 2X lub 3X.
