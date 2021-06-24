@@ -114,9 +114,13 @@ const BlogIndex = ({ data, location }) => {
       <h3>Notatki z książek, artykułów i podcastów</h3>
       <ul>
         <IndexLink
+          title="Digital Minimalism"
+          slug="digital-minimalism"
+          hot
+        />
+        <IndexLink
           title="Company of One"
           slug="company-of-one"
-          hot
         />
         <IndexLink
           title="Live: Płatne newslettery w Polsce"
