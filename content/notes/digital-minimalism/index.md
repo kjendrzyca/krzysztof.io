@@ -5,7 +5,18 @@ published: true
 description: 'Cal Newport pokazuje w Digital Minimalism w jaki sposób uzależniliśmy się od nowoczesnych aplikacji i jak sobie z tym radzić, żeby odzyskać kontrolę (którą większość osób nie wie, że straciła.'
 ---
 
+Każda z książek Cala Newporta zmieniła moje podejście do pracy na lepsze. Uwielbiam strukturę jego książek, która składa się przeważnie z dwóch części:
+
+1. Postawienie hipotezy.
+2. Przytoczenie argumentów, które dowodzą tej hipotezy + (opcjonalne) zalecenia.
+
+"So Good They Can't Ignore You" stawia hipotezę, że podążanie za pasją to niebezpieczna rada, a "Deep Work", że potrzebujemy pracy w skupieniu, żeby dowozić wyjątkowe rezultaty.
+
+"Digital Minimalism" kontynuuje ten trend i stawa hipotezę, że zagubiliśmy się w naszych kontaktach z nowoczesną technologią i w zbyt dużym stopniu przejęła ona kontrolę nad naszym życiem. Newport pokazuje, dlaczego tak się stało oraz to, jak odzyskać tę kontrolę.
+
 **Moja ocena: 10/10**
+
+## Wstęp
 
 Dla wielu osób nowe technologie stały się uzależnieniem, z którym bardzo ciężko zerwać. To uzależnienie zabiera nam czas i negatywnie wpływa na stan zdrowia psychicznego. Często nawet nie wiemy, że te problemy spowodowane są np. przez media społecznościowe, czy aplikacje.
 
