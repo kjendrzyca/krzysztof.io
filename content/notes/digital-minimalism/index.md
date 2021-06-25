@@ -12,7 +12,7 @@ Każda z książek Cala Newporta zmieniła moje podejście do pracy na lepsze. U
 
 "So Good They Can't Ignore You" stawia hipotezę, że podążanie za pasją to niebezpieczna rada, a "Deep Work", że potrzebujemy pracy w skupieniu, żeby dowozić wyjątkowe rezultaty.
 
-"Digital Minimalism" kontynuuje ten trend i stawa hipotezę, że zagubiliśmy się w naszych kontaktach z nowoczesną technologią i w zbyt dużym stopniu przejęła ona kontrolę nad naszym życiem. Newport pokazuje, dlaczego tak się stało oraz to, jak odzyskać tę kontrolę.
+"Digital Minimalism" kontynuuje ten trend i stawia hipotezę, że zagubiliśmy się w naszych kontaktach z nowoczesną technologią. Przejęła ona w zbyt dużym stopniu kontrolę nad naszym życiem. Newport pokazuje, dlaczego tak się stało oraz to, jak tę kontrolę odzyskać.
 
 **Moja ocena: 10/10**
 
@@ -20,13 +20,13 @@ Każda z książek Cala Newporta zmieniła moje podejście do pracy na lepsze. U
 
 Dla wielu osób nowe technologie stały się uzależnieniem, z którym bardzo ciężko zerwać. To uzależnienie zabiera nam czas i negatywnie wpływa na stan zdrowia psychicznego. Często nawet nie wiemy, że te problemy spowodowane są np. przez media społecznościowe, czy aplikacje.
 
-Wiele nowych aplikacji wprowadza nas w reaktywny tryb interakcji i przez swój design stopniowo pozbawia nas kontroli. Stajemy się po prostu uzależnieni.
+Wiele nowych aplikacji swoim designem wprowadza nas w reaktywny tryb interakcji, stopniowo pozbawia nas kontroli i w końcu uzależnia.
 
 > They downloaded the apps and set up accounts for good reasons, only to discover, with grim irony, that these services were beginning to undermine the very values that made them appealing in the first place: **they joined Facebook to stay in touch with friends across the country, and then ended up unable to maintain an uninterrupted conversation with the friend sitting across the table**.
 
 Nie zmienia to faktu, że te aplikacje potrafią być ekstremalnie przydatne.
 
-Jeśli chcemy dalej z nich korzystać, a przy tym nie poświęcać olbrzymich ilości czasu, nie psuć swojego zdrowia psychicznego i nie uzależnić się (lub, częściej, zerwać z nałogami), to potrzebujemy więc własnej filozofii interakcji z tymi narzędziami.
+Jeśli chcemy dalej z nich korzystać, a przy tym nie poświęcać olbrzymich ilości czasu, nie psuć swojego zdrowia psychicznego i nie uzależnić się (lub, częściej, zerwać z nałogami), to potrzebujemy własnej filozofii interakcji z tymi narzędziami.
 
 **Cal Newport nazywa taką filozofię Digital Minimalism.**
 
@@ -34,7 +34,7 @@ Jeśli chcemy dalej z nich korzystać, a przy tym nie poświęcać olbrzymich il
 
 Książka wyjaśnia, skąd wzięły się w nas takie patologie i jak z nimi walczyć, jednak jeśli ktoś nie czuje takiego wewnętrznego "wyczerpania" tym ile czasu i uwagi marnuje na telefonie i nie zauważy, że ma problem, to raczej nie sięgnie po tę książkę i nie pozwoli sobie na zdrowe relacje z ekranem komputera i telefonu.
 
-## Dlaczego się uzależniamy od nowych technologii?
+## Dlaczego uzależniamy się od nowych technologii?
 
 **W największym skrócie:** większość nowoczesnych aplikacji jest projektowana w taki sposób, żeby uczynić z telefonu i przeglądarki coraz lepsze maszyny do uprawiania hazardu (slot machines) i żeby uaktywnić w nas kompulsywne zachowania, które prowadzą do uzależnienia.
 
@@ -86,7 +86,7 @@ Osoby świadome tego mechanizmu (nawet jeśli znają nazwy) najczęściej wyłą
 
 ### 2. Potrzeba aprobaty społecznej
 
-Jest to część oprogramowania, które odziedziczyliśmy od człoweka pierwotnego i kolejna rzecz, która w jego czasach była niezbędna do przeżycia, a w dzisiejszych czasach może być przeszkodą.
+Jest to część oprogramowania, które odziedziczyliśmy od człowieka pierwotnego i kolejna rzecz, która w jego czasach była niezbędna do przeżycia, a w dzisiejszych czasach może być przeszkodą.
 
 **Człowiek to istota społeczna, która ma potrzebę łączenia się z innymi ludźmi i przez to nigdy nie będziemy w stanie zignorować, co inni o nas myślą.**
 
