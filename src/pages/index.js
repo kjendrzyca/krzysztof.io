@@ -76,6 +76,11 @@ const BlogIndex = ({ data, location }) => {
       <h3>Wybrane wpisy</h3>
       <ul>
         <IndexLink
+          title="Cyfrowe odgracanie i walka z uzależnieniem od aplikacji"
+          slug="digital-declutter"
+          hot
+        />
+        <IndexLink
           title="Upgrade z juniora na doradcę technicznego"
           slug="upgrade"
           hot
@@ -83,7 +88,6 @@ const BlogIndex = ({ data, location }) => {
         <IndexLink
           title={`Praca na "pół gwizdka"`}
           slug="pol-gwizdka"
-          hot
         />
         <IndexLink
           title="Po co to wszystko?"
