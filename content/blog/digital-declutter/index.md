@@ -100,7 +100,7 @@ Z tego samego powodu, po jakiś 2-3 tygodniach zaczęło mi brakować grania na 
 
 Zamierzam wrócić do sporadycznego grania, bo w niczym mi nie przeszkadza. Będę kontynuował moje dwie tradycje: [binge gaming](https://www.urbandictionary.com/define.php?term=Binge%20Gaming) oraz [backseat gaming](https://www.urbandictionary.com/define.php?term=Backseat%20Gamer).
 
-Binge gaming to dla mnie **dzień intensywnego grania przez wiele godzin, po którym robię sobie przerwę na tydzień lub dłużej**. Taki tryb pozwala mi zaspokoić potrzebę grania na tydzeń lub dłużej, a przy okazji jestem w stanie przejść od 20% do 100% gry podczas jednego posiedzenia.
+Binge gaming to dla mnie **dzień intensywnego grania przez wiele godzin, po którym robię sobie przerwę na tydzień lub dłużej**. Taki tryb pozwala mi zaspokoić potrzebę grania na tydzień lub dłużej, a przy okazji jestem w stanie przejść od 20% do 100% gry podczas jednego posiedzenia.
 
 Jeden dzień takich intensywnych wrażeń jest dla mnie lepszy niż granie po godzinkę dziennie. Godzinka to rozsądna dawka, ale pozostawia wielki niedosyt.
 
