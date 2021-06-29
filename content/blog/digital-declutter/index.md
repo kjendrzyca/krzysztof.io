@@ -1,8 +1,8 @@
 ---
-title: 'Digital Declutter - jak pokonałem uzależnienie od aplikacji online'
+title: 'Cyfrowe odgracanie i walka z uzależnieniem od aplikacji'
 date: '2021-06-29'
 published: true
-description: 'Proces cyfrowego odgracania, dzięki któremu pokonałem uzależnienie od aplikacji.'
+description: 'Digital Declutter - proces cyfrowego odgracania, dzięki któremu pokonałem uzależnienie od aplikacji.'
 ---
 
 Jestem niestety podatny na wszystkie sztuczki, które stosują twórcy aplikacji, żeby przyciągnąć naszą uwagę. Dlatego od lat stosuję różne sposoby na ograniczenie wpływu tych sztuczek na to, jak się zachowuję. M.in.:
@@ -42,7 +42,7 @@ Nie zrzucam tutaj winy na aplikacje, jednak śmieszy mnie to, że mój słaby um
 
 ## Rozwiązanie - Digital Declutter
 
-Uświadomiłem sobie to wszystko podczas czytania Digital Minimalism.
+Uświadomiłem sobie to wszystko podczas czytania [Digital Minimalism](/digital-minimalism/).
 
 Cal Newport opisuje tam uzależniające mechanizmy nowych aplikacji, w które dałem się wciągnąć jak dziecko.
 
@@ -166,9 +166,9 @@ Chciałbym zamienić relację z Messengerem na taką, że używam go głównie d
 
 ### Aktywności offline
 
-Wprowadzenie aktywności online było dla mnie najważniejsze, bo stałem się leniwą bułą, która przytyła prawie około 16kg podczas pandemii.
+Wprowadzenie aktywności offline, którymi zastąpię korzystanie z aplikacji, idealnie zgrało się z moim postanowieniem, że schudnę. Podczas pandemii stałem się leniwą bułą, która przytyła około 16kg i chciałem coś z tym zrobić.
 
-Najważniejsze aktywności, które muszę przekuć w nawyki to **spacery** (celuję w raz dziennie) i **codzienne ćwiczenia** (kalistenika).
+Najważniejsze aktywności, które muszę jeszcze przekuć w nawyki to **spacery** (raz dziennie) i **codzienne ćwiczenia** (kalistenika).
 
 Z racji tego, że nie miałem za bardzo co robić online, zwolnił mi się czas na ćwiczenia. **Ćwiczenia w ogóle nie sprawiają mi przyjemności, ale świetnie wpływają na samopoczucie.**
 
@@ -208,10 +208,16 @@ Oznacza to dla mnie, że te **nawyki siedziały naprawdę w głęboko i czasem t
 
 Proces jednak działa. Dawno nie czułem takiej kontroli i zadowolenia z tego, jak korzystam z aplikacji. Widzę też, że są miejsca do poprawy.
 
-Z tego powodu zamierzam kontynuować eksperyment i w następnych miesiącach skupić się na budowie nawyków, które zastąpią te, których chcę się pozbyć.
+Ostatni punkt cyfrowego odgracania polega na wprowadzeniu opcjonalnych technologii z powrotem do swojego życia, jednak każda z nich musi przejść restrykcyjny proces oceny. Wprowadziłem sobie taki proces oceny, ale nie był on restrykcyjny.
+
+Z tego powodu zamierzam kontynuować eksperyment i w następnych miesiącach skupić się na budowie nawyków, które zastąpią te, których chcę się pozbyć, a także określić, czy aplikacje, których używam (zwłaszcza Instagram) są najlepszą z możliwych opcji.
 
 Chciałem, żeby Digital Declutter pomógł mi przełączyć się z trybu konsumpcji do trybu tworzenia i nadal jest to coś, nad czym muszę popracować.
 
 Chcę wdrożyć też praktyki, które Cal Newport opisał w drugiej części książki, takie jak długie spacery, regularne pisanie dziennika, czy (🤞) dłuższe okresy osamotnienia, żeby pomyśleć.
 
 Jeśli chcesz wypróbować ten eksperyment, to prostą instrukcję znajdziesz [w notatkach](/digital-minimalism/).
+
+--
+
+*💡 Aktualizacje pojawią się tutaj.*
