@@ -5,7 +5,7 @@ import Subscribe from '../components/subscribe'
 import { GitHub, Instagram, Twitter } from "./Social"
 import ThemeToggler from "./ThemeToggler"
 
-const Layout = ({ location, title, children }) => {
+const Layout = ({ location, title, children, isLandingPage }) => {
   // eslint-disable-next-line no-undef
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
@@ -14,13 +14,13 @@ const Layout = ({ location, title, children }) => {
   return (
     <div className="global-wrapper" data-is-root-path={isRootPath}>
       <header className="global-header">
-        <Link className="header-link-home" to="/">
+        {isLandingPage ? null : <Link className="header-link-home" to="/">
           {title}
-        </Link>
+        </Link>}
         <ThemeToggler />
       </header>
       <main>{children}</main>
-      <footer>
+      {isLandingPage ? null : <footer>
         <Subscribe />
         <div className="footer-bottom">
           <div>
@@ -38,13 +38,13 @@ const Layout = ({ location, title, children }) => {
             <Link to="/polityka-prywatnosci/">Polityka prywatności</Link>
           </div>
         </div>
-      </footer>
+      </footer>}
       <CookieConsent
         location="bottom"
         buttonText="Rozumiem"
         style={{ fontSize: '12px', textAlign: 'center' }}
       >
-        Ta strona używa ciastek 🍪. <Link to="/polityka-prywatnosci">Tutaj</Link> możesz poczytać dlaczego.
+        Ta strona używa ciastek 🍪. <Link to="/polityka-prywatnosci/">Tutaj</Link> możesz poczytać dlaczego.
       </CookieConsent>
     </div>
   )
