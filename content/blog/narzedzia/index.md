@@ -12,6 +12,12 @@ description: 'Zestaw narzędzi, który wypracowałem sobie w ciągu wielu lat te
 - https://www.notion.so/ (do multiplayera)
 - https://readwise.io/i/krzysztof49
 
+## Książki:
+
+- Książki Kindle
+- [Audible](https://audible.com)
+- [Legimi](https://www.legimi.pl/kod/JSNUK/)
+
 ## System:
 
 - https://archlinux.org/
