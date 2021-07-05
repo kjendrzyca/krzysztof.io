@@ -1,6 +1,6 @@
 ---
 title: 'Digital Minimalism'
-date: '2021-06-24'
+date: '2021-07-05'
 published: true
 description: 'Cal Newport pokazuje w Digital Minimalism w jaki sposób uzależniliśmy się od nowoczesnych aplikacji i jak sobie z tym radzić, żeby odzyskać kontrolę (którą większość osób nie wie, że straciła.'
 ---
@@ -230,4 +230,283 @@ Każda technologia musi przejść restrykcyjny proces oceny i spełniać wszystk
 
 Druga część książki poświęcona jest praktykom, którymi Cal Newport proponuje zastąpić siedzenie przed ekranami.
 
-🚧 Notatki z tej części pojawią się tutaj później. 🚧
+## Spędzaj czas w odosobnieniu
+
+Odosobnienie to stan, w którym jesteśmy zostawieni sam na sam ze swoimi myślami i nie dostajemy żadnych danych wejściowych od innych osób.
+
+Dane wejściowe to np. rozmowa z inną osobą, czytanie książki, słuchanie podcastu, oglądanie telewizji, lub korzystanie w jakikolwiek sposób z ekranu telefonu.
+
+W odosobnieniu chodzi o to, co dzieje się w naszej głowie, a nie w naszym otoczeniu.
+
+Na każdą godzinę spędzoną na kontaktach z innymi ludźmi, poświęć przynajmniej tyle samo godzin spędzonych w odosobnieniu.
+
+Tylko w taki sposób w pełni wykorzystasz zalety połączenia (z innymi ludźmi, przez aktywności online), które w ograniczonych dawkach nie jest niczym złym i doświadczysz zalet regularnego odosobnienia.
+
+Do tych zalet należą:
+
+- **Kształtowanie nowych pomysłów i doprecyzowanie obecnych.**
+- **Doprecyzowanie (a czasem też rozwiązanie) swoich problemów.**
+- **Zrozumienie samego siebie i regulowanie swoich emocji.**
+- **Poczucie bliskości i wzmacnianie relacji z innymi.**
+
+To ostatnie jest paradoksalne, ale prawdziwe: doświadczanie odosobnienia, w jasny i nieprzerwany sposób, pozwala nam docenić relacje, które mamy z innymi ludźmi i dlatego będziemy chcieli je wzmocnić.
+
+Jest to klasyczny przykład stoickiego [Negative Visualization](https://en.wikipedia.org/wiki/Negative_visualization).
+
+**Pozbawienie odosobnienia** (solitude deprivation) to stan, w którym praktycznie nigdy nie jesteśmy zostawieni sami sobie, wyłącznie z własnymi myślami, bez żadnego wkładu (informacji) z otoczenia.
+
+Stan deprywacji powoduje, że tracimy wszystkie zalety regularnego osamotnienia i znacznie obniżamy jakość naszego życia.
+
+Eliminując czas spędzany w samotności, niszczymy swoje zdrowie psychiczne, ponieważ tracimy zdolność do:
+- Przetwarzania i zrozumienia swoich emocji.
+- Zastanowienia się nad tym, kim są i co w życiu tak naprawdę ma znaczenie.
+- Budowania silnych relacji z innymi.
+- Przemęczania społecznych części naszego mózgu, które nie zostały zaprojektowane do tego, żeby korzystać z nich cały czas.
+
+### Odosobnienia pozbawiamy się sami, a technologia bardzo nam w tym pomaga
+
+Zaczęliśmy w okolicach roku 2000, od ciągłego słuchania muzyki na iPodach i innych urządzeniach przenośnych.
+
+Odblokowała się możliwość zatkania sobie uszu na cały dzień słuchawkami z muzyką (ograniczając tym samym konwersacje z innymi).
+
+Potem pojawiły się ekrany telefonów.
+
+Wg danych aplikacji Moment, obecnie tylko ok. ~12% ludzi spędza na telefonie mniej niż godzinę. Średnia to 3.5 godziny dziennie patrzenia na ekran.
+
+Są to statystyki zaniżone, bo z tego typu aplikacji korzystają tylko świadomi użytkownicy telefonu, czyli przeważająca mniejszość.
+
+👉 **Sumując czas spędzony na telefonie ze słuchaniem muzyki, audiobooków, podcastów i innych osób, zredukowaliśmy okresy, w których przebywamy tylko ze swoimi myślami praktycznie do zera.**
+
+Mamy obsesje na punkcie połączenia z innymi, a firmy takie jak Facebook robią z tego swoją misję i sprzedają to prawie jako kolejny krok w ewolucji człowieka.
+
+> Surrounding the announcement of his company’s 2012 IPO, for example, Mark Zuckerberg triumphantly wrote: “Facebook … was built to accomplish a social mission—to make the world more open and connected.”
+
+Sprzedano nam, że im bardziej jesteśmy połączeni, tym lepiej, a prawda jest taka wpadamy dzięki temu w deprywację odosobnienia (skutki powyżej).
+
+Badania pokazują, że **negatywne skutki braku odosobnienia widać szczególnie u ludzi urodzonych po 1995 roku.**
+
+**Jest to pierwsza grupa osób, która doświadczyła ciągłego połączenia przed okresem dojrzewania i obecnie korzysta z różnych urządzeń bez przerwy.**
+
+"Bez przerwy" to nie wyolbrzymienie, wg badań z 2015 roku, średnia to **9 godzin dziennie.**
+
+Jest to zatem grupa osób, wśród których powinniśmy szukać negatywnych objawów pozbawienia odosobnienia i tam też je znajdujemy.
+
+Wśród osób urodzonych między 1995 i 2012 rokiem, nazywanych iGen, zaobserwowano olbrzymi wzrost zapotrzebowania na porady psychologów. Dotychczasowe problemy, z jakimi się mierzyli dotychczas, zostały zdominowane przez **zaburzenia lękowe**, które wcześniej występowały bardzo rzadko. Wynikające z tego depresja i samobójstwa wystrzeliły w kosmos.
+
+Te zmiany precyzyjnie pokrywają się z momentem, w którym posiadanie smartfona stało się czymś wszechobecnym. Generacja iGen dorastała z telefonem i social mediami w kieszeni i nawet nie wiedzą, jak wyglądały czasy bez dostępu do Internetu. Za tę niewiedzę płacą swoim zdrowiem psychicznym.
+
+**Potrzebujmy regularnych okresów odosobnienia, żeby w pełni cieszyć się życiem, a ostatnich latach, nawet się w tym nie orientując, pozbawiliśmy się ich zupełnie.**
+
+> Simply put, humans are not wired to be constantly wired.
+
+***💡 Moje smutne przemyślenie:***
+
+To jest najprawdopodobniej jeden z najbardziej otwierających oczy fragmentów tej książki.
+
+Dzięki niemu łatwiej mi zrozumieć, dlaczego dzisiejszy świat przepełnia banda rozzłoszczonych płatków śniegu, które nie potrafią poradzić sobie z własnymi emocjami, obwiniają za to cały świat, próbują narzucić nam swoje bezsensowne standardy postępowania i zachowują się tak, jakby należało im się wszystko, co tylko sobie wymyślą.
+
+Wyjaśnia też, skąd wzięły się olbrzymie problemy z utrzymaniem uwagi wśród młodych ludzi.
+
+Niestety ten fragment pokazuje też, że nie ma dla nas ratunku. Musielibyśmy wyeliminować ciągłe połączenie i wrócić do czasów, w których mieliśmy czas zastanowić się nad naszym życiem i emocjami, a to nie jest możliwe na wielką skalę.
+
+### Praktyki, które wprowadzają odosobnienie do naszego życia
+
+**1\. Spędzaj większość dnia bez telefonu**
+
+Telefony są głównym powodem pozbawienia odosobnienia.
+
+Potrzeba ciągłego używania telefonu jest mocno przesadzona. Jeszcze do niedawna telefony nie były powszechne i wcale nie musieliśmy z nich ciągle korzystać.
+
+Teraz wmawiamy sobie, że ciągły dostęp jest niezbędną częścią naszego życia:
+
+- Że bez tego, ciekawe aktywności będą nas omijać.
+- Że potrzebujemy rekomendacji na temat najlepszych miejsc do odwiedzenia.
+- Że musimy być ciągle dostępni na czatach w pracy.
+- Że nasze  dziecko nie będzie w stanie się z nami skontaktować, w razie nagłych wypadków.
+
+Osoby, które z wyboru żyją bez telefonu, mówią wprost: takie życie jest tylko chwilowo irytujące.
+
+**2\. Praktykuj długie spacery**
+
+> “Only thoughts reached by walking have value.” - Nietzsche
+
+Tak jak wiele postaci historycznych, zacznij chodzić na regularne spacery i traktuj je jako źródło wysokiej jakości odosobnienia.
+
+Spaceruj w samotności - bez obecności innych osób, bez telefonu i bez słuchawek na uszach.
+
+Chodzi tutaj o długie spacery, najlepiej w malowniczych sceneriach, które są najbardziej produktywną formą tej aktywności.
+
+Takie spacery pomagają nam przemyśleć problemy, z którymi się obecnie mierzymy i przemyśleć aspekty życia, które wymagają naszej uwagi i poprawy.
+
+Podczas takich spacerów mózg zaczyna podrzucać nam rzeczy, które naprawdę wymagają naszej uwagi i powinniśmy go wtedy posłuchać. Są to sygnały, których nie słyszmy pośród szumu codzienności. Ten szum dominuje, gdy brakuje nam odosobnienia.
+
+**3\. Pisz dziennik**
+
+Pisz dziennik do samego siebie, gdy masz do podjęcia skomplikowaną decyzję, chcesz poradzić sobie z trudnymi emocjami lub masz nagły przypływ inspiracji w jakiejś sprawie.
+
+Jest duża szansa, że większość się wyjaśni, zanim skończysz pisać.
+
+Możesz potem regularnie przeglądać te wpisy, ale często jest to opcjonalne, bo już samo pisanie wystarcza, żeby wyjaśnić, co trzeba.
+
+## Social Animal
+
+Interakcje społeczne są dla ludzi kluczowe w zapewnieniu dobrego samopoczucia.
+
+> "Man is by nature a social animal" - Aristotle
+
+Jakiś czas temu naukowcy udowodnili to, co Arystoteles zdefiniował na poziomie filozoficznym.
+
+Podczas przestojów w pracy i myśleniu nad zadaniami, w naszym mózgu zapala się domyślna sieć, która skupia się na myśleniu o społecznych aspektach naszego życia.
+
+**Myślimy wtedy o innych ludziach, o sobie, lub jednocześnie o innych i o sobie.**
+
+Ta sama sieć zapala się nawet w mózgu noworodków, które jeszcze nie wiedzą, czym są społeczne aspekty życia, a także podczas krótkich, nawet kilkusekundowych przerw w rozwiązywaniu problemów.
+
+To ozncza, że myślenie o społecznych aspektach życia jest instynktowne i działa jak odruch bezwarunkowy.
+
+Ta domyślna sieć ewoluowała w naszej głowie przez miliony lat, w czasach kiedy komunikacja była zawsze bogata w bodźce, odbywała się twarzą w twarz i była prowdzona w małych grupach.
+
+Cyfrowe narzędzia komunikacji odwróciły ten schemat do góry nogami. Komunikacja odbywa się w olbrzymich grupach, przy pomocy biednych, tekstowych alternatyw i jednobitowych lajków. Jest to zupełnym przeciwieństwem tego, czego oczekuje nasz mózg, który formował się przez tysiące lat ewolucji i nie dostosował się jeszcze do drastycznych zmian, jakie wprowadziliśmy w ostatnich czasach.
+
+W taki sam sposób, jak nasz organizm nie jest przystosowany do przetworzonego jedzenia, nasz mózg nie jest dostosowany do przetworzonej komunikacji.
+
+### Paradoks sieci społecznościowych
+
+W zależności od tego, kogo zapytasz, social media powodują, że czujemy silny związek z innymi lub samotność, smutek lub szczęście.
+
+Badania wskazują, że czujemy się lepiej, gdy otrzymujemy treści skierowane do nas, napisane przez kogoś, kogo dobrze znamy (rodzina, przyjaciele). Otrzymywanie takich samych informacji od kogoś, kogo nie znamy zbyt dobrze, lajki lub treści nieskierowane bezpośrednio do nas (broadcast) nie wpływają na poprawę tego, jak się czujemy.
+
+Badania wskazują także, że częste wrzucanie treści w social media zmniejsza samotność. Głównie dlatego, że czujemy się bardziej związani z przyjaciółmi.
+
+Z drugiej strony, inne badania wskazują, że im częściej korzystamy z social mediów, tym bardziej zwiększamy poczucie samotności.
+
+> After crunching the numbers, the researchers found that the more someone used social media, the more likely they were to be lonely. Indeed, someone in the highest quartile of social media use was three times more likely to be lonelier than someone in the lowest quartile.
+
+> “Our results show that overall, the use of Facebook was negatively associated with well-being.” They found, for example, that if you increase the amount of likes or links clicked by a standard deviation, mental health decreases by 5 to 8 percent of a standard deviation.
+
+Najbardziej prawdopodobne wyjaśnienie:
+
+**1\. Interakcje online nie zaspokajają naszych potrzeb interakcji z innymi ludźmi:**
+
+Pozornie, interakcje online mogą wydawać się wystarczające, ale w praktyce nie wystarczają, żeby zaspokoić naszą silną potrzebę wchodzenia w bogate interakcje z innymi ludźmi. Nie zaspokajają potrzeb naszej domyślnej sieci.
+
+Nasz mózg formował się w czasach, w których interakcje offline były jedyną opcją, jest do nich dobrze przystosowany i są mu potrzebne.
+
+Te interakcje są ekstremalnie bogate, ponieważ wymagają od naszego mózgu przetwarzania olbrzymich ilości informacji i wychwytywania subtelnych sygnałów w postaci mowy ciała, wyrazu twarzy, czy tonu głosu. Są to interakcje o wysokiej przepustowości.
+
+Interakcje online, to interakcje o niskiej przepustowości - wykorzystują tylko cześć naszego mózgu.
+
+**Komentarze, pisanie wiadomości i lajkowanie nie zastąpi utraconych korzyści płynących z interakcji offline.**
+
+**2\. Interakcje online odciągają nas od interakcji w prawdziwym świecie:**
+
+Interakcje online, takie jak korzystanie z social mediów nie są szkodliwe same w sobie, mogą wręcz poprawić nasze samopoczucie. Problemem jest to, że odciąga nas od interakcji w prawdziwym świecie.
+
+Im więcej czasu poświęcamy na interakcje w social media, tym mniej czasu poświęcamy na bogate interakcje offline.
+
+Wybieramy aktywności online, bo wymagają mniej energii, są szybsze, łatwiejsze i dostępne od zaraz.
+
+Jest to przykład [hiperbolicznego obniżenia wartości](https://pl.wikipedia.org/wiki/Hiperboliczne_obni%C5%BCenie_warto%C5%9Bci).
+
+To dlatego piszemy SMS-y, zamiast zadzwonić i zostawiamy lajka, zamiast spotkać się z kimś i opowiedzieć o naszych odczuciach pełnymi słowami.
+
+Robimy tak nawet wtedy, gdy łączny czas poświęcony na SMS-owanie jest większy niż spotkanie na żywo i przegadanie jakiegoś tematu.
+
+Ten fakt, w połączeniu z naszą silną potrzebą interakcji z innymi, powoduje kompulsywne sprawdzanie telefonu podczas rozmowy ze znajomym lub np. zabawy z dzieckiem. Obniżamy przez to jakość bogatej interakcji offline, w której właśnie bierzemy udział. (Pomaga w tym oczywiście design tych aplikacji, o którym pisałem wyżej).
+
+**Przez kompulsywne korzystanie z telefonu i uczestniczenie w interakcjach online (których może być znacznie więcej niż interakcji offline) mamy złudne wrażenie, że zaspokajamy wszystkie nasze potrzeby interakcji. Rabujemy samych siebie, nawet nie wiedząc, że to robimy.**
+
+### Preferuj komunikację nastawioną na konwersację
+
+**"Konwersacja" to interakcje o wysokiej przepustowości** - w taki sposób komunikujemy się z innymi w prawdziwym świecie.
+
+Poza rozmową na żywo, można zaliczyć też tutaj video chat i rozmowę telefoniczną.
+
+**"Połączenie" to interakcja o niskiej przepustowości** - w taki sposób komunikujemy się online.
+
+**Filozofia komunikacji nastawionej na konwersację**, którą proponuje Cal Newport, zakłada, że budowanie i wzmacnianie relacji jest możliwe tylko dzięki konwersacji.
+
+**Połączenie przestaje być alternatywą konwersacji i pełni jedynie funkcję logistyczną** - pomaga zaaranżować konwersację i przekazać praktycznie informacje (ustalić czas i miejsce, przesłać potrzebne linki, plany itp.).
+
+Przyjmując taką filozofię, znika potrzeba regularnego przeglądania social mediów, zostawiania komentarzy i lajków, a także reagowania na nie, bo nie wnoszą niczego do budowania i wzmacniania relacji.
+
+Znikają też niekończące się rozmowy, które wcześniej sabotowały naszą uwagę przez cały dzień.
+
+Dużo wspólnych kropek z [Essentialism](https://www.goodreads.com/book/show/18077875-essentialism).
+
+Filozofia komunikacji nastawionej na konwersacji może początkowo zredukować liczbę osób, z którymi aktywnie budujemy relacje. Może się wydawać, że nasz krąg społeczny się zmniejszył.
+
+Jest to jednak iluzja, ponieważ pozbywamy się połączenia, które daje nam bardzo mało tego, co potrzebujemy i zastępujemy je rozmową, jedyną rzeczą, która zaspokaja nasze potrzeby interakcji z innymi ludźmi.
+
+💡 U mnie się to sprawdza. Rozmowa z kimś na kamerce, albo przez telefon (choć mniej) zawsze powodowała, że miałem więcej pozytywnej energii po zakończeniu rozmowy i czułem, że buduję głębszą relację niż pisząc z kimś przez miesiąc na Instagramie. Jest to spowodowane też tym, że na kamerce widzę więcej social cues, takich jak mowa ciała.
+
+Początkowo, gdy pozbywamy się ciągłego połączenia i nieistotnych aktywności takich jak zostawianie lajków, możemy poczuć się samotnie. Jest to jednak efekt tymczasowy. Zalety zastąpienie tych aktywności konwersacją dość szybko zaczną rekompensować straty.
+
+> In her book, Sherry Turkle summarizes research that found just five days at a camp with no phones or internet was enough to induce major increases in the campers’ well-being and sense of connection.
+
+> It won’t take many walks with a friend, or pleasantly meandering phone calls, before you begin to wonder why you previously felt it was so important to turn away from the person sitting right in front of you to leave a comment on your cousin’s friend’s Instagram feed.
+
+Jednym z największych argumentów przemawiających za taką filozofią jest fakt, że aplikacje zaprojektowane przez studentów w akademikach oraz startupowych inkubatorach nie są w stanie konkurować z naturą, która przygotowywała nas do bogatej interakcji przez tysiące lat.
+
+**Nasz instynkt społeczny jest zbyt złożony, żeby oddelegować go do social mediów, wiadomości tekstowych oraz kilku emoji.**
+
+### Praktyki, które priorytetyzują konwersację
+
+**1\. Nie zostawiaj lajków i komentarzy.**
+
+Zacznij traktować lajki i komentarze w social mediach jak truciznę, która zatruwa Twoje życie społeczne.
+
+Niewinne lajki i komentarze odciągają nas od konwersacji, zastępują je połączeniem oraz uczą nasz umysł, że połączenie jest sensowną alternatywą komunikacji.
+
+Może się wydawać, że w ten sposób olewasz swoje relacje z pewnymi osobami, jednak znacznie lepiej jest wejść z kimś w głębszą rozmowę, przyjechać z wizytą lub umówić się na kawę, lub nawet zdzwonić, niż zostawiać uproszczony komentarz pod wpisem na social media.
+
+> One person I mentioned this strategy to, for example, expressed concern that if she didn’t leave a comment on a friend’s latest baby picture, it would be noted as a callous omission. If the friendship is important, however, let the concern about this reaction motivate you to invest the time required to set up a real conversation. Actually visiting the new mom will return significantly more value to both of you than adding a short “awww!” to a perfunctory scroll of comments.
+
+Ta praktyka doprowadzi do tego, że zerwiesz kontak z wieloma osobami, najprawdopodobniej głównie z tymi, których znasz tylko z social mediów.
+
+Daj im odejść. Ten "innowacyjny" pomysł, że warto utrzymywać kontakt z setkami znajomych, jest wymysłem ostatniej dekady. Przez wieki utrzymywaliśmy bogate, dające satysfakcję kontakty z innymi i nie potrzebowaliśmy do tego jednobitowych informacji w postaci lajków.
+
+**2\. Ustal konkretne godziny na komunikację tekstową.**
+
+Innymi słowy: batchuj social media i komunikację tekstową.
+
+Ustaw swój telefon domyślnie w tryb Do Not Disturb.
+
+Komunikacja tekstowa jest wspaniałym wynalazkiem. Zaczyna być jednak problemem, gdy traktujemy ją jako alternatywę prawdziwej konwersacji.
+
+Nieprzerwany strumień komunikacji przez cały dzień odciąga nas od rozpoczęcia konwersacji, a także psuje Twoje doświadczenia w trakcie jej trwania.
+
+Dlatego przestań bez przerwy korzystać z komunikacji tekstowej i ustal sobie konkretne okienka czasowe, w których z niej korzystasz.
+
+W takim trybie cała komunikacja tekstowa działa jak email:
+
+1. Włącz aplikację, żeby sprawdzić wiadomości.
+2. Odpisz na wszystko, co trzeba.
+3. Jeśli musisz, to przeprowadź krótką rozmowę tekstową.
+4. Gdy Twoje okienko na komunikację tekstową się zamknie, przeproś wszystkich, z którymi rozmawiasz, powiedz, że musisz wrócić do pracy i tak też zrób.
+
+Przerwanie strumienia ciągłej komunikacji tekstowej ma swoje zalety:
+
+- Przestaniesz się niepokoić tym, że ktoś Ci ciągle przerywa.
+- Zyskasz czas na prawdziwe konwersacje i zachętę, żeby je organizować.
+  - Będziesz czuć potrzebę wypełnienia pustki.
+- Poprawisz swoje relacje z innymi, o ile zastąpisz komunikację tekstową wartościowymi interakcjami.
+  - Paradoksalnie, będąc rzadziej dostępny, wzmacniasz swoje relacje z innymi. Odrzucasz nieistotne interakcje, a w zamian wzmacniasz interakcje z osobami, na których naprawdę Ci zależy.
+
+W taki sposób wykorzystujesz technologię w najlepszy możliwy sposób i unikasz zgubnych nawyków.
+
+**3\. Ustal swoje godziny urzędowania.**
+
+Wyznacz sobie konkretne godziny, w konkretne dni, kiedy jesteś dostępny na rozmowę.
+
+Poinformuj o swoich godzinach urzędowania wszystkie osoby, które mogą z nich skorzystać.
+
+Sugeruj konwersację w tych godzinach osobom, które próbują wciągnąć Cię w komunikację tekstową.
+
+Dzięki tej strategii przezwyciężasz swoją obawę, że ludzie zaczną wciągać Cię w głębokie konwersacje wtedy, gdy nie będziesz mieć na to ochoty i zacznie Cię to męczyć. W taki sposób działasz na swoich warunkach i zwiększasz prawdopodobieństwo na satysfakcjonujące interakcje z innymi.
+
+Konwersacje mogą odbywać się offline lub online, przy pomocy telefonu lub wideo czatu.
+
+Możesz spędzać swoje godziny urzędowania w kawiarni i wtedy czytanie książki może być backupową aktywnością.
+
+Możesz też iść na spacer i zaprosić kogoś, żeby Ci towarzyszył lub wziąć ze sobą telefon i oczekiwać na spotkanie online.
