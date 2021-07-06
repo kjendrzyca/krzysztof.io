@@ -1,6 +1,6 @@
 ---
 title: 'Po co to wszystko?'
-date: '2021-06-13'
+date: '2021-07-06'
 published: true
 description: 'Podsumowanie kilku ostatnich miesięcy zastanawiania się nad tym, w którą stronę powinienem popchnąć swoją pracę i rozwój.'
 ---
@@ -112,7 +112,7 @@ Coś wtedy we mnie pękło.
 
 ## And here I am
 
-I w taki sposób znalazłem się w tym miejscu, w którym jestem teraz.
+I w taki sposób znalazłem się w tym miejscu, w którym jestem teraz (czerwiec 2021).
 
 Nie dość, że nie wiem, co chcę robić w IT, to zacząłem zastanawiać się, czy są w ogóle jakieś projekty, które będą dla mnie interesujące i które nie będą wiązały się z zakamuflowanymi problemami z ludźmi.
 
@@ -132,7 +132,7 @@ Nawet gdybym podjął decyzję, to nie mam jeszcze zielonego pojęcia, jak się 
 
 **Nie wiem też, czy nadal chcę sprzedawać swój czas za pieniądze**. Teraz gdy przestały być problemem, następny milestone finansowy, który by coś dla mnie znaczył, jest bardzo, bardzo daleko, a ja **coraz bardziej zaczynam doceniać swój czas.**
 
-**Bonus:** swoją cegiełkę do całej tej przygody dołożyła oczywiście pandemia, czemu przez długi czas zaprzeczałem. Oczy otworzyły mi się wtedy, gdy przeczytałem książkę ["Digital Minimalism"](https://www.goodreads.com/book/show/40672036-digital-minimalism), która wyjaśniła mi, że za część złego samopoczucia może być odpowiedzialne to, że za bardzo odciąłem się od ludzi. Książka nauczyła mnie, że komunikacja pisana nigdy nie zastąpi offlineowych rozmów oraz aktywności z innymi osobami, których miałem bardzo niewiele w 2020. Niektórzy wiedzą to podświadomie, ale ja nie wiedziałem.
+**Bonus:** swoją cegiełkę do całej tej przygody dołożyła oczywiście pandemia, czemu przez długi czas zaprzeczałem. Oczy otworzyły mi się wtedy, gdy przeczytałem książkę ["Digital Minimalism"](/digital-minimalism/), która wyjaśniła mi, że za część złego samopoczucia może być odpowiedzialne to, że za bardzo odciąłem się od ludzi. Książka nauczyła mnie, że komunikacja pisana nigdy nie zastąpi offlineowych rozmów oraz aktywności z innymi osobami, których miałem bardzo niewiele w 2020. Niektórzy wiedzą to podświadomie, ale ja nie wiedziałem.
 
 ## Co dalej?
 
