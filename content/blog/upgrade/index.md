@@ -1,6 +1,6 @@
 ---
 title: 'Upgrade z juniora na doradcę technicznego'
-date: '2021-06-23'
+date: '2021-07-06'
 published: true
 description: 'Kilka przemyśleń i wniosków na temat pracy jako doradca techniczny.'
 ---
@@ -47,7 +47,7 @@ Ja rozłożyłem na części pierwsze programistów, których szanuję i poskła
 
 Chodzi tutaj o to, żeby zejść na niższy poziom ze wszystkim, co robimy, zadać sobie wiele razy pytanie "dlaczego tak?", zrozumieć to wszystko i poskładać na nowo biorąc pod uwagę swój własny kontekst.
 
-Takie myślenie pozwoliło mi m.in przestać wierzyć w talent najlepszych programistów. Przestałem snuć w głowie romantyczne historie (czyli wymówki) na temat tego, jak zdobyli te umiejętności i okazało się, że ja też tak mogę. Przeważnie sprowadzało się to do konsekwentnego robienia prostych rzeczy i ciężkiej (lub też nie) pracy.
+Takie myślenie pozwoliło mi m.in. przestać wierzyć w talent najlepszych programistów. Przestałem snuć w głowie romantyczne historie (czyli wymówki) na temat tego, jak zdobyli te umiejętności i okazało się, że ja też tak mogę. Przeważnie sprowadzało się to do konsekwentnego robienia prostych rzeczy i ciężkiej (lub też nie) pracy.
 
 Pozwoliło mi też krytycznie spojrzeć na frameworki, czy biblioteki, których używam, na opinie o tym, jak powinno pisać się soft oraz wyeliminować bezcelowe jaranie się technologiami i [Cargo Cult Programming](https://en.wikipedia.org/wiki/Cargo_cult_programming).
 
@@ -79,9 +79,8 @@ Been there, done that.
 
 Dla mnie **powodem, że coś kogoś blokuje, jest jedna z dwóch rzeczy**:
 
-Nie wierzysz w siebie, bo nie znalazłeś jeszcze wystarczających dowodów na to, że możesz sobie zaufać.
-
-Albo czegoś po prostu nie umiesz.
+1. Nie wierzymy w siebie, bo nie znaleźliśmy jeszcze wystarczających dowodów na to, że możemy sobie zaufać.
+2. Albo po prostu czegoś nie umiemy.
 
 W pierwszym przypadku wystarczy, że spróbuję coś zrobić i wtedy widzę, że sobie radzę, a moja blokada nie miała sensu. W drugim przypadku wystarczy, że po prostu uzupełnię braki wiedzy 🤷‍♂️.
 
@@ -91,7 +90,7 @@ Są to zdania typu "przepraszam, ale chyba nie zrozumiałem", "pozwól, że powi
 
 Przydaje się to wszystko głównie dlatego, że **eliminuje olbrzymie źródło stresu w pracy**.
 
-Gdy zaczynałem w IT, to zawsze się cykałem, że ktoś się o coś zapyta, a ja nie będę wiedział, co odpowiedzieć oraz że narobię siary zespołowi i firmie. Ciągnęło się to miesiącami na każdym demo, review, czy nawet rozmowie na Slacku z klientem, aż do momentu, gdy zdecydowałem, że nauczę się, jak sobie z tym radzić. Okazało się to prostsze, niż myślałem, jak z większością tego typu rzeczy.
+Gdy zaczynałem w IT, to zawsze się cykałem, że ktoś mnie o coś zapyta, a ja nie będę wiedział, co odpowiedzieć oraz że narobię siary zespołowi i firmie. Ciągnęło się to miesiącami na każdym demo, review, czy nawet rozmowie na Slacku z klientem, aż do momentu, gdy zdecydowałem, że nauczę się, jak sobie z tym radzić. Okazało się to prostsze, niż myślałem, jak z większością tego typu rzeczy.
 
 Nadal jestem przekonany, że znam tylko te 20%, które daje 80% wyników, ale te 20% jest na tyle przydatne, że pozwala np. przekonać klienta do refactoru, na który wcześniej nie chciał się zgodzić itp.
 
@@ -161,7 +160,7 @@ Takie osoby też osiągną swoje cele i najprawdopodobniej nie wylądują w miej
 
 A powolny rozwój i zgłębianie tych opcjonalnych rzeczy spowoduje, że jeszcze utrwalą sobie wiedzę, przez dokumentowanie udowodnią, że się na czymś znają i dzięki temu zwiększają prawdopodobieństwo spieniężenia swojej wiedzy i umiejętności. Znam początkujących programistów, którzy mimo mniejszego doświadczenia, stworzyli własne produkty na temat rzeczy, których się niedawno nauczyli, zamiast za wszelką cenę walczyć o kolejny awans.
 
-Robienie takich rzeczy po fakcie jest trudniejsze, bo człowiek już nie jest takimi rzeczami zajarany.
+Robienie takich rzeczy po fakcie jest trudniejsze, bo człowiek już nie jest tak zajarany, jak był kiedyś.
 
 Optymalna droga leży pewnie gdzieś pośrodku, ale jestem przekonany, że w tym drugim przypadku, ogólny koszt, poza poświęconym czasem, jest mniejszy.
 
