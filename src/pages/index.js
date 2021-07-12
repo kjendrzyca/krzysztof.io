@@ -118,6 +118,11 @@ const BlogIndex = ({ data, location }) => {
       <h3>Notatki z książek, artykułów i podcastów</h3>
       <ul>
         <IndexLink
+          title="Managing Oneself"
+          slug="managing-oneself"
+          hot
+        />
+        <IndexLink
           title="Digital Minimalism"
           slug="digital-minimalism"
           hot
