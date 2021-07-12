@@ -5,13 +5,13 @@ published: true
 description: 'Co robić, żeby znaleźć pracę lub projekty, w których będziemy najbardziej przydatni i maksymalnie wykorzystamy swój potencjał.'
 ---
 
-Bardzo krótka i konkretna książka, w której zawarte są meta-informacje o najbardziej podstawowych elementach naszej pracy, które powinniśmy "ogarnąć", jeśli chcemy znaleźć pracę lub projekty, w których będziemy najbardziej przydatni i maksymalnie wykorzystamy swój potencjał.
+Bardzo krótka i konkretna książka, w której zawarte są meta-informacje o najbardziej podstawowych elementach pracy, które powinienem “ogarnąć”, zanim zacząłem szukać projektów, w których będę najbardziej przydatny i maksymalnie wykorzystam swój potencjał.
 
-Najważniejsze lekcje:
+Kluczowe lekcje:
 
 - Poznaj swoje mocne strony, sposób działania oraz wartości.
 - Na tej podstawie przygotuj się do udanej kariery, zamiast ją planować.
-- Poszukaj miejsca, w którym będzesz najbardziej przydatny/przydatna.
+- Poszukaj miejsca, w którym będziesz najbardziej przydatny/przydatna.
 - Weź odpowiedzialność za współpracę z innymi.
 
 Dużo wspólnych kropek z [Essentialism](https://www.goodreads.com/book/show/18077875-essentialism).
