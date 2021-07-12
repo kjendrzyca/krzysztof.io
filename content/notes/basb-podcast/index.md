@@ -1,5 +1,5 @@
 ---
-title: 'The Building a Second Brain Podcast'
+title: 'The Building a Second Brain Podcast - Tiago Forte'
 date: '2021-02-01'
 published: true
 ---

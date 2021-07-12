@@ -1,5 +1,5 @@
 ---
-title: 'Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future'
+title: 'Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future - Ashlee Vance'
 date: '2020-11-26'
 description: ''
 published: false

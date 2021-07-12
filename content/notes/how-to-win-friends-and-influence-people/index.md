@@ -1,5 +1,5 @@
 ---
-title: 'How to Win Friends and Influence People'
+title: 'How to Win Friends and Influence People - Dale Carnegie'
 date: '2020-11-26'
 description: ''
 published: true

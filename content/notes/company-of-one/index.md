@@ -1,5 +1,5 @@
 ---
-title: 'Company of One'
+title: 'Company of One - Paul Jarvis'
 date: '2021-06-01'
 published: true
 description: 'Company of One to książka, która pokazuje jak budować biznes online, korzystajac z tych samych zasad, co mały, lokalny, kraftowy i dochodowy biznes, którego właściciel zna wszystkich po imieniu i którego lubią wszyscy jego klienci.'
