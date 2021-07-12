@@ -5,6 +5,8 @@ published: true
 description: 'Cal Newport pokazuje w Digital Minimalism w jaki sposób uzależniliśmy się od nowoczesnych aplikacji i jak sobie z tym radzić, żeby odzyskać kontrolę (którą większość osób nie wie, że straciła.'
 ---
 
+![Digital Minimalism](./banner.jpg)
+
 Każda z książek Cala Newporta zmieniła moje podejście do pracy na lepsze. Uwielbiam strukturę jego książek, która składa się przeważnie z dwóch części:
 
 1. Postawienie hipotezy.
