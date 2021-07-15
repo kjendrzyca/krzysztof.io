@@ -212,7 +212,7 @@ Widziałem wiele blogów, gdzie ktoś rozwodził się nad jednym tematem przez k
 
 To wszystko psuje reputację blogów.
 
-A tak naprawdę wystarczy najczęściej napisać 10 dłuższych, przemyślanych artykułów lub stworzyć płatny kurs (bo o to przecież w takich blogach chodzi nie?), załatwić temat, nie zaśmiecać internetu gównianymi, marketingowymi treściami z recyklingu i ruszyć dalej ze swoim życiem.
+A tak naprawdę wystarczy najczęściej napisać 10 dłuższych, przemyślanych artykułów lub stworzyć płatny kurs (bo o to przecież w takich blogach chodzi nie?), załatwić temat, nie zaśmiecać internetu marketingowymi treściami z recyklingu i ruszyć dalej ze swoim życiem.
 
 Biznesowe blogi często przekształcają się w blogi prywatne, podpisane własnym nazwiskiem, żeby nie komplikować i ruszyć dalej za swoimi zainteresowaniami. Czemu nie zacząć tak od razu?
 
