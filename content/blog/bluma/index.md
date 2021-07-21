@@ -115,6 +115,6 @@ Na mnie prysznic działa jak włącznik kreatywnego myślenia i czasem żałuję
 Cały czas próbuję znaleźć sposoby na włączenie tego trybu w głowie podczas pracy przy biurku i na razie jedyne sukcesy zawdzięczam medytacji i słuchaniu odpowiednich dźwięków (które jednak najczęściej skupiają się na falach alfa odpowiedzialnych za uczenie, a nie kreatywność).
 
 - https://brain.fm
-- https://open.spotify.com/playlist/5vLtYaSNfAc5jqrJLFhlew?si=8e6ce4fc11c74a75
+- [Binaural Beats Sounds na Spotify](https://open.spotify.com/playlist/5vLtYaSNfAc5jqrJLFhlew?si=8e6ce4fc11c74a75)
 
 Jeśli znasz jakieś inne, sprawdzone sposoby, to daj znać 🙏.
