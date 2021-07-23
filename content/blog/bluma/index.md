@@ -61,7 +61,7 @@ Gdy zgrupuję sobie kilka takich dwuminutowych zadań i domknę jedno po drugim,
 
 **2. System checkpointów.**
 
-To jest najbardziej skuteczna taktyka i wykorzystuję ją do wszystkiego.
+To jest najbardziej skuteczna taktyka, która polega na podzieleniu zadania na mniejsze części i dowożeniu całości w kawałkach. Wykorzystuję ją do wszystkiego.
 
 Dowożenie zadań w mniejszych częściach ma wiele zalet:
 
@@ -91,7 +91,7 @@ Gdy kończę jakieś zadanie lub jego część, to zaglądam do notesu i szybkie
 
 Kolejną rzeczą jest **mind dump**, czyli wyrzucenie z głowy wszystkiego, co w niej siedzi i domaga się uwagi.
 
-Gdy tych rzeczy jest szczególnie dużo, to po prostu siadam w dowolnym, wolnym momencie i piszę. Poza tym **mam jeszcze dziennik**, w którym staram się pisać codziennie (jak nasze rodzima nazwa journala wskazuje) i który sprawia, że rzadziej potrzebuję robić awaryjny mind dump podczas dnia.
+Gdy tych rzeczy jest szczególnie dużo, to po prostu siadam w dowolnym, wolnym momencie i piszę. Poza tym **mam jeszcze dziennik**, w którym staram się pisać codziennie (jak nasza rodzima nazwa journala wskazuje) i który sprawia, że rzadziej potrzebuję robić awaryjny mind dump podczas dnia.
 
 Zauważyłem, że im więcej szczegółów umieszczam w takich notatkach, tym szybciej znikają z głowy.
 
@@ -106,7 +106,7 @@ Jest to szczególna forma punktu 2, czyli zmiany zadania na inne. Tym zadaniem j
 Różne badania sugerują różne rzeczy na temat wpływu prysznica na kreatywność i ciężko wyciągnąć z nich jednoznaczne wnioski, czy wyjaśnienia, ale na chwilę obecną rozumiem to tak:
 
 - Ciepły prysznic powoduje wiele momentów olśnienia, ponieważ wprowadza nas w stan wysokiej relaksacji.
-- Wysoka relaksacja przełącza mózg w stan pracy na falach theta (choć niektóre badania twierdzą, że alfa).
+- Wysoka relaksacja przełącza mózg w stan pracy na falach theta.
 - Te same fale, które aktywują się podczas fazy REM i są odpowiedzialne za kreatywność.
 - To dlatego nasze sny są czasem ekstremalnie dziwne i to dlatego jesteśmy w stanie wykombinować rozwiązania wielu problemów pod prysznicem.
 
