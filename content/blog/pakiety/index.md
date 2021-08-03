@@ -31,13 +31,13 @@ Ten sposób pracy, w bardziej ogólnym znaczeniu, elegancko sformalizował [Tiag
 
 **Każdy pakiet dostarcza konkretne wyniki pracy i pozwala budować wielkie projekty w małych inkrementach.**
 
+Zaletą pakietów jest to, że możemy je układać, grupować i dowozić w dowolny sposób - jak klocki Lego.
+
 Nawet największe i najbardziej ambitne cele możemy podzielić w taki sposób.
 
 Ogólna zasada podziału na pakiety brzmi tak: **dziel wszystko tak długo, aż poczujesz, że nic Cię nie przeraża i że porażka nie jest możliwa**.
 
 Trudno ponieść porażkę tworząc notatkę, tweet, lub outline.
-
-Zaletą pakietów jest to, że możemy je układać, grupować i dowozić w dowolny sposób - jak klocki Lego.
 
 Praca zmienia się w próbę dowiezienia jednego pakietu na raz.
 
