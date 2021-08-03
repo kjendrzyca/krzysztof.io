@@ -76,6 +76,11 @@ const BlogIndex = ({ data, location }) => {
       <h3>Wybrane wpisy</h3>
       <ul>
         <IndexLink
+          title="Praca przy pomocy pakietów"
+          slug="pakiety"
+          hot
+        />
+        <IndexLink
           title="Jak czerpię korzyści z Zeigarnik Effect"
           slug="bluma"
           hot
@@ -83,7 +88,6 @@ const BlogIndex = ({ data, location }) => {
         <IndexLink
           title="Prywatny blog"
           slug="prywatny-blog"
-          hot
         />
         <IndexLink
           title="Cyfrowe odgracanie i walka z uzależnieniem od aplikacji"
