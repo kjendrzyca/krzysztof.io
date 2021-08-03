@@ -11,7 +11,7 @@ Nie wiem jak Ciebie, ale mnie przytłaczają duże projekty. Jest to ponoć doś
 
 Największym wyzwaniem jest dla mnie hackowanie motywacji w taki sposób, żeby działała na moją korzyść, a nie przeciwko mnie.
 
-Najprostszym rozwiązaniem, które znalazłem jest dostarczanie sobie regularnej serii zwycięstw, które mogę świętować.
+Najprostszym rozwiązaniem, które znalazłem, jest dostarczanie sobie regularnej serii zwycięstw, które mogę świętować.
 
 Podczas pisania kodu sposobem na osiągnięcie regularnej serii zwycięstw jest dla mnie Sausage Making.
 
@@ -19,7 +19,7 @@ Robienie kiełbaski polega na częstym commitowaniu i publikowaniu mniejszych (a
 
 ## Pakiety
 
-Ten sposób pracy, w bardziej ogólnym znaczniu, elegancko sformalizował [Tiago Forte](https://fortelabs.co/), który nazywa takie mniejsze kawałki dowiezionej pracy Intermediate Packets, a ja od tego czasu nazywam je po prostu pakietami.
+Ten sposób pracy, w bardziej ogólnym znaczeniu, elegancko sformalizował [Tiago Forte](https://fortelabs.co/), który nazywa takie mniejsze kawałki dowiezionej pracy Intermediate Packets, a ja od tego czasu nazywam je po prostu pakietami.
 
 **Pakiet, to jedna mała część projektu lub zadania w postaci:**
 
@@ -29,13 +29,13 @@ Ten sposób pracy, w bardziej ogólnym znaczniu, elegancko sformalizował [Tiago
 - prototypu
 - szkicu lub finalnej wersjii (np. artykułu)
 
-**Każdy pakiet dostarcza konkretne wyniki pracy i pozwala budować wielke projekty w małych inkrementach.**
+**Każdy pakiet dostarcza konkretne wyniki pracy i pozwala budować wielkie projekty w małych inkrementach.**
 
 Nawet największe i najbardziej ambitne cele możemy podzielić w taki sposób.
 
 Ogólna zasada podziału na pakiety brzmi tak: **dziel wszystko tak długo, aż poczujesz, że nic Cię nie przeraża i że porażka nie jest możliwa**.
 
-Trudno ponieść porażkę tworząc notatkę, Tweet, lub outline.
+Trudno ponieść porażkę tworząc notatkę, tweet, lub outline.
 
 Zaletą pakietów jest to, że możemy je układać, grupować i dowozić w dowolny sposób - jak klocki Lego.
 
@@ -45,7 +45,7 @@ Wcześniej myślałem o pracy w kontekście zadań, aktywności i bloków czasu.
 
 Teraz myślę tak: "zrobię 2 szczegółowe notatki i opublikuje na Twitterze" zamiast "będę pracował nad x przez 1h".
 
-Każdy pakiet, pozwala szybciej dostarczyć coś wartościowego, zobrazować wyniki i jest fundamentem lub budulcem dla kolejych pakietów.
+Każdy pakiet pozwala szybciej dostarczyć coś wartościowego, zobrazować wyniki i jest fundamentem lub budulcem dla kolejnych pakietów.
 
 Gdy stawiam sobie za cel dowiezienie jednego lub więcej pakietu każdego dnia, to zwiększam szanse na to, że pod koniec dnia będę z siebie zadowolony. I przeważnie jestem.
 
@@ -71,7 +71,7 @@ Niektóre projekty sprowadzają się wręcz do poukładania pakietów w konkretn
 
 Mniejszymi pakietami mogę się szybciej podzielić, szybciej zebrać feedback i szybciej na niego zareagować.
 
-Jakiś czas temu dowiedzałem się, że jest to dość istotne, bo lepszy feedback dostajemy na początku pracy.
+Jakiś czas temu dowiedziałem się, że jest to dość istotne, bo lepszy feedback dostajemy na początku pracy.
 
 Ludzie obawiają się krytykować coś, w co włożyliśmy już dużo pracy albo czepiają się wtedy detali, które nie mają znaczenia. Dlatego im szybciej podzielimy się wynikami pracy, nawet w formie draftu, tym lepszy dostaniemy feedback i tym chętniej będą nam go udzielać.
 
@@ -83,25 +83,25 @@ Zamiast tworzyć pełny kurs, mogę napisać dłuższy artykuł i zweryfikować 
 
 Mogę stworzyć cotygodniowy mailing, zobaczyć ile ludzi się zapisuje, ile odpisuje.
 
-Każda reakcja na taki kawałek treści daje mi jakiś feedback. Widzę, czy pomysł chwycił oraz czy jest sens inwestować w niego więcej czasu i energii.
+Każda reakcja na taki kawałek treści daje mi jakiś feedback. Widzę, czy pomysł chwycił oraz, czy jest sens inwestować w niego więcej czasu i energii.
 
 **👉 Mogę dowieźć coś wartościowego niezależnie od tego, ile mam czasu i energii.**
 
-Praca przy pomocy pakietów staje się grą w dopasowanie pakietu do aktualnie dostępnego bloku czasu, poziomu energii, nastroju, itd.
+Praca przy pomocy pakietów staje się grą w dopasowanie pakietu do aktualnie dostępnego bloku czasu, poziomu energii, nastroju itd.
 
-Przykład: mogę coś zrobić czekając w kolejce do lekarza albo w przerwie między spotkaniami.
+Przykład: mogę coś zrobić, czekając w kolejce do lekarza albo w przerwie między spotkaniami.
 
-Gdy mam gorszy dzień i nie chce mi się pisać artykułu, to nie muszę się zmuszać. Przełączam się na robienie notatek lub układanie outline'u, bo i tak je potem wykorzystam.
+Gdy mam gorszy dzień i nie chce mi się pisać artykułu, to nie muszę się zmuszać. Przełączam się na robienie notatek lub układanie outline'u, bo i tak je później wykorzystam.
 
 Czasem dowiezienie takiego małego pakietu daje mi kopa w dupę, dzięki któremu i tak ten artykuł napiszę jeszcze tego samego dnia.
 
 **👉 Mniej się przejmuję, czy ktoś mi przerwie. Mam system checkpointów.**
 
-Gdy ktoś czegoś ode mnie chce, to mogę wpleść tą aktywność miedzy to, co robię obecnie.
+Gdy ktoś czegoś ode mnie chce, to mogę wpleść tę aktywność miedzy to, co robię obecnie.
 
 Pakiety z reguły są dość małe, więc szybciej mogę je dokończyć i zająć się czym innym.
 
-Przy okazji nie muszę ładwać całego projektu do głowy, gdy zaczynam nad nim pracę, więc nawet jeśli ktoś mi przerywa, to łatwiej wrócić do ostatniego zadania. Trudno jest się pogubić w takim systemie.
+Przy okazji nie muszę ładować całego projektu do głowy, gdy zaczynam nad nim pracę, więc nawet jeśli ktoś mi przerywa, to łatwiej wrócić do ostatniego zadania. Trudno jest się pogubić w takim systemie.
 
 ![https://unsplash.com/@denjohan](./lego-2.jpg)
 
@@ -111,7 +111,7 @@ Wcześniej o tym nie myślałem, ale [artykuł od Tiago](https://fortelabs.co/bl
 
 Jest to najprawdopodobniej jeden z powodów, dla których tak dobrze mi się pracuje, stosując to podejście.
 
-Ilość trigerrów stanu flow oraz ich opis różnią się w zależności od materiałów, dlatego poniżej wrzucam 6 standardowych oraz opis, w jaki sposób praca przy pomocy pakietów je aktywuje.
+Ilość triggerów stanu flow oraz ich opis różnią się w zależności od materiałów, dlatego poniżej wrzucam 6 standardowych oraz opis, w jaki sposób praca przy pomocy pakietów je aktywuje.
 
 **Trigger 1 - Zrozumiałe cele**: łatwiej zdefiniować cele krótkoterminowe i rzadziej się zmieniają. Przez to motywacja jest większa.
 
@@ -129,9 +129,9 @@ Ilość trigerrów stanu flow oraz ich opis różnią się w zależności od mat
 
 Teoria pracy głębokiej mówi o tym, że dowożenie wyników na najwyższym poziomie wymaga pracy w długich, nieprzerwanych sesjach głębokiego skupienia.
 
-Dla mnie idealną opcją jest praca głęboka przez 4 godziny bez przerwy. Dni są piękne, gdy coś takie coś się udaje. Jednak niejednokrotnie znalazienie czterech nieprzerwanych godzin jest po prostu niemożliwe.
+Dla mnie idealną opcją jest praca głęboka przez 4 godziny bez przerwy. Dni są piękne, gdy coś takie coś się udaje. Jednak niejednokrotnie znalezienie czterech nieprzerwanych godzin jest po prostu niemożliwe.
 
-Pakiety mają kilka zalet związanych z pracą głęgoką:
+Pakiety mają kilka zalet związanych z pracą głęboką:
 
 - Pomagają wejść w tryb pracy głębokiej, bo aktywują flow (choć zmienia się wtedy strategia, których jest kilka).
 - Pomagają zostać w pracy głębokiej, bo dowozimy mniejsze pakiety i pozostajemy zmotywowani.
