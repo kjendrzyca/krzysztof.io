@@ -27,7 +27,7 @@ Ten sposób pracy, w bardziej ogólnym znaczeniu, elegancko sformalizował [Tiag
 - zbioru przykładów
 - outline'u
 - prototypu
-- szkicu lub finalnej wersjii (np. artykułu)
+- szkicu lub finalnej wersji (np. artykułu)
 
 **Każdy pakiet dostarcza konkretne wyniki pracy i pozwala budować wielkie projekty w małych inkrementach.**
 
@@ -49,7 +49,7 @@ Każdy pakiet pozwala szybciej dostarczyć coś wartościowego, zobrazować wyni
 
 Gdy stawiam sobie za cel dowiezienie jednego lub więcej pakietu każdego dnia, to zwiększam szanse na to, że pod koniec dnia będę z siebie zadowolony. I przeważnie jestem.
 
-Dowiezienie i podzielenie się czymś namacalnym, nawet jeśli jest to jeden mały fragment większego projektu, jest znacznie bardziej satysfakcjonujące niż poświęcenie całego dnia na rozmyślanie i układanie wielkich planów, których nikt teraz nie zobaczy i które kiedyś w przyszłości, być może złożą się na coś większego.
+Dowiezienie i podzielenie się czymś namacalnym, nawet jeśli jest to jeden mały fragment większego projektu, jest znacznie bardziej satysfakcjonujące niż poświęcenie całego dnia na rozmyślanie, układanie i próbę dowiezienia wielkich planów, których nikt teraz nie zobaczy i które kiedyś w przyszłości, być może złożą się na coś większego.
 
 ![Atomic Habits writing proces](./atomic-habits.png)
 
