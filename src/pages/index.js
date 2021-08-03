@@ -73,7 +73,7 @@ const BlogIndex = ({ data, location }) => {
         Żeby pogadać złap mnie na <a href="https://instagram.com/kjendrzyca/">Instagramie</a> lub <a href="https://twitter.com/kjendrzyca/">Twitterze</a>.
       </p>
 
-      <h3>Wybrane wpisy</h3>
+      <h3>Wpisy</h3>
       <ul>
         <IndexLink
           title="Praca przy pomocy pakietów"
