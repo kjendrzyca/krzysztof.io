@@ -118,7 +118,7 @@ const BlogIndex = ({ data, location }) => {
           slug="dokumentuj-zamiast-tworzyc"
         />
         <IndexLink
-          title="Second Brain"
+          title="Jak zbudowałem swój Second Brain"
           slug="second-brain"
         />
         <IndexLink
