@@ -238,6 +238,7 @@ Znalazłem jednak kilka dobrych przykładów za granicą, m.in.:
 - https://sive.rs/
 - https://levels.io/
 - https://fabriziorinaldi.com/
+- https://mishayurchenko.me/
 - https://maggieappleton.com/
 - http://codeofrob.com/blog.html
 
