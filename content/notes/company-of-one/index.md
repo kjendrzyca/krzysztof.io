@@ -5,7 +5,7 @@ published: true
 description: 'Company of One to książka, która pokazuje jak budować biznes online, korzystajac z tych samych zasad, co mały, lokalny, kraftowy i dochodowy biznes, którego właściciel zna wszystkich po imieniu i którego lubią wszyscy jego klienci.'
 ---
 
-![It Ain't Much](./it_ait_much2.jpg)
+![Banner](./banner.jpg)
 
 Company of One to książka, która pokazuje jak budować biznes online, korzystając z tych samych zasad, co mały, lokalny, "kraftowy" i dochodowy biznes, którego właściciel zna wszystkich po imieniu i którego lubią wszyscy jego klienci.
 
@@ -16,6 +16,8 @@ Część osób nie toleruje tego, jaki jest i kupują pieczywo w supermarketach 
 Nauczył się, że to, co ma, jest dla niego wystarczające i pozwala mu na bezstresowe, dostatnie życie. Zbudował działalność wokół swojego życia, a nie na odwrót. Dlatego odrzuca wszelkie propozycje wcielenia swojej działalności do ogólnokrajowej sieci piekarni. Wie, że straciłby wtedy kontrolę i nie wiadomo, czy nie narobiłoby mu to więcej pracy niż ma teraz. Możliwe, że ucierpiałaby wtedy jakość, bo musiałby się skupić na tym, żeby produkować więcej.
 
 Tego rodzaju małe biznesy, to ucieleśnienie Company of One.
+
+![It ain't much](./it_ait_much2.jpg)
 
 Zaskoczyło mnie, że zasady opisywane w Company of One bardzo dobrze aplikują się nie tylko do budowania małego biznesu, ale też swojego sposobu pracy, jako pracownik w firmie. Sposobu, dzięki któremu się nie zajedziesz i będziesz pracować w zgodzie ze sobą. Jest tu dużo wspólnych kropek z ["So Good They Can't Ignore You"](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you) Cala Newporta i żałuję, że nie przeczytałem tych dwóch książek dawno temu jedna po drugiej.
 
