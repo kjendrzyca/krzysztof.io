@@ -16,7 +16,7 @@ Każda z książek Cala Newporta zmieniła moje podejście do pracy na lepsze. U
 
 "Digital Minimalism" kontynuuje ten trend i stawia hipotezę, że zagubiliśmy się w naszych kontaktach z nowoczesną technologią. Przejęła ona w zbyt dużym stopniu kontrolę nad naszym życiem. Newport pokazuje, dlaczego tak się stało oraz to, jak tę kontrolę odzyskać.
 
-**Moja ocena: 10/10**
+**Moja ocena: 6/6**
 
 ## Wstęp
 

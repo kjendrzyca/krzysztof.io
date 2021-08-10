@@ -7,7 +7,7 @@ published: false
 
 Źródło: [https://www.goodreads.com/book/show/25541028-elon-musk](https://www.goodreads.com/book/show/25541028-elon-musk)
 
-Moja ocena: 8/10
+Moja ocena: 5/6
 
 ## Elon Musk's characteristics
 

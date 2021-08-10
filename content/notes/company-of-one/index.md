@@ -21,7 +21,7 @@ Tego rodzaju małe biznesy, to ucieleśnienie Company of One.
 
 Zaskoczyło mnie, że zasady opisywane w Company of One bardzo dobrze aplikują się nie tylko do budowania małego biznesu, ale też swojego sposobu pracy, jako pracownik w firmie. Sposobu, dzięki któremu się nie zajedziesz i będziesz pracować w zgodzie ze sobą. Jest tu dużo wspólnych kropek z ["So Good They Can't Ignore You"](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you) Cala Newporta i żałuję, że nie przeczytałem tych dwóch książek dawno temu jedna po drugiej.
 
-**Moja ocena: 9/10**
+**Moja ocena: 5/6**
 
 ## Wstęp
 

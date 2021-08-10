@@ -7,7 +7,7 @@ published: true
 
 Źródło: [https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 
-Moja ocena: 9/10
+Moja ocena: 5/6
 
 ## Kluczowe wnioski
 
