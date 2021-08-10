@@ -175,11 +175,11 @@ h2 {
 }
 
 h3 {
-  font-size: var(--fontSize-3);
+  font-size: var(--fontSize-2);
 }
 
 h4 {
-  font-size: var(--fontSize-2);
+  font-size: var(--fontSize-1);
 }
 
 h5 {

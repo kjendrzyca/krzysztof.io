@@ -80,7 +80,7 @@ Skup się na kreatywnych elementach pracy, bo to, co może zostać zautomatyzowa
 
 Company of One pozwala w większym stopniu kontrolować swoje życie i pracę, ale żeby skorzystać z tej cechy, musisz spełnić kilka wymagań.
 
-#### Wymasteruj swoją główną umiejętność.
+**Wymasteruj swoją główną umiejętność.**
 
 Autonomia bez kompetencji to recepta na porażkę.
 
@@ -94,7 +94,7 @@ Droga do zdobycia odpowiednich umiejętności:
 - W przypadku pracy dla siebie, wiąże się tym, że będziesz początkowo mniej wybredny w wyborze klientów, z którymi pracujesz. Ale dzięki temu zdobędziesz kompetencje i kontakty, które pozwolą ci w końcu być bardziej wybiórczym.
 
 
-#### Pamiętaj o tym, że autonomia wiąże się z rozwojem wszerz.
+**Pamiętaj o tym, że autonomia wiąże się z rozwojem wszerz.**
 
 Zrozum sprzedaż, marketing, zarządzanie projektami i utrzymanie klientów.
 
@@ -507,7 +507,7 @@ Prowadź testy A/B, żeby sprawdzić, co lepiej działa.
 
 > "Basecamp has no internal goals or quotas around conversions or customer growth—its only mandate is to outshare and out-teach everyone else by writing books, speaking at conferences, and even hosting workshops at the Chicago office." ❤
 
-#### "Out-teach and outshare the competition, not outscale them"
+> **"Out-teach and outshare the competition, not outscale them"**
 
 Im więcej wiedzy jesteś w stanie przekazać, tym bardziej ludzie będą postrzegać Cię jako eksperta, a gdy przyjdzie pora, to nie będą mocno zastanawiać się, czy to właśnie od Ciebie chcą kupić.
 
@@ -523,7 +523,7 @@ Pokażesz najlepszy sposób używania produktu, który sprzedajesz, a przez dobr
 
 Pokażesz, że można Ci zaufać, bo jesteś maksymalnie transparentny - dzielisz się wszystkim, co wiesz.
 
-#### Wykorzystaj naukę jako kanał marketingowy.
+**Wykorzystaj naukę jako kanał marketingowy.**
 
 Sprzedawanie osobom, które Cię znają, bo regularnie dzielisz się z nimi wiedzą, jest znacznie lepszą strategią niż zaczepianie nieznajomych online.
 
