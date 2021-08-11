@@ -7,7 +7,7 @@ description: 'Książka opisuje framework StoryBrand, który pozwala przedstawi�
 
 ![Banner](./banner.jpg)
 
-Książka opisuje framework StoryBrand, który pozwala przedstawić potencjalnemu klientowi swoje produkty lub usługi korzystając ze sprawdzonego formatu opowieści (głównie filmowych).
+Książka opisuje framework StoryBrand, który pozwala przedstawić potencjalnemu klientowi swoje produkty lub usługi, korzystając ze sprawdzonego formatu opowieści (głównie filmowych).
 
 Głównym problemem książki jest spora ilość powtórzeń, które niczego nie wnoszą i wprowadzają chaos, a także przykłady implementacji, które zahaczają o takie cliché jak "pokaż, dokąd zabierzesz swojego klienta przez pokazaniu mu zdjęć szczęśliwych ludzi korzystających z twojego produktu".
 
@@ -34,6 +34,8 @@ Po odfiltrowaniu tego wszystkiego dostajemy solidny framework, który ułatwia w
 - Zasada 5: Klient nie podejmie akcji, dopóki go do tego nie zaprosimy
 - Zasada 6: Klient chce uniknąć porażki
 - Zasada 7: Nie zakładaj, że klient rozumie, że możesz zmienić jego życie, powiedz mu to wprost
+
+![StoryBrand Framework](./storybrand-framework.png)
 
 ## Zasada 1: Klient jest bohaterem
 
@@ -95,7 +97,7 @@ Maksymalnie uprość przekaz i oprzyj go na konkretach.
 **Podsumowanie:**
 
 - Każda dobra opowieść potrzebuje złoczyńcy.
-  - Złoczyńca jest źródłem trzech rodzajów problemwów: zewnętrznych, wewnętrznych i filozoficznych.
+  - Złoczyńca jest źródłem trzech rodzajów problemów: zewnętrznych, wewnętrznych i filozoficznych.
 - Spisz potencjalnych złoczyńców.
 - Spisz zewnętrzne problemy.
   - Czy jest wśród nich taki, który reprezentuje największą część twoich produktów i tego, co oferujesz?
