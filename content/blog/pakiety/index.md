@@ -13,7 +13,7 @@ Największym wyzwaniem jest dla mnie hackowanie motywacji w taki sposób, żeby 
 
 Najprostszym rozwiązaniem, które znalazłem, jest dostarczanie sobie regularnej serii zwycięstw, które mogę świętować.
 
-Podczas pisania kodu, sposobem na osiągnięcie regularnej serii zwycięstw jest częste zatwierdzanie i publikowanie mniejszych (ale kompletnych) partii kodu. Jest to okazja do świętowania, bo udało mi się coś dowieźć, i do zebrania feedbacku od innych członków zespołu.
+Gdy programuję, to sposobem na osiągnięcie regularnej serii zwycięstw jest częste commitowanie i publikowanie mniejszych (ale kompletnych) partii kodu. Jest to okazja do świętowania, bo udało mi się coś dowieźć, i do zebrania feedbacku od innych członków zespołu.
 
 ## Pakiety
 
