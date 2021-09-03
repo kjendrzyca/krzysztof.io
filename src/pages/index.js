@@ -134,6 +134,11 @@ const BlogIndex = ({ data, location }) => {
       <h3>Notatki z książek, artykułów i podcastów</h3>
       <ul>
         <IndexLink
+          title="Relentless"
+          slug="relentless"
+          hot
+        />
+        <IndexLink
           title="Building a StoryBrand"
           slug="storybrand"
           hot
@@ -141,7 +146,6 @@ const BlogIndex = ({ data, location }) => {
         <IndexLink
           title="Managing Oneself"
           slug="managing-oneself"
-          hot
         />
         <IndexLink
           title="Digital Minimalism"
