@@ -1,6 +1,6 @@
 ---
 title: 'Praca przy pomocy pakietów'
-date: '2021-08-23'
+date: '2021-09-06'
 published: true
 description: 'Sposób pracy oparty o regularną serię zwycięstw, który pomaga hackować motywację i budować skomplikowane projekty bez zbędnego wysiłku.'
 ---
@@ -43,7 +43,7 @@ Wcześniej myślałem o pracy w kontekście zadań, aktywności i bloków czasu.
 
 Teraz myślę tak: "zrobię 2 szczegółowe notatki i opublikuje na Twitterze" zamiast "będę pracował nad x przez 1h".
 
-Każdy pakiet pozwala szybciej dostarczyć coś wartościowego, zobrazować wyniki i jest fundamentem lub budulcem dla kolejnych pakietów.
+Każdy pakiet pozwala szybciej dostarczyć coś wartościowego, zobrazować wyniki i jest fundamentem lub budulcem dla kolejnych pakietów (piszę o tym we wpisie o pracy [bottom-up](/bottom-up/)).
 
 Gdy stawiam sobie za cel dowiezienie jednego lub więcej pakietu każdego dnia, to zwiększam szanse na to, że pod koniec dnia będę z siebie zadowolony. I przeważnie jestem.
 
@@ -170,7 +170,7 @@ Dodatkową zaletą, której nie wykorzystałem, jest to, że zamiast pisania art
 - Nagrać filmik na YT lub story na Instagramie.
 - Poświęcić 5 minut, wrzucić wszytko na slajdy i zrobić z tego prezentację lub webinar.
 
-Ten artykuł sam w sobie jest pakietem. Potrzebuje go, żeby dowieźć na bloga kolejny pakiet o pracy bottom-up.
+Ten artykuł sam w sobie jest pakietem. Potrzebuje go, żeby dowieźć na bloga kolejny pakiet o [pracy bottom-up](/bottom-up/).
 
 Wszystko, co robię, jest teraz pakietem, które układam po kolei.
 

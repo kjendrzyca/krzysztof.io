@@ -1,13 +1,13 @@
 ---
 title: 'Skup się na procesie, a nie na wynikach'
-date: '2021-05-27'
+date: '2021-09-06'
 published: true
 description: 'Dlaczego powinienem skupiać się na dobrym wykonywaniu tego, co robię, zamiast na wynikach swojej pracy. (Przynajmniej na początku).'
 ---
 
 Jedna z najważniejszych rzeczy, którą cały czas ćwiczę:
 
-Skupianie się na procesie, a nie na wynikach.
+**Skupianie się na procesie, a nie na wynikach.**
 
 Nie powinienem uzależniać swojej wartości od efektów swojej pracy.
 
@@ -20,7 +20,6 @@ Czasem musi zgrać się 1000 małych czynników na raz, wiele zależy od szczę�
 Będę bardziej zadowolony z siebie, jeśli uzależnię swoją wartość od włożonej pracy, zamiast od osiągniętych wyników.
 
 👉  **Jeśli polubię to, co robię, to będę się z tym dobrze czuć, niezależnie od wyniku.**
-
 
 Outcome-based vs process-based thinking:
 
@@ -38,3 +37,5 @@ Zajebiste wyniki mogę wtedy traktować jak pyszny deser po zajebistym obiedzie.
 Powinienem zadowalać się tym, co już mam i dopiero wtedy celować w coś więcej. (Dopiero gdy będę miał zajebisty proces, mogę skupić się na szlifowaniu wyników).
 
 > "Marcus Aurelius said “Stick with the situation at hand.” The less attached we are to outcomes the better. When fulfilling our own standards—when doing the right thing—is what fills us with pride and self-­respect, when the effort is enough, we are liberated." -The Daily Stoic
+
+Ten [blog](/prywatny-blog/) i [praca bottom-up](/bottom-up/) są idealnymi przykładami takiego podejścia. W obydwu przypadkach [pracuję przy pomocy pakietów](/pakiety/).

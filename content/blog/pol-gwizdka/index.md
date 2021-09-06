@@ -1,6 +1,6 @@
 ---
 title: 'Praca na "pół gwizdka"'
-date: '2021-06-18'
+date: '2021-09-06'
 published: true
 description: 'Czym jest dla mnie praca na pół gwizdka - model mentalny.'
 ---
@@ -81,11 +81,13 @@ Powinienem wtedy zapytać samego siebie, czy to, co chcę zrobić, jest warte dr
 
 Po drugie, jednym z rozwiązań, które najbardziej do mnie przemawia, jest **sekwencyjne układanie zadań, projektów i wszystkiego, za co się zabieram.**
 
-Zawsze mogę się zastanowić jak podzielić pracę na mniejsze części, a potem każdą z nich wykonywać jedna za drugą, pracując "na pełnej" i dając z siebie wszystko.
+Żeby działać w taki sposób, [dzielę pracę na mniejsze części, które nazwam pakietami](/pakiety/).
 
-Mogę traktować zadania i projekty jak klocki lego, które układam jeden za drugim, a które w końcu tworzą rozbudowaną, wartościową strukturę.
+**Pakiet to mniejsza część zadania, która dostarcza konkretne wyniki pracy** i pozwala budować wielkie projekty w małych inkrementach.
 
-Nie jest to może specjalnie odkrywcze, ale za to trudne do osiągnięcia, bo wymaga eksperymentów, umiejętności określenia początku i końca każdego zadania oraz zrozumienia zależności nimi.
+Nad każdym z tych pakietów pracuję "na pełnej", daję z siebie wszystko, nie wpadam w multitasking/"pracę na pół gwizdka", a potem układam je jeden za drugim, jak klocki lego i stopniowo tworzę rozbudowaną, wartościową strukturę dowiezionych zadań i projektów.
+
+Taki sposób pracy nie jest może specjalnie odkrywczy, ale za to trudny do osiągnięcia. Wymaga eksperymentów, umiejętności określenia początku i końca każdego zadania/pakietu oraz zrozumienia zależności nimi.
 
 Pisali o tym m.in. [Brian Tracy](https://www.goodreads.com/book/show/95887.Eat_That_Frog_), [Cal Newport](https://www.goodreads.com/book/show/25744928-deep-work), czy [Nathan Barry](https://nathanbarry.com/seasons/). Jest to też [część metodologii Second Brain](https://ramses.blog/intermediate-packets/).
 

@@ -1,6 +1,6 @@
 ---
 title: 'Jak czerpię korzyści z Zeigarnik Effect'
-date: '2021-07-21'
+date: '2021-09-06'
 published: true
 description: 'Sposoby na wykorzystanie Zeigarnik Effect w praktyce i przeciwdziałanie negatywnym skutkom otwartych pętli.'
 ---
@@ -61,7 +61,7 @@ Gdy zgrupuję sobie kilka takich dwuminutowych zadań i domknę jedno po drugim,
 
 **2. System checkpointów.**
 
-To jest najbardziej skuteczna taktyka, która polega na podzieleniu zadania na mniejsze części i dowożeniu całości w kawałkach. Wykorzystuję ją do wszystkiego.
+To jest najbardziej skuteczna taktyka, która polega na podzieleniu zadania na mniejsze części i dowożeniu całości w kawałkach. Nazywam to [pracą przy pomocy pakietów](/pakiety/) i wykorzystuję do wszystkiego.
 
 Dowożenie zadań w mniejszych częściach ma wiele zalet:
 

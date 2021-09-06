@@ -1,6 +1,6 @@
 ---
 title: 'Praca bottom-up, czyli dlaczego pozbyłem się wielkiej listy niedowiezionych pomysłów i zacząłem robić notatki'
-date: '2021-08-27'
+date: '2021-09-06'
 published: true
 description: 'Zamiast spisywać kolejne pomysły, zacząłem spisywać, co wiem na dany temat, a pomysły pojawiają się organicznie.'
 ---
@@ -57,7 +57,7 @@ Gotowych treści też nie grupuję, a jedynie oznaczam w ten sam sposób pod has
 
 ## Dodatkowe zalety
 
-Produktem ubocznym, a jednocześnie nieodłącznym składnikiem pracy bottom-up jest całkiem spora liczba [mniejszych pakietów](/pakiety/).
+**Produktem ubocznym, a jednocześnie nieodłącznym składnikiem pracy bottom-up jest całkiem spora liczba [mniejszych pakietów](/pakiety/).**
 
 Zbiór notatek przeważnie spokojnie sobie leży i odpoczywa, a przez to mój mózg ma szansę ochłonąć i po czasie lepiej ocenić, czy nadal mają sens.
 

@@ -1,6 +1,6 @@
 ---
 title: 'Prywatny blog'
-date: '2021-07-15'
+date: '2021-09-06'
 published: true
 description: 'Moje zasady tworzenia prywatnego bloga, gdzie skupiam się na podążaniu za własnymi zainteresowaniami.'
 ---
@@ -84,7 +84,7 @@ Te wszystkie fakty i hipotezy zebrane razem spowodowały, że zaczęły otwiera�
 
 To, w jaki sposób tworzę prywatny blog (a tak naprawdę [stronę internetową](https://joelhooks.com/digital-garden)), jest wynikiem dość długiego researchu i zupełnym przeciwieństwem tego, jak działałem dotychczas.
 
-**W największym skrócie**: piszę o tym, co mi się podoba, na co mam ochotę i nie nastawiam się na osiągnięcie żadnych wyników, tylko czerpię maksymalną przyjemność z samego procesu.
+**W największym skrócie**: piszę o tym, co mi się podoba, na co mam ochotę i nie nastawiam się na osiągnięcie żadnych wyników, tylko [czerpię maksymalną przyjemność z samego procesu](/proces/).
 
 Jeszcze nie wiem, do czego to doprowadzi, ale już teraz mam fun.
 
@@ -114,7 +114,7 @@ Brak planowania z góry na prywatnym blogu pozwala w takiej sytuacji przerzucić
 
 Wkładam mniej siły woli w to, co robię, łatwiej jest mi dowozić, nie zajechać się i działać długoterminowo.
 
-Innymi słowy: **jest to iteracyjna praca bottom-up.**
+Innymi słowy: **jest to iteracyjna praca [bottom-up](/bottom-up/).**
 
 Nie muszę zmuszać się do tego, żeby napisać kolejny wpis w temacie swojego bloga. Mogę swobodnie skoczyć w bok i napisać to, co obecnie siedzi mi w głowie.
 
@@ -202,7 +202,7 @@ Blog biznesowy wymaga niszy, bo jest związany z jakimś produktem. Nie ma sensu
 
 Prywatny blog to coś, co ma pomagać w przedsięwzięciach, których się podejmę.
 
-W takiej konfiguracji ten blog jest bazą wypadową i miejscem eksperymentów, gdzie rodzą się konkretne projekty, takie jak np. programistyczny blog, od którego niestety zacząłem.
+W takiej konfiguracji ten blog jest bazą wypadową i miejscem eksperymentów, gdzie rodzą się konkretne projekty, takie jak np. programistyczny blog, od którego zacząłem.
 
 Jedną z istotnych wad bloga nastawionego na niszę, o której [przeczytałem u Nata Eliasona](https://www.nateliason.com/blog/no-niche) i która od razu ze mną zarezonowała jest **sztuczne komplikowanie tematu**.
 
