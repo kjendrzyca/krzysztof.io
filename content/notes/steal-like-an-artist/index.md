@@ -1,6 +1,6 @@
 ---
 title: 'Steal Like an Artist - Austin Kleon'
-date: '2021-09-27'
+date: '2021-09-28'
 published: true
 description: 'Artysta patrzy na świat przez pryzmat tego, co warto ukraść. "Steal Like an Artist" pokazuje, jak zacząć zbierać pomysły i tworzyć.'
 ---
@@ -79,7 +79,7 @@ Rób to, co chcesz robić, żeby przez działanie stać się tą osobą, którą
 
 > "you have to dress for the job you want, not the job you have, and you have to start doing the work you want to be doing."
 
-Austin Kleon nazywa to popularnym "Fake it, till you make it.", ale tak naprawdę chodzi mu o **"Make it, don't take it"**.
+Austin Kleon nazywa to popularnym "Fake it, till you make it.", ale tak naprawdę chodzi mu o **"Make it, don't fake it"**.
 
 Znacznie lepiej opisuje to Ryan Holiday w [Ego is The Enemy](https://www.goodreads.com/book/show/27036528-ego-is-the-enemy):
 
@@ -200,8 +200,8 @@ Nie mamy publicznego wizerunku, który musimy utrzymywać.
 
 Najlepszy sposób na to, żeby zostać kimś znanym, składa się z dwóch kroków:
 
-1. Rób dobrą robotę każdego dnia.
-2. Dziel się nią z ludźmi.
+1. **Rób dobrą robotę każdego dnia.**
+2. **Dziel się nią z ludźmi.**
 
 Ciągle staraj się być lepszy.
 
@@ -337,7 +337,7 @@ Trzymaj się rutyny.
 
 Wykorzystaj kalendarz, żeby śledzić postępy.
 
-(Don't break the chain.)[https://jamesclear.com/stop-procrastinating-seinfeld-strategy]
+[Don't break the chain.](https://jamesclear.com/stop-procrastinating-seinfeld-strategy)
 
 **Stwórz swój rejestr zdarzeń, żeby śledzić postępy.**
 
