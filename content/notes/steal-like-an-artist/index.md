@@ -17,7 +17,7 @@ Następnym razem kupiłbym wersję analogową, bo nie widzę żadnych zalet wers
 
 Książka doskonale sprawdza się w duecie z kolejną pozycją autora, czyli ["Show Your Work"](https://www.goodreads.com/book/show/18290401-show-your-work) (podsumowanie niedługo się tu pojawi), która jest bezpośrednią kontynuacją.
 
-"Steal Like an Artist" pokazuje, jak zacząć zbierać pomysły i tworzyć.
+“Steal Like an Artist” pokazuje podejście artysty do tego, jak wzorować się na innych, jak zbierać pomysły i jak wykorzystywać całą tę wiedzę w tworzeniu własnych rzeczy.
 
 "Show Your Work" pokazuje jak dzielić się tym, co stworzyliśmy i promować swoją pracę w autentyczny, nienachalny sposób.
 
@@ -27,7 +27,7 @@ Książka doskonale sprawdza się w duecie z kolejną pozycją autora, czyli ["S
 
 ## Kardnij jak artysta
 
-Artysta patrzy na świat przez pryzmat tego, co warto ukraść, a nie przez pryzmat tego, co "dobre" lub "niedobre".
+Artysta patrzy na świat przez pryzmat tego, co warto podkraść innym i jak wykorzystać to u siebie, a nie przez pryzmat tego, co "dobre" lub "niedobre".
 
 Nic nie jest oryginalne. **Wszystko jest remixem.**
 
@@ -59,7 +59,7 @@ Szkoła to jedno, edukacja to drugie. Te dwie rzeczy nie zawsze się pokrywają.
 
 Dogłębnie analizuj rzeczy, które Cię interesują, czytaj cały czas, także biografie, zbieraj książki i nie przejmuj się "robieniem researchu", po prostu szukaj nowych rzeczy, które mogą Cię czegoś nauczyć.
 
-Zachowaj na później rzeczy, które ukradłeś.
+Zachowaj na później rzeczy, które podkradłeś.
 
 Wyrób sobie nawyk spisywania swoich przemyśleń i obserwacji.
 
@@ -117,7 +117,7 @@ Następnie spróbuj dorównać swoim bohaterom:
 
 - Szanuj innych, nie poniżaj.
 - Studiuj, nie przeglądaj pobieżnie.
-- Kradnij od wielu osób, nie od jednej.
+- Podkradaj od wielu osób, nie od jednej.
 - Pokaż swoje źródła, nie popełniaj plagiatu.
 - Przekształcaj, nie imituj.
 - Remixuj, nie podrabiaj.
@@ -279,7 +279,7 @@ To kolejne nawiązanie do "ucz się na głos".
 
 W Internecie ciągle widzimy głupie rzeczy, które nas wkurzają i które chcielibyśmy poprawić i naprostować.
 
-Problem z głupotą jest taki, że g**dy jesteś głupi, to nie wiesz, że jesteś głupi. Jest to bolesne tylko dla osób wokół**.
+Problem z głupotą jest taki, że **gdy jesteś głupi, to nie wiesz, że jesteś głupi. Jest to bolesne tylko dla osób wokół**.
 
 Dlatego nie ma sensu marnować energii. Zamiast wchodzić w sprzeczki innymi, **wykorzystaj gniew, żeby coś stworzyć i podzielić się z innymi**.
 
