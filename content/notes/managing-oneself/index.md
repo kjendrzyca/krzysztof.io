@@ -3,6 +3,7 @@ title: 'Managing Oneself - Peter Drucker'
 date: '2021-07-12'
 published: true
 description: 'Co robić, żeby znaleźć pracę lub projekty, w których będziemy najbardziej przydatni i maksymalnie wykorzystamy swój potencjał.'
+banner: './banner.jpg'
 ---
 
 ![](./banner.jpg)

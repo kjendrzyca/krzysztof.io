@@ -13,6 +13,10 @@ const BlogPostTemplate = ({ data, location, pageContext }) => {
   const siteTitle = data.site.siteMetadata?.title || siteUrl
   const social = data.site.siteMetadata.social.social
 
+  const { banner } = post.frontmatter
+  const bannerPath = banner && banner.childImageSharp.fixed.src
+
+
   return (
     <Layout location={location} title={siteTitle}>
       <SEO
@@ -20,6 +24,7 @@ const BlogPostTemplate = ({ data, location, pageContext }) => {
         description={post.frontmatter.description || post.excerpt}
         slug={slug}
         ogType="article"
+        ogImagePath={bannerPath}
       />
       <article
         className="blog-post"
@@ -84,6 +89,13 @@ export const pageQuery = graphql`
         date(formatString: "YYYY-MM-DD")
         description
         shareButtons
+        banner {
+          childImageSharp {
+            fixed(width: 1200) {
+              src
+            }
+          }
+        }
       }
       fields {
         slug
