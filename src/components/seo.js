@@ -71,7 +71,7 @@ const SEO = ({ description, lang, meta, title, slug, ogType = 'website', ogImage
         },
         {
           name: `twitter:card`,
-          content: `summary`,
+          content: `summary_large_image`,
         },
         {
           name: `twitter:creator`,
