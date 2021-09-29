@@ -13,7 +13,7 @@ import { MailerLiteScriptSrc, MailerLiteSuccessFunctionScript } from '../compone
 
 import logoSrc from '../../content/assets/bear.png'
 
-const SEO = ({ description, lang, meta, title, slug }) => {
+const SEO = ({ description, lang, meta, title, slug, ogType = 'website' }) => {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -59,7 +59,7 @@ const SEO = ({ description, lang, meta, title, slug }) => {
         },
         {
           property: `og:type`,
-          content: `website`,
+          content: ogType,
         },
         {
           property: `og:image`,

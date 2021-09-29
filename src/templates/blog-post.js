@@ -19,6 +19,7 @@ const BlogPostTemplate = ({ data, location, pageContext }) => {
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
         slug={slug}
+        ogType="article"
       />
       <article
         className="blog-post"
