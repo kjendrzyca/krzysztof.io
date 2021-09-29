@@ -3,6 +3,7 @@ title: 'Relentless - Tim Grover'
 date: '2021-09-03'
 published: true
 description: 'Mindset największych gwiazd koszykówki takich jak Michael Jordan czy Kobe Bryant. Słowo "Relentless" opisuje najbardziej ambitnych i odnoszących sukcesy zawodników. Takich, których nic nie potrafi zatrzymać przed osiągnięciem wyników.'
+banner: './banner.jpg'
 ---
 
 ![Banner](./banner.jpg)

@@ -3,6 +3,7 @@ title: 'Building a StoryBrand - Donald Miller'
 date: '2021-08-10'
 published: true
 description: 'Książka opisuje framework StoryBrand, który pozwala przedstawić potencjalnemu klientowi swoje produkty lub usługi korzystając ze sprawdzonego formatu opowieści (głównie filmowych).'
+banner: './banner.jpg'
 ---
 
 ![Banner](./banner.jpg)

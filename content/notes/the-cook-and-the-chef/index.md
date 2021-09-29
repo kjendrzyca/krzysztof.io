@@ -3,6 +3,7 @@ title: 'The Cook and the Chef: Musk’s Secret Sauce - Tim Urban'
 date: '2020-11-26'
 description: ''
 published: false
+banner: './software-full.jpg'
 ---
 
 Źródło: [https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html)

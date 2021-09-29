@@ -3,6 +3,7 @@ title: 'Digital Minimalism - Cal Newport'
 date: '2021-07-05'
 published: true
 description: 'Cal Newport pokazuje w Digital Minimalism w jaki sposób uzależniliśmy się od nowoczesnych aplikacji i jak sobie z tym radzić, żeby odzyskać kontrolę (którą większość osób nie wie, że straciła.'
+banner: './banner.jpg'
 ---
 
 ![Digital Minimalism](./banner.jpg)
