@@ -3,6 +3,7 @@ title: 'Upgrade z juniora na doradcę technicznego'
 date: '2021-07-06'
 published: true
 description: 'Kilka przemyśleń i wniosków na temat pracy jako doradca techniczny.'
+banner: './banner.jpg'
 ---
 
 ![Consultant meme](./banner.jpg)

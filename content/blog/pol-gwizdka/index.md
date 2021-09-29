@@ -3,6 +3,7 @@ title: 'Praca na "pół gwizdka"'
 date: '2021-09-06'
 published: true
 description: 'Czym jest dla mnie praca na pół gwizdka - model mentalny.'
+banner: './banner.jpg'
 ---
 
 ![https://unsplash.com/@mrthetrain](./banner.jpg)

@@ -3,6 +3,7 @@ title: 'Praca bottom-up, czyli dlaczego pozbyłem się wielkiej listy niedowiezi
 date: '2021-09-06'
 published: true
 description: 'Zamiast spisywać kolejne pomysły, zacząłem spisywać, co wiem na dany temat, a pomysły pojawiają się organicznie.'
+banner: './banner.jpg'
 ---
 
 ![https://unsplash.com/@vlado](./banner.jpg)

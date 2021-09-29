@@ -3,6 +3,7 @@ title: 'Prywatny blog'
 date: '2021-09-06'
 published: true
 description: 'Moje zasady tworzenia prywatnego bloga, gdzie skupiam się na podążaniu za własnymi zainteresowaniami.'
+banner: './banner.jpg'
 ---
 
 ![https://unsplash.com/@nerevarin](./banner.jpg)
