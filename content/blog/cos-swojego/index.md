@@ -53,7 +53,7 @@ Jednak, że wszystko, co tworzymy, stoi na barkach pracy wykonanej przez inne os
 
 Autorzy treści, które konsumujemy, też konsumowali treści innych osób, internalizowali je i przedstawiali światu w postaci własnych przemyśleń.
 
-Dlatego nie widzę przeszkód, żeby kraść w taki sposób, w jaki [kradną artyści](https://www.goodreads.com/book/show/13099738-steal-like-an-artist). Na przykład malarze:
+Dlatego nie widzę przeszkód, żeby kraść w taki sposób, w jaki [kradną artyści](/steal-like-an-artist/). Na przykład malarze:
 
 Malarz nie wrzuca wyciętych kawałków czyjegoś obrazu do swojego. Inspiruje się. Kopiuje styl. Czasem maluje pewne fragmenty tak samo, jak są namalowane na innym obrazie, ale jednak inaczej, po swojemu. A gdy ktoś go spyta, to bez problemu powie, kim się inspiruje.
 
