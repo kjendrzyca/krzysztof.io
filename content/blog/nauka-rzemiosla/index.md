@@ -1,8 +1,8 @@
 ---
 title: 'Nieformalna nauka rzemiosła'
-date: '2021-10-13'
+date: '2021-10-14'
 published: true
-description: 'W średniowieczu nauka rzemiosła była formalnym i skutecznym procesem - uczeń terminował u mistrza, żeby zostać czeladnikiem. Dzisiaj ten proces wygląda inaczej, ale można go zasymulować.'
+description: 'W średniowieczu nauka rzemiosła była formalnym i skutecznym procesem - uczeń terminował u mistrza, żeby zostać czeladnikiem. Dzisiaj ten proces wygląda inaczej, ale można go zasymulować i osiągnąć podobne wyniki.'
 banner: './banner.jpg'
 ---
 
@@ -92,13 +92,15 @@ Aplikując wiedzę mentorów i prezentując publicznie to, jak ją zaaplikowali�
 
 Wynika to z prostego faktu, że lubimy widzieć, że nasza praca nie poszła na marne. Gdy widzimy, że ktoś aplikuje wiedzę, którą przekazujemy, a może nawet uzupełnia braki lub robi coś lepszego, to mamy ochotę dać od siebie więcej. Zwłaszcza tym osobom, które już pokazały, że potrafią z tej wiedzy korzystać (lepiej od nas).
 
-Gdy przekazywałem wiedzę związaną z programowaniem w pracy, to zawsze najchętniej pomagałem osobom, które faktycznie stosowało się tę wiedzę, a najbardziej wartościowe były te osoby, które potem wskazywały błędy w moim myśleniu. Najczęściej kończyło się na tym, że rodziła się z tego głębsza znajomość, oparta na wspólnym mindsecie, gdzie każdy mógł odbić swoje problemy od drugiej osoby.
+Gdy przekazywałem wiedzę związaną z programowaniem w pracy, to zawsze najchętniej pomagałem osobom, które faktycznie stosowały to, o czym mówiłem.
 
-Warto pamiętać, żeby nie próbować imponować na siłę, nie szukać aprobaty, czy uznania i nie odtrącić osób, od których czerpiemy wiedzę.
+A już najbardziej wartościowe były te sytuacje, w których ktoś przetestował tę wiedzę i był w stanie wskazać błędy w moim myśleniu. Najczęściej kończyło się na tym, że rodziła się z tego głębsza znajomość, oparta na wspólnym mindsecie, gdzie każdy mógł odbić swoje problemy od drugiej osoby.
+
+Warto jednak pamiętać, żeby nie próbować imponować na siłę, nie szukać aprobaty, czy uznania i nie odtrącić osób, od których czerpiemy wiedzę.
 
 Moja taktyka:
 
-- Pokaż, jak podążasz za ich radą, nie rozwlekaj się, o nic nie proś.
+- Pokaż, jak podążasz za czyjąś radą, nie rozwlekaj się, o nic nie proś.
 - Od czasu do czasu wrzucaj update'y.
 - Rób robotę i zobacz, co się stanie.
 
@@ -108,11 +110,11 @@ Zamiast szukać mentora, możemy się rozejrzeć, zobaczyć, kogo mamy wokół n
 
 Możemy obserwować otoczenie i rozpoznać mentora w momencie, gdy się pojawi.
 
-Rzadko znajdziemy wszystkie elementy rzemiosła, których musimy się nauczyć w jednym miejscu lub w jednej osobie, więc zostaje nam czerpać ją od wielu osób.
+Rzadko znajdziemy wszystkie elementy rzemiosła, których musimy się nauczyć w jednym miejscu lub w jednej osobie, więc zostaje nam czerpać ją z wielu miejsc i od wielu osób.
 
 Proces mentoringu przeważnie nie wygląda tak, jak byśmy chcieli, ale od każdego można się czegoś nauczyć.
 
-Część mentorów to prawdziwi mistrzowie swojego fachu, ale inni posiadają tylko drobny wycinek tego, co może nam się przydać. Jeszcze inni to osoby, z których nigdy nie nazwalibyśmy ich mentorami.
+Część mentorów to prawdziwi mistrzowie swojego fachu, inni posiadają tylko drobny wycinek tego, co może nam się przydać, a jeszcze inni to osoby, których nigdy nie nazwalibyśmy mentorami.
 
 Mentoring to nie tylko osoby, możemy korzystać z formy pisemnej, audio, wideo i każdej innej, która jest dostępna.
 
