@@ -20,11 +20,11 @@ Po jakimś czasie czeladnik tworzył tzw. [majstersztyk](https://pl.wikipedia.or
 
 Cały proces zajmował około dziesięciu lat.
 
-Nauka rzemiosła pod okiem mistrza była doskonałym sposobem na zdobycie niezbędnych umiejętności, a także znalezieniem i doprecyzowaniem tego, co konkretnie uczeń chciałby robić w życiu.
+Nauka rzemiosła pod okiem mistrza była doskonałym sposobem na zdobycie niezbędnych umiejętności, a także na znalezienie i doprecyzowanie tego, co konkretnie uczeń chciałby robić w życiu.
 
 ## Jak to wygląda teraz?
 
-W dzisiejszych czasach niewiele zostało z tego systemu. Został on zastąpiony masową edukacją, w której oglądamy setki slajdów przygotowane przez prowadzących wykłady na uczelniach.
+W dzisiejszych czasach niewiele zostało z tego systemu. Został on zastąpiony masową edukacją, podczas której oglądamy setki slajdów przygotowane przez prowadzących wykłady na uczelniach.
 
 **Odpowiedzialność za zdobycie praktycznej wiedzy i osiągnięcie pełnego potencjału spoczywa wyłącznie na nas.**
 
