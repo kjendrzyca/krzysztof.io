@@ -119,3 +119,9 @@ Część mentorów to prawdziwi mistrzowie swojego fachu, inni posiadają tylko 
 Mentoring to nie tylko osoby, możemy korzystać z formy pisemnej, audio, wideo i każdej innej, która jest dostępna.
 
 Pokazując mentorom, jak zastosowaliśmy ich wiedzę, mamy szansę przekształcić nieformlany mentoring w formalny, ale ważne, żeby nie robić tego na siłę.
+
+**Materiały**:
+
+- https://www.goodreads.com/book/show/21548935-the-art-of-work
+- https://twitter.com/nateliason/status/1391062672582529027?s=20
+- https://krzysztof.io/steal-like-an-artist/
