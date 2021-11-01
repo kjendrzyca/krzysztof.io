@@ -171,6 +171,10 @@ Cierpliwość jest tutaj najważniejsza.
 
 Jest szansa, że od razu znajdę coś interesującego i szybko zbuduję bazę czytelników. Jest też szansa, że zajmie to lata.
 
+**Poza dobrymi treściami, najlepszą formą promocji jest dowożenie projektów pobocznych.**
+
+Podczas pracy nad blogiem rodzą się często nowe projekty. Każdy z tych projektów działa potem jak kanał promocyjny prywatnego bloga. Dostajemy przy okazji dodatkowego kopa do tego, żeby dowozić projekty, bo nawet jeśli nie wyjdą nam tak, jak chcemy, to przynajmniej zyskamy paru czytelników.
+
 ## Monetyzacja na prywatnym blogu
 
 **Monetyzacja jest trudniejsza, ale też nie jest celem tego bloga. Jest dodatkiem.**
