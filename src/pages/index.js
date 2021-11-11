@@ -70,7 +70,11 @@ const BlogIndex = ({ data, location }) => {
         Jeśli coś, co tu przeczytasz, w jakiś sposób z Tobą zarezonuje, to podziel się tym z innymi i daj mi znać. Chętnie przyjmę konstruktywny feedback.
       </p>
       <p>
-        Żeby pogadać złap mnie na <a href="https://instagram.com/kjendrzyca/">Instagramie</a> lub <a href="https://twitter.com/kjendrzyca/">Twitterze</a>.
+        Żeby pogadać złap mnie na <a href="https://instagram.com/kjendrzyca/">Instagramie</a> lub ew. <a href="https://twitter.com/kjendrzyca/">Twitterze</a>.
+      </p>
+
+      <p>
+        Tutaj znajdziesz listę <Link to="/narzedzia/" itemProp="url">narzędzi</Link>, których używam i <Link to="/linki/" itemProp="url">linków</Link>, które wrzucam w świat.
       </p>
 
       <h3>Wpisy</h3>
