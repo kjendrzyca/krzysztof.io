@@ -145,7 +145,7 @@ Potem wyszło tak, że siedziałem codziennie przez 30 minut (ustawiłem sobie l
 **Twitter:**
 
 - Korzystam wyłącznie z https://typefully.app do tworzenia threadów i pojedynczych tweetów.
-- 30 minut w każdy wtorek i czwarte, żeby poodpowiadać na komentarze i wiadomości.
+- 30 minut w każdy wtorek i czwartek, żeby poodpowiadać na komentarze i wiadomości.
 
 Typefully okazało idealną aplikacją, bo nic nie odciąga mojej uwagi od tworzenia threadów.
 
