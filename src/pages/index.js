@@ -82,12 +82,10 @@ const BlogIndex = ({ data, location }) => {
         <IndexLink
           title="Nieformalna nauka rzemiosła"
           slug="nauka-rzemiosla"
-          hot
         />
         <IndexLink
           title="W jakim języku tworzyć treści w Internecie?"
           slug="jezyk"
-          hot
         />
         <IndexLink
           title="Praca bottom-up, czyli dlaczego pozbyłem się wielkiej listy niedowiezionych pomysłów i zacząłem robić notatki"
@@ -146,14 +144,17 @@ const BlogIndex = ({ data, location }) => {
       <h3>Notatki z książek, artykułów i podcastów</h3>
       <ul>
         <IndexLink
+          title="Just Fucking Ship"
+          slug="jfs"
+          hot
+        />
+        <IndexLink
           title="Steal Like an Artist"
           slug="steal-like-an-artist"
-          hot
         />
         <IndexLink
           title="Relentless"
           slug="relentless"
-          hot
         />
         <IndexLink
           title="Building a StoryBrand"
