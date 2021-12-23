@@ -102,8 +102,8 @@ Lista:
 - Pracuj od końca
 - Doprecyzuj, co chcesz stworzyć
 - Zacznij od czegoś małego
-- Zacznij od tego, co możesz dowieźć już teraz
-- Mierz postępy
+- Zacznij od razu
+- Zwizualizuj postępy
 - Używaj gotowców i rzeczy, które przygotowałeś wcześniej
 - Każda wersja będzie lepsza
 - Ucz się od innych
@@ -260,7 +260,7 @@ Przykłady:
 - Zamiast robić 12-tygodniowy kurs, możemy napisać krótki poradnik.
 - Zamiast zaczynać od dwudniowego warsztatu, możemy zacząć od takiego, który trwa trzy godziny, albo zrobić darmowy 45-minutowy webinar.
 
-## Zacznij od tego, co możesz dowieźć już teraz
+## Zacznij od razu
 
 Powinniśmy [pracować przy pomocy mniejszych części](/pakiety/).
 
@@ -295,7 +295,7 @@ Przykłady mniejszych rzeczy, które możemy zrobić od razu:
 - Outline procesu, który nasi odbiorcy mogą zaaplikować w swojej pracy.
 - Napisanie wpisu na blogu, który rozwiąże jeden konkretny problem naszych odbiorców.
 
-## Mierz postępy
+## Zwizualizuj postępy
 
 Proces tworzenia rzeczy cyfrowych jest mniej namacalny niż gdybyśmy robili coś namacalnego. Przeważnie dłużej trzeba czekać na widoczne wyniki pracy i przez to się zniechęcamy.
 
@@ -450,7 +450,7 @@ Możemy być niepewni:
 
 ### Tego, co mamy robić
 
-Rozwiązanie: pracuj od końca; doprecyzuj, co chcesz stworzyć; mise en place, mierz postępy.
+Rozwiązanie: pracuj od końca; doprecyzuj, co chcesz stworzyć; mise en place, zwizualizuj postępy.
 
 Praca kreatywna wymaga procesu i każdy jakiś ma. Nawet jeśli ktoś mówi, że nie ma procesu, tylko po prostu robi rzeczy. Wtedy po prostu ma bardzo słaby proces - miota się na boki tak długo, aż coś się uda.
 
