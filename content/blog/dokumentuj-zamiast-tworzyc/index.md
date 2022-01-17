@@ -1,6 +1,6 @@
 ---
 title: 'Dokumentuj zamiast tworzyć'
-date: '2021-05-19'
+date: '2022-01-17'
 published: true
 description: 'Taktyka i mindset, które pomagają szybko wystartować i tworzyć autentyczne treści w Internecie bez nadmiernego wysiłku.'
 ---
@@ -11,19 +11,27 @@ Jest to taktyka i mindset, które pomagają szybko wystartować i tworzyć auten
 
 ## Film dokumentalny zamiast fabularnego
 
-Jakiś czas temu bardzo mocno rozmyślałem nad strategią wpisów na blogu, spisywałem pomysły (których pewnie mam ich już z tysiąc) i ciężko myślałem nad tym, co robię i jak to przekazać innym.
+Gdy zaczynałem tworzyć treści w Internecie, to bardzo mocno rozmyślałem nad strategią tego, co tworzę i jak to wszystko przekazać innym tak, żeby wywierać jak największy wpływ.
 
-Jestem pewien, że wiele rzeczy, o których piszę i mówię, jest ekstremalnie wartościowa, bo mam namacalne wyniki. Niestety, starałem się przez to za bardzo udowodnić innym, żeby mnie słuchali.
+Chciałem budować przekaz, który przekona jak najwięcej osób, że warto rozważyć rzeczy, o których piszę oraz mówię.
 
-Włączył mi się overselling i zacząłem za bardzo koloryzować. Zauważyłem, że to samo włącza się ludziom, którzy są nastawieni na budowanie swojej marki osobistej (🤮). Myślą, że gdy pokażą się w lepszym świetle, niż jest naprawdę, to zyskają uwagę innych. Well, u wielu osób to działa, ale dla mnie utrzymywanie takiego nieprawdziwego obrazu jest nieszczere i męczące.
+To dlatego, że miałem namacalne wyniki i byłem pewien, że wiele rzeczy, o których piszę i mówię, jest ekstremalnie wartościowa.
 
-To była nie do końca udana próba sfabrykowania siebie. **Mogłem po prostu być sobą. Bycie sobą jest łatwiejsze.**
+Gdy w pewnym momencie zacząłem koloryzować i zaczął włączać mi się overselling, to zrozumiałem, że staram się za bardzo. Starałem się kontrolować coś, na co nie mam wpływu.
 
-Zamiast dopisywać historie do wszystkiego, co robię, zacząłem po prostu pisać, co wiem, jak się tego dowiedziałem i dlaczego uważam to za istotne. Skupiłem się na praktycznych aspektach tego, co opisuję, żeby innym łatwo było je wdrożyć, jeśli będą tego chcieli.
+Zacząłem robić to samo, co robi wiele osób skupionych na budowaniu marki osobistej. Wiele z nich próbuje pokazać się w lepszym świetle, niż jest naprawdę, robią rzeczy, których normalnie by nie robili i liczą, że zyskają dzięki temu uwagę innych.
+
+Bez wątpienia ta taktyka często działa, jednak dla mnie utrzymywanie iluzji jest zbyt męczące i nieszczere.
+
+Dlatego dałem sobie siana i zamiast dopisywać historie do wszystkiego, co robię, zacząłem po prostu pisać, co wiem, jak się tego dowiedziałem i dlaczego uważam to za istotne. Skupiłem się na praktycznych aspektach tego, co opisuję, żeby innym łatwo było je wdrożyć, **jeśli będą tego chcieli**.
+
+**Zacząłem po prostu być sobą i okazało się to znacznie łatwiejsze.**
 
 Takie podejście ściąga ze mnie narzut przekonywania innych do tego, że warto stosować rzeczy, których się nauczyłem. Bierz, co ci się podoba, a resztę zostaw. Może komuś innemu się przyda.
 
 Cytując Garego: **Zacząłem tworzyć film dokumentalny, zamiast fabularnego.**
+
+Przy okazji to, że mam namacalne wyniki, nie oznacza, że moja interpretacja tego, jak je osiągnąłem, jest prawidłowa. Dokumentując swoje doświadczenia i proces, zwiększam szansę na to, że ktoś mnie potencjalnie wyprowadzi z błędu.
 
 ## “You should…” versus “my intuition says…”
 
@@ -31,7 +39,7 @@ Cytując Garego: **Zacząłem tworzyć film dokumentalny, zamiast fabularnego.**
 
 W moich starszych treściach często używam słów "musisz" i "powinieneś", których teraz się bardzo wstydzę.
 
-Bardzo nie lubię tych słów, bo wszyscy w Internecie mówią nam, co musimy i co powinniśmy. Zbyt często widzę osoby, które udowadniają mi, że wcale wielu rzeczy nie musimy i nie powinniśmy. Bo tak naprawdę nic nie musimy.
+Bardzo nie lubię tych słów, bo wszyscy w Internecie mówią nam, co musimy i co powinniśmy. Zbyt często widzę osoby, które udowadniają mi, że wcale wielu rzeczy nie musimy i nie powinniśmy.
 
 **Nikt nie zna mojego kontekstu na tyle, żeby powiedzieć, co mam robić.** Bardzo wiele z tych "musisz" i "powinieneś" zaprzecza sobie, a jeśli chciałbym wdrożyć wszystkie te rady, to brakłoby mi życia.
 
