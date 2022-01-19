@@ -30,6 +30,8 @@ W ostatnim kwartale roku, z powodów, które opisuję niżej, trochę mi się te
 
 Blog i tworzenie notatek zostaje na stałe, bo jest to zdecydowanie coś, co popycha mnie do przodu, pozwala przemyśleć i rozpracować wiele rzeczy, a także rozpocząć wiele projektów, nad którymi chciałbym pracować.
 
+Dodatkową rzeczą, która powinna się niedługo pojawić to newsletter. Powiedziałem sobie, że gdy organicznie zgromadzę tam 100 osób, to zacznę go wysyłać. Brakuje 12 osób, więc powoli zaczynam myśleć nad ciekawą formą, która nie będzie kolejnym szumem informacyjnym. Jednym z ciekawych wzorów jest dla mnie [julian.com](https://julian.com).
+
 ## Notatki
 
 [Mój system notatek](/second-brain/) pozostaje moim głównym systemem produktywności. Nadal uważam, że jest to najprawdopodobniej najlepsza rzecz, którą kiedykolwiek wypracowałem.
