@@ -34,13 +34,13 @@ Blog i tworzenie notatek zostaje na stałe, bo jest to zdecydowanie coś, co pop
 
 [Mój system notatek](/second-brain/) pozostaje moim głównym systemem produktywności. Nadal uważam, że jest to najprawdopodobniej najlepsza rzecz, którą kiedykolwiek wypracowałem.
 
-Bardzo chciałbym się podzielić tym, jak on wygląda, na większą skalę, lecz na razie brakuje mi czasu. Z osobami zainteresowanymi dogaduję się głównie na niedługie spotkania online, w którym pokazuję, jak mogliby zaimplementować poszczególne części tego systemu, w zależności od tego, jaki jest ich cel - czy to tworzenie treści, uczenie się, czy po prostu uporządkowanie poszczególnych części życia, które można uporządkować notatkami.
+Bardzo chciałbym się podzielić tym, jak on wygląda, na większą skalę, lecz na razie brakuje mi czasu. Z osobami zainteresowanymi dogaduję się głównie na niedługie spotkania online, na których pokazuję, jak mogliby zaimplementować poszczególne części tego systemu, w zależności od tego, jaki jest ich cel - czy to tworzenie treści, uczenie się, czy po prostu uporządkowanie poszczególnych części życia, które można uporządkować notatkami.
 
 System ciągle ewoluuje, ale obecnie są to już minimalne usprawnienia, bo całość działa bardzo dobrze.
 
 Największą zmianą, jaką wprowadziłem w 2021, był powrót do książek fizycznych (głównie dlatego, że mam [fajny sposób zaznaczania](https://www.instagram.com/stories/highlights/17888895380245826/) interesujących fragmentów) i spisywanie z nich notatek od razu własnymi słowami.
 
-Wcześniej używałem głównie Kindla i [stopniowo podsumowywałem](https://www.instagram.com/stories/highlights/17912473435844361/) książki, ale w przypadku książek cały proces zajmował zbyt dużo czasu.
+Wcześniej używałem głównie Kindla i stosowałem [stopniowe podsumowywanie](https://www.instagram.com/stories/highlights/17912473435844361/), ale w przypadku książek taki proces zajmuje zbyt dużo czasu (do artykułów jest ok).
 
 ## SP 2.0
 
