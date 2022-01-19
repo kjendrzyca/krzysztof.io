@@ -80,6 +80,11 @@ const BlogIndex = ({ data, location }) => {
       <h3>Wpisy</h3>
       <ul>
         <IndexLink
+          title="Podsumowanie 2021"
+          slug="podsumowanie-2021"
+          hot
+        />
+        <IndexLink
           title="Nieformalna nauka rzemiosła"
           slug="nauka-rzemiosla"
         />
