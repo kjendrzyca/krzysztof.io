@@ -108,6 +108,10 @@ body.dark-mode {
   margin: 0;
 }
 
+.header-anchor svg {
+  fill: var(--color-text-light)
+}
+
 /* HTML elements */
 
 *,
