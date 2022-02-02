@@ -149,9 +149,13 @@ const BlogIndex = ({ data, location }) => {
       <h3>Notatki z książek, artykułów i podcastów</h3>
       <ul>
         <IndexLink
+          title="Show Your Work"
+          slug="show-your-work"
+          hot
+        />
+        <IndexLink
           title="Just Fucking Ship"
           slug="jfs"
-          hot
         />
         <IndexLink
           title="Steal Like an Artist"
