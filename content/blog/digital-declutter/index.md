@@ -184,8 +184,6 @@ Dodatkowo udało mi się **częściej spotykać ze znajomymi**, żeby pogadać, 
 
 Postanowiłem też, że najlepszą opcją, żeby z kimś pogadać, będzie się po prostu spotkać, zamiast rozmawiać na Messengerze. Zgodnie z tym, co pisał Cal Newport, **pisanie oraz interakcje w social media, to aktywności o niskiej przepustowości, które nie zaspokajają drzemiących głęboko potrzeb interakcji z innymi ludźmi.**
 
-Nie opisałem tego jeszcze własnymi słowami, więc wrzucam tak:
-
 > In her 2015 book, Reclaiming Conversation, Turkle draws a distinction between **connection**, her word for the **low-bandwidth interactions** that define our online social lives, and **conversation**, the **much richer, high-bandwidth** communication that defines real-world encounters between humans.
 
 > Our brains evolved during a period when the only communication was offline and face-to-face. As argued earlier in the chapter, these **offline interactions are incredibly rich because they require our brains to process large amounts of information** about subtle analog cues such as body language, facial expressions, and voice tone.
@@ -193,6 +191,8 @@ Nie opisałem tego jeszcze własnymi słowami, więc wrzucam tak:
 > **The low-bandwidth chatter supported by many digital communication tools might offer a simulacrum of this connection, but it leaves most of our high-performance social processing networks underused—reducing these tools’ ability to satisfy our intense sociality.**
 
 > “On a social level, video games are decidedly low bandwidth compared to the experience of playing a game on a square of flat cardboard with another human being.”
+
+💡 Więcej informacji na ten temat znajdziesz w [moich notatkach](https://krzysztof.io/digital-minimalism/#Social-Animal).
 
 Śmiesznie się to pewnie czyta, bo dla wielu osób są to oczywistości, jednak ja nie zdawałem sobie sprawy, jak bardzo potrzebuję komunikacji z innymi i jak dobrze wpłynie to na moje samopoczucie.
 
