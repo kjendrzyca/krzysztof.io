@@ -3,7 +3,10 @@ title: 'Cyfrowe odgracanie i walka z uzależnieniem od aplikacji'
 date: '2021-06-29'
 published: true
 description: 'Digital Declutter - proces cyfrowego odgracania, dzięki któremu pokonałem uzależnienie od aplikacji.'
+banner: './banner.jpg'
 ---
+
+![https://unsplash.com/@melocokr](./banner.jpg)
 
 Jestem niestety podatny na wszystkie sztuczki, które stosują twórcy aplikacji, żeby przyciągnąć naszą uwagę. Dlatego od lat stosuję różne sposoby na ograniczenie wpływu tych sztuczek na to, jak się zachowuję. M.in.:
 
