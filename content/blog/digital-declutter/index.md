@@ -124,9 +124,9 @@ Procedura operacyjna to po prostu **zbiór zasad i ograniczeń, które opisują,
 
 - Oglądam tylko z kimś, nigdy samemu.
 
-Pożyczyłem ten pomysł bezpośrednio z książki i zamierzam go kontynuować, bo działa ekstremalnie dobrze. Moja żona ma ograniczony czas, więc praktycznie nigdy nie przeciągamy.
+Pożyczyłem ten pomysł bezpośrednio z książki i zamierzam go kontynuować, bo działa ekstremalnie dobrze. Moja żona ma ograniczony czas, więc praktycznie nigdy nie będziemy przeciągać oglądania seriali.
 
-Gdy naprawdę będę chciał coś obejrzeć samemu, to zaplanuję sobie binge watching w jeden konkretny dzień, maksymalnie raz w tygodniu. Gdybym robił to częściej, to bym się wykończył.
+Gdy naprawdę będę chciał coś obejrzeć samemu, to zaplanuję sobie binge watching w jeden konkretny dzień, maksymalnie raz w tygodniu. Zauważyłem, że gdy robię to częściej, to jestem potem mega zmęczony.
 
 **Instagram:**
 
@@ -192,7 +192,7 @@ Postanowiłem też, że najlepszą opcją, żeby z kimś pogadać, będzie się 
 
 > “On a social level, video games are decidedly low bandwidth compared to the experience of playing a game on a square of flat cardboard with another human being.”
 
-💡 Więcej informacji na ten temat znajdziesz w [moich notatkach](https://krzysztof.io/digital-minimalism/#Social-Animal).
+💡 Więcej informacji na ten temat znajdziesz w [moich notatkach](/digital-minimalism/#Social-Animal).
 
 Śmiesznie się to pewnie czyta, bo dla wielu osób są to oczywistości, jednak ja nie zdawałem sobie sprawy, jak bardzo potrzebuję komunikacji z innymi i jak dobrze wpłynie to na moje samopoczucie.
 
