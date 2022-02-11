@@ -139,7 +139,7 @@ Czego brakuje Twoim bohaterom? Nad czym by pracowali, gdyby nadal żyli? Co zrob
 
 > The manifesto is this: Draw the art you want to see, start the business you want to run, play the music you want to hear, write the books you want to read, build the products you want to use—do the work you want to see done.
 
-## Nie edytuj swojej pomysłów, zanim ich nie zmaterializujesz
+## Nie edytuj swoich pomysłów, zanim ich nie zmaterializujesz
 
 Jednym z lekarstw jest praca analogowa.
 
