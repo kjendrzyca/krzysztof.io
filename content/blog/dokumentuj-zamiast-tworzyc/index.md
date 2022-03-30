@@ -64,7 +64,7 @@ Jest to tzw. abundance mindset, o którym możesz przeczytać m.in. [w moich not
 
 Zamiast zaczynać od tego, czego nie wiem, zaczynam od tego, co wiem.
 
-To właśnie z tego powodu, zaczynam teraz tworzenie treści od zrobienia notatek, a nie od spisywania pomysłów, rozmyślania i tworzenia skomplikowanych strategii. Chcę szybko spisać, co wiem i się tym podzielić.
+To właśnie z tego powodu, [zaczynam teraz tworzenie treści od zrobienia notatek, a nie od spisywania pomysłów](/bottom-up/), rozmyślania i tworzenia skomplikowanych strategii. Chcę szybko spisać, co wiem i się tym podzielić.
 
 Działam zgodnie z myślą: **Jeśli wiesz więcej o Star Treku niż inni, to zacznij się tym dzielić, zanim inni cię wyprzedzą.**
 
