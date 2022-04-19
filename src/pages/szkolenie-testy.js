@@ -37,6 +37,15 @@ Szkolenie stawia nacisk na praktykę, ale składa się w dużej części z teori
 - Przetestujesz kod asynchroniczny oraz komunikację z serwerem
 - Poznasz najważniejsze pułapki oraz tips and tricks zebrane na podstawie doświadczeń z pisaniem niezliczonej ilości testów w różnych językach, oraz frameworkach
 
+**Lista potencjalnych narzędzi:**
+
+- https://jestjs.io/
+- https://testing-library.com/docs/react-testing-library/intro/
+- https://visionmedia.github.io/superagent/
+- https://github.com/mswjs/msw
+- https://github.com/nock/nock
+- https://github.com/reduxjs/redux-mock-store
+
 --
 
 [**👉 Wypełnij ankietę 👈**](https://forms.gle/jbe4rHyTRiQ5bREU9)
