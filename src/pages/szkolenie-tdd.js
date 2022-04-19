@@ -11,7 +11,10 @@ const md = `
 Pomodoro Ping-Pong Pair Programming Test Driven Development Kata (w skrócie PPPPP TDD Kata), to szkolenie z TDD, dla początkujących, które polega na zaimplementowaniu jednej z dostępnych kat w stylu TDD.
 
 Czym jest kata?
-"Computer programmers who call themselves "Software Craftsmen" will write 'Kata' - (...) code that they write in one sitting, sometimes repeatedly, often daily, in order to build muscle memory and practise their craft." (https://en.wikipedia.org/wiki/Kata)
+
+> "Computer programmers who call themselves "Software Craftsmen" will write 'Kata' - (...) code that they write in one sitting, sometimes repeatedly, often daily, in order to build muscle memory and practise their craft."
+>
+> (https://en.wikipedia.org/wiki/Kata)
 
 Całe szkolenie trwa około 4 godzin, kod piszemy w parach, które rotujemy co każde pomodoro, czyli co 25 minut.
 Ma to na celu zapoznanie się z różnymi podejściami do rozwiązania tego samego zadania, oswojenie z TDD oraz zrozumienie zalet pair-programmingu.
