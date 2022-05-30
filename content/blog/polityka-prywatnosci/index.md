@@ -24,7 +24,7 @@ Szanując Twój czas, przygotowałem dla Ciebie skróconą wersję najważniejsz
 
 ## Administrator
 
-Administratorem danych osobowych strony internetowej: krzysztof.io, czyli podmiotem odpowiedzialnym za zapewnienie bezpieczeństwa Twoim danym osobowym jest:
+Administratorem danych osobowych strony internetowej: krzysztof.io oraz edu.krzysztof.io, czyli podmiotem odpowiedzialnym za zapewnienie bezpieczeństwa Twoim danym osobowym jest:
 
 Krzysztof Jendrzyca,
 
