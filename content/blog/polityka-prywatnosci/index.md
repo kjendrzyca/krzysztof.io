@@ -13,7 +13,7 @@ Szanując Twój czas, przygotowałem dla Ciebie skróconą wersję najważniejsz
 
 ## Podstawowe informacje
 
-- Administratorem danych osobowych na stronie krzysztof.io jestem ja, czyli: Krzysztof Jendrzyca.
+- Administratorem danych osobowych na stronie krzysztof.io oraz edu.krzysztof.io jestem ja, czyli: Krzysztof Jendrzyca.
 - Możesz się ze mną skontaktować w każdej chwili z wykorzystaniem adresu e-mail: krzysztof@krzysztof.io
 - Pamiętaj, że podanie danych osobowych, a także zgoda na ich przetwarzanie są całkowicie dobrowolne. Wszelkie przekazane mi dane osobowe są przetwarzane wyłącznie w zakresie i w celu, na jaki wyraziłeś zgodę.
 - W każdej chwili masz prawo do aktualizacji lub całkowitego usunięcia swoich danych osobowych. Możesz to zrobić samodzielnie lub korzystając z mojej pomocy.
