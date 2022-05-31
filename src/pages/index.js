@@ -144,6 +144,10 @@ const BlogIndex = ({ data, location }) => {
           title="Rób swoje"
           slug="rob-swoje"
         />
+        <IndexLink
+          title="Narzędzia, których używam"
+          slug="narzedzia"
+        />
       </ul>
 
       <h3>Notatki z książek, artykułów i podcastów</h3>

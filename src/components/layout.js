@@ -34,8 +34,8 @@ const Layout = ({ location, title, children, isLandingPage }) => {
             <GitHub />
           </div>
           <div className="footer-links">
-            <Link to="/narzedzia/">Narzędzia</Link>
             <Link to="/polityka-prywatnosci/">Polityka prywatności</Link>
+            <Link to="/regulamin/">Regulamin</Link>
           </div>
         </div>
       </footer>}
