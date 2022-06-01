@@ -14,13 +14,14 @@ description: 'Zestaw narzędzi, który wypracowałem sobie w ciągu wielu lat te
 
 ## Książki:
 
-- Książki Kindle
+- Najczęście papierowe z amazon.pl
+- Kindle
 - [Audible](https://audible.com)
 - [Legimi](https://www.legimi.pl/kod/JSNUK/)
 
 ## System:
 
-- https://archlinux.org/
+- https://archlinux.org/ (dzięki https://endeavouros.com/)
   - (najbardziej bezproblemowy system operacyjny z jakim miałem styczność)
 - https://i3wm.org/
 - https://github.com/Jguer/yay
@@ -32,7 +33,7 @@ description: 'Zestaw narzędzi, który wypracowałem sobie w ciągu wielu lat te
 
 ## Dev:
 
-- https://wiki.archlinux.org/title/Rxvt-unicode
+- XFCE Terminal
 - https://ohmyz.sh/
 - https://github.com/junegunn/fzf
 - https://code.visualstudio.com/
@@ -68,6 +69,7 @@ description: 'Zestaw narzędzi, który wypracowałem sobie w ciągu wielu lat te
 - Tablet Samsung Galaxy Tab S6Lite (do Kindla)
 - Aparat Canon M50 + 15-45mm + 22mm
 - Mikrofon Novox NC X USB
+- Lampa Yongnuo YN-600 Air 5600k na statywie
 - Klawiatura ThinkPad TrackPoint Keyboard II
 - Mysz Logitech MX Master 3
 - Telefon OnePlus 6T
