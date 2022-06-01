@@ -144,7 +144,7 @@ W 2021 poznałem bliżej klika osób dzięki, którym moja głowa ma się lepiej
 - [Company of One](/company-of-one/)
 - [Digital Minimalism](/digital-minimalism/)
 - [Steal Like an Artist](/steal-like-an-artist/)
-- Show Your Work
+- [Show Your Work](/show-your-work/)
 - The Art of Work
 
 ## Eksperyment, który chciałbym przeprowadzić, ale nie będę miał na niego czasu
