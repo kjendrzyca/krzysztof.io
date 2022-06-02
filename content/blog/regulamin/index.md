@@ -49,7 +49,7 @@ shareButtons: false
 1. Do sprzedaży promocyjnej oraz wyprzedaży przeznaczona może być ograniczona liczba Produktów. Realizacja Zamówień następuje według kolejności wpływania potwierdzonych zamówień na te Produkty.
 1. Do każdego zakupu dokonanego przez Klienta dołączany jest dowód zakupu: paragon lub faktura VAT przesyłany drogą elektroniczną.
 1. Klient może dokonać płatności za zakupione Produkty przelewem poprzez elektroniczny system płatności;
-1. Płatności są obsługiwane przez Paybylink z siedzibą w Warszawie, przy ul. Jana Pawła II 22, kod pocztowy: 00-133, NIP: 1182105129, REGON: 360726494.
+1. Płatności są obsługiwane przez Stripe Payments Europe, Ltd.. Ich polityka prywatności: https://stripe.com/en-pl/privacy
 1. Zamówienia na Produkty realizowane są po otrzymaniu płatności poprzez wysyłkę Produktu lub instrukcji skorzystania z Produktu w wiadomości e-mail. Wysyłka Produktu następuje niezwłocznie po otrzymaniu płatności, do 24 godzin od chwili otrzymania płatności.
 1. Dostawa Produktów jest darmowa.
 
