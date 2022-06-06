@@ -24,7 +24,7 @@ Wyobraź sobie, że przychodzisz po informacje o tym, jak skutecznie pracować w
 
 Bałem się też, że jeśli zacznę zgłębiać poboczne tematy, które mnie w danej chwili interesują, to zaniedbam pracę nad blogiem, zacznę mieć więcej priorytetów, niż powinienem i koniec końców nie dowiozę niczego wartościowego.
 
-**Moje szerokie spektrum zainteresowań nie miało ujścia i czułem się z tym źle.**
+**Źle się czułem z tym, że nie miałem gdzie podzielić się rzeczami, które mnie interesują.**
 
 Co ciekawe, wcześniej nie pisałem żadnego bloga i nie czułem potrzeby eksplorowania oraz upubliczniania moich zainteresowań. Wydaje mi się, że gdy wszedłem (mniej więcej) w nawyk tworzenia i odkręciłem kurek z przemyśleniami, to głowa zaczęła inaczej pracować, myśli zaczęły się układać, kropki zaczęły się łączyć i odblokowałem te ścieżki w moim mózgu, które wcześniej były nieaktywne. Stąd zalew przemyśleń oraz potrzeba wyrzucenia ich z siebie i oczyszczenia głowy. Pomogło też odkrycie, że pisanie jest formą nauki, która mi pasuje.
 
@@ -223,7 +223,7 @@ Biznesowe blogi często przekształcają się w blogi prywatne, podpisane własn
 
 ## Gdzie szukam inspiracji
 
-W Polsce niestety ciężko znaleźć naprawdę epickie prywatne blogi.
+W Polsce niestety ciężko znaleźć naprawdę dobre prywatne blogi.
 
 Przeważnie spotykam się z blogami skierowanymi na konkretną niszę, które są nastawione w 80% na marketing, szybki wzrost i wrzucanie ludzi do lejków sprzedażowych.
 
