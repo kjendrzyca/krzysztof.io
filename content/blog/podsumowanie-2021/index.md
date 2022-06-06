@@ -91,7 +91,7 @@ Potrzeba bardzo dojrzałego zespołu, żeby konflikty w pracy nie przenikały do
 
 Powrót do pracy na etacie w takim trybie traktuję jako eksperyment, który na razie sporo mnie nauczył, ale jeszcze nie potrafię stwierdzić, czy jest udany.
 
-Najwiekszym plusem jest to, ze doświadczeni ludzie wiedzą, co robią. Nie muszę zajmować się wszystkim, bo każdy potrafi wziąć odpowiedzialność za jakąś część tego, co robimy i dowieźć ją od początku do końca.
+Najwiekszym plusem jest to, że doświadczeni ludzie wiedzą, co robią. Nie muszę zajmować się wszystkim, bo każdy potrafi wziąć odpowiedzialność za jakąś część tego, co robimy i dowieźć ją od początku do końca.
 
 Praca z osobami, którym możesz zaufać, że zrobią dobrą robotę to krok w stronę takiej pracy, jaką opisywałem w notatkach ze [Steal Like an Artist](/steal-like-an-artist/#Badz-nudny):
 
