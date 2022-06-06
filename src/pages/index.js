@@ -42,7 +42,7 @@ const BlogIndex = ({ data, location }) => {
         Heja! 👋
       </p>
       <p>
-        Nazywam się Krzysztof Jendrzyca. Zawodowo jestem programistą i prowadzę stronę <a href="https://skutecznyprogramista.pl">skutecznyprogramista.pl</a>.
+        Nazywam się Krzysztof Jendrzyca i zawodowo jestem programistą. Pomagam dowozić projekty oparte o React oraz Node.js.
       </p>
 
       <p>
@@ -51,11 +51,11 @@ const BlogIndex = ({ data, location }) => {
       </p>
 
       <p>
-        Pierwszym z nich jest <Link to="po-co">znalezienie interesujących rzeczy, nad którymi będę chciał pracować</Link>.
+        Obecnie pracuję nad projektem <a href="https://skutecznyprogramista.pl">skutecznyprogramista.pl</a>, który składa się z mailingu i programu szkoleniowego online.
       </p>
 
       <p>
-        Znajdziesz też tutaj moje obserwacje i notatki na tematy, które obecnie mnie interesują,{' '}
+        Znajdziesz też tutaj moje obserwacje i notatki na tematy, które obecnie mnie interesują,{' '}
         m.in. tworzenie treści i notatek, tworzenie produktów, produktywność, praca w IT, technologie webowe (React, Node).
       </p>
 
@@ -82,7 +82,6 @@ const BlogIndex = ({ data, location }) => {
         <IndexLink
           title="Podsumowanie 2021"
           slug="podsumowanie-2021"
-          hot
         />
         <IndexLink
           title="Nieformalna nauka rzemiosła"
@@ -125,7 +124,7 @@ const BlogIndex = ({ data, location }) => {
           slug="po-co"
         />
         <IndexLink
-          title="Zamień to w coś swojego"
+          title="Zamień to w coś swojego"
           slug="cos-swojego"
         />
         <IndexLink
@@ -155,7 +154,6 @@ const BlogIndex = ({ data, location }) => {
         <IndexLink
           title="Show Your Work"
           slug="show-your-work"
-          hot
         />
         <IndexLink
           title="Just Fucking Ship"
