@@ -83,17 +83,23 @@ Po jakimś czasie [opisałem podejście do pisania prywatnego bloga](/prywatny-b
 
 ## Sierpień 2021
 
-Ogłosiłem, że praca nad blogiem skutecznyprogramista.pl w takiej formie, jak teraz, przestała mnie interesować i że postanowiłem zamienić go w mailing, który doprowadzi odbiorców do pełengo programu.
+Ogłosiłem, że praca nad blogiem skutecznyprogramista.pl w takiej formie, jak teraz, przestała mnie interesować i że postanowiłem zamienić go w mailing, który doprowadzi odbiorców do pełngo programu.
 
 Zrozumiałem, że pisanie ragularnego newslettera oraz bloga wyłącznie na tematy IT mnie znudziło i nie przynosi tyle wartości ile bym chciał.
 
 👉 Zrozumiałem, że optymalny tryb tworzenia dla mnie to założenie projektu, stworzenie w jego ramach czegoś konkretnego od początku do końca, przeprowadzenie odbiorcy od punktu A do punktu B, a potem ruszenie z następnym projektem.
 
-Moje rozkminy były mocno połączone ze zmęczeniem branżą IT, wypaleniem (kilka miesięcy zajęło mi zrozumienie, że to było wypalenie) i rzuceniem etatu od 04.2021 do 10.2021.
+Moje rozkminy mocno łączyły się ze zmęczeniem branżą IT, wypaleniem (kilka miesięcy zajęło mi zrozumienie, że to było wypalenie) i rzuceniem etatu od 04.2021 do 10.2021.
 
 Więcej na temat tej decyzji opisałem w newsletterze: https://preview.mailerlite.com/f9y5t2
 
 Inspiracją do stworzenia mailingu w tej formie byli blogerzy z zachodu, którzy często tworzą mailowe minikursy wprowadzające do produktu, które w kilka dni lub godzin przynoszą wymierną wartość ludziom oraz mailingi Maćka Aniserowicza.
+
+Maile są wtedy układane w sekwencję za pomocą automatyzacji: co jakiś czas dokładam nowe maile do sekwencji, między każdym mailem ustawiam tydzień opóźnienia i każda nowo zapisana osoba, dostaje kolejnego maila w każdą kolejną środę (chyba, że ktoś już jest na końcu kolejki, a ja nie dodałem nic nowego na dany tydzień). W ten sposób wszyscy dostają wszystko (z opóźnieniem, ale jednak).
+
+Wcześniej nie stosowałem sekwencji i co tydzień wysyłałem nowego maila do takiej ilości osób, jaka obecnie była zapisana na listę. Przez to mam wiele maili, które przeczytało tylko kilkadziesiąt osób, bo zostały wysłane tylko raz, gdy lista była mała.
+
+Są inne sposoby, żeby ogarnąć ten problem, ale ten jest wg mnie najprostszy.
 
 ## Październik 2021
 
@@ -118,15 +124,15 @@ W między czasie pisałem kolejne maile, aczkolwiek od grudnia przestały być 
 
 Czemu? Bo regularne maile miały być podstawą do budowania zaufania wśród odbiorców. Bez tego muszę liczyć, że wystarczą punkty splendoru, które nabiłem wcześniej, tworząc bloga, nagrywając YT, stories na Instagramie i wymieniając się doświadczeniami w mailach oraz prywatnych wiadomościach.
 
-Z drugiej strony trwało to też zbyt długo. Idealnie pierwszą wersję kursu powinienem dostarczyć po 1-2 miesiącach od ogłoszenia i dać ludziom pełną wersję, która przyniesie najwięcej wartości, a nie rozdrabniać się w niekończących się mailach. Przynajmniej dla mnie taki tryb ma największy sens, zgodnie z tym, co pisałem wyżej na temat "optymalnego tryb tworzenia".
+Z drugiej strony trwało to też zbyt długo. Idealnie **pierwszą wersję kursu powinienem dostarczyć po 1-2 miesiącach od ogłoszenia** i dać ludziom pełną wersję, która przyniesie najwięcej wartości, a nie rozdrabniać się w niekończących się mailach. Przynajmniej dla mnie taki tryb ma największy sens, zgodnie z tym, co pisałem wyżej na temat "optymalnego trybu tworzenia".
 
 Podczas układania materiałów wybierałem tylko to, co najważniejsze. Wiele rzeczy, które wrzucałem wcześniej na bloga nie trafią do finalnego programu, bo są tylko jego rozszerzeniem. Często mówiłem o rozwoju w IT, a to nie jest krytyczne do tego, żeby pokazać jak skutecznie pracować w zespole.
 
-W całym procesie wyboru tego, co najważniejsze mocno pomogły mi archiwalne wpisy na blogu Paula Jarvisa o tworzeniu minimalistyczego biznesu, jego książka [Company of One](/company-of-one/) i [książka Just Fucking Ship](/jfs/) od [Amy Hoy](https://stackingthebricks.com), która pokazuje jak szybko dowieźć pierwszą wersję produktu.
+W całym procesie wyboru tego, co najważniejsze mocno pomogły mi archiwalne wpisy na blogu Paula Jarvisa o tworzeniu minimalistyczego biznesu, jego książka [Company of One](/company-of-one/) i książka [Just Fucking Ship](/jfs/) od [Amy Hoy](https://stackingthebricks.com), która pokazuje jak szybko dowieźć pierwszą wersję produktu.
 
-W skrócie: **im mniej materiałów, tym lepiej. Im szybciej dowieziesz pierwszą wersję, tym lepiej**.
+W skrócie: **im mniej materiałów, tym lepiej. Im szybciej dowieziesz pierwszą wersję, tym lepiej.**
 
-U mnie nie było to takie proste, bo wiedzę i doświadczenie, które chcę przedstawić, zbierałem przez kilka lat. Choćbym chciał, to ten program nie będzie krótki, bo jest zbyt wiele tematów, które zaliczają się do kategorii "niezbędne". Przez jakiś czas zastanawiałem się czy nie wyodrębnić tylko jednego modułu z całego kursu i dowieźć tylko tyle, ale brakuje wtedy punktów zaczepienia, które pokazują dlaczego akurat to, o czym mówię, ma sens. Dlatego będzie całość albo nic.
+U mnie nie było to takie proste, bo wiedzę i doświadczenie, które chcę przedstawić, zbierałem przez kilka lat. Choćbym chciał, to ten program nie będzie krótki, bo jest zbyt wiele tematów, które zaliczają się do kategorii "niezbędne". Przez jakiś czas zastanawiałem się, czy nie wyodrębnić tylko jednego modułu z całego kursu i dowieźć tylko tyle, ale brakuje wtedy punktów zaczepienia, które pokazują dlaczego akurat to, o czym mówię, ma sens. Dlatego będzie całość albo nic.
 
 Życie ułatwiają mi też doświadczenia z tworzenia prezentacji i szkoleń stacjonarnych.
 
@@ -143,3 +149,108 @@ Dokładnie to samo wykorzystałem tutaj i w każdym innym kawałku treści, któ
 Konkretne treści zbieram w moim [systemie do notatek](/second-brain/). Pozwala mi to stworzyć outline, a potem uzupełniać treścią:
 
 ![Slipbox](./slip-box.png)
+
+## Krótko o walidacji
+
+Do moich największych wyzwań od zawsze należy walidacja pomysłu, czyli zrozumienie, czego tak naprawdę chcą odbiorcy.
+
+Najczęściej udzielaną radą jest "spytaj odbiorców czego chcą, niech sami Ci powiedzą".
+
+Ta rada wysypuje się w momencie, gdy przypominam sobie znany cytat Henrego Forda, "If I had asked people what they wanted, they would have said faster horses".
+
+Ten problem da się ominąć, jeśli zaczniemy zadawać pytania o problemy jakie mają ludzie i o to w jaki sposób sobie z nimi radzą, a także przez obserwację.
+
+W moim przypadku pytanie o problemy zadawałem w ankiecie, która była dołączona do każdego maila w mailingu na samym dole.
+Znajdowało się tam proste pytanie:
+
+> Czego chcesz się dowiedzieć o skutecznej pracy w zespole? Czy są jakieś wyzwania lub problemy, z którymi musisz sobie poradzić? Chodzi tu o wszystko, co związane z zespołem projektowym, z klientem, pracodawcą lub zadaniami.
+
+Odpowiedzi były różne i część z nich nie pasowała zupełnie do tego, co chciałem omawiać, ale kilka rzeczy wrzuciłem do agendy programu.
+
+Walidacja przez obserwacje polegała na mieszance kilku rzeczy:
+
+- ile osób zapisało się na listę mailową: **~1000**, sporo usunąłem, ze względu na brak zainteresowania tematem, ale zanim to zrobiłem, to napisałem maila z przypomnieniem (https://preview.mailerlite.com/m1t7y4r3t4), który po kliknięciu w link dopisywał taką osobę do specjalnej grupy w mailingu i wiedziałem, żeby jej nie usuwać.
+- ile osób do mnie pisze z pytaniami związanymi z programem na mailach i na Instagramie (tutaj znalazło się przynajmniej kilkadziesiąt pytań, nie mam dokładnych statystyk)
+- ile osób czyta i kilka w linki (**17608** wysłanych maili, współczynnik otwarć **52.26%**, współczynnik kliknięć **6.22%**)
+
+## Czerwiec 2022
+
+Taki sposób walidacji, jak opisałem wyżej jest dla mnie wystarczający, żeby określić, że jest zainteresowanie tematem, ale niewystarczający, żeby stwierdzić, że ktokolwiek jest zainteresowany kupnem pełnego programu.
+
+Dlatego zanim zacząłem nagrywać, postanowiłem odpalić przedsprzedaż. Chciałem to zrobić w najprostszy możliwy sposób, pisząc maila do listy:
+
+- że odpalam przedsprzedaż w promocyjnej cenie
+- że zacznę nagrywać jak kupi 20 osób, a limit osób to 25 (bo chcę zebrać feedback, a im więcej osób, tym ciężej)
+- że zwracam hajs, gdy nie uzbieram 20 osób
+
+i prosząc o przelew na konto, bo **dowód wpłaty, to najlepszy sposób walidacji**.
+
+Wyszedłem z założenia, że jeśli ludzie z listy mailowej nie chcą kupić czegoś po najlepszej możliwej cenie, to nie warto tego budować.
+
+Wiedzę o przedsprzedaży, czerpałem głównie z https://mailketing.pl/ i tego, jak zrobił to [Nat Eliason przy sprzedaży swojego kursu](https://www.youtube.com/watch?v=NblHMZbYg-o).
+
+Nat stworzył outline, wrzucił screenshot na Twittera i poprosił o płatność na PayPala, jeśli ktoś chce dołączyć i budować kurs wspólnie, przez udzielanie feedbacku. Proste i skuteczne.
+
+Chciałem w podobny sposób zrobić to u siebie - podając numer konta i prosząc o dane do wystawienia faktury.
+
+Nie znam się jednak na Polskim prawie na tyle, żeby stwierdzić, czy mogę w taki sposób cokolwiek sprzedawać bez narażania się na jakieś konsekwencje ze strony urzędu skarbowego lub jakiejś innej organizacji, a nie miałem czasu wchodzić w dyskusje z księgową itd.
+
+Polecono mi też stworzyć linka do jakiegoś koszyka, ze względu na to, że wymaganie od kogoś, żeby zrobił ręczny przelew, a potem wysłał dane do faktury, może zniechęcić do zakupu.
+
+Zrobiłem więc mały research. Używam MailerLite i Fakturowni, więc wymaganiem była integracja z tymi systemami i jak najniższa cena.
+
+Zacząłem od sprawdzenia, czy mogę utworzyć link sprzedażowy przy pomocy Stripe, którego kiedyś sobie zkonfigurowałem i który teoretycznie był gotowy do przyjmowania płatności.
+
+W Stripe już od jakiegoś czasu istnieje stworzenie prostej strony płatności przy pomocy funkcjonalności Payment Links. Kiedyś nie było jednak możliwości dorzucenia pola NIP w formularzu sprzedaży, więc jeśli ktoś chciałby dokonać zakupu na firmę, to nie mógł tego zrobić.
+Teraz taka możliwość istnieje, jednak pole z NIPem nie jest potem widoczne na fakturze generowanej przez Stipe. Dokodzili funkcjonalność, ale zabrakło chyba jakiś testów, albo ja czegoś ewidentnie nie rozumiem :). Mógłbym samodzielnie ogarnąć integrację z fakturownią przy pomocy webhooków, ale nie było na to czasu. Stripe odpadł.
+
+Próbowałem też skonfigurować wykorzystywany przez wielu twórców Tpay. Odpadłem, gdy dowiedziałem się, że weryfikacja danych trwa około tygodnia, albo dłużej i gdy kazali mi zrobić bezzwrotny przelew o wartości 200zł, tylko po to, żeby zweryfikować moje konto bankowe i umożliwić wypłacanie kasy.
+
+Dla porówniania Stripe czy też polski Paybylink życzą sobie tylko złotówkę 🤷‍♂️.
+
+Z gotowych koszyków najbardziej przypadł mi do gustu https://www.easycart.pl/, a z gotowych platform, które są dedykowane na rynek polski - https://webtolearn.pl/.
+
+Wybrałem w końcu WebToLearn ze względu na dwie rzeczy:
+
+1. WebToLearn to pełna platforma, która obsługuje sprzedaż i dostarczanie kursu, ma budowany hosting video oraz konfiguracje z Fakturownią i MailerLite. Konfiguruję wszystko raz, łącznie z integracjami, a potem już tylko nagrywam i wrzucam kolejne materiały.
+1. Jeśli dobrze rozumiem to EasyCart nie integruje się z systemami do faktur. Wpis w FAQ EasyCart: "Możemy też połączyć Cię z jednym z wystawcą faktur, jak inFakt, wFirma, iFirma, Fakturownia. Koszt utrzymania integracji to 50 zł miesięcznie." Gotowy koszyk, bez możliwości samodzielnej, darmowej integracji z systemem do faktur, nie jest dla mnie "gotowym koszykiem". Pewnie jest jakiś prosty sposób na ogarnięcie tego przypadku (np. eksport z ich wbudowanego systemu faktur), ale nie miałem w tym momencie czasu na oglądanie minikursu z obsługi EasyCart i nie mam na razie ochoty tworzyć ręcznych automatyzacji, bo każda to kolejny potencjalny punkt awarii. Poza tym i tak musiałbym wykorzystać jakąś platformę do stworzenia programu, a [EasyLMS](https://www.easylms.pl/) z tej samej stajni jest nieproporcjonalnie drogi w porównaniu do moich prostych zastosowań.
+
+Zostało mi wybranie bramki płatności. WebToLearn polecał na swojej stronie sensownie wyglądający https://paybylink.pl/, z którego zdecydowałem się skorzystać, bo wyglądało na to, że szybko weryfikują konto i nie życzą sobie przelewu za 200, żeby aktywować konto.
+
+Long story short, odradzam komukolwiek korzystanie z ich usług:
+
+Po założeniu konta, zrobiłem przelew z banku i czekałem na weryfikację, która miała trwać do 24 godzin. Gdy ten czas upłynął napisałem do supportu. Za pierwszym razem konsultant zamknął mój czat bez odpowiedzi, a za drugim razem konto zostało aktywowane od razu.
+
+Odniosłem wrażenie, że nic w tym systemie nie dzieje się bez napisania do supportu i okazało się, że mam rację.
+
+Po weryfikacji konta mogłem dodać sklep. Jest to potrzebne, żeby dostać kody do API, które potem podpinam w WebToLearn.
+Przy zakładaniu sklepu musiałem podać link do mojej strony (podałem link platformy) i regulaminu, który wcześniej stworzyłem (żeby wszystko było po bożemu). Po podaniu tych informacji następuje kolejny czas oczekiwania. Na następny dzień znowu napisałem do supportu, żeby spytać ile trzeba czekać na aktywację sklepu, bo nadal nie jest aktywny.
+
+Dostałem informację, że podczas wejścia na moją stronę należy się zalogować i utrudnia to weryfikację.
+
+Po pierwsze: czemu nikt mi tego nie powiedział? Czemu znowu musiałem szturchać ludzi na supporcie, żeby się cokolwiek ruszyło?
+
+Po drugie: jasne, że nie da się zalogować, bo jest to zamknięta platforma dla tych, którzy wykupili dostęp.
+
+Tak też odpisałem i dodałem, że link do polityki prywatności są publiczne, podałem je w formularzu i dodatkowo są zamieszczone na stronie platformy i nie trzeba się nigdzie logować, żeby je przeczytać.
+
+Odpowiedź:
+
+> Aby zaakceptować sklep musimy wiedzieć co klienci mogą zakupić na danej stronie. Ponadto w systemie nie widzimy linków do regulaminu oraz polityki prywatności. Poproszę o testowe dane do logowania na stronę
+
+Lata medytacji i próby stoickiego podejścia do życa mocno mi się przydały, gdy przeczytałem te słowa. Dałem sobie spokój.
+
+Na szczęście WebToLearn wspiera już Stripe'a i gdyby na stronie z ficzerami dali o tym znać, to nawet nie zaczynałbym zabawy z innymi bramkami płatności.
+Dowiedziałem tego dopiero przy próbie podpięcia płatności, gdy zobaczyłem Stripe'a w menu. Konfiguracja tej integracji trwała 30 sekund.
+
+Najśmieszniejsze w tym wszystkim jest to, że już po fakcie, sklep został aktywowany bez żadnych dodatkowych pytań, bez logowania się na platformę itp. Musiałem to jednak sprawdzić sam, logując się na stronę, bo nie dostałem żadnego maila z powiadomieniem. Obsługa klienta leży na pełne, a gdy w grę wchodzą pieniądze, to wydaje mi się, że jest to najważniejsze.
+
+Genialną obsługę klienta posiada jednak WebToLearn. Musiałem dwa razy skorzystać z ich supportu, bo platforma to wielki kombajn, który ma swoje dziwe quirki, a UX woła o pomoc i nie pomaga, jednak na wszystkie pytania odpowiadają w przeciągu kilku minut.
+
+Dzięki temu wszystko udało się skonfigurować na czas i cały proces sprzedaży zadziałał od strzała.
+
+Na koniec sprzedaży zorientowałem się, że strona sprzedażowa o braku miejsc informuje dopiero po wypełnieniu formularza z danymi do zakupu, a to wg mnie znowu słaby UX, bo miałem wrażenie, że sprzedaż nadal jest aktywna (formularz powinien być nieaktywny oraz informować, że miejsc już nie ma). Jednak znowu szybki strzał do supportu i wszystko się wyjaśniło szybciej niż byłbym w stanie się czymkolwiek zacząć przejmować. Śmieszne jest to, że po zakończeniu sprzedaży strona do zakupu informuje, że taka sprzedaż nie istnieje, zamiast informować, że została zakończona. Serio zatrudniłbym UXa.
+
+## Mail o sprzedaży i wyniki
+
+TDB
