@@ -80,6 +80,11 @@ const BlogIndex = ({ data, location }) => {
       <h3>Wpisy</h3>
       <ul>
         <IndexLink
+          title={`"Skuteczna Praca w Zespole" - dziennik prac`}
+          slug="sp-dziennik"
+          hot
+        />
+        <IndexLink
           title="Podsumowanie 2021"
           slug="podsumowanie-2021"
         />
