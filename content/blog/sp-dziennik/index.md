@@ -254,7 +254,7 @@ W poniedziałek 30.05 wysłałem informację, że w czwartek 02.06 podeślę inf
 
 Nie podawałem żadnych szczegółów, chciałem po prostu uprzedzić wszystkich i dać równe szanse na zakup. Obiecałem, że osoby z listy mailowej otrzymają najlepszą opcję zakupu i nie chciałem, żeby ktoś ją przegapił i miał pretensje.
 
-W czwartek zamieściłem w mailu krótki opis programu, nazwę, dlaczego go tworzę, podesłałem [agendę](/sp-agenda/) i przedstawiłem plan gry - przedsprzedaż, limit, miejsc, najlepsza cena, 30 dni na zwrot od dostarczenia pierwszego modułu, nagrywanie zaczynam po 26.06, bo jadę na urlop.
+W czwartek zamieściłem w mailu krótki opis programu, nazwę, dlaczego go tworzę, podesłałem [agendę](/sp-agenda/) i przedstawiłem plan gry - przedsprzedaż, limit miejsc, najlepsza cena, 30 dni na zwrot od dostarczenia pierwszego modułu, nagrywanie zaczynam po 26.06, bo jadę na urlop.
 
 Ogłosiłem, że osoby, które zakupiły kurs w przedsprzedaży, będą miały wpływ na to, jak on wygląda, co jest ok, czego brakuje itd.
 
