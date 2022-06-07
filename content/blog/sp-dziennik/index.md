@@ -4,16 +4,14 @@ date: '2022-06-01'
 published: true
 ---
 
-Bloga skutecznyprogramista.pl zacząłem pisać w 2020 i tym zrobiłem to, co zawsze chciałem zrobić.
+Zacząłem pisać blog skutecznyprogramista.pl w 2020 i zrobiłem to, co zawsze chciałem zrobić - dzielić się wiedzą i budować nowe znajomości.
 
-Od zawsze chciałem prowadzić blog, dzielić się wiedzą oraz budować nowe znajomości.
+W ramach bloga nagrałem nawet kilka filmów na YT i odhaczyłem kolejne achievementy.
 
-Każda z tych rzeczy się spełniła. Po drodze nagrałem nawet kilka filmów na YT i odhaczyłem kolejne achievementy.
-
-Po jakimś czasie chciałem przekształcić ten blog w coś więcej niż hobby na boku i stworzyć swój pierwszy program online.
+Po jakimś czasie postanowiłem przekształcić ten blog w coś więcej niż hobby na boku i stworzyć swój pierwszy program online.
 Chciałem w nim pokazać te aspekty pracy w zespole, które uważam za najważniejsze, które dają największy zwrot z inwestycji i które robią z nas kogoś więcej niż klepacza kodu.
 
-To już nie było takie łatwe. Jednak w momencie, w którym to piszę (2022-06-01) mam gotowy outline i agendę programu, który będę jutro sprzedawał.
+To już nie było takie łatwe. Jednak w momencie, w którym zacząłem pisać ten wpis (2022-06-01), mam gotowy outline i agendę programu, który będę jutro sprzedawał.
 
 Szczęściem w nieszczęściu jest to, że po drodze nauczyłem się naprawdę wiele, głównie o tworzeniu treści.
 Jednak nigdzie, poza kilkoma newsletterami, nie opisuję swojej drogi w transparenty sposób i chciałbym zmienić to tym wpisem.
@@ -50,7 +48,7 @@ Nauczyłem się całkiem sporo o tym, w jaki sposób nagrywać, oświetlać i mo
 
 Nagranie 10 minutowego filmu to kilka godzin pracy. Pracy, której nie da się wyedytować i poprawić. Jak ją wrzucę w Internet, taka już zostanie na wieki.
 
-Z tego powodu nagrałem tylko 6 filmów (ostatni miał premierę 2020-06-25) i wróciłem do pisania. Planuję wrócić jeszcze na YT ale w lżejszej formie, gdzie będę dokumentował, co robię i nie będę musiał przejmować się tyle nagrywaniem, montażem i tym, że treści nie można poprawić.
+Z tego powodu nagrałem tylko 6 filmów (ostatni miał premierę 2020-06-25) i wróciłem do pisania. Planuję wrócić jeszcze na YT ale w lżejszej formie, gdzie będę dokumentował, co robię i nie będę musiał przejmować się tyle nagrywaniem, montażem i tym, że treści nie można poprawić. Sposób nagrywania w stylu Thomasa Franka już mnie nie interesuje.
 
 Narzędzia, które wykorzystałem do nagrywania można znaleźć [w sekcji "Sprzęt"](/narzedzia/#Sprzet).
 
@@ -66,12 +64,11 @@ Gdy byłem w trybie "musisz/powinieneś", to musiałem (;)) przekonywać wszystk
 
 Do tego momentu tworzenie treści było bardzo trudne, bo cały czas starałem się coś udowodnić.
 
-Wynikało to oczywiście z chęci niesienia pomocy, bo te rzeczy naprawdę działają, ale jest to tylko jeden ze sposobów na osiągnięcie jakiegoś celu i każdy może mieć inny.
+Wynikało to oczywiście z chęci niesienia pomocy, bo te rzeczy naprawdę działają, ale są jednocześnie tylko jednym ze sposobów na osiągnięcie celu. Każdy może mieć inny.
 
 W tym momencie [zacząłem dokumentować](/dokumentuj-zamiast-tworzyc/) i proces ten trwa do teraz.
 
 Wydaje mi się, że tryb "musisz/powinieneś", to obecnie największy rak wśród twórców treści i byłoby nam wszystkim lepiej, gdyby każdy pokazywał, co działa u niego i nie próbował nikogo do niczego przekonywać. Bo kontekst każdego z nas może się różnić.
-
 
 ## Pierwsze miesiące 2021
 
@@ -85,15 +82,15 @@ Po jakimś czasie [opisałem podejście do pisania prywatnego bloga](/prywatny-b
 
 Ogłosiłem, że praca nad blogiem skutecznyprogramista.pl w takiej formie, jak teraz, przestała mnie interesować i że postanowiłem zamienić go w mailing, który doprowadzi odbiorców do pełngo programu.
 
-Zrozumiałem, że pisanie ragularnego newslettera oraz bloga wyłącznie na tematy IT mnie znudziło i nie przynosi tyle wartości ile bym chciał.
+Zrozumiałem, że pisanie ragularnego newslettera oraz bloga wyłącznie na tematy IT zaczyna mnie powoli nudzić i nie przynosi tyle wartości ile bym chciał.
 
 👉 Zrozumiałem, że optymalny tryb tworzenia dla mnie to założenie projektu, stworzenie w jego ramach czegoś konkretnego od początku do końca, przeprowadzenie odbiorcy od punktu A do punktu B, a potem ruszenie z następnym projektem.
 
-Moje rozkminy mocno łączyły się ze zmęczeniem branżą IT, wypaleniem (kilka miesięcy zajęło mi zrozumienie, że to było wypalenie) i rzuceniem etatu od 04.2021 do 10.2021.
+Moje rozkminy mocno łączyły się ze zmęczeniem branżą IT, wypaleniem (kilka miesięcy zajęło mi zrozumienie, że to było wypalenie) i rzuceniem etatu na pół roku - od 04.2021 do 10.2021.
 
 Więcej na temat tej decyzji opisałem w newsletterze: https://preview.mailerlite.com/f9y5t2
 
-Inspiracją do stworzenia mailingu w tej formie byli blogerzy z zachodu, którzy często tworzą mailowe minikursy wprowadzające do produktu, które w kilka dni lub godzin przynoszą wymierną wartość ludziom oraz mailingi Maćka Aniserowicza.
+Inspiracją do stworzenia mailingu byli blogerzy z zachodu, którzy często tworzą mailowe minikursy wprowadzające do produktu, które w kilka dni lub godzin przynoszą konkretną wartość ludziom oraz mailingi Maćka Aniserowicza.
 
 Maile są wtedy układane w sekwencję za pomocą automatyzacji: co jakiś czas dokładam nowe maile do sekwencji, między każdym mailem ustawiam tydzień opóźnienia i każda nowo zapisana osoba, dostaje kolejnego maila w każdą kolejną środę (chyba, że ktoś już jest na końcu kolejki, a ja nie dodałem nic nowego na dany tydzień). W ten sposób wszyscy dostają wszystko (z opóźnieniem, ale jednak).
 
@@ -111,20 +108,21 @@ Miałem w tym czasie ostro pracować nad segregowaniem i układaniem materiałó
 
 Projekt trwał pół roku i przez pierwsze miesiące udało mi się wyrobić nawyk, który pożyczyłem od mojego kolegi [Bartka](https://bartekwitczak.com/) - wstaję wcześnie rano i od razu zabieram się do pracy nad własnymi rzeczami, a dopiero potem, po dowiezieniu [jakiegoś kawałka](/pakiety/), siadam do pracy dla klienta.
 
-Do teraz uważam, że jest to dla mnie najlepszy nawyk, które muszę się trzymać. Nadal mam problem w sytuacjach niestandardowych, czyli np.:
+Do teraz uważam, że jest to dla mnie najlepszy nawyk, którego muszę się trzymać. Nadal mam jednak problem w sytuacjach niestandardowych, czyli np.:
+
 - z jakiegoś powodu muszę rano zająć czymś innym (coś dla klienta, jakieś spotkanie, auto trzeba zawieźć na warsztat)
 - zbyt późno poszedłem spać i rano nie wstałem odpowiednio wcześnie
 - coś w życiu tak bardzo wyczerpuje mi energię, że nie chce mi się rano pracować nad czymkolwiek (przykład: szukanie kolejnego projektu i rekrutacje)
 
 ## Maj 2022
 
-Takim porannym trybem pracy udało mi się jakoś doczołgać do maja 2022 i skończyć układanie materiałów.
+Takim porannym trybem pracy udało mi się jakoś doczołgać do maja 2022 i skończyć układanie materiałów do pełnego programu.
 
 W między czasie pisałem kolejne maile, aczkolwiek od grudnia przestały być one regularne i bardzo mnie to boli.
 
 Czemu? Bo regularne maile miały być podstawą do budowania zaufania wśród odbiorców. Bez tego muszę liczyć, że wystarczą punkty splendoru, które nabiłem wcześniej, tworząc bloga, nagrywając YT, stories na Instagramie i wymieniając się doświadczeniami w mailach oraz prywatnych wiadomościach.
 
-Z drugiej strony trwało to też zbyt długo. Idealnie **pierwszą wersję kursu powinienem dostarczyć po 1-2 miesiącach od ogłoszenia** i dać ludziom pełną wersję, która przyniesie najwięcej wartości, a nie rozdrabniać się w niekończących się mailach. Przynajmniej dla mnie taki tryb ma największy sens, zgodnie z tym, co pisałem wyżej na temat "optymalnego trybu tworzenia".
+Z drugiej strony trwało to też zbyt długo. Idealnie **pierwszą wersję kursu powinienem dostarczyć po 1-2 miesiącach od ogłoszenia** i dać ludziom pełną wersję, która przyniesie najwięcej wartości, a nie rozdrabniać się w mailach. Przynajmniej dla mnie taki tryb ma największy sens, zgodnie z tym, co pisałem wyżej na temat "optymalnego trybu tworzenia".
 
 Podczas układania materiałów wybierałem tylko to, co najważniejsze. Wiele rzeczy, które wrzucałem wcześniej na bloga nie trafią do finalnego programu, bo są tylko jego rozszerzeniem. Często mówiłem o rozwoju w IT, a to nie jest krytyczne do tego, żeby pokazać jak skutecznie pracować w zespole.
 
@@ -137,6 +135,7 @@ U mnie nie było to takie proste, bo wiedzę i doświadczenie, które chcę prze
 Życie ułatwiają mi też doświadczenia z tworzenia prezentacji i szkoleń stacjonarnych.
 
 Gdy tworzę szkolenie lub prezentację, to zawsze zaczynam od dwóch rzeczy:
+
 - Spisania transformacji, którą ma przejść odbiorca (Punkt A -> Punkt B).
 - Stworzenia szczegółowego outline'u, w którym w wielokrotnie zagnieżdżonej liście spisuję wszystkie tematy, które chcę poruszyć i układam je w sensowny flow tak, żeby jeden temat przechodził płynnie w kolejny.
 
@@ -158,7 +157,7 @@ Najczęściej udzielaną radą jest "spytaj odbiorców czego chcą, niech sami C
 
 Ta rada wysypuje się w momencie, gdy przypominam sobie znany cytat Henrego Forda, "If I had asked people what they wanted, they would have said faster horses".
 
-Ten problem da się ominąć, jeśli zaczniemy zadawać pytania o problemy jakie mają ludzie i o to w jaki sposób sobie z nimi radzą, a także przez obserwację.
+Ten problem da się ominąć, jeśli zaczniemy zadawać pytania o problemy jakie mają ludzie, o to w jaki sposób sobie z nimi radzą i przez obserwację ich zachowań.
 
 W moim przypadku pytanie o problemy zadawałem w ankiecie, która była dołączona do każdego maila w mailingu na samym dole.
 Znajdowało się tam proste pytanie:
@@ -179,13 +178,13 @@ Taki sposób walidacji, jak opisałem wyżej jest dla mnie wystarczający, żeby
 
 Dlatego zanim zacząłem nagrywać, postanowiłem odpalić przedsprzedaż. Chciałem to zrobić w najprostszy możliwy sposób, pisząc maila do listy:
 
-- że odpalam przedsprzedaż w promocyjnej cenie
+- że odpalam przedsprzedaż w promocyjnej cenie 384 zł brutto
 - że zacznę nagrywać jak kupi 20 osób, a limit osób to 25 (bo chcę zebrać feedback, a im więcej osób, tym ciężej)
 - że zwracam hajs, gdy nie uzbieram 20 osób
 
-i prosząc o przelew na konto, bo **dowód wpłaty, to najlepszy sposób walidacji**.
+i prosząc o przelew na konto, bo **dowód wpłaty, to najlepsza walidacja**.
 
-Wyszedłem z założenia, że jeśli ludzie z listy mailowej nie chcą kupić czegoś po najlepszej możliwej cenie, to nie warto tego budować.
+Wyszedłem z założenia, że **jeśli ludzie z listy mailowej nie chcą kupić czegoś po najlepszej możliwej cenie, to nie warto tego budować**.
 
 Wiedzę o przedsprzedaży, czerpałem głównie z https://mailketing.pl/ i tego, jak zrobił to [Nat Eliason przy sprzedaży swojego kursu](https://www.youtube.com/watch?v=NblHMZbYg-o).
 
@@ -193,64 +192,79 @@ Nat stworzył outline, wrzucił screenshot na Twittera i poprosił o płatność
 
 Chciałem w podobny sposób zrobić to u siebie - podając numer konta i prosząc o dane do wystawienia faktury.
 
-Nie znam się jednak na Polskim prawie na tyle, żeby stwierdzić, czy mogę w taki sposób cokolwiek sprzedawać bez narażania się na jakieś konsekwencje ze strony urzędu skarbowego lub jakiejś innej organizacji, a nie miałem czasu wchodzić w dyskusje z księgową itd.
+Nie znam się jednak na Polskim prawie na tyle, żeby stwierdzić, czy mogę w taki sposób cokolwiek sprzedawać bez narażania się na jakieś konsekwencje ze strony urzędu skarbowego lub jakiejś innej organizacji, a nie miałem czasu wchodzić w dyskusje z księgową.
 
-Polecono mi też stworzyć linka do jakiegoś koszyka, ze względu na to, że wymaganie od kogoś, żeby zrobił ręczny przelew, a potem wysłał dane do faktury, może zniechęcić do zakupu.
+Polecono mi też stworzyć linka do jakiegoś koszyka, ze względu na to, że wymaganie od kogoś, żeby zrobił ręczny przelew, a potem wysyłał dane do faktury, może zniechęcić do zakupu.
 
 Zrobiłem więc mały research. Używam MailerLite i Fakturowni, więc wymaganiem była integracja z tymi systemami i jak najniższa cena.
 
-Zacząłem od sprawdzenia, czy mogę utworzyć link sprzedażowy przy pomocy Stripe, którego kiedyś sobie zkonfigurowałem i który teoretycznie był gotowy do przyjmowania płatności.
+Zacząłem od sprawdzenia, czy mogę utworzyć link sprzedażowy przy pomocy Stripe, którego kiedyś skonfigurowałem i który teoretycznie był gotowy do przyjmowania płatności.
 
 W Stripe już od jakiegoś czasu istnieje stworzenie prostej strony płatności przy pomocy funkcjonalności Payment Links. Kiedyś nie było jednak możliwości dorzucenia pola NIP w formularzu sprzedaży, więc jeśli ktoś chciałby dokonać zakupu na firmę, to nie mógł tego zrobić.
-Teraz taka możliwość istnieje, jednak pole z NIPem nie jest potem widoczne na fakturze generowanej przez Stipe. Dokodzili funkcjonalność, ale zabrakło chyba jakiś testów, albo ja czegoś ewidentnie nie rozumiem :). Mógłbym samodzielnie ogarnąć integrację z fakturownią przy pomocy webhooków, ale nie było na to czasu. Stripe odpadł.
+Teraz taka możliwość istnieje, jednak pole z NIPem nie jest potem widoczne na fakturze generowanej przez Stipe. Dokodzili funkcjonalność, ale chyba nie do końca, albo ja czegoś nie rozumiem. Mógłbym samodzielnie ogarnąć integrację z Fakturownią przy pomocy webhooków, ale nie było na to czasu. Stripe odpadł.
 
 Próbowałem też skonfigurować wykorzystywany przez wielu twórców Tpay. Odpadłem, gdy dowiedziałem się, że weryfikacja danych trwa około tygodnia, albo dłużej i gdy kazali mi zrobić bezzwrotny przelew o wartości 200zł, tylko po to, żeby zweryfikować moje konto bankowe i umożliwić wypłacanie kasy.
 
-Dla porówniania Stripe czy też polski Paybylink życzą sobie tylko złotówkę 🤷‍♂️.
+Dla porówniania Stripe czy też polski Paybylink (o którym później) życzą sobie tylko złotówkę 🤷‍♂️.
 
 Z gotowych koszyków najbardziej przypadł mi do gustu https://www.easycart.pl/, a z gotowych platform, które są dedykowane na rynek polski - https://webtolearn.pl/.
 
-Wybrałem w końcu WebToLearn ze względu na dwie rzeczy:
+Wybrałem w końcu WebToLearn, bo to pełna platforma, która obsługuje sprzedaż i dostarczanie kursu, ma budowany hosting video oraz konfiguracje z Fakturownią i MailerLite. Konfiguruję wszystko raz, łącznie z integracjami, a potem już tylko nagrywam i wrzucam kolejne materiały.
 
-1. WebToLearn to pełna platforma, która obsługuje sprzedaż i dostarczanie kursu, ma budowany hosting video oraz konfiguracje z Fakturownią i MailerLite. Konfiguruję wszystko raz, łącznie z integracjami, a potem już tylko nagrywam i wrzucam kolejne materiały.
-1. Jeśli dobrze rozumiem to EasyCart nie integruje się z systemami do faktur. Wpis w FAQ EasyCart: "Możemy też połączyć Cię z jednym z wystawcą faktur, jak inFakt, wFirma, iFirma, Fakturownia. Koszt utrzymania integracji to 50 zł miesięcznie." Gotowy koszyk, bez możliwości samodzielnej, darmowej integracji z systemem do faktur, nie jest dla mnie "gotowym koszykiem". Pewnie jest jakiś prosty sposób na ogarnięcie tego przypadku (np. eksport z ich wbudowanego systemu faktur), ale nie miałem w tym momencie czasu na oglądanie minikursu z obsługi EasyCart i nie mam na razie ochoty tworzyć ręcznych automatyzacji, bo każda to kolejny potencjalny punkt awarii. Poza tym i tak musiałbym wykorzystać jakąś platformę do stworzenia programu, a [EasyLMS](https://www.easylms.pl/) z tej samej stajni jest nieproporcjonalnie drogi w porównaniu do moich prostych zastosowań.
+Jeśli dobrze rozumiem to EasyCart nie integruje się z niczym bez użycia Zapiera. W FAQ EasyCart jest wpis: "Możemy też połączyć Cię z jednym z wystawcą faktur, jak inFakt, wFirma, iFirma, Fakturownia. Koszt utrzymania integracji to 50 zł miesięcznie."
+Gotowy koszyk, bez możliwości samodzielnej, darmowej integracji z systemem do faktur, nie jest dla mnie wystarczająco "gotowym koszykiem". Pewnie jest jakiś prosty sposób na ogarnięcie tego przypadku (np. eksport z ich wbudowanego systemu faktur), ale nie miałem w tym momencie czasu na dalszy research i tworzenie ręcznych automatyzacji.
 
-Zostało mi wybranie bramki płatności. WebToLearn polecał na swojej stronie sensownie wyglądający https://paybylink.pl/, z którego zdecydowałem się skorzystać, bo wyglądało na to, że szybko weryfikują konto i nie życzą sobie przelewu za 200, żeby aktywować konto.
+Doświadczenie nauczyło mnie też, że każda kolejna automatyzacja, to kolejny potencjalny punkt wystąpienia awarii. Poza tym i tak musiałbym wykorzystać jakąś platformę do stworzenia programu, a [EasyLMS](https://www.easylms.pl/) z tej samej stajni jest zbyt drogi do moich prostych zastosowań. Może kiedyś.
 
-Long story short, odradzam komukolwiek korzystanie z ich usług:
+Zostało mi wybranie bramki płatności. WebToLearn polecał na swojej stronie dwie opcje:
 
-Po założeniu konta, zrobiłem przelew z banku i czekałem na weryfikację, która miała trwać do 24 godzin. Gdy ten czas upłynął napisałem do supportu. Za pierwszym razem konsultant zamknął mój czat bez odpowiedzi, a za drugim razem konto zostało aktywowane od razu.
+1. https://hotpay.pl/, na który się nie zdecydowałem, bo zobaczyłem na stronie twarz Friza, Borysa Szyca oraz logo FAME MMA i na szybko uznałem, że nie jestem w targecie. (Spieszyłem się, interesowały mnie konkrety, a nie marketingowe treści, ale mają najniższą prowizję, więc pewnie kiedyś jeszcze przyjrzę się blizej).
+1. Sensownie wyglądający https://paybylink.pl/, z którego zdecydowałem się skorzystać, bo wyglądało na to, że szybko weryfikują konto i nie życzą sobie 200 zł za aktywację.
 
-Odniosłem wrażenie, że nic w tym systemie nie dzieje się bez napisania do supportu i okazało się, że mam rację.
+Long story short, nie będę korzystał z Paybylink z kilku powodów:
 
-Po weryfikacji konta mogłem dodać sklep. Jest to potrzebne, żeby dostać kody do API, które potem podpinam w WebToLearn.
-Przy zakładaniu sklepu musiałem podać link do mojej strony (podałem link platformy) i regulaminu, który wcześniej stworzyłem (żeby wszystko było po bożemu). Po podaniu tych informacji następuje kolejny czas oczekiwania. Na następny dzień znowu napisałem do supportu, żeby spytać ile trzeba czekać na aktywację sklepu, bo nadal nie jest aktywny.
+- Pierwsza weryfikacja wymagała przelewu z konta bankowego i trwała dłużej niż obiecane 24h. Dokonano jej dopiero po napisaniu do supportu (praktycznie od razu, więc nie wiem, co było problemem).
+- Druga weryfikacja wymagała podania adresu sklepu, regulaminu i polityki prywatności. Podałem wszystkie informacje i są one dostępne publicznie na stronie platformy. Spodziewałem się szybkiej akceptacji, lecz znowu musiałem pisać do supportu na drugi dzień.
+- Dostałem informację, że podczas wejścia na moją stronę należy się zalogować i utrudnia to weryfikację.
+- Nikt mnie o tym nie poinformował i dowiedziałem się tego tylko dlatego, że sam spytałem.
+- Tworzę zamkniętą platformę dla tych, którzy wykupili dostęp, a produkt nie istnieje i nie jest dostępny po zalogowaniu na platformę, bo to prywatna przedsprzedaż. Odpisałem, że nie mają dostępu by design, ale polityka prywatności oraz regulamin są widoczne publiczne - również na stronie logowania w stopce. Dostałem odpowiedź "Aby zaakceptować sklep musimy wiedzieć co klienci mogą zakupić na danej stronie. Ponadto w systemie nie widzimy linków do regulaminu oraz polityki prywatności. Poproszę o testowe dane do logowania na stronę"
+- Cały proces zeżarł mi zbyt wiele punktów szaleństwa i musiałem zrezygnować.
+- Po jakimś czasie (i po fakcie) sklep został aktywowany, bez potrzeby logowania się na testowe konto i bez jakichkolwiek dodatkowych informacji z mojej strony. Czyli jednak się dało.
+- Nie zostałem poinformowany, że mój sklep jest aktywny. Dowiedziałem się tego logując się samemu na stronę. Żadnych powiadomień.
 
-Dostałem informację, że podczas wejścia na moją stronę należy się zalogować i utrudnia to weryfikację.
+Na szczęście po zalogowaniu do WebToLearn i próbie podpięcia płatności dowiedziałem się, że wspierają Stripe'a, mimo że nie mieli tego wcześniej napisane na swojej stronie z ficzerami. Gdybym wiedział wcześniej, to nawet nie zaczynałbym zabawy z innymi bramkami płatności. Konfiguracja Stripe'a trwała 30 sekund.
 
-Po pierwsze: czemu nikt mi tego nie powiedział? Czemu znowu musiałem szturchać ludzi na supporcie, żeby się cokolwiek ruszyło?
+Z Paybylink zrezygnowałem ze względu na słabą obsługę klienta, która wg mnie powinna być znaczenie lepsza, gdy w grę wchodzą pieniądze.
 
-Po drugie: jasne, że nie da się zalogować, bo jest to zamknięta platforma dla tych, którzy wykupili dostęp.
+Genialną obsługą klienta wykazał się jednak WebToLearn. Ta platforma to wielki kombajn, który pozwala zrobić chyba wszystko, co związane z produktami online, jednak ma swoje dziwe quirki, a UX jest raczej z tych, co nie pomagają.
 
-Tak też odpisałem i dodałem, że link do polityki prywatności są publiczne, podałem je w formularzu i dodatkowo są zamieszczone na stronie platformy i nie trzeba się nigdzie logować, żeby je przeczytać.
+Z tego powodu musiałem skorzystać z ich supportu i na wszystkie pytania odpowiedzieli w przeciągu kilku minut. Dzięki temu wszystko udało się skonfigurować na czas i cały proces sprzedaży zadziałał od strzała.
 
-Odpowiedź:
+Z supportu korzystałem jeszcze na koniec sprzedaży, bo zorientowałem się, że strona sprzedażowa nie informuje o braku miejsc i nadal wygląda jakby była aktywna (licznik cały czas odliczał czas do zakończenia i formularz był aktywny).
 
-> Aby zaakceptować sklep musimy wiedzieć co klienci mogą zakupić na danej stronie. Ponadto w systemie nie widzimy linków do regulaminu oraz polityki prywatności. Poproszę o testowe dane do logowania na stronę
+Dowiedziałem się, że informację o braku miejsc użytkownik dostaje dopiero po wypełnieniu formularza z danymi do zakupu i że mogę zakończyć sprzedaż ręcznie zmieniając jej status. Problem znowu został rozwiązany w przeciągu kilku minut.
 
-Lata medytacji i próby stoickiego podejścia do życa mocno mi się przydały, gdy przeczytałem te słowa. Dałem sobie spokój.
-
-Na szczęście WebToLearn wspiera już Stripe'a i gdyby na stronie z ficzerami dali o tym znać, to nawet nie zaczynałbym zabawy z innymi bramkami płatności.
-Dowiedziałem tego dopiero przy próbie podpięcia płatności, gdy zobaczyłem Stripe'a w menu. Konfiguracja tej integracji trwała 30 sekund.
-
-Najśmieszniejsze w tym wszystkim jest to, że już po fakcie, sklep został aktywowany bez żadnych dodatkowych pytań, bez logowania się na platformę itp. Musiałem to jednak sprawdzić sam, logując się na stronę, bo nie dostałem żadnego maila z powiadomieniem. Obsługa klienta leży na pełne, a gdy w grę wchodzą pieniądze, to wydaje mi się, że jest to najważniejsze.
-
-Genialną obsługę klienta posiada jednak WebToLearn. Musiałem dwa razy skorzystać z ich supportu, bo platforma to wielki kombajn, który ma swoje dziwe quirki, a UX woła o pomoc i nie pomaga, jednak na wszystkie pytania odpowiadają w przeciągu kilku minut.
-
-Dzięki temu wszystko udało się skonfigurować na czas i cały proces sprzedaży zadziałał od strzała.
-
-Na koniec sprzedaży zorientowałem się, że strona sprzedażowa o braku miejsc informuje dopiero po wypełnieniu formularza z danymi do zakupu, a to wg mnie znowu słaby UX, bo miałem wrażenie, że sprzedaż nadal jest aktywna (formularz powinien być nieaktywny oraz informować, że miejsc już nie ma). Jednak znowu szybki strzał do supportu i wszystko się wyjaśniło szybciej niż byłbym w stanie się czymkolwiek zacząć przejmować. Śmieszne jest to, że po zakończeniu sprzedaży strona do zakupu informuje, że taka sprzedaż nie istnieje, zamiast informować, że została zakończona. Serio zatrudniłbym UXa.
+Ze względu na UX pozostał troche niesmak. Miałem wrażenie, że sprzedaż nadal jest aktywna i użytkownik odniósłby takie samo wrażenie. Wg mnie formularz powinien być nieaktywny oraz informować, że miejsc już nie ma. Po ręcznej zmianie statusu sprzedaży na zakończoną, strona do zakupu informuje, że taka sprzedaż nie istnieje, zamiast informować, że została zakończona. Mam nadzieję, że poprawią to w najbliższym czasie, bo poza tym wszystko wydaje się 👍.
 
 ## Mail o sprzedaży i wyniki
 
-TDB
+Po spięciu wszystkiego zostało napisanie maila i podesłanie linka do koszyka.
+
+W poniedziałek 30.05 wysłałem informację, że w czwartek 02.06 podeślę info o przedsprzedaży i będzie możliwość dołączenia do pełnego programu.
+
+Nie podawałem żadnych szczegółów, chciałem po prostu uprzedzić wszystkich i dać równe szanse na zakup. Obiecałem, że osoby z listy mailowej otrzymają najlepszą opcję zakupu i nie chciałem, żeby ktoś ją przegapił i miał pretensje.
+
+W czwartek zamieściłem w mailu krótki opis programu, dlaczego go tworzę, podesłałem [agendę](/sp-agenda/) i przedstawiłem plan gry - przedsprzedaż, limit, miejsc, najlepsza cena, 30 dni na zwrot od dostarczenia pierwszego modułu, nagrywanie zaczynam po 26.06, bo jadę na urlop.
+
+Ogłosiłem, że osoby, które zakupiły kurs w przedsprzedaży będą miały wpływ na to, jak on wygląda, co jest ok, czego brakuje itd.
+
+Wyniki:
+
+- w połowie dnia wiedziałem już, że będę nagrywał kurs
+- w przeciągu pierwszej godziny kupiło 13 osób
+- do końca dnia było już 23
+- następnego dnia zeszły ostatnie 2 sztuki
+
+Jestem pozytywnie zaskoczony tym wynikiem i czuję, że uda się stworzyć coś naprawdę fajnego.
+
+Kolejne aktualizacje będą pojawiać się tutaj, aż do momentu nagrania wszystkich modułów.
