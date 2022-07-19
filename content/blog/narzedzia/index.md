@@ -67,7 +67,7 @@ description: 'Zestaw narzędzi, który wypracowałem sobie w ciągu wielu lat te
 - t480s, 1080p, i5, 24GB, 256GB (teraz brałbym T14s)
 - Monitor Dell 27: P2719H (mogłem wziąć 1440p zamiast 1080p)
 - Tablet Samsung Galaxy Tab S6Lite (do Kindla)
-- Aparat Canon M50 + 15-45mm + 22mm
+- Aparat Canon M50 + 15-45mm + 22mm (korzystam tylko z 22mm)
 - Mikrofon Novox NC X USB
 - Lampa Yongnuo YN-600 Air 5600k na statywie
 - Klawiatura ThinkPad TrackPoint Keyboard II
@@ -79,3 +79,7 @@ description: 'Zestaw narzędzi, który wypracowałem sobie w ciągu wielu lat te
 - [Biurko Ikea Skarsta 120cm](https://www.ikea.com/pl/pl/p/skarsta-biurko-z-regulacja-wysokosci-bialy-s59324818/)
 - [Krzesło Xenon Net](https://www.profim.pl/produkty/kolekcja/xenon-net/model-obrotowy)
   - ([teraz wziąłbym Markusa z Ikei](https://www.ikea.com/pl/pl/p/markus-krzeslo-biurowe-vissle-ciemnoszary-70261150))
+
+## Inne
+
+- [Brain.fm](https://my.brain.fm/?promotionCode=promo_1KC6DhDxyvLufNfyZ264p2Za&name=Your%20First%20Month%20of%20Brain.fm%20Pro%20for%20$1&displayCost=1.00&description=You%27ve%20been%20referred!%20Get%201%20Month%20of%20Brain.fm%20Pro%20for%20$1&targetPlan=Monthly)
