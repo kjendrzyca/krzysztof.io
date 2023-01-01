@@ -6,6 +6,8 @@ description: 'Co łączy Dreamlinera oraz Cyberpunka i czego się nauczyłem o w
 banner: './banner.jpg'
 ---
 
+![Banner](./banner.jpg)
+
 Lata temu Boeing zapowiadał Dreamlinera jako samolot przyszłości, który miał wyznaczać nowe standardy. Okazało się, że głównym standardem, jaki wyznaczał, była ilość usterek spowodowana wprowadzeniem nieużywanych i nieprzetestowanych wcześniej rozwiązań.
 
 Zamiast latać, samolot stał w hangarach i dostawał kolejne poprawki oraz aktualizacje, a Boeing tracił na każdej jednostce nawet kilkadziesiąt milionów dolarów.
