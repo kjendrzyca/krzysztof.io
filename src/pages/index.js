@@ -82,7 +82,6 @@ const BlogIndex = ({ data, location }) => {
         <IndexLink
           title={`"Skuteczna Praca w Zespole" - dziennik prac`}
           slug="sp-dziennik"
-          hot
         />
         <IndexLink
           title="Podsumowanie 2021"
@@ -199,6 +198,14 @@ const BlogIndex = ({ data, location }) => {
         <IndexLink
           title="How to Win Friends and Influence People"
           slug="how-to-win-friends-and-influence-people"
+        />
+      </ul>
+
+      <h3>IT</h3>
+      <ul>
+        <IndexLink
+          title={`Problem Dreamlinera`}
+          slug="problem-dreamlinera"
         />
       </ul>
     </Layout>
