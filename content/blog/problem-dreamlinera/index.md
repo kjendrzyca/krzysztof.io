@@ -22,7 +22,7 @@ Poprzednie samoloty Boeinga były w większym lub mniejszym stopniu kolejnymi it
 
 Osoby, które uczyły mnie programować, nazwały to kiedyś **Problemem Dreamlinera** i pokazali mi, jak przekłada się to na tworzenie oprogramowania.
 
-## Cybrerpunk 2077
+## Cyberpunk 2077
 
 Jako przykład wykorzystam Cyberpunka, który po premierze okazał się jednym z największych przypałów w historii gier i wg mnie doskonale obrazuje Problem Dreamlinera.
 
