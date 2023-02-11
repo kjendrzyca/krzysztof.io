@@ -1,7 +1,7 @@
 import React from 'react';
 import { MailerLiteForm } from './mailerlite'
 
-const Subscribe = () => {
+export const Subscribe = () => {
   return (
     <div className="subscribe-form">
       <div>
@@ -15,5 +15,3 @@ const Subscribe = () => {
     </div>
   )
 }
-
-export default Subscribe

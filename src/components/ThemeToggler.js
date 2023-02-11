@@ -1,9 +1,11 @@
+import { useHasMounted } from '@/lib/hasMounted'
 import React from 'react'
 import useDarkMode from 'use-dark-mode'
 import { Sun, Moon } from './Icons'
 
 const ThemeToggler = () => {
   const darkMode = useDarkMode()
+  const hasMounted = useHasMounted();
 
   return (
     <button
@@ -14,7 +16,7 @@ const ThemeToggler = () => {
         darkMode.value ? 'Switch to light mode' : 'Switch to dark mode'
       }
     >
-      {darkMode.value ? (
+      {hasMounted && darkMode.value ? (
         <Sun />
       ) : (
         <Moon />

@@ -14,6 +14,7 @@ export const MailerLiteSuccessFunctionScript = `
 export const MailerLiteScriptSrc = `https://static.mailerlite.com/js/w/webforms.min.js?v0c75f831c56857441820dcec3163967c`
 
 export const TrackingImage = () => (
+  // eslint-disable-next-line @next/next/no-img-element
   <img
     src={`https://track.mailerlite.com/webforms/o/${WrapperId}/${FormId}?${TrackingImageId}`}
     width="1"

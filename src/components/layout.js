@@ -1,21 +1,18 @@
 import React from "react"
-import { Link } from "gatsby"
-import CookieConsent from 'react-cookie-consent'
-import Subscribe from '../components/subscribe'
-import { GitHub, Instagram, Twitter } from "./Social"
-import ThemeToggler from "./ThemeToggler"
 
-const Layout = ({ location, title, children, isLandingPage }) => {
-  // eslint-disable-next-line no-undef
-  const rootPath = `${__PATH_PREFIX__}/`
-  const isRootPath = location.pathname === rootPath
+import Link from 'next/link'
 
+import { Subscribe } from './Subscribe'
+import { GitHub, Instagram, Twitter } from './Social'
+import ThemeToggler from './ThemeToggler'
+import { config } from "@/config"
 
+export const Layout = ({ children, isLandingPage }) => {
   return (
-    <div className="global-wrapper" data-is-root-path={isRootPath}>
+    <div className="global-wrapper">
       <header className="global-header">
-        {isLandingPage ? null : <Link className="header-link-home" to="/">
-          {title}
+        {isLandingPage ? null : <Link className="header-link-home" href="/">
+          {config.siteMetadata.title}
         </Link>}
         <ThemeToggler />
       </header>
@@ -26,7 +23,7 @@ const Layout = ({ location, title, children, isLandingPage }) => {
           <div>
             © {new Date().getFullYear()}, Built with
             {` `}
-            <a href="https://www.gatsbyjs.com">Gatsby</a>
+            <a href="https://nextjs.org">NextJS</a>
           </div>
           <div className="footer-social-links">
             <Twitter />
@@ -34,20 +31,11 @@ const Layout = ({ location, title, children, isLandingPage }) => {
             <GitHub />
           </div>
           <div className="footer-links">
-            <Link to="/polityka-prywatnosci/">Polityka prywatności</Link>
-            <Link to="/regulamin/">Regulamin</Link>
+            <Link href="/polityka-prywatnosci/">Polityka prywatności</Link>
+            <Link href="/regulamin/">Regulamin</Link>
           </div>
         </div>
       </footer>}
-      <CookieConsent
-        location="bottom"
-        buttonText="Rozumiem"
-        style={{ fontSize: '12px', textAlign: 'center' }}
-      >
-        Ta strona używa ciastek 🍪. <Link to="/polityka-prywatnosci/">Tutaj</Link> możesz poczytać dlaczego.
-      </CookieConsent>
     </div>
   )
 }
-
-export default Layout

@@ -1,0 +1,2 @@
+- enable blur on images
+- remove polish characers from linked-header
