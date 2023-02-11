@@ -6,7 +6,6 @@ import { config } from "@/config"
 
 const SEO = ({ description = '', title, slug = null, ogType = 'website', ogImagePath }) => {
   const metaDescription = description || config.siteMetadata.description
-  console.log({description, siteDesc: config.siteMetadata.description, metaDescription})
   const siteTitle = config.siteMetadata.title
   const siteUrl = config.siteMetadata.siteUrl
 

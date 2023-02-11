@@ -39,7 +39,6 @@ const LinkedHeader = ({ id, text, comp: Comp}) => {
 }
 
 const Post = ({ content, frontmatter, slug, contentPath}) => {
-  // console.log({content, frontmatter, slug, contentPath})
   const {title, banner, date, shareButtons, description} = frontmatter
   const pageTitle = title || siteUrl
 
