@@ -2,7 +2,7 @@ import SEO from '@/components/seo';
 import Head from 'next/head'
 import Link from 'next/link';
 
-import {Layout} from "../components/layout"
+import {Layout} from "@/components/layout"
 
 function IndexLink({ title, slug, hot }) {
   return (
