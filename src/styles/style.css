@@ -362,6 +362,7 @@ button:focus {outline:0;}
   margin: var(--spacing-0) auto;
   max-width: var(--maxWidth-wrapper);
   padding: var(--spacing-10) var(--spacing-5);
+  overflow-x: auto;
 }
 
 .global-wrapper[data-is-root-path="true"] .bio {

@@ -32,4 +32,4 @@ yarn-error.log*
 .vercel
 
 # images copied from /content
-/public/images
+/public/images/
