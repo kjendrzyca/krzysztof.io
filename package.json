@@ -10,13 +10,13 @@
     "prebuild": "node ./scripts/copy-images.mjs"
   },
   "dependencies": {
-    "@next/font": "13.1.6",
-    "date-fns": "^2.29.3",
     "eslint": "8.33.0",
     "eslint-config-next": "13.1.6",
     "fs-extra": "^11.1.0",
     "gray-matter": "^4.0.3",
     "next": "13.1.6",
+    "next-themes": "^0.2.1",
+    "plaiceholder": "^2.5.0",
     "prop-types": "^15.8.1",
     "react": "18.2.0",
     "react-cookie-consent": "^8.0.1",
@@ -25,6 +25,7 @@
     "react-share": "^4.4.1",
     "rehype-slug": "^5.1.0",
     "remark-gfm": "^3.0.1",
-    "use-dark-mode": "^2.3.1"
+
+    "sharp": "^0.31.3"
   }
 }

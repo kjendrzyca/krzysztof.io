@@ -69,7 +69,7 @@
   --bear-url: url('/bear.svg');
 }
 
-body.dark-mode {
+html.dark-mode {
   --color-background: #121212;
   --color-primary: rgba(255, 41, 102, 1);
   /* --color-primary-darker: stays the same */

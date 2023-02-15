@@ -1,5 +1,5 @@
 import { MailerLiteScriptSrc, MailerLiteSuccessFunctionScript } from "@/components/mailerlite"
-import { useHasMounted } from "@/lib/hasMounted"
+import { ThemeProvider } from 'next-themes'
 
 import "@/styles/fonts.css"
 import "@/styles/normalize.css"
@@ -10,16 +10,8 @@ import Script from "next/script"
 // import "prismjs/themes/prism.css"
 
 export default function App({ Component, pageProps }) {
-  const isMounted = useHasMounted()
-
-  // Prevent dark mode flash
-  // https://brianlovin.com/writing/adding-dark-mode-with-next-js#client-server-mismatches
-  if (!isMounted) {
-    return <div style={{ visibility: 'hidden' }}><Component {...pageProps} /></div>
-  }
-
   return (
-    <>
+    <ThemeProvider enableSystem={false} attribute='class' value={{ dark: 'dark-mode', light: 'light-mode' }}>
       <Component {...pageProps} />
 
       <Script id="mailerlite-success-function-script">
@@ -36,6 +28,6 @@ export default function App({ Component, pageProps }) {
 
         gtag('config', 'G-CE7EK4VTQM');`}
       </Script>
-    </>
+    </ThemeProvider>
   )
 }
