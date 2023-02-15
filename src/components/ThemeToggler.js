@@ -7,6 +7,10 @@ const ThemeToggler = () => {
   const darkMode = useDarkMode()
   const hasMounted = useHasMounted();
 
+  if (!hasMounted) {
+    return null;
+  }
+
   return (
     <button
       className="theme-toggler-button"
@@ -16,7 +20,7 @@ const ThemeToggler = () => {
         darkMode.value ? 'Switch to light mode' : 'Switch to dark mode'
       }
     >
-      {hasMounted && darkMode.value ? (
+      {darkMode.value ? (
         <Sun />
       ) : (
         <Moon />
