@@ -2,7 +2,7 @@ import React from 'react'
 
 const WrapperId = '3904681'
 const FormId = 'f6w6r0'
-const TrackingImageId = 'v1618160292'
+const TrackingImageId = 'v1676145199'
 
 export const MailerLiteSuccessFunctionScript = `
   function ml_webform_success_${WrapperId}() {
@@ -11,9 +11,10 @@ export const MailerLiteSuccessFunctionScript = `
   }
 `
 
-export const MailerLiteScriptSrc = `https://static.mailerlite.com/js/w/webforms.min.js?v0c75f831c56857441820dcec3163967c`
+export const MailerLiteScriptSrc = `https://static.mailerlite.com/js/w/webforms.min.js?vd4de52e171e8eb9c47c0c20caf367ddf`
 
 export const TrackingImage = () => (
+  // eslint-disable-next-line @next/next/no-img-element
   <img
     src={`https://track.mailerlite.com/webforms/o/${WrapperId}/${FormId}?${TrackingImageId}`}
     width="1"

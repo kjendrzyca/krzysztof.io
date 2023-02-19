@@ -1,9 +1,8 @@
 import React from "react"
-import { graphql } from "gatsby"
-import Markdown from 'markdown-to-jsx'
+import ReactMarkdown from 'react-markdown'
 
-import Layout from "../components/layout"
-import SEO from "../components/seo"
+import {Layout} from "@/components/layout"
+import SEO from "@/components/seo"
 
 const md = `
 # Dobre praktyki testowania aplikacji JavaScript
@@ -51,28 +50,18 @@ Szkolenie stawia nacisk na praktykę, ale składa się w dużej części z teori
 [**👉 Wypełnij ankietę 👈**](https://forms.gle/jbe4rHyTRiQ5bREU9)
 `
 
-const SzkolenieTestyPage = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata?.title
-
+const SzkolenieTestyPage = () => {
   return (
-    <Layout location={location} title={siteTitle} isLandingPage>
+    <Layout isLandingPage>
       <SEO
         title="Dobre praktyki testowania aplikacji JavaScript"
         description="Szkolenie, na którym przećwiczysz pisanie testów jednostkowych oraz integracyjnych typowego kodu aplikacji webowych napisanych w JavaScript."
       />
-      <Markdown children={md} />
+      <ReactMarkdown>
+        {md}
+      </ReactMarkdown>
     </Layout>
   )
 }
 
 export default SzkolenieTestyPage
-
-export const pageQuery = graphql`
-  query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-  }
-`

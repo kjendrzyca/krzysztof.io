@@ -1,20 +1,35 @@
+import { useHasMounted } from '@/lib/hasMounted'
 import React from 'react'
-import useDarkMode from 'use-dark-mode'
 import { Sun, Moon } from './Icons'
+import { useTheme } from 'next-themes'
 
 const ThemeToggler = () => {
-  const darkMode = useDarkMode()
+  const { theme, setTheme } = useTheme()
+  const hasMounted = useHasMounted();
+
+  if (!hasMounted) {
+    return null;
+  }
+
+  const changeTheme = () => {
+    if (theme === 'dark') {
+      setTheme('light')
+      return
+    }
+
+    setTheme('dark')
+  }
 
   return (
     <button
       className="theme-toggler-button"
       type="button"
-      onClick={darkMode.toggle}
+      onClick={changeTheme}
       aria-label={
-        darkMode.value ? 'Switch to light mode' : 'Switch to dark mode'
+        theme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode'
       }
     >
-      {darkMode.value ? (
+      {theme === 'dark' ? (
         <Sun />
       ) : (
         <Moon />

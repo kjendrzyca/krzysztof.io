@@ -1,0 +1,8 @@
+[build]
+  base = "/"
+  publish = ".next/"
+  command = "yarn run build"
+
+[[edge_functions]]
+  function = "add-slash"
+  path = "/*"

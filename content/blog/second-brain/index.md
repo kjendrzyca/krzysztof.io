@@ -14,7 +14,7 @@ Stało się dla mnie jasne, że mój system musi przejść kolejną (r)ewolucję
 
 Autorem Second Brain jest Tiago Forte. Jego background w UX Designie i produktywności pomógł mu stworzyć system do zarządzania wiedzą, który mocno opiera się na tym, jak działa umysł człowieka, a przez to jest niesamowicie efektywny.
 
-Żeby poznać Second Brain, można wziąć udział w [kursie online](buildingasecondbrain.com).
+Żeby poznać Second Brain, można wziąć udział w [kursie online](https://buildingasecondbrain.com).
 
 To podejście ma dla mnie dwa minusy:
 

@@ -1,5 +1,5 @@
 import React from 'react'
-import config from '../../gatsby-config'
+import { config } from '../config';
 
 const socialHandle = config.siteMetadata.social.social
 

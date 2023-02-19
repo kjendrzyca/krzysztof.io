@@ -1,115 +1,47 @@
-/**
- * SEO component that queries for data with
- *  Gatsby's useStaticQuery React hook
- *
- * See: https://www.gatsbyjs.com/docs/use-static-query/
- */
-
 import React from "react"
 import PropTypes from "prop-types"
-import { Helmet } from "react-helmet"
-import { useStaticQuery, graphql } from "gatsby"
-import { MailerLiteScriptSrc, MailerLiteSuccessFunctionScript } from '../components/mailerlite'
 
-import logoSrc from '../../content/assets/bear.png'
+import Head from "next/head"
+import { config } from "@/config"
 
-const SEO = ({ description, lang, meta, title, slug, ogType = 'website', ogImagePath }) => {
-  const { site } = useStaticQuery(
-    graphql`
-      query {
-        site {
-          siteMetadata {
-            title
-            description
-            social {
-              social
-            }
-            siteUrl
-          }
-        }
-      }
-    `
-  )
+const SEO = ({ description = '', title, slug = null, ogType = 'website', ogImagePath }) => {
+  const metaDescription = description || config.siteMetadata.description
+  const siteTitle = config.siteMetadata.title
+  const siteUrl = config.siteMetadata.siteUrl
 
-  const metaDescription = description || site.siteMetadata.description
-  const defaultTitle = site.siteMetadata?.title
-  const siteUrl = site.siteMetadata.siteUrl
-  const ogImageAbsoluteUrl = ogImagePath ? `${siteUrl}${ogImagePath}` : `${siteUrl}${logoSrc}`
-  const postUrl = slug ? `${site.siteMetadata.siteUrl}${slug}` : site.siteMetadata.siteUrl
+  const ogImageAbsoluteUrl = ogImagePath ? `${siteUrl}${ogImagePath}` : `${siteUrl}/bear.png`
+  const postUrl = slug ? `${config.siteMetadata.siteUrl}/${slug}/` : siteUrl
 
   return (
-    <Helmet
-      htmlAttributes={{
-        lang,
-      }}
-      title={title}
-      titleTemplate={defaultTitle ? `%s | ${defaultTitle}` : null}
-      meta={[
-        {
-          name: `description`,
-          content: metaDescription,
-        },
-        {
-          property: `og:title`,
-          content: title,
-        },
-        {
-          property: `og:description`,
-          content: metaDescription,
-        },
-        {
-          property: `og:type`,
-          content: ogType,
-        },
-        {
-          property: `og:image`,
-          content: ogImageAbsoluteUrl,
-        },
-        {
-          property: `og:url`,
-          content: postUrl,
-        },
-        {
-          name: `twitter:card`,
-          content: `summary_large_image`,
-        },
-        {
-          name: `twitter:creator`,
-          content: `@${site.siteMetadata.social.social}`,
-        },
-        {
-          name: `twitter:title`,
-          content: title,
-        },
-        {
-          name: `twitter:description`,
-          content: metaDescription,
-        },
-        {
-          name: "google-site-verification",
-          content: "hNVIfO59yoXw8FWgyNDGChui0n_ate1qgW15fBDJkLY",
-        }
-      ].concat(meta)}
-    >
-      <script>
-        {MailerLiteSuccessFunctionScript}
-      </script>
-      <script src={MailerLiteScriptSrc} type="text/javascript" />
-    </Helmet>
-  )
-}
+    <Head>
+      <title>{`${title} | ${siteTitle}`}</title>
+      <meta name="description" content={description} />
+      <meta property="og:type" content="website" />
+      <meta property="og:title" content={title} />
+      <meta property="og:description" content={metaDescription} />
+      <meta property="og:type" content={ogType} />
+      <meta property="og:image" content={ogImageAbsoluteUrl} />
+      <meta property="og:url" content={postUrl} />
 
-SEO.defaultProps = {
-  lang: `pl`,
-  meta: [],
-  description: ``,
-  slug: null,
+      <meta property="twitter:card" content="summary_large_image" />
+      <meta property="twitter:creator" content={`@${config.siteMetadata.social.social}`} />
+      <meta property="twitter:title" content={title} />
+      <meta property="twitter:description" content={metaDescription} />
+
+      <meta property="google-site-verification" content="hNVIfO59yoXw8FWgyNDGChui0n_ate1qgW15fBDJkLY" />
+
+      {/* <meta property="og:site_name" content={siteTitle} /> */}
+
+      <link rel="manifest" href="/manifest.json" />
+      <link rel="icon" href="/favicon-32x32.png" type="image/png" />
+      <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+      <meta name="theme-color" content="#ff2966" />
+    </Head>
+  )
 }
 
 SEO.propTypes = {
   description: PropTypes.string,
-  lang: PropTypes.string,
-  meta: PropTypes.arrayOf(PropTypes.object),
   title: PropTypes.string.isRequired,
   slug: PropTypes.string,
 }

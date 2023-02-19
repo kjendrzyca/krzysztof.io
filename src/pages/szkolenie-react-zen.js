@@ -1,9 +1,8 @@
 import React from "react"
-import { graphql } from "gatsby"
-import Markdown from 'markdown-to-jsx'
+import ReactMarkdown from 'react-markdown'
 
-import Layout from "../components/layout"
-import SEO from "../components/seo"
+import {Layout} from "@/components/layout"
+import SEO from "@/components/seo"
 
 const md = `
 # The Zen of React - kilka dobrych zasad, dzięki którym utrzymasz Reacta w czystości
@@ -17,28 +16,18 @@ Rozmowy z najlepszymi programistami, jakich znam i doświadczenie zdobyte podcza
 Na szkoleniu pokażę Ci, jak możesz zaaplikować je w swoich projektach i jak połączyć je z filozofią Reacta. W efekcie pomogą Ci w utrzymaniu kodu w czystości, ułatwią testowanie i sprawią, że Twój kod będzie łatwiejszy w utrzymaniu.
 `
 
-const SzkolenieReactZenPage = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata?.title
-
+const SzkolenieReactZenPage = () => {
   return (
-    <Layout location={location} title={siteTitle} isLandingPage>
+    <Layout isLandingPage>
       <SEO
         title="The Zen of React"
         description="Kilka dobrych zasad, dzięki którym utrzymasz Reacta w czystości."
       />
-      <Markdown children={md} />
+      <ReactMarkdown>
+        {md}
+      </ReactMarkdown>
     </Layout>
   )
 }
 
 export default SzkolenieReactZenPage
-
-export const pageQuery = graphql`
-  query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-  }
-`

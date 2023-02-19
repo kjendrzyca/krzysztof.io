@@ -1,9 +1,8 @@
 import React from "react"
-import { graphql } from "gatsby"
-import Markdown from 'markdown-to-jsx'
+import ReactMarkdown from 'react-markdown'
 
-import Layout from "../components/layout"
-import SEO from "../components/seo"
+import {Layout} from "@/components/layout"
+import SEO from "@/components/seo"
 
 const md = `
 # Czysty React na Hookach
@@ -41,28 +40,18 @@ Wymagania:
 - Umiejętność pracy z gitem + zainstalowany git .
 `
 
-const SzkolenieTestyPage = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata?.title
-
+const SzkolenieTestyPage = () => {
   return (
-    <Layout location={location} title={siteTitle} isLandingPage>
+    <Layout isLandingPage>
       <SEO
         title="Czysty React na Hookach"
         description="Szkolenie, na którym pokażę, jak wyciągnąć z Hooków to, co najlepsze."
       />
-      <Markdown children={md} />
+      <ReactMarkdown>
+        {md}
+      </ReactMarkdown>
     </Layout>
   )
 }
 
 export default SzkolenieTestyPage
-
-export const pageQuery = graphql`
-  query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-  }
-`

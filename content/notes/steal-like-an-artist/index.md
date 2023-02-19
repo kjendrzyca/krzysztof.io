@@ -104,7 +104,7 @@ Powodem, dla którego warto naśladować ludzi, których cenimy, jest to, że za
 
 **Jeśli będziemy naśladować tylko to, co widać na powierzchni, bez wglądu w to, co działo się pod spodem, to nasza praca zawsze będzie wyłącznie tanią podróbką.**
 
-Chodzi o to, żeby poznać [first principles](https://jamesclear.com/first-principles) i z nich [zbudować coś swojego](cos-swojego).
+Chodzi o to, żeby poznać [first principles](https://jamesclear.com/first-principles) i z nich [zbudować coś swojego](/cos-swojego/).
 
 Następnie spróbuj dorównać swoim bohaterom:
 

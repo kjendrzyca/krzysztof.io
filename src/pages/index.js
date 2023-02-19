@@ -1,14 +1,13 @@
-import React from "react"
-import { Link, graphql } from "gatsby"
+import SEO from '@/components/seo';
+import Head from 'next/head'
+import Link from 'next/link';
 
-import Bio from "../components/bio"
-import Layout from "../components/layout"
-import SEO from "../components/seo"
+import {Layout} from "@/components/layout"
 
 function IndexLink({ title, slug, hot }) {
   return (
     <li>
-      <Link to={slug} itemProp="url">
+      <Link href={slug}>
         {hot ? <span role="img" aria-label="Nowy wpis">🔥 </span> : null}
         <span itemProp="headline">{title}</span>
       </Link>
@@ -16,27 +15,14 @@ function IndexLink({ title, slug, hot }) {
   )
 }
 
-const BlogIndex = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata?.title || `Title`
-  const posts = data.allMarkdownRemark.nodes
-
-  if (posts.length === 0) {
-    return (
-      <Layout location={location} title={siteTitle}>
-        <SEO title="Strona główna" />
-        <p>
-          No blog posts found. Add markdown posts to "content/blog" (or the
-          directory you specified for the "gatsby-source-filesystem" plugin in
-          gatsby-config.js).
-        </p>
-        <Bio />
-      </Layout>
-    )
-  }
-
+const BlogIndex = () => {
   return (
-    <Layout location={location} title={siteTitle}>
+    <Layout>
       <SEO title="Strona główna" />
+
+      <Head>
+        <title>Strona główna</title>
+      </Head>
 
       <p>
         Heja! 👋
@@ -74,7 +60,7 @@ const BlogIndex = ({ data, location }) => {
       </p>
 
       <p>
-        Tutaj znajdziesz listę <Link to="/narzedzia/" itemProp="url">narzędzi</Link>, których używam i <Link to="/linki/" itemProp="url">linków</Link>, które wrzucam w świat.
+        Tutaj znajdziesz listę <Link href="/narzedzia/">narzędzi</Link>, których używam i <Link href="/linki/">linków</Link>, które wrzucam w świat.
       </p>
 
       <h3>Wpisy</h3>
@@ -213,26 +199,3 @@ const BlogIndex = ({ data, location }) => {
 }
 
 export default BlogIndex
-
-export const pageQuery = graphql`
-  query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
-      nodes {
-        excerpt
-        fields {
-          slug
-        }
-        frontmatter {
-          date(formatString: "YYYY-MM-DD")
-          title
-          description
-        }
-      }
-    }
-  }
-`

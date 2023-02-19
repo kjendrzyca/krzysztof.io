@@ -1,9 +1,8 @@
 import React from "react"
-import { graphql } from "gatsby"
-import Markdown from 'markdown-to-jsx'
+import ReactMarkdown from 'react-markdown'
 
-import Layout from "../components/layout"
-import SEO from "../components/seo"
+import {Layout} from "@/components/layout"
+import SEO from "@/components/seo"
 
 const md = `
 # PPPPP TDD
@@ -36,28 +35,18 @@ Agenda:
 - https://jestjs.io/
 `
 
-const SzkoleniePPPPPTDDPage = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata?.title
-
+const SzkoleniePPPPPTDDPage = () => {
   return (
-    <Layout location={location} title={siteTitle} isLandingPage>
+    <Layout isLandingPage>
       <SEO
         title="Szkolenie PPPPP TDD"
         description="Pomodoro Ping-Pong Pair Programming Test Driven Development Kata (w skrócie PPPPP TDD Kata), to szkolenie z TDD, dla początkujących, które polega na zaimplementowaniu jednej z dostępnych kat w stylu TDD."
       />
-      <Markdown children={md} />
+      <ReactMarkdown>
+        {md}
+      </ReactMarkdown>
     </Layout>
   )
 }
 
 export default SzkoleniePPPPPTDDPage
-
-export const pageQuery = graphql`
-  query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-  }
-`
