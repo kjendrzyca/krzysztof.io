@@ -37,7 +37,7 @@ Przy okazji to, że mam namacalne wyniki, nie oznacza, że moja interpretacja te
 
 > "Documenting your journey versus creating an image of yourself is the difference between saying “You should…” versus “my intuition says…”. Get it? It changes everything."
 
-W moich starszych treściach często używam słów "musisz" i "powinieneś", których teraz się bardzo wstydzę.
+W moich starszych treściach często używam słów "musisz", "powinieneś", "rób tak i tak...", których teraz się bardzo wstydzę.
 
 Bardzo nie lubię tych słów, bo wszyscy w Internecie mówią nam, co musimy i co powinniśmy. Zbyt często widzę osoby, które udowadniają mi, że wcale wielu rzeczy nie musimy i nie powinniśmy.
 
