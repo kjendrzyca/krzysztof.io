@@ -111,7 +111,7 @@ Najbardziej bezproblemowe projekty, w których brałem udział to te, w których
 
 Niestety programiści również z własnej winy pakują się w te same problemy.
 
-Przykładowo: zamiast wprowadzać małe zmiany inkrementalnie, robić mniejsze pull requesty, które da się przeczytać w 10 minut, a nie 2 godziny i mergować zmiany w małych porcjach, robią jeden wielki PR, którego code review zajmuje kilka godzin, poprawki trwają nawet kilka dni, a zmergowanie do głównego brancha w efekcie rozciąga się czasem nawet na kilka tygodni, stopniowo zabijając zapał nawet najbardziej zapalonych programistów.
+Przykładowo: zamiast wprowadzać małe zmiany inkrementalnie, robić mniejsze pull requesty, które da się przeczytać w 10 minut i mergować zmiany w małych porcjach, robią jeden wielki PR, którego code review zajmuje kilka godzin, poprawki trwają nawet kilka dni, a zmergowanie do głównego brancha w efekcie rozciąga się czasem nawet na kilka tygodni, stopniowo zabijając zapał nawet najbardziej zapalonych programistów.
 
 Smutno się wtedy patrzy na autora tych wielkich zmian, bo dostaje kilkadziesiąt komentarzy na CR, które potem naprawia przez kilka godzin (lub dni).
 
