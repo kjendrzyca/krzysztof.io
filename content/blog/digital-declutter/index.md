@@ -4,9 +4,8 @@ date: '2021-06-29'
 published: true
 description: 'Digital Declutter - proces cyfrowego odgracania, dzięki któremu pokonałem uzależnienie od aplikacji.'
 banner: './banner.jpg'
+bannerAlt: 'https://unsplash.com/@melocokr'
 ---
-
-![https://unsplash.com/@melocokr](./banner.jpg)
 
 Jestem niestety podatny na wszystkie sztuczki, które stosują twórcy aplikacji, żeby przyciągnąć naszą uwagę. Dlatego od lat stosuję różne sposoby na ograniczenie wpływu tych sztuczek na to, jak się zachowuję. M.in.:
 
@@ -177,7 +176,7 @@ Z racji tego, że nie miałem za bardzo co robić online, zwolnił mi się czas 
 
 Dzięki nim czuję się fizycznie źle (bo wszystko mnie boli) i jednocześnie dobrze, ze względu na przypływ energii. Jestem wyczerpany i napompowany energią w tym samym czasie. Bez sensu, ale działa.
 
-Jeszcze lepiej czuję się w głowie. **Jestem ekstremalnie dumny z siebie, że udało mi się zrobić najtrudniejszą rzecz dnia, a to daje motywację**. Jest to moja [żaba, którą zjadam codziennie rano](https://www.goodreads.com/book/show/95887.Eat_That_Frog_).
+**Przy okazaji jestem ekstremalnie dumny z siebie, że udało mi się zrobić najtrudniejszą rzecz dnia, a to daje motywację**.
 
 Zauważyłem, że najbardziej produktywne dni to te, w których udało mi się rano poćwiczyć. Wtedy cały dzień spędzam w stanie flow.
 

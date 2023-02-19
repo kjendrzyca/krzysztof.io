@@ -4,9 +4,8 @@ date: '2021-09-06'
 published: true
 description: 'Sposoby na wykorzystanie Zeigarnik Effect w praktyce i przeciwdziałanie negatywnym skutkom otwartych pętli.'
 banner: './banner.png'
+bannerAlt: 'Bulma Bluma'
 ---
-
-![Bulma Bluma](./banner.png)
 
 Bluma Zeigarnik, która w mojej głowie z jakiegoś powodu ma niebieskie włosy, odkryła efekt, który brzmi następująco:
 

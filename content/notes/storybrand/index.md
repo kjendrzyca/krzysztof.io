@@ -6,8 +6,6 @@ description: 'Książka opisuje framework StoryBrand, który pozwala przedstawi�
 banner: './banner.jpg'
 ---
 
-![Banner](./banner.jpg)
-
 Książka opisuje framework StoryBrand, który pozwala przedstawić potencjalnemu klientowi swoje produkty lub usługi, korzystając ze sprawdzonego formatu opowieści (głównie filmowych).
 
 Głównym problemem książki jest spora ilość powtórzeń, które niczego nie wnoszą i wprowadzają chaos, a także przykłady implementacji, które zahaczają o takie cliché jak "pokaż, dokąd zabierzesz swojego klienta przez pokazaniu mu zdjęć szczęśliwych ludzi korzystających z twojego produktu".

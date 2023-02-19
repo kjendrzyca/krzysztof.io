@@ -6,8 +6,6 @@ description: 'Co robić, żeby znaleźć pracę lub projekty, w których będzie
 banner: './banner.jpg'
 ---
 
-![](./banner.jpg)
-
 Bardzo krótka i konkretna książka, w której zawarte są meta-informacje o najbardziej podstawowych elementach pracy, które powinienem “ogarnąć”, zanim zacząłem szukać projektów, w których będę najbardziej przydatny i maksymalnie wykorzystam swój potencjał.
 
 Kluczowe lekcje:

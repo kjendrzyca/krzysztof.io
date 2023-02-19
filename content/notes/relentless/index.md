@@ -6,8 +6,6 @@ description: 'Mindset największych gwiazd koszykówki takich jak Michael Jordan
 banner: './banner.jpg'
 ---
 
-![Banner](./banner.jpg)
-
 W sporcie, słowo "Relentless" opisuje najbardziej ambitnych i odnoszących sukcesy zawodników. Takich, których nic nie potrafi zatrzymać przed osiągnięciem wyników.
 
 Polskie tłumaczenie sugeruje słowo "Nieustępliwy", mi bardziej pasuje "Nieugięty".

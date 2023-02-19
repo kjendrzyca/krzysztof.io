@@ -4,9 +4,8 @@ date: '2021-09-06'
 published: true
 description: 'Moje zasady tworzenia prywatnego bloga, gdzie skupiam się na podążaniu za własnymi zainteresowaniami.'
 banner: './banner.jpg'
+bannerAlt: 'https://unsplash.com/@nerevarin'
 ---
-
-![https://unsplash.com/@nerevarin](./banner.jpg)
 
 W 2020 założyłem [bloga o programowaniu](https://skutecznyprogramista.pl).
 

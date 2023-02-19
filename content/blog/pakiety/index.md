@@ -4,9 +4,8 @@ date: '2021-09-06'
 published: true
 description: 'Sposób pracy oparty o regularną serię zwycięstw, który pomaga hackować motywację i budować skomplikowane projekty bez zbędnego wysiłku.'
 banner: './banner.jpg'
+bannerAlt: 'https://unsplash.com/@glencarrie'
 ---
-
-![https://unsplash.com/@glencarrie](./banner.jpg)
 
 Nie wiem jak Ciebie, ale mnie przytłaczają duże projekty. Jest to ponoć dość częsta przypadłość w pracy umysłowej i kreatywnej.
 

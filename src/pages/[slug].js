@@ -8,17 +8,18 @@ import remarkGfm from 'remark-gfm'
 import rehypeSlug from 'rehype-slug'
 import React from 'react'
 import SEO from '@/components/seo'
+import { getPlaiceholder } from "plaiceholder";
 
 const MarkdownImage = ({ src, alt }) => {
   return (
     <span className="image-wrapper">
-        <NextImage
-          src={src}
-          alt={alt}
-          // placeholder="blur"
-          fill
-          style={{ objectFit: "contain" }}
-        />
+      <NextImage
+        src={src}
+        alt={alt}
+        fill
+        style={{ objectFit: "contain" }}
+        quality="50"
+      />
     </span>
   )
 }
@@ -38,14 +39,12 @@ const LinkedHeader = ({ id, text, comp: Comp}) => {
   )
 }
 
-const Post = ({ content, frontmatter, slug, contentPath}) => {
-  const {title, banner, date, shareButtons, description} = frontmatter
+const Post = ({ content, frontmatter, slug, contentPath, bannerPath, bannerImageProps}) => {
+  const {title, date, shareButtons, description} = frontmatter
   const pageTitle = title || siteUrl
 
   const siteUrl = config.siteMetadata.siteUrl
   const social = config.siteMetadata.social.social
-
-  const bannerPath = banner && `/images/${contentPath}/${slug}/${banner.replace('./', '')}`
 
   return (
     <Layout>
@@ -67,6 +66,19 @@ const Post = ({ content, frontmatter, slug, contentPath}) => {
         <section
           itemProp="articleBody"
         >
+          {!bannerImageProps ? null : (
+            <p>
+              <span className="image-wrapper">
+                <NextImage
+                  {...bannerImageProps}
+                  fill
+                  placeholder="blur"
+                  quality="50"
+                />
+              </span>
+            </p>
+          )}
+
           <ReactMarkdown
             components={{
               img: function ({ node, ...props }) {
@@ -114,9 +126,42 @@ const Post = ({ content, frontmatter, slug, contentPath}) => {
 
 export default Post
 
-export async function getStaticProps({ params }) {
+const getBannerImageProps = async (bannerPath, bannerAlt) => {
+  if (!bannerPath) {
+    return null
+  }
+
+  const { css, img, base64 } = await getPlaiceholder(bannerPath)
+  const { width, height, ...imgProps } = img
+
   return {
-    props: getPost(params.slug),
+    ...imgProps,
+    alt: bannerAlt || 'Banner image',
+    blurDataURL: base64,
+    style: {
+      ...css,
+      objectFit: 'fill',
+    },
+  }
+}
+
+export async function getStaticProps({ params }) {
+  const { slug } = params
+
+  const post = getPost(slug)
+
+  const { contentPath } = post
+  const { banner, bannerAlt } = post.frontmatter
+
+  const bannerPath = banner ? `/images/${contentPath}/${slug}/${banner.replace('./', '')}` : null
+  const bannerImageProps = await getBannerImageProps(bannerPath, bannerAlt)
+
+  return {
+    props: {
+      ...post,
+      bannerPath,
+      bannerImageProps,
+    }
   };
 }
 

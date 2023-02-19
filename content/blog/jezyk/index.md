@@ -4,9 +4,8 @@ date: '2021-09-30'
 published: true
 description: 'Prosty model wyboru języka swoich treści.'
 banner: './banner.jpg'
+bannerAlt: 'https://unsplash.com/@jontyson'
 ---
-
-![https://unsplash.com/@jontyson](./banner.jpg)
 
 Miałem ostatnio kilka rozmów, które otworzyły świeżo zamkniętą ranę pod tytułem "pisać po polsku, czy po angielsku?".
 

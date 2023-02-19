@@ -6,8 +6,6 @@ description: 'Kilka przemyśleń i wniosków na temat pracy jako doradca technic
 banner: './banner.jpg'
 ---
 
-![Consultant meme](./banner.jpg)
-
 Jakiś czas temu miałem okazję przemyśleć kilka najważniejszych lekcji, jakie wyniosłem upgradując przez ostatnie kilka lat swoją rolę w IT - z juniora na doradcę technicznego.
 
 Znajomy z [Brainhuba](https://brainhub.eu/), w którym pracowałem, przesłał mi listę fajnych pytań, które wyciągnęły ze mnie przemyślenia, o których zawsze chciałem napisać.

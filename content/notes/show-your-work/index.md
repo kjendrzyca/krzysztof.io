@@ -6,8 +6,6 @@ description: '"Show Your Work" pokazuje jak dzielić się tym, co stworzyliśmy 
 banner: './banner.jpg'
 ---
 
-![Banner](./banner.jpg)
-
 Jest to książka dla osób, które nie lubią promować się na siłę, ale wiedzą, że nie wystarczy robić dobrej roboty i chcą ją pokazać innym w nienachalny/niemęczący sposób.
 
 Książka opisuje podejście, które skupia się na promowaniu naszej pracy, a nie nas samych, więc pozwala odrzucić ego i miejscami tego wymaga.

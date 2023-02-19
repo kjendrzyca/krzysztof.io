@@ -6,8 +6,6 @@ description: 'JFS to książka najbardziej przydatna dla osób, które mają pro
 banner: './banner.jpg'
 ---
 
-![Banner](./banner.jpg)
-
 Just Fucking Ship to mindset oraz zestaw taktyk, które pomagają robić dwie rzeczy:
 
 1. Jak najszybciej dowieźć pierwszą, najprawdopodobniej daleką od ideału, wersję produktu.

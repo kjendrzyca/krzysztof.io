@@ -4,9 +4,8 @@ date: '2021-09-06'
 published: true
 description: 'Zamiast spisywać kolejne pomysły, zacząłem spisywać, co wiem na dany temat, a pomysły pojawiają się organicznie.'
 banner: './banner.jpg'
+bannerAlt: 'https://unsplash.com/@vlado'
 ---
-
-![https://unsplash.com/@vlado](./banner.jpg)
 
 Wiele razy robiłem sobie listy pomysłów na artykuły i na materiały na social media, newsletter itp.
 

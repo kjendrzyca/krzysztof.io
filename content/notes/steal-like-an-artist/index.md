@@ -6,8 +6,6 @@ description: 'Artysta patrzy na świat przez pryzmat tego, co warto ukraść. "S
 banner: './banner.jpg'
 ---
 
-![Banner](./banner.jpg)
-
 Jakiś czas temu zauważyłem, że dużo się uczę od artystów i ludzi, którzy robią coś kreatywnego. Bardzo odpowiada mi ich mindset, który nie jest oparty na grindowaniu do wyczerpania (jak sportowcy opisani w książce [Relentless](/relentless/)), tylko rutynowej, stabilnej pracy nad rzeczami, które są dla nas ważne.
 
 Postanowiłem, że zacznę pochłaniać książki pisane przez artystów dla artystów i zacząłem od najbardziej dla mnie oczywistej opcji, czyli "Steal Like an Artist", która pojawia się w każdym zestawieniu i w każdych wynikach wyszukiwania.

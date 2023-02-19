@@ -4,9 +4,8 @@ date: '2021-09-06'
 published: true
 description: 'Czym jest dla mnie praca na pół gwizdka - model mentalny.'
 banner: './banner.jpg'
+bannerAlt: 'https://unsplash.com/@mrthetrain'
 ---
-
-![https://unsplash.com/@mrthetrain](./banner.jpg)
 
 Im dłużej pracuję (żyję?), tym więcej widzę możliwości robienia różnych, potencjalnie ciekawych rzeczy.
 

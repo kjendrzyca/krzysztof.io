@@ -6,8 +6,6 @@ description: 'Company of One to książka, która pokazuje jak budować biznes o
 banner: './banner.jpg'
 ---
 
-![Banner](./banner.jpg)
-
 Company of One to książka, która pokazuje jak budować biznes online, korzystając z tych samych zasad, co mały, lokalny, "kraftowy" i dochodowy biznes, którego właściciel zna wszystkich po imieniu i którego lubią wszyscy jego klienci.
 
 Company of One to ta osiedlowa piekarnia i jej właściciel, którego wszyscy znają od lat. Wszyscy wiedzą, że walczył z ciężką chorobą dwa lata temu, że jego żona chodzi na co tydzień na mszę w niedzielę, że jeździ starym VW, bo nie ufa nowym samochodom i naprawia go mniej więcej raz na miesiąc, że 10 lat temu pokłócił się z synem i od tamtego czasu ze sobą nie rozmawiają, że większość sezonu letniego spędza na działce i zawsze pozwala dzieciakom zrywać czereśnie ze swojego drzewa, ale jeśli podeptasz mu sadzonki, to zapamięta Ci to do końca życia.

@@ -6,8 +6,6 @@ description: 'Podsumowanie 2021 i plany na 2022.'
 banner: './banner.jpg'
 ---
 
-![Banner](./banner.jpg)
-
 Ostatnio planuję znacznie mniej, niż robiłem to w poprzednich latach, dlatego uznałem, że wypada przynajmniej zrobić krótkie podsumowanie 2021 roku.
 
 Jest to jednocześnie kontynuacja wpisu ["Po co to wszystko?"](/po-co/). Napisałem tam, że w kwietniu rzuciłem etat i postanowiłem poszukać interesujących rzeczy, którymi mógłbym się zająć, bo dotychczasowe przestały działać.
