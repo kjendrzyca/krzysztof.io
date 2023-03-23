@@ -28,7 +28,7 @@ const BlogIndex = () => {
         Heja! 👋
       </p>
       <p>
-        Nazywam się Krzysztof Jendrzyca i zawodowo jestem programistą. Pomagam dowozić projekty oparte o React oraz Node.js.
+        Nazywam się Krzysztof Jendrzyca i zawodowo zajmuję się usprawnianiem architektury oraz spłacaniem długu technicznego w aplikacjach React/Node.js.
       </p>
 
       <p>
