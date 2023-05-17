@@ -6,9 +6,11 @@ description: 'Co zrobić, gdy się ze mną nie zgadzasz.'
 ---
 
 TL;DR:
-- To spisz swoje przemyślenia i daj mi do przeczytania.
-- W przeciwnym wypadku: I don't care.
-- https://fs.blog/2013/04/the-work-required-to-have-an-opinion/
+
+1. Nie musisz
+1. Nie zależy mi na tym, żeby kogokolwiek do czegokolwiek przekonywać
+1. Chętnie poznam Twój punkt widzenia, ale [nie mów mi, co mam robić](dokumentuj-zamiast-tworzyc)
+1. https://fs.blog/2013/04/the-work-required-to-have-an-opinion/
 
 Wersja kompletna:
 
