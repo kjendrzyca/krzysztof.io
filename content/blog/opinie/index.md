@@ -1,6 +1,6 @@
 ---
 title: '"Nie zgadzam się z tym, co piszesz"'
-date: '2021-06-03'
+date: '2023-06-20'
 published: true
 description: 'Co zrobić, gdy się ze mną nie zgadzasz.'
 ---
