@@ -83,3 +83,4 @@ description: 'Zestaw narzędzi, który wypracowałem sobie w ciągu wielu lat te
 ## Inne
 
 - [Brain.fm](https://my.brain.fm/?promotionCode=promo_1KC6DhDxyvLufNfyZ264p2Za&name=Your%20First%20Month%20of%20Brain.fm%20Pro%20for%20$1&displayCost=1.00&description=You%27ve%20been%20referred!%20Get%201%20Month%20of%20Brain.fm%20Pro%20for%20$1&targetPlan=Monthly)
+- [NordVPN](https://ref.nordvpn.com/QKcGPyclsxy)
