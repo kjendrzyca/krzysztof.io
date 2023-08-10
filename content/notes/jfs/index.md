@@ -425,7 +425,7 @@ Przykłady rzeczy, które fajnie byłoby mieć, ale nie są wymagane:
 - Pakiety cenowe
 - Wywiady, dodatki
 - Sprytny "launch sequence"
-- Fancy langing page z własną domeną
+- Fancy landing page z własną domeną
 - Split-testowa wersja call to action
 
 ## Tnij zakres bez litości
