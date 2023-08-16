@@ -236,7 +236,7 @@ Znalazłem jednak kilka dobrych przykładów za granicą, m.in.:
 
 - https://nathanbarry.com/blog/
 - https://www.nateliason.com/blog (moje główne źródło wiedzy o prywatnych blogach)
-- https://www.jason.af/posts
+- https://www.jason.energy/posts
 - https://joelhooks.com/ (moje główne źródło inspiracji jeśli chodzi o wygląd bloga)
 - https://www.swyx.io/
 - https://sive.rs/
