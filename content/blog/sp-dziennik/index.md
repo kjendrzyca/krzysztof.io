@@ -50,7 +50,7 @@ Nagranie 10-minutowego filmu to kilka godzin pracy. Pracy, której nie da się w
 
 Z tego powodu nagrałem tylko 6 filmów (ostatni miał premierę 2020-06-25) i wróciłem do pisania. Planuję wrócić jeszcze na YT, ale w lżejszej formie, gdzie będę dokumentował, co robię i nie będę musiał przejmować się tyle nagrywaniem, montażem i tym, że treści nie można poprawić. Sposób nagrywania w stylu Thomasa Franka już mnie nie interesuje.
 
-Narzędzia, które wykorzystałem do nagrywania można znaleźć [w sekcji "Sprzęt"](/narzedzia/#Sprzet).
+Narzędzia, które wykorzystałem do nagrywania można znaleźć [w sekcji "Sprzęt"](/narzedzia/#sprzęt).
 
 ## Październik 2020
 
