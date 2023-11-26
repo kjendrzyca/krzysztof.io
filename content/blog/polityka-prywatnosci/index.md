@@ -79,20 +79,15 @@ Kontaktując się poprzez formularz kontaktowy, podajesz mi przynajmniej swój a
 
 Twoje dane są w tym przypadku przetwarzane w celu kontaktu z Tobą. Podstawą, do przetwarzania danych jest Twoja zgoda. Masz prawo żądać przedstawienia historii prowadzonej korespondencji oraz możesz domagać się jej usunięcia, chyba że zachowanie korespondencji uzasadnione jest moim interesem (np. ochrona przed roszczeniami).
 
-### Komentarze
-
-System komentarzy obsługiwany jest przez firmę Disqus Inc., 301 Howard Street, Suite 300, San Francisco, CA94105, USA. Disqus jest samodzielnym administratorem Twoich danych osobowych, a korzystanie z systemu odbywa się na podstawie akceptacji przez Ciebie regulaminu świadczenia usług przez Disqus.
-
-Dane przekazane podczas dodawania komentarza wykorzystywane są w celu opublikowania komentarza. Podstawą ich przetwarzania jest Twoja zgoda. Dane będą przetwarzane przez czas funkcjonowania komentarzy na blogu, chyba że wcześniej poprosisz o usunięcie komentarza, co spowoduje usunięcie Twoich danych z bazy.
-
-W każdej chwili możesz sprostować swoje dane przypisane do komentarza, jak również zażądać ich usunięcia i przeniesienia. Uprawnienia te możesz realizować bezpośrednio w ramach swojego konta użytkownika w systemie Disqus.
-
 ## Powierzenie przetwarzania danych osobowych
 
 Twoje dane mogą być przetwarzane przez podmioty trzecie, którym zlecam wykonanie poszczególnych czynności związanych z zapewnieniem właściwego funkcjonowania strony internetowej. Podmioty, którym zlecam przetwarzanie danych osobowych, gwarantują stosowanie odpowiednich środków ochrony i bezpieczeństwa danych osobowych wymaganych przez przepisy prawa. Podmioty, którym powierzam przetwarzanie danych, to:
 
-- Netlify, Inc (2325 3rd Street, Suite 215, San Francisco, 94107 CA) – w celu przechowywania danych osobowych na serwerze ([ich polityka prywatności](https://www.netlify.com/gdpr/)),
-- MailerLite (UAB “MailerLite”, J. Basanavičiaus 15, LT-03108 Vilnius, Lithuania) – w celu korzystania z systemu mailingowego, w którym przetwarzane są Twoje dane, jeżeli zapiszesz się do newslettera ([ich polityka prywatności](https://www.mailerlite.com/legal/privacy-policy)).
+- Netlify, Inc (2325 3rd Street, Suite 215, San Francisco, 94107 CA) – w celu przechowywania danych osobowych na serwerze ([ich polityka prywatności](https://www.netlify.com/gdpr/))
+- MailerLite (UAB “MailerLite”, J. Basanavičiaus 15, LT-03108 Vilnius, Lithuania) – w celu korzystania z systemu mailingowego, w którym przetwarzane są Twoje dane, jeżeli zapiszesz się do newslettera ([ich polityka prywatności](https://www.mailerlite.com/legal/privacy-policy))
+- Supabase, Inc. - w celu przechowywania danych do autentykacji na platformie edu.krzysztof.io ([ich polityka prywatności](https://supabase.com/privacy))
+- Neon, Inc. - w celu przechowywania informacji o produktach i zapamiętywania ustawień użytkownika na platformie edu.krzysztof.io ([ich polityka prywatności](https://neon.tech/privacy-policy))
+- Stripe Payments Europe, Ltd. - do obsługi płatności na platformie edu.krzysztof.io ([ich polityka prywatności](https://stripe.com/en-pl/privacy))
 
 ## Logi serwera
 
@@ -113,13 +108,11 @@ Wykorzystuję cookies własne w celu:
 
 - zapewnienia prawidłowego działania strony
 - realizacji procesu zamówienia
-- prawidłowego działania pop-upów i formularzy.
+- prawidłowego działania pop-upów i formularzy
 
 Wykorzystuję również cookies podmiotów zewnętrznych:
 
-- Google Analytics (wydawca: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA) – w celu tworzenia statystyk i ich analizie dla optymalizacji strony,
-- Facebook Pixel (wydawca: Facebook Inc., 1601 S. California Ave. Palo Alto, CA 94304, USA) – w celu reklamowania mojej strony internetowej w serwisie Facebook,
-- Disqus (wydawca: Disqus Inc., 717 Market St. San Francisco, CA 94103) - w celu obsługi komentarzy na blogu.
+- Google Analytics (wydawca: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA) – w celu tworzenia statystyk i ich analizie dla optymalizacji strony
 
 ## Zmiana polityki bezpieczeństwa i plików cookies
 
