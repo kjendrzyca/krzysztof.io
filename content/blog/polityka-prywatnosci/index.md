@@ -1,6 +1,6 @@
 ---
 title: 'Polityka Prywatności'
-date: '2021-05-29'
+date: '2023-11-26'
 published: true
 description: 'Polityka Prywatności.'
 shareButtons: false
