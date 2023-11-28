@@ -1,6 +1,6 @@
 ---
 title: 'Polityka Prywatności'
-date: '2023-11-26'
+date: '2023-11-28'
 published: true
 description: 'Polityka Prywatności.'
 shareButtons: false
@@ -83,8 +83,9 @@ Twoje dane są w tym przypadku przetwarzane w celu kontaktu z Tobą. Podstawą, 
 
 Twoje dane mogą być przetwarzane przez podmioty trzecie, którym zlecam wykonanie poszczególnych czynności związanych z zapewnieniem właściwego funkcjonowania strony internetowej. Podmioty, którym zlecam przetwarzanie danych osobowych, gwarantują stosowanie odpowiednich środków ochrony i bezpieczeństwa danych osobowych wymaganych przez przepisy prawa. Podmioty, którym powierzam przetwarzanie danych, to:
 
-- Netlify, Inc (2325 3rd Street, Suite 215, San Francisco, 94107 CA) – w celu przechowywania danych osobowych na serwerze ([ich polityka prywatności](https://www.netlify.com/gdpr/))
-- MailerLite (UAB “MailerLite”, J. Basanavičiaus 15, LT-03108 Vilnius, Lithuania) – w celu korzystania z systemu mailingowego, w którym przetwarzane są Twoje dane, jeżeli zapiszesz się do newslettera ([ich polityka prywatności](https://www.mailerlite.com/legal/privacy-policy))
+- Netlify, Inc – w celu przechowywania danych osobowych na serwerze ([ich polityka prywatności](https://www.netlify.com/gdpr/))
+- MailerLite – w celu korzystania z systemu mailingowego, w którym przetwarzane są Twoje dane, jeżeli zapiszesz się do newslettera ([ich polityka prywatności](https://www.mailerlite.com/legal/privacy-policy))
+- MailerSend – w celu maili transakcyjnych, takich jak linki do logowania ([ich polityka prywatności](https://www.mailersend.com/legal/privacy-policy))
 - Supabase, Inc. - w celu przechowywania danych do autentykacji na platformie edu.krzysztof.io ([ich polityka prywatności](https://supabase.com/privacy))
 - Neon, Inc. - w celu przechowywania informacji o produktach i zapamiętywania ustawień użytkownika na platformie edu.krzysztof.io ([ich polityka prywatności](https://neon.tech/privacy-policy))
 - Stripe Payments Europe, Ltd. - do obsługi płatności na platformie edu.krzysztof.io ([ich polityka prywatności](https://stripe.com/en-pl/privacy))
