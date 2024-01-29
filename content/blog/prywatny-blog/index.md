@@ -1,8 +1,8 @@
 ---
 title: 'Prywatny blog'
-date: '2021-09-06'
+date: '2024-01-29'
 published: true
-description: 'Moje zasady tworzenia prywatnego bloga, gdzie skupiam się na podążaniu za własnymi zainteresowaniami.'
+description: 'Moje zasady tworzenia prywatnego bloga (lub inaczej "bloga osobistego"), gdzie skupiam się na podążaniu za własnymi zainteresowaniami.'
 banner: './banner.jpg'
 bannerAlt: 'https://unsplash.com/@nerevarin'
 ---
@@ -82,7 +82,7 @@ Te wszystkie fakty i hipotezy zebrane razem spowodowały, że zaczęły otwiera�
 
 ## Private blog manifesto
 
-To, w jaki sposób tworzę prywatny blog (a tak naprawdę [stronę internetową](https://joelhooks.com/digital-garden)), jest wynikiem dość długiego researchu i zupełnym przeciwieństwem tego, jak działałem dotychczas.
+To, w jaki sposób tworzę prywatny blog (czy też "blog osobisty" lub po prostu [własną stronę internetową](https://joelhooks.com/digital-garden)), jest wynikiem dość długiego researchu i zupełnym przeciwieństwem tego, jak działałem dotychczas.
 
 **W największym skrócie**: piszę o tym, co mi się podoba, na co mam ochotę i nie nastawiam się na osiągnięcie żadnych wyników, tylko [czerpię maksymalną przyjemność z samego procesu](/proces/).
 
