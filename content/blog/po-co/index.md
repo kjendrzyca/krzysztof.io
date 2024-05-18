@@ -121,7 +121,7 @@ Rozwiązania takie jak *mikroserwisy/GraphQL/architektura oparta o eventy/[lub t
 
 Zastanawiam się, czy nie jestem zbyt zmęczony tą branżą, która często przypomina beztroską zabawę bogatych, rozpieszczonych dzieci.
 
-**Ważne**: Nie mam nic przeciwko rozwiązywaniu problemów z ludźmi. Wg mnie **są to najważniejsze problemy do rozwiązania w każdym projekcie i dają największy zwrot z inwestycji**. Problemem jest to, że rozwiązywaniem problemów z ludźmi zajmowałem się przez ostatnie kilka lat w znacznie większym stopniu niż programowaniem i już **zaczęło mi brakować siły na to, żeby robić to na małą skalę**, jaką jest jeden projekt za drugim. Najprawdopodobniej [skutecznyprogramista.pl](https://skutecznyprogramista.pl), to próba rozwiązania tych problemów na większą skalę.
+**Ważne**: Nie mam nic przeciwko rozwiązywaniu problemów z ludźmi. Wg mnie **są to najważniejsze problemy do rozwiązania w każdym projekcie i dają największy zwrot z inwestycji**. Problemem jest to, że rozwiązywaniem problemów z ludźmi zajmowałem się przez ostatnie kilka lat w znacznie większym stopniu niż programowaniem i już **zaczęło mi brakować siły na to, żeby robić to na małą skalę**, jaką jest jeden projekt za drugim. Najprawdopodobniej [skutecznapracawzespole.pl](https://skutecznapracawzespole.pl), to próba rozwiązania tych problemów na większą skalę.
 
 (Przy okazji dowiedziałem się, nie tylko mnie męczą problemy z ludźmi, ale też wielu znajomych, którzy znaleźli się w podobnej roli, co ja. Tym, którym udało się znaleźć w takim miejscu, gdzie mają balans, jest względnie dobrze).
 

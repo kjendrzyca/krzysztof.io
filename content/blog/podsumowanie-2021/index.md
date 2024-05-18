@@ -10,7 +10,7 @@ Ostatnio planuję znacznie mniej, niż robiłem to w poprzednich latach, dlatego
 
 Jest to jednocześnie kontynuacja wpisu ["Po co to wszystko?"](/po-co/). Napisałem tam, że w kwietniu rzuciłem etat i postanowiłem poszukać interesujących rzeczy, którymi mógłbym się zająć, bo dotychczasowe przestały działać.
 
-Dałem sobie trochę czasu na prowadzenie tego bloga i prace nad [skutecznyprogramista.pl](https://skutecznyprogramista.pl).
+Dałem sobie trochę czasu na prowadzenie tego bloga i prace nad [skutecznapracawzespole.pl](https://skutecznapracawzespole.pl).
 
 ## krzysztof.io
 
@@ -44,7 +44,7 @@ Wcześniej używałem głównie Kindla i stosowałem [stopniowe podsumowywanie](
 
 ## SP 2.0
 
-[skutecznyprogramista.pl](https://skutecznyprogramista.pl), to projekt, w którym chcę pokazać, jak być maksymalnie wartościowym członkiem zespołu IT, pozostaje głównym pożeraczem energii.
+[skutecznapracawzespole.pl](https://skutecznapracawzespole.pl), to projekt, w którym chcę pokazać, jak być maksymalnie wartościowym członkiem zespołu IT, pozostaje głównym pożeraczem energii.
 
 Początkowo był to blog. Teraz jest to mailing. Zmiany wynikają z tego, że zacząłem bardzo szeroko - od bloga IT i kanału na YT, gdzie przekazuję wszystko, co wydaje mi się najbardziej wartościowe z punktu widzenia pracy w IT.
 

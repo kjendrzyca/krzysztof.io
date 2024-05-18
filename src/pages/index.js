@@ -37,7 +37,7 @@ const BlogIndex = () => {
       </p>
 
       <p>
-        Obecnie pracuję nad projektem <a href="https://skutecznyprogramista.pl">skutecznyprogramista.pl</a>, który składa się z mailingu i programu szkoleniowego online.
+        Obecnie pracuję nad projektem <a href="https://skutecznapracawzespole.pl">skutecznapracawzespole.pl</a>, który składa się z mailingu i programu szkoleniowego online.
       </p>
 
       <p>
