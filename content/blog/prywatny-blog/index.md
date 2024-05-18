@@ -244,6 +244,7 @@ Znalazłem jednak kilka dobrych przykładów za granicą, m.in.:
 - https://fabriziorinaldi.com/
 - https://mishayurchenko.me/
 - https://maggieappleton.com/
+- https://joel.is/notes/
 - http://codeofrob.com/blog.html
 
 Jeśli tworzysz prywatny blog lub znasz jakiś godny polecenia, to daj znać 🙏. Chętnie rozbuduję swoją kolekcję.

@@ -6,8 +6,6 @@ description: 'Podsumowanie kilku ostatnich miesięcy zastanawiania się nad tym,
 banner: './no-idea.jpg'
 ---
 
-![No idea what I'm doing](./no-idea.jpg)
-
 W 2020 zmieniły się dla mnie trzy rzeczy:
 
 - Zacząłem swój własny projekt - bloga, gdzie dokumentuję swoją drogę w IT.
