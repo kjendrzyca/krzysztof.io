@@ -193,6 +193,10 @@ const BlogIndex = () => {
           title={`Problem Dreamlinera`}
           slug="problem-dreamlinera"
         />
+        <IndexLink
+          title={`Taktyczna empatia`}
+          slug="empatia"
+        />
       </ul>
     </Layout>
   )
