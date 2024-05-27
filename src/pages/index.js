@@ -190,12 +190,12 @@ const BlogIndex = () => {
       <h3>IT</h3>
       <ul>
         <IndexLink
-          title={`Problem Dreamlinera`}
-          slug="problem-dreamlinera"
-        />
-        <IndexLink
           title={`Taktyczna empatia`}
           slug="empatia"
+        />
+        <IndexLink
+          title={`Problem Dreamlinera`}
+          slug="problem-dreamlinera"
         />
       </ul>
     </Layout>
