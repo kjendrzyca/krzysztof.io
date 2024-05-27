@@ -1,6 +1,6 @@
 ---
 title: 'Taktyczna empatia'
-date: '2024-05-26'
+date: '2024-05-27'
 published: true
 description: 'Proste podejście, które pomaga mi wyjść z sytuacji "pod presją".'
 banner: ''
@@ -54,15 +54,19 @@ Często mamy też takie sytuacje, że zapominamy języka w gębie, bo ktoś powi
 
 Nie wiemy jak zinterpretować sytuację i włącza nam się tryb *walki lub ucieczki*, który odpalany jest w starszych ewolucyjnie obszarach mózgu odpowiedzialnych za "zwierzęce" zachowania.
 
-Wg badań mamy ponoć ~0.5s, żeby przekierować krew do płata czołowego, czyli tych myślących, "niezwierzęcych" partii mózgu. Jest to nasza szansa, żeby przełączyć się w tryb logicznego myślenia i odpowiednio zareagować.
+Wg badań **mamy ponoć ~0.5s, żeby przekierować krew do płata czołowego**, czyli tych myślących, "niezwierzęcych" partii mózgu. Jest to nasza szansa, żeby przełączyć się w tryb logicznego myślenia i odpowiednio zareagować.
 
 Jednym z polecanych sposobów, żeby wyćwiczyć takie przekierowanie jest **zauważanie i nazywanie emocji, które w takiej sytuacji odczuwamy**. Na początku nawet na głos.
 
 Jest to pierwszy krok w całym procesie.
 
-Z moich obserwacji wynika, że mamy trochę dłużej niż pół sekundy na reakcję, ale nadal jest to tylko kilka sekund.
+Z moich obserwacji wynika, że mamy trochę więcej niż pół sekundy na reakcję, ale nadal jest to tylko kilka sekund.
 
-W tym czasie zmuszam się do tego, żeby nazwać swoją emocję i powiedzieć do siebie coś w stylu "czuję w tym momencie [tutaj emocja - niepewność, złość, obawę itd.] przez to, co on/ona powiedział/powiedziała, (opcjonalnie) bo [tutaj powód]". Zdarzało się, że mówiłem to na głos (gdy byłem sam w pokoju), jeśli dawno nie ćwiczyłem nazywania własnych emocji.
+W tym czasie zmuszam się do tego, żeby nazwać swoją emocję i powiedzieć do siebie coś w stylu:
+
+"Czuję w tym momencie *[tutaj emocja - niepewność, złość, obawę itd.]* przez to, co on/ona powiedział/powiedziała, bo [tutaj opcjonalnie powód]".
+
+Zdarzało się, że mówiłem to na głos (gdy byłem sam w pokoju), jeśli dawno nie ćwiczyłem nazywania własnych emocji.
 
 Taka reakcja pozwala uruchomić logiczne myślenie. Dzięki temu łatwiej jest się opanować i skupić na faktach, które przydają się w kroku drugim.
 
@@ -96,7 +100,7 @@ Zauważyłem, że gdy empatię zostawię "włączoną" przez cały czas, to para
 
 Nauczyłem się też, że mogę używać empatii jak narzędzia - tylko wtedy, kiedy potrzebuję.
 
-Pomaga mi w zrozumieniu dostępnych opcji. Pozwala wejść na chwilę w buty dugiej osoby i zastanowić się co ma na myśli, dlaczego tak, jak na jej miejscu bym zareagował i jak mogę jej pomóc.
+Pomaga mi ona w zrozumieniu dostępnych opcji. Pozwala wejść na chwilę w buty dugiej osoby i zastanowić się co ma na myśli, dlaczego tak, jak na jej miejscu bym zareagował i jak mogę jej pomóc.
 
 Krok trzeci polega właśnie na takim taktycznym zastosowaniu empatii:
 
