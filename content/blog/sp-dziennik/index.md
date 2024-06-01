@@ -228,7 +228,7 @@ Long story short, nie będę korzystał z Paybylink z kilku powodów:
 - Dostałem informację, że podczas wejścia na moją stronę należy się zalogować i utrudnia to weryfikację.
 - Nikt mnie o tym nie poinformował i dowiedziałem się tego tylko dlatego, że sam spytałem.
 - Tworzę zamkniętą platformę dla tych, którzy wykupili dostęp, a produkt nie istnieje i nie jest dostępny po zalogowaniu na platformę, bo to prywatna przedsprzedaż. Odpisałem, że nie mają dostępu by design, ale polityka prywatności oraz regulamin są widoczne publiczne - również na stronie logowania w stopce. Dostałem odpowiedź "Aby zaakceptować sklep musimy wiedzieć, co klienci mogą zakupić na danej stronie. Ponadto w systemie nie widzimy linków do regulaminu oraz polityki prywatności. Poproszę o testowe dane do logowania na stronę"
-- Cały proces zeżarł mi zbyt wiele punktów szaleństwa i musiałem zrezygnować.
+- Cały proces nabił mi zbyt wiele punktów szaleństwa i musiałem zrezygnować.
 - Po jakimś czasie (i po fakcie) sklep został aktywowany, bez potrzeby logowania się na testowe konto i bez jakichkolwiek dodatkowych informacji z mojej strony. Czyli jednak się dało.
 - Nie zostałem poinformowany, że mój sklep jest aktywny. Dowiedziałem się tego, logując się samemu na stronę. Żadnych powiadomień.
 
