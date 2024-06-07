@@ -82,7 +82,7 @@ export const MailerLiteFormKIO = () => {
                   </div>
 
                   <div className="ml-form-fieldRow ml-form-embedSubmit">
-                    <button type="submit" className="primary-button">Zapisz się</button>
+                    <button type="submit" className="primary primary-button">Zapisz się</button>
                     <button disabled="disabled" style={{display: 'none'}} type="button" className="loading primary-button">
                       <div className="ml-form-embedSubmitLoad"></div> <span className="sr-only">Loading...</span>
                     </button>
