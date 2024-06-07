@@ -313,6 +313,22 @@ input, button {
 
 button:focus {outline:0;}
 
+/* buttons */
+
+.primary-button {
+  background-color: var(--color-primary);
+  color: var(--color-white);
+  cursor: pointer;
+  border-radius: 3px;
+  height: 50px;
+  padding: 5px 10px;
+  width: 100%;
+}
+
+.primary-button:hover {
+  background-color: var(--color-primary-darker);
+}
+
 /* Custom classes */
 
 .footer-bottom {
@@ -521,20 +537,6 @@ button:focus {outline:0;}
   box-shadow: none;
   padding: 5px 10px;
   width: 100%;
-}
-
-.ml-form-fieldRow button {
-  background-color: var(--color-primary);
-  color: var(--color-white);
-  cursor: pointer;
-  border-radius: 3px;
-  height: 50px;
-  padding: 5px 10px;
-  width: 100%;
-}
-
-.ml-form-fieldRow button:hover {
-  background-color: var(--color-primary-darker);
 }
 
 @media (min-width: 545px) {

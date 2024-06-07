@@ -1,10 +1,12 @@
-import { MailerLiteScriptSrc, MailerLiteSuccessFunctionScript } from "@/components/mailerlite"
 import { ThemeProvider } from 'next-themes'
+import Script from "next/script"
+
+import { MailerLiteScriptSrc, MailerLiteSuccessFunctionScriptKIO } from "@/components/mailerLiteKIO"
+import { MailerLiteSuccessFunctionScriptSPWZ } from "@/components/mailerLiteSPWZ"
 
 import "@/styles/fonts.css"
 import "@/styles/normalize.css"
 import "@/styles/style.css"
-import Script from "next/script"
 
 // Highlighting for code blocks
 // import "prismjs/themes/prism.css"
@@ -15,7 +17,10 @@ export default function App({ Component, pageProps }) {
       <Component {...pageProps} />
 
       <Script id="mailerlite-success-function-script">
-        {MailerLiteSuccessFunctionScript}
+        {MailerLiteSuccessFunctionScriptKIO}
+      </Script>
+      <Script id="mailerlite-success-function-script-spwz">
+        {MailerLiteSuccessFunctionScriptSPWZ}
       </Script>
       <Script src={MailerLiteScriptSrc} />
 

@@ -1,11 +1,8 @@
 import React from 'react'
+import { MailerLiteFormConfig } from './mailerLiteFormConfig'
 
-const WrapperId = '3904681'
-const FormId = 'f6w6r0'
-const TrackingImageId = 'v1676145199'
-
-export const MailerLiteSuccessFunctionScript = `
-  function ml_webform_success_${WrapperId}() {
+export const MailerLiteSuccessFunctionScriptKIO = `
+  function ml_webform_success_${MailerLiteFormConfig.KIO.WrapperId}() {
     document.getElementsByClassName('row-success')[0].style.display = 'block';
     document.getElementsByClassName('row-form')[0].style.display = 'none';
   }
@@ -13,26 +10,31 @@ export const MailerLiteSuccessFunctionScript = `
 
 export const MailerLiteScriptSrc = `https://static.mailerlite.com/js/w/webforms.min.js?vd4de52e171e8eb9c47c0c20caf367ddf`
 
-export const TrackingImage = () => (
-  // eslint-disable-next-line @next/next/no-img-element
-  <img
-    src={`https://track.mailerlite.com/webforms/o/${WrapperId}/${FormId}?${TrackingImageId}`}
-    width="1"
-    height="1"
-    style={{
-      maxWidth: '1px',
-      maxHeight: '1px',
-      visibility: 'hidden',
-      padding: 0,
-      margin: 0,
-      display: 'block',
-    }}
-    alt="."
-    border="0"
-  />
-)
+const TrackingImageKIO = () => {
+  const {WrapperId, FormId, TrackingImageId} = MailerLiteFormConfig.KIO
+  return (
+    // eslint-disable-next-line @next/next/no-img-element
+    <img
+      src={`https://track.mailerlite.com/webforms/o/${WrapperId}/${FormId}?${TrackingImageId}`}
+      width="1"
+      height="1"
+      style={{
+        maxWidth: '1px',
+        maxHeight: '1px',
+        visibility: 'hidden',
+        padding: 0,
+        margin: 0,
+        display: 'block',
+      }}
+      alt="."
+      border="0"
+    />
+  )
+}
 
-export const MailerLiteForm = () => {
+export const MailerLiteFormKIO = () => {
+  const {WrapperId, FormId} = MailerLiteFormConfig.KIO
+
   return (
     <>
       <div id={`mlb2-${WrapperId}`} className={`ml-form-embedContainer ml-subscribe-form ml-subscribe-form-${WrapperId}`}>
@@ -80,8 +82,8 @@ export const MailerLiteForm = () => {
                   </div>
 
                   <div className="ml-form-fieldRow ml-form-embedSubmit">
-                    <button type="submit" className="primary">Zapisz się</button>
-                    <button disabled="disabled" style={{display: 'none'}} type="button" className="loading">
+                    <button type="submit" className="primary-button">Zapisz się</button>
+                    <button disabled="disabled" style={{display: 'none'}} type="button" className="loading primary-button">
                       <div className="ml-form-embedSubmitLoad"></div> <span className="sr-only">Loading...</span>
                     </button>
                   </div>
@@ -104,7 +106,23 @@ export const MailerLiteForm = () => {
           </div>
         </div>
       </div>
-      <TrackingImage />
+      <TrackingImageKIO />
     </>
   )
 }
+
+export const SubscribeKIO = () => {
+  return (
+    <div className="subscribe-form">
+      <div>
+        <h2>📰 Newsletter</h2>
+        <p>
+          Jeśli chcesz pogadać i/lub od czasu do czasu dostać ode mnie informacje{' '}
+          o nowych wpisach, notatkach, projektach,{' '}
+          nad którymi pracuję oraz o postępach pracy nad sobą, to zostaw tutaj swój e-mail.</p>
+      </div>
+      <MailerLiteFormKIO />
+    </div>
+  );
+};
+

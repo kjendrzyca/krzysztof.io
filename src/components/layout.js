@@ -2,7 +2,7 @@ import React from "react"
 
 import Link from 'next/link'
 
-import { Subscribe } from './Subscribe'
+import { SubscribeKIO } from './mailerLiteKIO'
 import { GitHub, Instagram, Twitter } from './Social'
 import ThemeToggler from './ThemeToggler'
 import { config } from "@/config"
@@ -18,7 +18,7 @@ export const Layout = ({ children, isLandingPage }) => {
       </header>
       <main>{children}</main>
       {isLandingPage ? null : <footer>
-        <Subscribe />
+        <SubscribeKIO />
         <div className="footer-bottom">
           <div>
             © {new Date().getFullYear()}, Built with

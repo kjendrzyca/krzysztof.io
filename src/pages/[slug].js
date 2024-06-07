@@ -87,9 +87,9 @@ const Post = ({ content, frontmatter, slug, contentPath, bannerPath, bannerImage
 
                 return <MarkdownImage {...props} src={newSrc} />
               },
-              h2: ({ level, children, ...props }) => <LinkedHeader id={props.id} text={children[0]} comp={(propsy) => <h2 {...propsy} />} />,
-              h3: ({ level, children, ...props }) => <LinkedHeader id={props.id} text={children[0]} comp={(propsy) => <h3 {...propsy} />} />,
-              h4: ({ level, children, ...props }) => <LinkedHeader id={props.id} text={children[0]} comp={(propsy) => <h4 {...propsy} />} />,
+              h2: ({ children, ...props }) => <LinkedHeader id={props.id} text={children[0]} comp={(propsy) => <h2 {...propsy} />} />,
+              h3: ({ children, ...props }) => <LinkedHeader id={props.id} text={children[0]} comp={(propsy) => <h3 {...propsy} />} />,
+              h4: ({ children, ...props }) => <LinkedHeader id={props.id} text={children[0]} comp={(propsy) => <h4 {...propsy} />} />,
             }}
             remarkPlugins={[remarkGfm]}
             rehypePlugins={[
@@ -132,6 +132,7 @@ const getBannerImageProps = async (bannerPath, bannerAlt) => {
   }
 
   const { css, img, base64 } = await getPlaiceholder(bannerPath)
+  // eslint-disable-next-line no-unused-vars
   const { width, height, ...imgProps } = img
 
   return {
