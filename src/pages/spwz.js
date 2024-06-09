@@ -1,7 +1,6 @@
 import React, { useState } from "react"
 import ReactMarkdown from 'react-markdown'
 import NextImage from 'next/image'
-import { useTheme } from 'next-themes'
 
 import {Layout} from "@/components/layout"
 import SEO from "@/components/seo"
@@ -9,6 +8,7 @@ import { SubscribeSPWZ, SubscribeSPWZToggleButton } from "@/components/mailerLit
 import ShareButtons from "@/components/shareButtons"
 import { config } from "@/config"
 import { SPWZEbook } from "@/components/SPWZEbook"
+import { SPWZLogo } from "@/components/SPWZLogo"
 
 const czemuCiSieToPrzydaMd = `
 Gdy zaczynałem pracę, to nie wiedziałem **jak stwierdzić, czy robię dobrą robotę**
@@ -92,7 +92,6 @@ const SPWZPage = () => {
   const siteUrl = config.siteMetadata.siteUrl
   const social = config.siteMetadata.social.social
 
-  const { theme } = useTheme()
   const [showPopup, setShowPopup] = useState(false);
 
   const togglePopup = () => setShowPopup(showPopup => !showPopup)
@@ -108,13 +107,7 @@ const SPWZPage = () => {
       />
 
       <p style={{marginBottom: 0}}>
-        <span className="image-wrapper" style={{textAlign: 'center'}}>
-          {theme === 'dark' ? (
-            <NextImage src="/spwz/spwz-logo-dark.png" width={100} height={100} alt="Logo" />
-          ) :
-            <NextImage src="/spwz/spwz-logo-light.png" width={100} height={100} alt="Logo" />
-          }
-        </span>
+        <SPWZLogo />
       </p>
 
       <h1 style={{fontSize:'2.5rem', marginTop: 'var(--spacing-6)'}}>
