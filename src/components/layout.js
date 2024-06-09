@@ -8,8 +8,10 @@ import ThemeToggler from './ThemeToggler'
 import { config } from "@/config"
 
 export const Layout = ({ children, isLandingPage }) => {
+  const globalWrapperClassNames = ['global-wrapper', isLandingPage ? 'wide' : null].filter(cn => cn).join(' ')
+
   return (
-    <div className="global-wrapper">
+    <div className={globalWrapperClassNames}>
       {isLandingPage ? null : <header className="global-header">
         <Link className="header-link-home" href="/">
           {config.siteMetadata.title}

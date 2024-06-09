@@ -12,6 +12,7 @@
   --maxWidth-4xl: 56rem;
   --maxWidth-full: "100%";
   --maxWidth-wrapper: var(--maxWidth-2xl);
+  --maxWidth-wrapper-wide: var(--maxWidth-3xl);
   --spacing-px: "1px";
   --spacing-0: 0;
   --spacing-1: 0.25rem;
@@ -382,6 +383,10 @@ button:focus {outline:0;}
   max-width: var(--maxWidth-wrapper);
   padding: var(--spacing-10) var(--spacing-5);
   overflow-x: auto;
+}
+
+.global-wrapper.wide {
+  max-width: var(--maxWidth-wrapper-wide);
 }
 
 .global-wrapper[data-is-root-path="true"] .bio {

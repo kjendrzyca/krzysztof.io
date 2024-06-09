@@ -109,7 +109,7 @@ export const SubscribeSPWZ = ({ showPopup, togglePopup }) => {
         className="popup-wrapper"
         style={{
           position: 'fixed',
-          top: 0,
+          top: -90,
           left: 0,
           bottom: 0,
           right: 0,
