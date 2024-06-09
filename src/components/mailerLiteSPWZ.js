@@ -95,7 +95,7 @@ export const SubscribeSPWZToggleButton = ({ togglePopup }) => (
     type="button"
     href="/zacznij-dowozic"
     className="primary-button"
-    style={{maxWidth: '200px'}}
+    style={{maxWidth: '232px', textTransform: 'uppercase'}}
     onClick={togglePopup}
   >
     Dołącz do mailingu

@@ -1,0 +1,23 @@
+.spwzebook-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: var(--spacing-12);
+  justify-content: center;
+  gap: 42px;
+}
+
+.spwzebook-wrapper .spwzebook-text-wrapper {
+  font-size: 1.1rem;
+  padding-bottom: 0;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  max-width: 348px;
+}
+
+.spwzebook-wrapper .spwzebook-text-wrapper p:last-child {
+  margin-bottom: 0;
+}

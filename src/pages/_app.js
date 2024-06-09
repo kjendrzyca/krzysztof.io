@@ -7,6 +7,8 @@ import { MailerLiteSuccessFunctionScriptSPWZ } from "@/components/mailerLiteSPWZ
 import "@/styles/fonts.css"
 import "@/styles/normalize.css"
 import "@/styles/style.css"
+import '@/components/spwzEbook.css'
+import '@/components/bookCover.css'
 
 // Highlighting for code blocks
 // import "prismjs/themes/prism.css"

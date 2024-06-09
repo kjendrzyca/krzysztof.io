@@ -2,12 +2,12 @@ import React from "react"
 import {TwitterShareButton, FacebookShareButton, LinkedinShareButton} from 'react-share'
 import Bear from "./bear"
 
-const ShareButtons = ({url, title, socialHandle}) => {
+const ShareButtons = ({url, title, socialHandle, text}) => {
   return (
     <div className="share-buttons-container">
       <Bear />
       <h2>
-        <span>Jeśli spodobał Ci się ten wpis, to będę wdzięczny, jeśli podzielisz się nim w social mediach, <span className="click-it">klikając w jeden z poniższych linków</span>: <br /></span>
+        <span>{text || `Jeśli spodobał Ci się ten wpis, to będę wdzięczny, jeśli podzielisz się nim w social mediach, `}<span className="click-it">klikając w jeden z poniższych linków</span>: <br /></span>
 
         <span className="share-buttons">
           <TwitterShareButton

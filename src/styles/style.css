@@ -492,6 +492,19 @@ button:focus {outline:0;}
   position: relative !important;
 }
 
+hr.hr-spwz {
+  border: 0;
+  background: transparent;
+  text-align: center;
+  color: var(--color-accent);
+  height: 0;
+  margin: 4rem 0 5rem;
+}
+
+hr.hr-spwz:before {
+  content: "~ ~ ~";
+}
+
 /* Media queries */
 
 @media (max-width: 42rem) {

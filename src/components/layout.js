@@ -10,15 +10,15 @@ import { config } from "@/config"
 export const Layout = ({ children, isLandingPage }) => {
   return (
     <div className="global-wrapper">
-      <header className="global-header">
-        {isLandingPage ? null : <Link className="header-link-home" href="/">
+      {isLandingPage ? null : <header className="global-header">
+        <Link className="header-link-home" href="/">
           {config.siteMetadata.title}
-        </Link>}
+        </Link>
         <ThemeToggler />
-      </header>
+      </header>}
       <main>{children}</main>
-      {isLandingPage ? null : <footer>
-        <SubscribeKIO />
+      <footer>
+        {isLandingPage ? null : <SubscribeKIO />}
         <div className="footer-bottom">
           <div>
             © {new Date().getFullYear()}, Built with
@@ -35,7 +35,7 @@ export const Layout = ({ children, isLandingPage }) => {
             <Link href="/regulamin/">Regulamin</Link>
           </div>
         </div>
-      </footer>}
+      </footer>
     </div>
   )
 }
