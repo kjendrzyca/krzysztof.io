@@ -40,14 +40,14 @@ const LinkedHeader = ({ id, text, comp: Comp}) => {
 }
 
 const Post = ({ content, frontmatter, slug, contentPath, bannerPath, bannerImageProps}) => {
-  const {title, date, shareButtons, description} = frontmatter
+  const {title, date, shareButtons, description, isLanding} = frontmatter
   const pageTitle = title || siteUrl
 
   const siteUrl = config.siteMetadata.siteUrl
   const social = config.siteMetadata.social.social
 
   return (
-    <Layout>
+    <Layout isLandingPage={isLanding || false}>
       <SEO
         title={title}
         description={description}
