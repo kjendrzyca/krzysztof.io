@@ -15,7 +15,7 @@ const SEO = ({ description = '', title, slug = null, ogType = 'website', ogImage
   return (
     <Head>
       <title>{`${title} | ${siteTitle}`}</title>
-      <meta name="description" content={description} />
+      <meta name="description" content={metaDescription} />
       <meta property="og:type" content="website" />
       <meta property="og:title" content={title} />
       <meta property="og:description" content={metaDescription} />
