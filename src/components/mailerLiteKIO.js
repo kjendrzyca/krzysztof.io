@@ -1,5 +1,6 @@
 import React from 'react'
 import { MailerLiteFormConfig } from './mailerLiteFormConfig'
+import Link from 'next/link'
 
 export const MailerLiteSuccessFunctionScriptKIO = `
   function ml_webform_success_${MailerLiteFormConfig.KIO.WrapperId}() {
@@ -99,6 +100,7 @@ export const MailerLiteFormKIO = () => {
                 <p>Dostaniesz za chwilę maila, w którym <strong>musisz</strong> potwierdzić zapisanie się do newslettera. Tylko wtedy będziesz dostawać kolejne wiadomości.</p>
                 <p>Jeśli nie widzisz maila, to sprawdź folder Spam i Oferty.</p>
                 <p>Polecam dodać adres <strong>krzysztof@krzysztof.io</strong> do swojej listy kontaktów, żeby upewnić się, że wiadomości zawsze będą docierać.</p>
+                <p>Informacje związane z przetwarzaniem Twoich danych znajdziesz w <Link href="/polityka-prywatnosci/">polityce prywatności</Link>.</p>
                 <p>Do zobaczenia!</p>
               </div>
             </div>

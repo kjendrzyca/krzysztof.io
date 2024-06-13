@@ -147,7 +147,7 @@ export const SubscribeSPWZ = ({ showPopup, togglePopup }) => {
             <div className="newsletter-info" style={{marginTop: '1.55rem'}}>
               <MailerLiteForm />
               <p style={{marginTop: '1.55rem', textAlign: 'center'}}>
-                <small>Tutaj znajdziesz wymagane info związane z rodo: <Link href="/polityka-prywatnosci/">polityka prywatności</Link>.</small>
+                <small>Informacje związane z przetwarzaniem Twoich danych znajdziesz w <Link href="/polityka-prywatnosci/">polityce prywatności</Link>.</small>
               </p>
             </div>
 
