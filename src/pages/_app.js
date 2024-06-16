@@ -15,7 +15,7 @@ import '@/components/bookCover.css'
 
 export default function App({ Component, pageProps }) {
   return (
-    <ThemeProvider enableSystem={false} attribute='class' value={{ dark: 'dark-mode', light: 'light-mode' }}>
+    <ThemeProvider enableSystem={false} attribute='class' value={{ dark: 'dark-mode', light: 'light-mode' }} forcedTheme={Component.theme || null}>
       <Component {...pageProps} />
 
       <Script id="mailerlite-success-function-script">

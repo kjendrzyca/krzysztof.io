@@ -97,7 +97,7 @@ export const SubscribeSPWZToggleButton = ({ togglePopup }) => (
     style={{maxWidth: '232px', textTransform: 'uppercase'}}
     onClick={togglePopup}
   >
-    Dołącz do programu
+    Dołącz do mailingu
   </button>
 )
 export const SubscribeSPWZScrollButton = ({ scrollToSection: scrollToJoin }) => (
@@ -107,7 +107,7 @@ export const SubscribeSPWZScrollButton = ({ scrollToSection: scrollToJoin }) => 
     style={{maxWidth: '232px', textTransform: 'uppercase'}}
     onClick={scrollToJoin}
   >
-    Dołącz do programu
+    Dołącz
   </button>
 )
 

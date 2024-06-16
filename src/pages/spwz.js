@@ -42,7 +42,7 @@ a niektórzy nie mają w swoim otoczeniu osób, od których można się uczyć.
 
 Dlatego postanowiłem zebrać to, czego się nauczyłem, a potem przefiltrowałem, zostawiłem to, co w mojej ocenie jest najważniejsze i wziąłem się za tworzenie tego programu.
 
-Chcę podać Ci tę wiedzę w przystępnej formie, bez coachingu, bez wciskania kitu na siłę i bez mówienia o tym, co "musisz" i co "powinieneś".
+Zebrane doświadczenia chcę podać Ci w przystępnej formie, bez coachingu, bez wciskania kitu na siłę i bez mówienia o tym, co "musisz" i co "powinieneś".
 
 **Dostajesz tylko to, co działa** u mnie i u ludzi, których znam. Nakreślam też kontekst, który podpowie Ci jak zaaplikować tę wiedzę u siebie i zmodyfikować podejście w razie potrzeby.
 
@@ -50,19 +50,21 @@ Moim celem jest pokazać Ci jak zostać dojrzałym, godnym zaufania, cenionym cz
 `
 
 const coZnajdzieszMd = `
-"Skuteczna Praca w Zespole" to **231 materiałów wideo** i **2 tekstowe** podzielonych na **20 modułów**. Łącznie jest to **19 godzin i 10 minut** nagrań podzielone na **10 tygodni** pracy.
+"Skuteczna Praca w Zespole" to **231 materiałów wideo** podzielonych na **24 moduły**. Łącznie jest to **19 godzin i 10 minut** nagrań podzielone na **10 tygodni** pracy.
 
 Pod każdym modułem znajduje się lista sugestii, które możesz zaaplikować u siebie. Dorzucam też sporo materiałów zewnętrznych, które pomagały mi przez te wszystkie lata.
 
-Nie jest to kolejny kursik, tylko pełny program szkoleniowy, którego celem jest przeprowadzić Cię od punktu A do punktu B i po drodze pokazać to, co najważniejsze.
+Początkowo miał to być prosty kurs online, ale z czasem zrobił się z niego **pełny program szkoleniowy**,
+w którym przechodzę przez wszystkie, **najważniejsze elementy pracy zespołowej**.
 
-W tym programie nie ma lekcji, zadań domowych oraz certyfikatów. Nie mam aspiracji, żeby być Twoim nauczycielem i nie chcę Cię niańczyć.
+W tym programie nie ma lekcji, nie ma zadań domowych i certyfikatów.
+To dlatego, że nie chcę nikogo niańczyć i nie chcę być niczyim nauczycielem.
 
-Chcę Ci po prostu pomóc zaaplikować tę wiedzę u siebie.
+Chcę po prostu pokazać, co widzę, że działa. Chcę żeby każdy mógł zastosować tę wiedzę w swojej pracy i jak najszybciej czerpać płynące z tego korzyści.
 `
 
 const dlaKogoMd = `
-"Skuteczna Praca w Zespole" to miejsce dla tych, którzy chcą wziąć odpowiedzialność za wszystkie aspekty tworzenia oprogramowania, a nie tylko za klikanie w klawiaturę.
+"Skuteczna Praca w Zespole" to miejsce dla tych, którzy chcą wziąć odpowiedzialność za **wszystkie aspekty tworzenia oprogramowania**, a nie tylko za klikanie w klawiaturę.
 
 Dla osób, które wierzą w to, że nie samym kodem człowiek żyje i chcą poprawić swoje warunki zatrudnienia, rozwijając też inne umiejętności.
 
@@ -80,7 +82,7 @@ Pomagałem przekształcać dysfunkcyjne zespoły w takie, które wydajnie rozwi�
 
 Poznałem najprawdopodobniej każdy możliwy antypattern dotyczący kodu i ludzkiego zachowania w zespole. Po latach pracy wiem, jak sobie z nimi radzić.
 
-Wiedzę, którą zdobyłem, weryfikuję przez dzielenie się nią na konferencjach, warsztatach, w pracy na etacie oraz online.
+Swoje doświadczenia weryfikuję przez dzielenie się nimi na konferencjach, warsztatach, w pracy na etacie oraz online.
 
 Rolę bullshit detectora pełni też bogata siatka znajomych,
 wśród których znajdują się doradcy techniczni, konsultanci, analitycy biznesowi, scrum masterzy,
@@ -90,31 +92,29 @@ Ich feedback pozwala ujawnić luki w moim myśleniu, które od razu poprawiam.
 `
 
 const coKiedyMd = `
-W ostatnich miesiącach pracowałem nad pełnym programem o pracy w zespole i niedawno go ukończyłem.
+Obecnie skończyłem pierwszą edycję programu i przygotowuję się do drugiej.
 
-W czasie tej pracy porządkowałem wiedzę na ten temat, tworzyłem spójne notatki i układałem je w sensowny flow.
+Dużą ilość materiałów udostępniam teraz w formie cotygodniowego mailingu, na który możesz się tutaj zapisać.
 
-Dużą ilość tych materiałów udostępniam teraz w formie cotygodniowego mailingu, na który możesz się tutaj zapisać.
-Dołączyło do niego już ponad 1000 osób.
-Trochę niżej znajdziesz ich opinie.
+Dotychczas dołączyło do niego już **ponad 1000 osób**, których opinie możesz zobaczyć poniżej.
 
-Otrzymasz też **najlepszą ofertę dołączenia do pełnej wersji programu**, gdy znowu będzie dostępny.
+Przy okazji dopiszę Cię do listy oczekujących na kolejne otwarcie programu.
+
+Otrzymasz **najlepszą ofertę dołączenia do jego pełnej wersji**, gdy znowu będzie dostępny.
 `
 
 const agendaMd = `
 ### 👉 Wstęp
 
-Dowiesz się, dlaczego warto traktować swoją karierę jako biznes, jak działa model oparty o budowanie kapitału zawodowego i dlaczego pasja jest niepotrzebna, a czasem nawet szkodliwa.
+Dowiesz się, dlaczego warto traktować swoją karierę jako biznes, jak działa model oparty o budowanie kapitału zawodowego i dlaczego pasja w pracy jest niepotrzebna, a czasem nawet szkodliwa.
 
-Opowiem Ci moją smutną historię o tym, jak myślałem, że jestem fajny, a nie byłem oraz jak udało mi się ogarnąć i wyjść na prostą.
+Opowiem Ci smutną historię o tym, jak myślałem, że już dużo wiem, a tak naprawdę mydliłem sobie oczy oraz jak udało mi się ogarnąć i wyjść na prostą.
 
-Pokaże Ci jak budować reputację oraz nabijać punkty splendoru i że umiejętności miękkie (które wcale nie są miękkie) odgrywają w tym kluczową rolę.
-
-Wszystko jest łatwiejsze z mentorem, dlatego powiem Ci jak go szukać.
+Pokaże Ci jak budować reputację oraz nabijać punkty splendoru i że umiejętności miękkie (które wcale nie są takie miękkie) odgrywają w tym kluczową rolę.
 
 ### 👉 Ustawienie mindsetu
 
-Pokażę Ci, w jaki sposób skrócić pętlę feedbackową i szybciej zdobyć informacje potrzebne do wejścia na wyższy poziom.
+Pokażę Ci, w jaki sposób szybciej zdobywać informacje potrzebne do wejścia na wyższy poziom.
 
 Powiem Ci, dlaczego nigdy nie nazywałem się "juniorem" i polecam to samo innym.
 
@@ -126,7 +126,7 @@ Powiem też pokrótce o tym, jak się rozwijać na własną rękę.
 
 ### 👉 Praca z zadaniami
 
-Przedstawię Ci mój sprawdzony w wielu bojach proces planowania i realizacji zadań, którego używam od lat. Obejmuje on m.in.:
+Przedstawię Ci mój sprawdzony w bojach proces planowania i realizacji zadań, którego używam od lat. Obejmuje on m.in.:
 
 - Podział zadania na mniejsze części.
 - Zadawanie pytań i zbieranie informacji o tym, co trzeba zrobić.
@@ -146,7 +146,7 @@ Dowiesz się:
 - Jak sobie radzić, gdy czujesz, że brakuje Ci doświadczenia.
 - Dlaczego oraz kiedy stosować TDD. Gdzie i jak najszybciej się go nauczyć.
 
-Opowiem Ci też o najważniejszych elementach pracy z narzędziami do zarządzania pracy zespołu (Jira itp.).
+Opowiem Ci też o najważniejszych elementach pracy z narzędziami do zarządzania pracą zespołu (Jira, Linear itp.).
 
 ### 👉 Praca w zespole
 
@@ -159,11 +159,11 @@ Potem krótka sekcja o onboardingu:
 - Jak wchodzić na grubo do projektu?
 - Jak wprowadzać innych, żeby czuli przynależność?
 
-Przedstawię Ci mój ulubiony i jak dotąd bardzo trafny model, który opisuje, dlaczego niektóre zespoły działają jak grupa komandosów, a inne, jak grupa nieporadnych gęsi.
+Przedstawię Ci mój ulubiony, ekstremalnie trafny model, który opisuje, dlaczego niektóre zespoły działają jak grupa komandosów, a inne, jak grupa nieporadnych gęsi.
 
-Powiem Ci, co możesz dać od siebie, żeby stopniowo przesuwać swój zespół w stronę tego pierwszego 💪.
+Powiem Ci, co możesz dać od siebie, żeby stopniowo przesuwać swój zespół w stronę tego pierwszego.
 
-Poruszę też jeden z najważniejszych tematów, czyli komunikację. Pokażę Ci m.in.:
+Poruszę też jeden z najważniejszych tematów, czyli **komunikację**. Pokażę Ci m.in.:
 
 - Jak przekazywać to, co chcesz powiedzieć w jasny, zrozumiały i klarowny sposób.
 - Jak dogadać się z ludźmi, w różnych sytuacjach, również konfliktowych, gdy każdy ma odmienne zdanie lub jest wrogo nastawiony.
@@ -175,8 +175,8 @@ Poruszę też jeden z najważniejszych tematów, czyli komunikację. Pokażę Ci
 
 Dowiesz się też m.in:
 
-- Jak rozwiązywać konflikty i kłótnie oraz jak podejmować decyzje w zespole tak, żeby nikt potem nie płakał i nie sabotował podjętych decyzji.
-- Jak skutecznie pracować z innymi i jak być dobrym współpracownikiem dla analityków biznesowych, QA, liderów i wszystkich innych, z którymi wchodzisz na co dzień w relacje (również z "wujkami dobra rada" i innymi wykrętami, którzy Cię irytują).
+- Jak rozwiązywać konflikty i kłótnie oraz jak podejmować decyzje w zespole tak, żeby zminimalizować narzekanie i sabotowanie podjętych decyzji.
+- Jak skutecznie pracować z innymi i jak być dobrym współpracownikiem dla analityków biznesowych, QA, liderów i wszystkich innych, z którymi wchodzisz na co dzień w relacje (również z "wujkami dobra rada" i podobnymi osobistościami, którzy niepotrzebnie nas irytują).
 - Jak wyglądają spotkania, na których nikt nie zasypia, które szybko się kończą, a jednocześnie przynoszą rezultaty. Dowiesz się co zrobić, gdy planowania są nudne, a retra to spotkania-wydmuszki, po których nic się nie zmienia.
 - Jak propagować wiedzę w zespole.
 - Jak zbierać i dawać feedback.
@@ -191,7 +191,7 @@ Na koniec powiem trochę o offboardingu i jak wyjść z projektu nie paląc za s
 
 ### 👉 Praca z klientem
 
-Pokaże Ci punkt widzenia klienta, kim on jest (w zależności od tego, w jakiego rodzaju firmie pracujesz), co tak naprawdę myśli, czego potrzebuje i jaka jest w tym rola zespołu deweloperskiego.
+Pokaże Ci punkt widzenia klienta, kim on jest w zależności od tego, w jakiego rodzaju firmie pracujesz, co tak naprawdę myśli, czego potrzebuje i jaka jest w tym rola zespołu deweloperskiego.
 
 Dowiesz się:
 
@@ -200,11 +200,11 @@ Dowiesz się:
 - Co należy zrobić, gdy pomysły klienta wydają się bezsensowne i nie ma on wg Ciebie prawa działać dobrze, a on niekoniecznie słucha Twojego feedbacku.
 - Jak wyciągać od klienta potrzebne informacje i co zrobić, gdy nie wywiązuje się ze swoich zobowiązań.
 
-Dostaniesz sporą dawkę wiedzy o tym, dlaczego jesteśmy tacy słabi w komunikacji z klientem i jak można to poprawić.
+Dostaniesz sporą dawkę taktyk o tym, jak stopniowo poprawiać komunikację z klientem.
 
-Pokażę Ci też, jak pracować z jasnymi oraz niejasnymi wymaganiami i jak przygotować się do spotkań, na których musisz coś zaprezentować przed klientem.
+Pokażę Ci też, jak pracować z niejasnymi wymaganiami i jak przygotować się do demo oraz innych spotkań, na których musisz coś zaprezentować przed klientem.
 
-Sprzedam Ci kilka pomysłów na to, jak poprawić swój angielski i powiem, które elementy tego języka przydadzą Ci się najbardziej.
+Powiem o tym, jak podchodzę do nadgodzin, żeby się nie wypalić.
 
 ### 👉 Praca z pracodawcą
 
@@ -220,12 +220,9 @@ Przedstawię Ci prosty model inwestowania w siebie i budowania reputacji, która
 
 Na sam koniec opowiem o najbardziej powszechnych pułapkach, które czekają na wszystkich, którzy robią dobrą robotę oraz jak sobie z nimi poradzić i nie dać się wykorzystać.
 
-Pokażę Ci, jak zbalansować pracę w zależności od tego, na co chcesz położyć nacisk w swojej pracy:
+Pokażę Ci dlaczego branie zbyt wielu odpowiedzialności i zbyt szybki awans mogą być błędem.
 
-- Na napierdzielanie kodu.
-- Na mentorowanie i komunikację.
-- Na rozwiązywanie problemów.
-- Itd.
+Pokażę Ci, jak szukać balansu w zależności od tego, co chcesz osiągnąć w swojej pracy.
 `
 
 const SPWZPage = () => {
@@ -314,6 +311,10 @@ const SPWZPage = () => {
         {agendaMd}
       </ReactMarkdown>
 
+      <p style={{textAlign: 'center', marginTop: 'var(--spacing-10)', marginBottom: 'var(--spacing-10)'}}>
+        <SubscribeSPWZScrollButton scrollToSection={scrollToSection} />
+      </p>
+
       <hr className="hr-spwz" />
 
       <CenteredH2>
@@ -387,6 +388,8 @@ const SPWZPage = () => {
     </Layout>
   )
 }
+
+SPWZPage.theme = 'light'
 
 export default SPWZPage
 
