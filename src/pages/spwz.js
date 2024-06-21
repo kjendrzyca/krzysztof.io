@@ -11,7 +11,7 @@ import { SPWZEbook } from "@/components/SPWZEbook"
 import { SPWZLogo } from "@/components/SPWZLogo"
 
 const czemuCiSieToPrzydaMd = `
-Gdy stawiałem swoje pierwsze kroki jako Software Engineer, to nie wiedziałem **jak stwierdzić, czy robię dobrą robotę**
+Gdy stawiałem swoje pierwsze kroki jako Software Engineer, to nie wiedziałem, **jak stwierdzić, czy robię dobrą robotę**
 i jak moja praca zostanie oceniona przez zespół i pracodawcę.
 
 Nie chciałem być jednym z tych bezbronnych płatków śniegu, na których nie można polegać,
@@ -34,8 +34,8 @@ ale też za dobrą współpracę z zespołem, z klientem, z pracodawcą i za sto
 Dzięki wsparciu wielu doświadczonych osób udało mi się wypracować model,
 który przekazuję od kilku lat wszystkim zainteresowanym - indywidualnie i w każdym kolejnym projekcie, do którego dołączam.
 
-Po jakimś czasie zauważyłem, że Ci, którzy go stosują, stopniowo zaczynają być uważani za najbardziej ogarnięte osoby w projekcie,
-przestają mieć problemy na rozmowach o kasę i często naturalnie wchodzą w role liderskie w swoich zespołach.
+Po jakimś czasie zauważyłem, że ci, którzy go stosują, **stopniowo zaczynają być uważani za najbardziej ogarnięte osoby w projekcie,
+przestają mieć problemy na rozmowach o kasę i często naturalnie wchodzą w role liderskie w swoich zespołach**.
 
 Tych sprawdzonych w boju, uporządkowanych informacji, które można szybko zaaplikować u siebie, brakuje w Internecie,
 a niektórzy nie mają w swoim otoczeniu osób, od których można się uczyć.
@@ -52,15 +52,12 @@ Moim celem jest pokazać Ci jak zostać dojrzałym, godnym zaufania, cenionym cz
 const coZnajdzieszMd = `
 "Skuteczna Praca w Zespole" to **231 materiałów wideo** podzielonych na **24 moduły**. Łącznie jest to **19 godzin i 10 minut** nagrań podzielone na **10 tygodni** pracy.
 
-Pod każdym modułem znajduje się lista sugestii, które możesz zaaplikować u siebie. Dorzucam też sporo materiałów zewnętrznych, które pomagały mi przez te wszystkie lata.
-
-Początkowo miał to być prosty kurs online, ale z czasem zrobił się z niego **pełny program szkoleniowy**,
-w którym przechodzę przez wszystkie, **najważniejsze elementy pracy zespołowej**.
+Pod każdym modułem znajduje się **lista sugestii, które możesz zaaplikować u siebie**. Dorzucam też sporo materiałów zewnętrznych, które pomagały mi przez te wszystkie lata.
 
 W tym programie nie ma lekcji, nie ma zadań domowych i certyfikatów.
 To dlatego, że nie chcę nikogo niańczyć i nie chcę być niczyim nauczycielem.
 
-Chcę po prostu pokazać, co widzę, że działa. Chcę żeby każdy mógł zastosować tę wiedzę w swojej pracy i jak najszybciej czerpać płynące z tego korzyści.
+Chcę po prostu pokazać, co widzę, że działa. **Chcę, żeby każdy mógł zastosować tę wiedzę w swojej pracy i jak najszybciej czerpać płynące z tego korzyści**.
 `
 
 const dlaKogoMd = `
@@ -80,15 +77,13 @@ Pełniłem funkcję lidera technicznego, architekta, czy doradcy technicznego, k
 Miałem przyjemność współtworzyć zespoły od zera, przechodząc przez wszystkie fazy jego formowania.
 Pomagałem przekształcać dysfunkcyjne zespoły w takie, które wydajnie rozwiązują wszystkie napotkane problemy.
 
-Poznałem najprawdopodobniej każdy możliwy antypattern dotyczący kodu i ludzkiego zachowania w zespole. Po latach pracy wiem, jak sobie z nimi radzić.
+Poznałem najprawdopodobniej **każdy możliwy antypattern dotyczący kodu i ludzkiego zachowania w zespole**. **Po latach pracy wiem, jak sobie z nimi radzić**.
 
 Swoje doświadczenia weryfikuję przez dzielenie się nimi na konferencjach, warsztatach, w pracy na etacie oraz online.
 
 Rolę bullshit detectora pełni też bogata siatka znajomych,
 wśród których znajdują się doradcy techniczni, konsultanci, analitycy biznesowi, scrum masterzy,
 product ownerzy, CTO, oraz założyciele firm zajmujących się tworzeniem oprogramowania.
-
-Ich feedback pozwala ujawnić luki w moim myśleniu, które od razu poprawiam.
 `
 
 const coKiedyMd = `
@@ -108,8 +103,6 @@ const agendaMd = `
 
 Dowiesz się, dlaczego warto traktować swoją karierę jako biznes, jak działa model oparty o budowanie kapitału zawodowego i dlaczego pasja w pracy jest niepotrzebna, a czasem nawet szkodliwa.
 
-Opowiem Ci smutną historię o tym, jak myślałem, że już dużo wiem, a tak naprawdę mydliłem sobie oczy oraz jak udało mi się ogarnąć i wyjść na prostą.
-
 Pokaże Ci jak budować reputację oraz nabijać punkty splendoru i że umiejętności miękkie (które wcale nie są takie miękkie) odgrywają w tym kluczową rolę.
 
 ### 👉 Ustawienie mindsetu
@@ -119,8 +112,6 @@ Pokażę Ci, w jaki sposób szybciej zdobywać informacje potrzebne do wejścia 
 Powiem Ci, dlaczego nigdy nie nazywałem się "juniorem" i polecam to samo innym.
 
 Pokażę, że masz wpływ praktycznie na każdy aspekt swojej pracy i możesz wykorzystać to na swoją korzyść.
-
-Dowiesz się, kim są "Iluzjoniści IT" i jak przypadkiem takim nie zostać.
 
 Powiem też pokrótce o tym, jak się rozwijać na własną rękę.
 
@@ -154,10 +145,7 @@ Opowiem Ci też o najważniejszych elementach pracy z narzędziami do zarządzan
 
 Na początek pokażę Ci, dlaczego programowanie to zawsze praca zespołowa i wrzucę kilka szybkich taktyk, które pomogą Ci wykazać się w projekcie. Do zastosowania od zaraz.
 
-Potem krótka sekcja o onboardingu:
-
-- Jak wchodzić na grubo do projektu?
-- Jak wprowadzać innych, żeby czuli przynależność?
+Dowiesz się jak wchodzić na grubo do projektu w trakcie trwania onboardingu.
 
 Przedstawię Ci mój ulubiony, ekstremalnie trafny model, który opisuje, dlaczego niektóre zespoły działają jak grupa komandosów, a inne, jak grupa nieporadnych gęsi.
 
@@ -173,7 +161,7 @@ Poruszę też jeden z najważniejszych tematów, czyli **komunikację**. Pokaż�
 - Jak prosić o pomoc i komunikować swoje potrzeby.
 - Jak w tym wszystkim nie triggerować ludzi ;).
 
-Dowiesz się też m.in:
+Dowiesz się też m.in.:
 
 - Jak rozwiązywać konflikty i kłótnie oraz jak podejmować decyzje w zespole tak, żeby zminimalizować narzekanie i sabotowanie podjętych decyzji.
 - Jak skutecznie pracować z innymi i jak być dobrym współpracownikiem dla analityków biznesowych, QA, liderów i wszystkich innych, z którymi wchodzisz na co dzień w relacje (również z "wujkami dobra rada" i podobnymi osobistościami, którzy niepotrzebnie nas irytują).
@@ -185,7 +173,7 @@ Dowiesz się też m.in:
 - Jak poradzić sobie z nieogarniętym seniorem, który nie robi swojej roboty, jak należy?
 - Jak, gdzie, kiedy i kogo informować o problemach w zespole, które wymagają eskalacji?
 
-Powiem też sporo o estymacjach oraz o tym, jak przestawić się na pracę zdalną i asynchroniczną (i jak robić to dobrze).
+Powiem też trochę o estymacjach oraz o tym, jak dobrze poustawiać sobie pracę zdalną i asynchroniczną.
 
 Na koniec powiem trochę o offboardingu i jak wyjść z projektu nie paląc za sobą mostów i zostawiając dobre wrażenie.
 
@@ -202,7 +190,7 @@ Dowiesz się:
 
 Dostaniesz sporą dawkę taktyk o tym, jak stopniowo poprawiać komunikację z klientem.
 
-Pokażę Ci też, jak pracować z niejasnymi wymaganiami i jak przygotować się do demo oraz innych spotkań, na których musisz coś zaprezentować przed klientem.
+Pokażę Ci też, jak przygotować się do demo oraz innych spotkań, na których musisz coś zaprezentować przed klientem.
 
 Powiem o tym, jak podchodzę do nadgodzin, żeby się nie wypalić.
 
@@ -220,7 +208,7 @@ Przedstawię Ci prosty model inwestowania w siebie i budowania reputacji, która
 
 Na sam koniec opowiem o najbardziej powszechnych pułapkach, które czekają na wszystkich, którzy robią dobrą robotę oraz jak sobie z nimi poradzić i nie dać się wykorzystać.
 
-Pokażę Ci dlaczego branie zbyt wielu odpowiedzialności i zbyt szybki awans mogą być błędem.
+Pokażę Ci, dlaczego branie zbyt wielu odpowiedzialności i zbyt szybki awans, mogą być błędem.
 
 Pokażę Ci, jak szukać balansu w zależności od tego, co chcesz osiągnąć w swojej pracy.
 `
