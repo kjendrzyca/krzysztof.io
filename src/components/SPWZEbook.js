@@ -2,8 +2,6 @@ import React from 'react'
 import { BookCover } from './BookCover'
 
 export const SPWZEbook = () => {
-  // width: 282, height: 400
-
   return (
     <div className="spwzebook-wrapper">
       <div className="spwzebook-img-wrapper">
@@ -16,7 +14,7 @@ export const SPWZEbook = () => {
           <strong>proces planowania oraz realizacji zadań.</strong>
         </p>
         <p>
-          Podejście, które tam opisuję, stosuję od kilku lat, bo okazało się być prawie całkowicie kuloodporne.
+          Podejście, które tam opisuję, stosuję od kilku lat, bo okazało się prawie całkowicie kuloodporne.
         </p>
         <p>
           Pozwala mi przejąć pełną kontrolę nad tym, co robię i szybciej dowozić zadania.

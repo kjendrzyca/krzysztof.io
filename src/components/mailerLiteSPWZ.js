@@ -93,12 +93,21 @@ export const MailerLiteForm = () => {
 export const SubscribeSPWZToggleButton = ({ togglePopup }) => (
   <button
     type="button"
-    href="/zacznij-dowozic"
     className="primary-button"
     style={{maxWidth: '232px', textTransform: 'uppercase'}}
     onClick={togglePopup}
   >
     Dołącz do mailingu
+  </button>
+)
+export const SubscribeSPWZScrollButton = ({ scrollToSection: scrollToJoin }) => (
+  <button
+    type="button"
+    className="primary-button"
+    style={{maxWidth: '232px', textTransform: 'uppercase'}}
+    onClick={scrollToJoin}
+  >
+    Dołącz
   </button>
 )
 
