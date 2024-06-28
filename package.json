@@ -25,6 +25,6 @@
     "react-share": "^4.4.1",
     "rehype-slug": "^5.1.0",
     "remark-gfm": "^3.0.1",
-    "sharp": "^0.31.3"
+    "sharp": "^0.32.6"
   }
 }
