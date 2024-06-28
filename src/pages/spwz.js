@@ -369,7 +369,7 @@ const SPWZPage = () => {
          url={`${siteUrl}/spwz`}
          title="Skuteczna Praca w Zespole"
          socialHandle={social}
-         text="Będę mega wdzięczny jeśli podzielisz się linkiem do tej strony ze znajomymi, którym może się to wszystko przydać, "
+         text={<>Jeśli znasz kogoś, kto chciałby zrozumieć, jak skutecznie pracować w zespole i poprawić swoje warunki zatrudnienia, ale nie wie jak się za to zabrać, to będę wdzięczny jeśli <span className="click-it">podeślesz mu link do tej strony.</span></>}
       />
 
       <SubscribeSPWZ showPopup={showPopup} togglePopup={togglePopup} />
