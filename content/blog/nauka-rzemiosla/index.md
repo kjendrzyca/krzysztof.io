@@ -49,7 +49,7 @@ W naszym życiu ciągle spotykamy osoby, które mogą pomóc nam w zdobyciu wyma
 
 Większość moich mentorów spotkałem zupełnie przypadkowo. W wielu przypadkach dopiero po latach zorientowałem się, że ktoś pełnił dla mnie taką rolę i że nauczyłem się od tych osób najważniejszych rzeczy w moim rzemiośle.
 
-Gdyby, zaczął się rozglądać wcześniej, to pewnie rozpoznałbym, że mam wokół siebie osoby, które mogą mi pomóc i wyciągnąłbym od nich jeszcze więcej.
+Gdybym zaczął się rozglądać wcześniej, to pewnie rozpoznałbym, że mam wokół siebie osoby, które mogą mi pomóc i wyciągnąłbym od nich jeszcze więcej.
 
 ## Od każdego można się czegoś nauczyć
 
@@ -95,7 +95,7 @@ Gdy przekazywałem wiedzę związaną z programowaniem w pracy, to zawsze najch�
 
 A już najbardziej wartościowe były te sytuacje, w których ktoś przetestował tę wiedzę i był w stanie wskazać błędy w moim myśleniu. Najczęściej kończyło się na tym, że rodziła się z tego głębsza znajomość, oparta na wspólnym mindsecie, gdzie każdy mógł odbić swoje problemy od drugiej osoby.
 
-Warto jednak pamiętać, żeby nie próbować imponować na siłę, nie szukać aprobaty, czy uznania i nie odtrącić osób, od których czerpiemy wiedzę.
+Warto jednak pamiętać, żeby nie próbować imponować na siłę, nie szukać aprobaty czy uznania i nie odtrącić osób, od których czerpiemy wiedzę.
 
 Moja taktyka:
 
