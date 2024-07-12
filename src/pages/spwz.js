@@ -18,7 +18,7 @@ Nie chciałem być jednym z tych bezbronnych płatków śniegu, na których nie 
 trzeba ciągle pilnować i od których nie można ogólnie zbyt wiele wymagać.
 
 Dlatego zacząłem obserwować najbardziej kompetentne osoby, które udało mi się znaleźć,
-a potem dekonstruowałem, wdrażałem w życie i testowałem ich sposoby pracy.
+a potem rozkładałem na czynniki pierwsze, wdrażałem w życie i testowałem ich sposoby pracy.
 
 Szukałem sposobów, które pozwolą mi zrozumieć, spełnić i przekroczyć stawiane przede mną oczekiwania.
 
