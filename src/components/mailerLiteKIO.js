@@ -124,6 +124,7 @@ export const SubscribeKIO = () => {
           nad którymi pracuję oraz o postępach pracy nad sobą, to zostaw tutaj swój e-mail.</p>
       </div>
       <MailerLiteFormKIO />
+      <div><small>Zapisując się na newsletter akceptujesz <Link href="/polityka-prywatnosci/">politykę prywatności</Link>.</small></div>
     </div>
   );
 };
