@@ -1,120 +1,174 @@
 ---
 title: 'Polityka Prywatności'
-date: '2023-11-28'
+date: '2024-07-15'
 published: true
 description: 'Polityka Prywatności.'
 shareButtons: false
 ---
 
-Skoro trafiłeś na tę stronę, to znaczy, że ważne jest dla Ciebie bezpieczeństwo Twoich danych w Sieci. Wiedz, że dbam o odpowiednie
-traktowanie Twoich danych osobowych.
+Poprzednie wersje regulaminu:
+[wersja 1](https://github.com/kjendrzyca/krzysztof.io/blob/8a44603952ccc2640491988f1663ad1fff6c5c7d/content/blog/polityka-prywatnosci/index.md),
+[wersja 2](https://github.com/kjendrzyca/krzysztof.io/blob/0f2a259b8f6ff2b656672b455b24e4e3374b3975/content/blog/polityka-prywatnosci/index.md),
+[wersja 3](https://github.com/kjendrzyca/krzysztof.io/blob/dd2cc87eb5d541e70291ea3dbb64ef25b3895a5c/content/blog/polityka-prywatnosci/index.md),
+[wersja 4](https://github.com/kjendrzyca/krzysztof.io/blob/ef69de33c17099ea6c69eb9635545168f9bea082/content/blog/polityka-prywatnosci/index.md)
 
-Szanując Twój czas, przygotowałem dla Ciebie skróconą wersję najważniejszych zasad związanych z ochroną prywatności. Jeżeli podstawowe informacje okażą się dla Ciebie niewystarczające, poniżej znajdziesz szerszy opis, w którym wyjaśniam jak obchodzę się z powierzonymi mi przez Ciebie danymi osobowymi.
+## Definicje
 
-## Podstawowe informacje
+Administrator (My) – Krzysztof Jendrzyca, Kozielska 45/15, 44-121 Gliwice, NIP 9691626817, REGON: 368154488,
 
-- Administratorem danych osobowych na stronie krzysztof.io oraz edu.krzysztof.io jestem ja, czyli: Krzysztof Jendrzyca.
-- Możesz się ze mną skontaktować w każdej chwili z wykorzystaniem adresu e-mail: krzysztof@krzysztof.io
-- Pamiętaj, że podanie danych osobowych, a także zgoda na ich przetwarzanie są całkowicie dobrowolne. Wszelkie przekazane mi dane osobowe są przetwarzane wyłącznie w zakresie i w celu, na jaki wyraziłeś zgodę.
-- W każdej chwili masz prawo do aktualizacji lub całkowitego usunięcia swoich danych osobowych. Możesz to zrobić samodzielnie lub korzystając z mojej pomocy.
-- Dbam o należytą ochronę Twoich danych osobowych, gwarantując Ci, że będą one przetwarzane wyłącznie w celu, na który wyraziłeś zgodę, przechowywane w bezpieczny sposób oraz nieudostępniane podmiotom trzecim, jeżeli nie wyraziłeś na to zgody.
-- Zapisując się na newsletter lub dokonując zamówienia, przekazujesz mi swoje dane osobowe, a ja gwarantuję Ci, że Twoje dane pozostaną bezpieczne i nie zostaną udostępnione podmiotom trzecim bez Twojej wyraźnej zgody.
-- Korzystam z narzędzi analitycznych, opisanych poniżej, które zbierają anonimowe informacje na temat Twoich odwiedzin serwisu. Wykorzystuję też narzędzia takie jak Facebook Pixel i Google AdWords, które pozwalają wyświetlać Ci reklamy.
-- Podobnie jak ma to miejsce niemal na każdej stronie internetowej, ja również wykorzystuję pliki cookies.
+Dane osobowe – wszystkie informacje o osobie fizycznej zidentyfikowanej lub możliwej do zidentyfikowania poprzez jeden bądź kilka szczególnych czynników określających fizyczną, fizjologiczną, genetyczną, psychiczną, ekonomiczną, kulturową lub społeczną tożsamość, w tym IP urządzenia, dane o lokalizacji, identyfikator internetowy oraz informacje gromadzone za pośrednictwem plików cookie oraz innej podobnej technologii.
 
-## Administrator
+Polityka – niniejsza Polityka prywatności.
 
-Administratorem danych osobowych strony internetowej: krzysztof.io oraz edu.krzysztof.io, czyli podmiotem odpowiedzialnym za zapewnienie bezpieczeństwa Twoim danym osobowym jest:
+RODO – Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE.
 
-Krzysztof Jendrzyca,
+Serwis – serwis internetowy prowadzony przez nas pod adresem edu.krzysztof.io
 
-e-mail: krzysztof@krzysztof.io
+Użytkownik (Ty) – każda osoba fizyczna odwiedzająca Serwis lub korzystająca z jednej albo kilku usług czy funkcjonalności opisanych w Polityce
 
-## Twoje uprawnienia
+## Przetwarzanie danych w związku z korzystaniem z serwisu
 
-Aktualne przepisy prawa przyznają Ci szereg uprawnień związanych z przetwarzaniem Twoich danych osobowych:
+W związku z korzystaniem przez Ciebie z Serwisu zbieramy Twoje dane w zakresie niezbędnym do świadczenia poszczególnych oferowanych usług, a także informacje o Twojej aktywności w Serwisie. Poniżej zostały opisane szczegółowe zasady oraz cele przetwarzania danych osobowych gromadzonych podczas korzystania przez Ciebie z Serwisu.
 
-- prawo dostępu do danych osobowych,
-- prawo do sprostowania danych osobowych,
-- prawo do usunięcia danych osobowych,
-- prawo do ograniczenia przetwarzania danych osobowych,
-- prawo do wniesienia sprzeciwu co do przetwarzania danych osobowych,
-- prawo do przenoszenia danych,
-- prawo do wniesienia skargi do organu nadzorczego (Prezesa Urzędu Ochrony Danych Osobowych),
-- prawo do odwołania zgody na przetwarzanie danych osobowych, jeżeli wyraziłeś taką zgodę.
 
-Pamiętaj, że zawsze możesz również zwrócić się do mnie z żądaniem udostępnienia Ci szerszych informacji, jakimi danymi na Twój temat dysponuję oraz w jakich celach je przetwarzam. Wystarczy, że wyślesz wiadomość na podany powyżej adres e-mail.
+## Cele oraz podstawy prawne przetwarzania danych w serwisie
 
-## Cele, w jakich przetwarzam Twoje dane osobowe
+### Korzystanie z serwisu
+
+Przetwarzamy dane osobowe wszystkich osób korzystających z Serwisu (w tym: imię, nazwisko, adres korespondencyjny, adres email, NIP) , adres IP lub inne identyfikatory oraz informacje gromadzone za pośrednictwem plików cookies lub innych podobnych technologii), a niebędących zarejestrowanymi Użytkownikami (tj. osoby nieposiadające profilu w Serwisie) w następujących celach:
+
+- w celu świadczenia usług drogą elektroniczną w zakresie udostępniana Użytkownikom treści gromadzonych w Serwisie – wówczas podstawą prawną przetwarzania jest niezbędność przetwarzania do wykonania umowy (art. 6 ust. 1 lit b RODO);
+- w celach analitycznych i statystycznych – wówczas podstawą prawną przetwarzania jest nasz uzasadniony interes (art. 6 ust. 1 lit f RODO) polegający na prowadzeniu analiz aktywności Użytkowników, a także ich preferencji w celu poprawy stosowanych funkcjonalności i świadczonych usług;
+- w celu ewentualnego ustalenia i dochodzenia roszczeń lub obrony przed nimi – podstawą prawną przetwarzania jest nasz uzasadniony interes (art. 6 ust. 1 lit f RODO) polegający na ochronie naszych praw;
+- w celach marketingowych (naszych oraz naszych partnerów), w szczególności związanych z prezentowaniem reklamy behawioralnej – zasady przetwarzania danych osobowych w celach marketingowych zostały opisane w sekcji „MARKETING”.
+
+Twoja Aktywność w Serwisie, w tym Twoje dane osobowe, są rejestrowane w logach systemowych. Zebrane w logach informacje przetwarzane są przede wszystkim w celach związanych ze świadczeniem usług. Przetwarzamy je również w celach technicznych, administracyjnych, na potrzeby zapewnienia bezpieczeństwa systemu informatycznego oraz zarządzania tym systemem, a także w celach analitycznych i statystycznych – w tym zakresie podstawą prawną przetwarzania jest nasz prawnie uzasadniony interes (art. 6 ust. 1 lit. f RODO).
+
+### Rejestracja w serwisie
+
+Podczas rejestracji w Serwisie zostaniesz proszony są o podanie danych niezbędnych do utworzenia i obsługi konta. W celu ułatwienia obsługi możesz podać dodatkowe dane, wyrażając tym samym zgodę na ich przetwarzanie. Takie dane można w każdym czasie usunąć. Podanie danych oznaczonych jako obowiązkowe jest wymagane w celu założenia i obsługi konta, a ich niepodanie spowoduje, że nie będziemy mogli założyć Twojego konta. Podanie pozostałych danych jest dobrowolne.
+
+Twoje dane osobowe są przetwarzane:
+
+- w celu świadczenia usług związanych z prowadzeniem i obsługą konta w Serwisie – podstawą prawną przetwarzania jest niezbędność przetwarzania do wykonania umowy (art. 6 ust. 1 lit b RODO), a w zakresie danych podanych fakultatywnie – podstawą prawną przetwarzania jest zgoda (art. 6 ust. 1 lit a RODO);
+- w celach analitycznych i statystycznych – podstawą prawną przetwarzania jest nasz uzasadniony interes (art. 6 ust. 1 lit f RODO) polegający na prowadzeniu analiz aktywności Użytkowników w Serwisie i sposobu korzystania z konta, a także ich preferencji w celu poprawy stosowanych funkcjonalności;
+- w celu ewentualnego ustalenia i dochodzenia roszczeń lub obrony przed nimi – podstawą prawną przetwarzania jest nasz uzasadniony interes (art. 6 ust. 1 lit f RODO) polegający na ochronie naszych praw.
+- w celach marketingowych (naszych oraz naszych partnerów) – zasady przetwarzania danych osobowych w celach marketingowych zostały opisane w sekcji „MARKETING”.
+- W przypadku, gdy Serwis umożliwia logowanie za pośrednictwem innych portali jak, np. Facebook, Google, Instagram, Twitter, Apple), Serwis pobierze z Twojego konta w ramach danego portalu jedynie dane niezbędne do rejestracji i obsługi konta. Poprzez samodzielną zmianę ustawień wtyczki możesz w łatwy sposób rozszerzyć zakres pobieranych danych o takie, które mogą być przydatne przy korzystaniu z funkcjonalności konta w Serwisie.
+
+
+### Korzystanie z płatnych usług w serwisie
+
+Jeżeli złożysz zamówienie (zakupu towaru lub usługi) w Serwisie, będziemy przetwarzali Twoje dane osobowe w następujących celach:
+
+- w celu realizacji złożonego zamówienia – podstawą prawną przetwarzania jest niezbędność przetwarzania do wykonania umowy (art. 6 ust. 1 lit b RODO); w zakresie danych podanych fakultatywnie podstawą prawną przetwarzania jest zgoda (art. 6 ust. 1 lit a RODO);
+- w celu realizacji obowiązków ustawowych ciążących na nas, a wynikających w szczególności z przepisów podatkowych i przepisów o rachunkowości – podstawą prawną przetwarzania jest obowiązek prawny (art. 6 ust. 1 lit c RODO);
+- w celach analitycznych i statystycznych – podstawą prawną przetwarzania jest nasz uzasadniony interes (art. 6 ust. 1 lit f RODO) polegający na prowadzeniu analiz Twojej aktywności w Serwisie, a także Twoich preferencji zakupowych w celu doskonalenia stosowanych funkcjonalności;
+- w celu ewentualnego ustalenia i dochodzenia roszczeń lub obrony przed nimi – podstawą prawną przetwarzania jest nasz uzasadniony interes (art. 6 ust. 1 lit f RODO) polegający na ochronie naszych praw.
+
+### Marketing
+
+Przetwarzamy Twoje dane osobowe w celu realizowania działań marketingowych, które mogą polegać na:
+
+- wyświetlaniu treści marketingowych, które nie są dostosowane do Twoich preferencji (reklama kontekstowa);
+- wyświetlaniu treści marketingowych odpowiadających Twoim zainteresowaniom (reklama behawioralna);
+- kierowaniu e-mailowych powiadomień o interesujących ofertach lub treściach, które w niektórych przypadkach zawierają informacje handlowe (usługa newslettera)
+- prowadzenie innego rodzaju działań związanych z marketingiem bezpośrednim towarów i usług (przesyłanie informacji handlowych drogą elektroniczną oraz działania telemarketingowe)
+
+W celu realizowania działań marketingowych, w niektórych przypadkach wykorzystujemy profilowanie (jeżeli wyrazisz na to zgodę). Oznacza to, że dzięki automatycznemu przetwarzaniu danych dokonujemy oceny wybranych czynników dotyczących osób fizycznych w celu analizy ich zachowania lub stworzenia prognozy na przyszłość.
 
 ### Newsletter
 
-Zapisując się do newslettera, przekazujesz mi swój adres e-mail oraz swoje imię za pośrednictwem formularza zapisu do newslettera. Podanie danych jest dobrowolne, lecz konieczne, by zapisać się do newslettera.
+Świadczymy usługę newslettera na zasadach określonych w regulaminie, tylko jeżeli. Podasz nam w tym celu swój adres e-mail. Podanie danych jest wymagane w celu świadczenia usługi newslettera, a ich niepodanie skutkuje brakiem możliwości jego wysyłki.
 
-Dane te wykorzystywane są w celu przesyłania Ci newslettera, a podstawą prawną do ich przetwarzania jest Twoja zgoda. Dane będą przetwarzane przez czas funkcjonowania newslettera, chyba że wcześniej zrezygnujesz z jego otrzymywania, co spowoduje usunięcie Twoich danych z bazy.
+Dane osobowe zebrane na potrzeby newslettera są przetwarzane:
 
-W każdej chwili możesz sprostować swoje dane zapisane w mojej bazie newsletterowej, jak również zażądać ich usunięcia, rezygnując z otrzymywania newslettera.
+- w celu świadczenia usługi wysyłki newslettera – podstawą prawną przetwarzania jest niezbędność przetwarzania do wykonania umowy (art. 6 ust. 1 lit b RODO);
+- w przypadku kierowania do Ciebie treści marketingowych w ramach newslettera – podstawą prawną przetwarzania, w tym profilowania, jest nasz uzasadniony interes (art. 6 ust. 1 lit f RODO) w związku z wyrażoną zgodą na otrzymywanie newslettera;
+- w celach analitycznych i statystycznych – podstawą prawną przetwarzania jest nasz uzasadniony interes (art. 6 ust. 1 lit f RODO) polegający na prowadzeniu analiz Twojej aktywności Użytkowników w Serwisie w celu doskonalenia stosowanych funkcjonalności;
+- w celu ewentualnego ustalenia i dochodzenia roszczeń lub obrony przed nimi – podstawą prawną przetwarzania jest nasz uzasadniony interes (art. 6 ust. 1 lit. f RODO).
 
-### Zamówienia i wystawianie faktur VAT
+### Marketing bezpośredni
 
-Zamawiając na stronie internetowej jakikolwiek produkt, podajesz mi dane niezbędne do realizacji zamówienia (imię i nazwisko, adres rozliczeniowy, adres e-mail, numer telefonu). Podanie danych jest dobrowolne, ale niezbędne do złożenia zamówienia.
+Twoje Dane osobowe mogą być również wykorzystywane przez nas, abyśmy mogli kierować do Ciebie treści marketingowe różnymi kanałami, tj. za pośrednictwem poczty e-mail, drogą MMS / SMS lub telefonicznie. Takie działania podejmujemy wyłącznie w przypadku, gdy wyraziłeś na nie zgodę, którą może wycofać w dowolnym momencie.
 
-Dane przekazane mi w związku z zamówieniem przetwarzane są w celu realizacji zamówienia, wystawienia faktury i uwzględnienia jej w dokumentacji księgowej, a także mogą być wykorzystane w celach archiwalnych i statystycznych.
+### Portale społecznościowe
 
-Dane o zamówieniach będą przetwarzane przez czas niezbędny do realizacji zamówienia, a później do czasu upływu terminu przedawnienia roszczeń z tytułu zawartej umowy. Po upływie tego terminu, dane nadal mogą być przeze mnie przetwarzane w celach statystycznych. Mam obowiązek przechowywać faktury przez okres 5 lat od końca roku podatkowego, w którym nastąpiło wystawienie faktury VAT.
+Przetwarzamy Twoje dane osobowe, gdy odwiedzasz nasz profile prowadzone w mediach społecznościowych (Facebook, YouTube, Instagram, Twitter). Dane te są przetwarzane wyłącznie w związku z prowadzeniem profilu, w tym w celu informowania Cię o naszej aktywności oraz promowaniu różnego rodzaju wydarzeń, usług oraz produktów. Podstawą prawną przetwarzania danych osobowych w tym celu jest nasz uzasadniony interes (art. 6 ust. 1 lit. f RODO) polegający na promowaniu własnej marki.
 
-W przypadku danych podanych w celu realizacji zamówienia nie możesz sprzeciwić się przetwarzaniu danych oraz domagać się usunięcia danych do czasu upływu terminu przedawnienia roszczeń z tytułu zawartej umowy.
+### Pliki cookies oraz podobna technologia
 
-### Reklamacje i odstąpienie od umowy
+Pliki cookies to małe pliki tekstowe instalowane na Twoim urządzeniu, gdy przeglądasz Serwis. Cookies zbierają informacje ułatwiające korzystanie ze strony internetowej – np. poprzez zapamiętywanie Twoich odwiedzin w Serwisie i dokonywanych przez Ciebie czynności. W ramach Serwisu możemy stosować następujące rodzaje cookies:
 
-Składając reklamację lub odstępując od umowy przekazujesz mi dane osobowe zawarte w treści swojego oświadczenia (imię i nazwisko, adres, numer telefonu, adres e-mail oraz ewentualnie numer rachunku bankowego).
+### Cookies 'serwisowe'
 
-Podanie tych danych jest dobrowolne, lecz konieczne, by złożyć reklamację lub odstąpić od umowy. Dane przekazane mi w związku ze złożeniem reklamacji lub odstąpieniem od umowy wykorzystywane są w celu realizacji procedury reklamacyjnej lub procedury odstąpienia od umowy.
+Wykorzystujemy tzw. cookies serwisowe przede wszystkim w celu dostarczania Ci usług świadczonych drogą elektroniczną oraz poprawy jakości tych usług. W związku z tym my oraz inne podmioty świadczące na naszą rzecz usługi analityczne i statystyczne korzystają z plików cookies, przechowując informacje lub uzyskując dostęp do informacji już przechowywanych w Twoim telekomunikacyjnym urządzeniu końcowym (komputer, telefon, tablet itp.). Pliki cookies wykorzystywane w tym celu obejmują:
 
-Dane będą przetwarzane przez czas niezbędny do realizacji procedury reklamacyjnej lub procedury odstąpienia. W przypadku danych zawartych w reklamacjach oraz oświadczeniach o odstąpieniu od umowy nie masz możliwości sprzeciwić się przetwarzaniu swoich danych oraz domagać się usunięcia danych do czasu upływu terminu przedawnienia roszczeń z tytułu zawartej umowy.
+- pliki cookies z danymi wprowadzanymi przez Ciebie (identyfikator sesji) na czas trwania sesji (ang. user input cookies);
+- uwierzytelniające pliki cookies wykorzystywane do usług wymagających uwierzytelniania na czas trwania sesji (ang. authentication cookies);
+- pliki cookies służące do zapewnienia bezpieczeństwa, np. wykorzystywane do wykrywania nadużyć w zakresie uwierzytelniania (ang. user centric security cookies);
+- sesyjne pliki cookies odtwarzaczy multimedialnych (np. pliki cookies odtwarzacza flash), na czas trwania sesji (ang. multimedia player session cookies);
+- trwałe pliki cookies służące do personalizacji interfejsu Użytkownika na czas trwania sesji lub nieco dłużej (ang. user interface customization cookies),
+- pliki cookies służące do monitorowania ruchu na stronie internetowej, tj. analityki danych, w tym cookies Google Analytics (są to pliki wykorzystywane przez spółkę Google w celu analizy w jaki sposów korzystasz z Serwisu, do tworzenia statystyk i raportów dotyczących funkcjonowania Serwisu). Google nie wykorzystuje zebranych danych do identyfikacji Użytkownika ani nie łączy tych informacji w celu umożliwienia identyfikacji. Szczegółowe informacje o zakresie i zasadach zbierania danych w związku z tą usługą można znaleźć pod linkiem: https://www.google.com/intl/pl/policies/privacy/partners.
 
-### Kontakt z wykorzystaniem formularza
+### Cookies 'marketingowe'
 
-Kontaktując się poprzez formularz kontaktowy, podajesz mi przynajmniej swój adres e-mail. To od Ciebie zależy, czy w treści podasz dodatkowe dane. Podanie danych jest dobrowolne, lecz konieczne, by nawiązać ze mną kontakt.
+My oraz nasi zaufani partnerzy wykorzystujemy również pliki cookies do celów marketingowych, m.in. w związku z kierowaniem do Ciebie reklamy behawioralnej. W tym celu my oraz nasi zaufani partnerzy przechowujemy informacje lub uzyskujemy dostęp do informacji już przechowywanych w Twoim telekomunikacyjnym urządzeniu końcowym (komputer, telefon, tablet itp.). Wykorzystanie plików cookies oraz zebranych za ich pośrednictwem danych osobowych w celach marketingowych, w szczególności w zakresie promowania usług i towarów podmiotów trzecich, wymaga uzyskania Twojej zgody, która może być w każdym momencie wycofana.
 
-Twoje dane są w tym przypadku przetwarzane w celu kontaktu z Tobą. Podstawą, do przetwarzania danych jest Twoja zgoda. Masz prawo żądać przedstawienia historii prowadzonej korespondencji oraz możesz domagać się jej usunięcia, chyba że zachowanie korespondencji uzasadnione jest moim interesem (np. ochrona przed roszczeniami).
+### Zarządzanie cookies
 
-## Powierzenie przetwarzania danych osobowych
+Jeśli nie chcesz otrzymywać plików cookies, możesz zmienić ustawienia przeglądarki. Zastrzegamy, że wyłączenie obsługi plików cookies niezbędnych dla procesów uwierzytelniania, bezpieczeństwa, utrzymania preferencji użytkownika może utrudnić korzystanie z Serwisu.
 
-Twoje dane mogą być przetwarzane przez podmioty trzecie, którym zlecam wykonanie poszczególnych czynności związanych z zapewnieniem właściwego funkcjonowania strony internetowej. Podmioty, którym zlecam przetwarzanie danych osobowych, gwarantują stosowanie odpowiednich środków ochrony i bezpieczeństwa danych osobowych wymaganych przez przepisy prawa. Podmioty, którym powierzam przetwarzanie danych, to:
+### Istotne techniki marketingowe
 
-- Netlify, Inc – w celu przechowywania danych osobowych na serwerze ([ich polityka prywatności](https://www.netlify.com/gdpr/))
-- MailerLite – w celu korzystania z systemu mailingowego, w którym przetwarzane są Twoje dane, jeżeli zapiszesz się do newslettera ([ich polityka prywatności](https://www.mailerlite.com/legal/privacy-policy))
-- MailerSend – w celu maili transakcyjnych, takich jak linki do logowania ([ich polityka prywatności](https://www.mailersend.com/legal/privacy-policy))
-- Supabase, Inc. - w celu przechowywania danych do autentykacji na platformie edu.krzysztof.io ([ich polityka prywatności](https://supabase.com/privacy))
-- Neon, Inc. - w celu przechowywania informacji o produktach i zapamiętywania ustawień użytkownika na platformie edu.krzysztof.io ([ich polityka prywatności](https://neon.tech/privacy-policy))
-- Stripe Payments Europe, Ltd. - do obsługi płatności na platformie edu.krzysztof.io ([ich polityka prywatności](https://stripe.com/en-pl/privacy))
+Cel i zakres gromadzenia danych oraz ich dalszego przetwarzania i wykorzystania przez usługodawców, jak również możliwość kontaktu oraz prawa Użytkownika w tym zakresie zostały opisane w polityce prywatności usługodawców.
 
-## Logi serwera
+Możemy stosować techniki remarketingowe, pozwalające na dopasowanie przekazów reklamowych do Twojego zachowania w Serwisie, co może dawać złudzenie, że Twoje dane osobowe są wykorzystywane do śledzenia, jednak w praktyce nie przekazujemy żadnych Twoich danych osobowych operatorom reklam. Technologicznym warunkiem takich działań jest włączona obsługa plików cookie.
 
-Korzystając z mojej strony internetowej przesyłasz z wykorzystaniem swojego urządzenia zapytania do serwera, na którym przechowywana jest moja strona. Logi obejmują m.in. adres IP, datę i czas serwera, informacje o przeglądarce internetowej i systemie operacyjnym, które używasz. Logi są zapisywane i przechowywane na serwerze. Logi serwera stanowią wyłącznie materiał pomocniczy służący do administrowania stroną. Ich zawartość nie jest nikomu ujawniana.
+Możemy stosować rozwiązanie badające zachowanie użytkowników poprzez tworzenie map ciepła oraz nagrywanie zachowania w Serwisie. Te informacje są anonimizowane zanim zostaną przesłane do operatora usługi tak, że nie wie on jakiej osoby fizycznej one dotyczą. W szczególności nagrywaniu nie podlegają wpisywane hasła oraz inne dane osobowe.
 
-Dane zapisane w logach serwera nie są kojarzone z konkretnymi osobami korzystającymi ze strony i nie są wykorzystywane w celu identyfikacji konkretnych osób.
+### Okres przetwarzania danych osobowych
 
-## Pliki cookies
+Okres przez jaki przetwamy Twoje dane zależy od rodzaju świadczonej usługi i celu przetwarzania. Co do zasady dane przetwarzane są przez czas świadczenia usługi lub realizowania zamówienia, do czasu wycofania przez Ciebie wyrażonej zgody lub zgłoszenia skutecznego sprzeciwu względem przetwarzania danych (w przypadkach, gdy podstawą prawną przetwarzania danych jest nasz uzasadniony interes).
 
-Pliki cookies (tzw. „ciasteczka”) stanowią dane informatyczne, które przechowywane są w Twoim urządzeniu końcowym. Na stronie internetowej stosuję dwa zasadnicze rodzaje plików cookies: sesyjne oraz stałe. Cookies sesyjne są plikami tymczasowymi, które przechowywane są w urządzeniu końcowym użytkownika do czasu wylogowania, opuszczenia strony internetowej lub wyłączenia oprogramowania (przeglądarki internetowej). Stałe pliki cookies przechowywane są w Twoim urządzeniu końcowym przez czas określony w parametrach plików cookies lub do czasu ich usunięcia przez Ciebie.
+Okres przetwarzania danych może być przedłużony w przypadku, gdy przetwarzanie jest niezbędne do ustalenia i dochodzenia ewentualnych roszczeń lub obrony przed nimi, a po tym czasie jedynie w przypadku i w zakresie, w jakim będą wymagać tego przepisy prawa.
 
-Podczas pierwszej wizyty na mojej stronie internetowej wyświetlona została Ci informacja o stosowaniu na niej plików cookies. Akceptacja komunikatu oznacza, że zgadzasz się na korzystanie z plików cookies. W każdym czasie możesz dokonać zmiany ustawień dotyczących plików cookies.
+Po upływie okresu przetwarzania Twoje dane są nieodwracalnie usuwane lub anonimizowane.
 
-Ustawienia dotyczące plików cookies mogą zostać zmienione w szczególności w taki sposób, aby blokować automatyczną obsługę plików cookies w ustawieniach przeglądarki internetowej bądź informować o ich każdorazowym zamieszczeniu w Twoim urządzeniu. Szczegółowe informacje o możliwości i sposobach obsługi plików cookies dostępne są w ustawieniach oprogramowania przeglądarki internetowej. Pamiętaj, że wyłączenie lub ograniczenie obsługi plików cookies może powodować trudności w korzystaniu z mojej strony.
+### Twoje uprawnienia
 
+W związku z tym, że przetwarzamy Twoje dane osobowe, przysługują Ci następujące prawa:
 
-Wykorzystuję cookies własne w celu:
+- prawo do informacji o przetwarzaniu danych osobowych – na tej podstawie, na Twój wniosek przekażemy Ci informację o przetwarzaniu danych, w tym przede wszystkim o celach i podstawach prawnych przetwarzania, zakresie posiadanych danych, podmiotach, którym są ujawniane, i planowanym terminie usunięcia danych;
+- prawo uzyskania kopii danych – na tej podstawie, na Twój wniosek przekażemy Ci kopię przetwarzanych danych dotyczących osoby zgłaszającej żądanie;
+- prawo do sprostowania – na Twój wniosek jesteśmy zobowiązani usuwać ewentualne niezgodności lub błędy przetwarzanych danych osobowych oraz uzupełniać je, jeśli są niekompletne;
+- prawo do usunięcia danych – na tej podstawie możesz żądać usunięcia danych, których przetwarzanie nie jest już niezbędne do realizowania żadnego z celów, dla których zostały zebrane;
+- prawo do ograniczenia przetwarzania – na tej podstawie, na Twój wniosek zaprzestaniemy wykonywania operacji na Twoich danych osobowych – z wyjątkiem operacji, na które wyraziłeś zgodę – oraz ich przechowywania, zgodnie z przyjętymi zasadami retencji lub dopóki nie ustaną przyczyny ograniczenia przetwarzania danych;
+- prawo do przenoszenia danych – na tej podstawie – w zakresie, w jakim Twoje dane są przetwarzane w związku z zawartą umową lub wyrażoną zgodą – wydamy Ci dostarczone przez Ciebie dane w formacie pozwalającym na ich odczyt przez komputer. Możesz także zażądać, abyśmy przesłali te dane innemu podmiotowi – jednak pod warunkiem, że mamy do tego odpowiednie możliwości techniczne.
+- prawo sprzeciwu wobec przetwarzania danych w celach marketingowych – możesz w każdym momencie sprzeciwić się przetwarzaniu danych osobowych w celach marketingowych, bez konieczności uzasadnienia takiego sprzeciwu;
+- prawo sprzeciwu wobec innych celów przetwarzania danych – Możesz w każdym momencie sprzeciwić się przetwarzaniu danych osobowych, które odbywa się na podstawie naszego uzasadnionego interesu (np. dla celów analitycznych lub statystycznych albo ze względów związanych z ochroną mienia); sprzeciw w tym zakresie powinien zawierać uzasadnienie;
+- prawo wycofania zgody – jeśli dane przetwarzane są na podstawie Twojej zgody, masz prawo ją wycofać w dowolnym momencie, co jednak nie wpływa na zgodność z prawem przetwarzania dokonanego przed wycofaniem zgody.
+- prawo do skargi – jeżeli uznasz, że sposób w jaki przetwarzamy Twoje dane osobowe narusza przepisy RODO lub inne przepisy dotyczące ochrony danych osobowych, możesz złożyć skargę do Prezesa Urzędu Ochrony Danych Osobowych.
 
-- zapewnienia prawidłowego działania strony
-- realizacji procesu zamówienia
-- prawidłowego działania pop-upów i formularzy
+### Odbiorcy danych
 
-Wykorzystuję również cookies podmiotów zewnętrznych:
+W związku z tym, że chcemy realizować dla Ciebie jak najlepsze usługi, będziemy ujawniać Twoje dane osobowe naszym zaufanym partnerom, w tym w szczególności dostawcom odpowiedzialnym za obsługę systemów informatycznych, podmiotom takim jak banki i operatorzy płatności, podmioty świadczące usługi księgowe, kurierzy (w związku z realizacją zamówienia), agencje marketingowe (w zakresie usług marketingowych) oraz naszym podmiotom powiązanym.
 
-- Google Analytics (wydawca: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA) – w celu tworzenia statystyk i ich analizie dla optymalizacji strony
+Twoje dane osobowe będą udostępnione innym podmiotom do ich własnych celów, w tym celów marketingowych tylko jeżeli wyrazisz na to zgodę.
 
-## Zmiana polityki bezpieczeństwa i plików cookies
+### Przekazywanie danych poza EOG
 
-Zastrzegam sobie prawo do wprowadzania zmian w polityce prywatności. Zmiany będą wprowadzane jeśli będzie wymagać tego obowiązujące prawo lub ulegną zmianie warunki technologiczne funkcjonowania mojej strony internetowej. Aktualny tekst polityki prywatności oraz wersje archiwalne zawsze będą znajdować się na mojej stronie internetowej.
+Poziom ochrony danych osobowych poza Europejskim Obszarem Gospodarczym (EOG) może różnić się od tego zapewnianego przez prawo europejskie. Z tego powodu będziemy przekazywali Twoje dane osobowe poza EOG tylko wtedy, gdy jest to konieczne, i z zapewnieniem odpowiedniego stopnia ochrony. Za każdym razem zostaniesz o tym powiadomiony.
+
+### Bezpieczeństwo danych osobowych
+
+Wiedz, że podejmujemy wszelkie kroki w celu zapewnienia, że Twoje dane osobowe będą przetwarzane są przez nas w sposób bezpieczny – zapewniający przede wszystkim, że dostęp do Twoich danych mają jedynie osoby upoważnione i jedynie w zakresie, w jakim jest to niezbędne ze względu na wykonywane przez nie zadania.
+
+Podejmujemy wszelkie niezbędne działania, by nasi podwykonawcy i inne podmioty współpracujące dawały gwarancję stosowania odpowiednich środków bezpieczeństwa w każdym przypadku, gdy przetwarzają Twoje dane osobowe na nasze zlecenie.
+
+### Dane kontaktowe
+
+We wszelkich sprawach, o którym mowa w niniejszej polityce, w szczególności związanych z przetwarzaniem Twoich danych osobowych, możesz się z nami skontaktować poprzez:
+
+- e-mail krzysztof@krzysztof.io
+- listownie na adres Krzysztof Jendrzyca, Kozielska 45/15, 44-121 Gliwice, NIP 9691626817, REGON: 368154488,
