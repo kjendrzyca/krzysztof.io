@@ -22,7 +22,7 @@ Polityka – niniejsza Polityka prywatności.
 
 RODO – Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE.
 
-Serwis – serwis internetowy prowadzony przez nas pod adresem edu.krzysztof.io
+Serwis – serwis internetowy prowadzony przez nas pod adresem krzysztof.io/edu.krzysztof.io
 
 Użytkownik (Ty) – każda osoba fizyczna odwiedzająca Serwis lub korzystająca z jednej albo kilku usług czy funkcjonalności opisanych w Polityce
 
