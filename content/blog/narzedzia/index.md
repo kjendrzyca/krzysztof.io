@@ -10,7 +10,7 @@ description: 'Zestaw narzędzi, który wypracowałem sobie w ciągu wielu lat te
 - https://workflowy.com/ (mój [Second Brain](/second-brain/))
 - https://keep.google.com/ (inbox do notatek na telefonie)
 - https://www.notion.so/ (do współpracy z innymi)
-- https://readwise.io/i/krzysztof49 (gromadzenie notatek + okazjonalnie [reader](https://keep.google.com/))
+- https://readwise.io/i/krzysztof49 (gromadzenie notatek + okazjonalnie [Reader](https://readwise.io/read))
 
 ## Książki:
 
