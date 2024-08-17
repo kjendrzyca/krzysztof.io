@@ -536,6 +536,12 @@ hr.hr-spwz:before {
   content: "~ ~ ~";
 }
 
+span.custom-highlight {
+  background: #fff2c0;
+  border-radius: 4px;
+  padding: 0 10px;
+}
+
 /* Media queries */
 
 @media (max-width: 42rem) {

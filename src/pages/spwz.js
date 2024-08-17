@@ -9,6 +9,7 @@ import ShareButtons from "@/components/shareButtons"
 import { config } from "@/config"
 import { SPWZEbook } from "@/components/SPWZEbook"
 import { SPWZLogo } from "@/components/SPWZLogo"
+import { Highlight } from "@/components/Highlight"
 
 const czemuCiSieToPrzydaMd = `
 Gdy stawiałem swoje pierwsze kroki jako Software Engineer, to nie wiedziałem, **jak stwierdzić, czy robię dobrą robotę**
@@ -31,10 +32,13 @@ Można zacząć od razu - od zmiany mindsetu.
 Wpisowe polega na tym, żeby **wziąć odpowiedzialność nie tylko za pisanie kodu**,
 ale też za dobrą współpracę z zespołem, z klientem, z pracodawcą i za stopniowe zwiększanie jakości dowożonych zadań.
 
-Dzięki wsparciu wielu doświadczonych osób udało mi się wypracować model,
-który przekazuję od kilku lat wszystkim zainteresowanym - indywidualnie i w każdym kolejnym projekcie, do którego dołączam.
+Okazało się, że znajomość umiejętności miękkich jest niezbędna, bo pomaga eliminować wszelkie przeszkody, które napotykam w pracy.
+Zauważyłem też, że te umiejętności są cenione wśród pracodawców i ludzi, z którymi pracuję.
 
-Po jakimś czasie zauważyłem, że ci, którzy go stosują, **stopniowo zaczynają być uważani za najbardziej ogarnięte osoby w projekcie,
+Dzięki wsparciu wielu doświadczonych osób udało mi się wypracować podejście do pracy,
+które przekazuję od kilku lat wszystkim zainteresowanym - indywidualnie i w każdym kolejnym projekcie, do którego dołączam.
+
+Po jakimś czasie zauważyłem, że ci, którzy je stosują, **stopniowo zaczynają być uważani za najbardziej ogarnięte osoby w projekcie,
 przestają mieć problemy na rozmowach o kasę i często naturalnie wchodzą w role liderskie w swoich zespołach**.
 
 Tych sprawdzonych w boju, uporządkowanych informacji, które można szybko zaaplikować u siebie, brakuje w Internecie,
@@ -44,7 +48,8 @@ Dlatego postanowiłem zebrać to, czego się nauczyłem, a potem przefiltrowałe
 
 Zebrane doświadczenia chcę podać Ci w przystępnej formie, bez coachingu, bez wciskania kitu na siłę i bez mówienia o tym, co "musisz" i co "powinieneś".
 
-**Dostajesz tylko to, co działa** u mnie i u ludzi, których znam. Nakreślam też kontekst, który podpowie Ci jak zaaplikować tę wiedzę u siebie i zmodyfikować podejście w razie potrzeby.
+**Dostajesz tylko to, co działa** u mnie i u ludzi, których znam.
+Nakreślam też kontekst, który podpowie Ci jak zaaplikować tę wiedzę u siebie i zmodyfikować podejście w razie potrzeby.
 
 Moim celem jest pokazać Ci jak zostać dojrzałym, godnym zaufania, cenionym członkiem zespołu.
 `
@@ -61,9 +66,18 @@ Chcę po prostu pokazać, co widzę, że działa. **Chcę, żeby każdy mógł z
 `
 
 const dlaKogoMd = `
-"Skuteczna Praca w Zespole" to miejsce dla tych, którzy chcą wziąć odpowiedzialność za **wszystkie aspekty tworzenia oprogramowania**, a nie tylko za klikanie w klawiaturę.
+"Skuteczna Praca w Zespole" to program dla programistów i programistek na poziomie junior oraz regular,
+którzy chcą poznać sposoby pracy oraz umiejętności miękkie dobrze opłacanych i wyróżniających się senior developerów,
+które pozwolą im w przyszłości bez problemu wypełniać role liderskie na najwyższym poziomie (jeśli będą tego chcieli).
 
-Dla osób, które wierzą w to, że nie samym kodem człowiek żyje i chcą poprawić swoje warunki zatrudnienia, rozwijając też inne umiejętności.
+Dla senior developerów, którzy nie mieli wzorów do naśladowania i czują braki w swoich umiejętnościach nietechnicznych, mimo że ich umiejętności techniczne są na wysokim poziomie.
+
+Ogólnie, program jest dla wszystkich, którzy:
+
+- chcą wziąć odpowiedzialność za **wszystkie aspekty tworzenia oprogramowania**, a nie tylko za klikanie w klawiaturę
+- wierzą w to, że nie samym kodem człowiek żyje i chcą poprawić swoje warunki zatrudnienia, rozwijając też inne umiejętności
+- chcą lepiej wykonywać swoją pracę jako członkowie zespołu
+- chcą szybciej rozwiązywać problemy z pracą zespołową, żeby nie odciągały ich od kodzenia
 
 Materiały są pisane z myślą o ludziach, którzy programują, bo sam to robię, ale sprawdzają się też u innych, niezależne od roli.
 `
@@ -228,7 +242,7 @@ const SPWZPage = () => {
     <Layout isLandingPage>
       <SEO
         title="Skuteczna Praca w Zespole"
-        description="Program szkoleniowy o nawykach, modelach mentalnych oraz sposobach pracy doświadczonych programistów"
+        description={`Kompletny przewodnik po umiejętnościach miękkich oraz sposobach pracy doświadczonych programistów. "Skuteczna Praca w Zespole" to program szkoleniowy online, w którym pokażę Ci, czego nauczyłem się przez ostatnie kilka lat o skutecznej współpracy z zespołem, klientem oraz pracodawcą, jak podchodzę do wykonywania zadań i jakie czerpię z tego wszystkiego korzyści.`}
         slug="spwz"
         ogType="page"
         ogImagePath="/spwz/spwz-og.png"
@@ -238,8 +252,8 @@ const SPWZPage = () => {
         <SPWZLogo />
       </p>
 
-      <h1 style={{fontSize:'2.5rem', marginTop: 'var(--spacing-6)'}}>
-        Poznaj nawyki, modele mentalne oraz sposoby pracy doświadczonych programistów.
+      <h1 style={{fontSize:'2.5rem', marginTop: 'var(--spacing-6)', lineHeight: '3.2rem'}}>
+        Kompletny przewodnik po <Highlight>umiejętnościach miękkich</Highlight> oraz <Highlight>sposobach pracy</Highlight><br />doświadczonych programistów.
       </h1>
 
       <h2
@@ -251,8 +265,8 @@ const SPWZPage = () => {
         }}
       >
         &quot;Skuteczna Praca w Zespole&quot; to program szkoleniowy online, w którym pokażę Ci,
-        czego nauczyłem się przez ostatnie kilka lat o skutecznej współpracy z zespołem,
-        klientem oraz pracodawcą, jak podchodzę do wykonywania zadań i jakie czerpię z tego wszystkiego korzyści.
+        czego nauczyłem się przez ostatnie kilka lat o skutecznej współpracy z <strong>zespołem</strong>,{' '}
+        <strong>klientem</strong> oraz <strong>pracodawcą</strong>, jak podchodzę do <strong>wykonywania zadań</strong> i jakie czerpię z tego wszystkiego <strong>korzyści</strong>.
       </h2>
 
       <p style={{textAlign: 'center', marginTop: 'var(--spacing-10)'}}>
