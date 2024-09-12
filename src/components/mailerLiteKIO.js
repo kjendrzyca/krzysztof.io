@@ -117,11 +117,9 @@ export const SubscribeKIO = () => {
   return (
     <div className="subscribe-form">
       <div>
-        <h2>📰 Newsletter</h2>
         <p>
-          Jeśli chcesz pogadać i/lub od czasu do czasu dostać ode mnie informacje{' '}
-          o nowych wpisach, notatkach, projektach,{' '}
-          nad którymi pracuję oraz o postępach pracy nad sobą, to zostaw tutaj swój e-mail.</p>
+          <b>P.S.</b> Jeśli chcesz od czasu do czasu dostać ode mnie informacje{' '}
+          o nowych wpisach, notatkach lub projektach, to zostaw tutaj swój e-mail.</p>
       </div>
       <MailerLiteFormKIO />
       <div><small>Zapisując się na newsletter akceptujesz <Link href="/polityka-prywatnosci/">politykę prywatności</Link>.</small></div>
