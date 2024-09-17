@@ -68,7 +68,7 @@ const SPWZSzkoleniePage = () => {
       <hr className="hr-spwz" />
 
       <CenteredH2>
-        <span style={{borderBottom: '2px dashed var(--color-primary)', lineHeight: '2.5rem',}}>Start: wtorek, 1 października 2024</span>
+        <span style={{borderBottom: '2px dashed var(--color-primary)', lineHeight: '2.5rem',}}>Start: wtorek, 1 października 2024 o 19:00</span>
       </CenteredH2>
 
       <p style={{textAlign: 'center', fontSize: '3rem', fontWeight: 'bold'}}>
