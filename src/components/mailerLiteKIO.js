@@ -11,7 +11,7 @@ export const MailerLiteSuccessFunctionScriptKIO = `
 
 export const MailerLiteScriptSrc = `https://static.mailerlite.com/js/w/webforms.min.js?vd4de52e171e8eb9c47c0c20caf367ddf`
 
-const TrackingImageKIO = () => {
+const TrackingImage = () => {
   const {WrapperId, FormId, TrackingImageId} = MailerLiteFormConfig.KIO
   return (
     // eslint-disable-next-line @next/next/no-img-element
@@ -108,7 +108,7 @@ export const MailerLiteFormKIO = () => {
           </div>
         </div>
       </div>
-      <TrackingImageKIO />
+      <TrackingImage />
     </>
   )
 }

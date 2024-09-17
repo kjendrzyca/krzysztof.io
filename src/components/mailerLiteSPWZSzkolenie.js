@@ -3,7 +3,7 @@ import { MailerLiteFormConfig } from './mailerLiteFormConfig'
 import Link from 'next/link'
 
 export const MailerLiteSuccessFunctionScriptSPWZ = `
-  function ml_webform_success_${MailerLiteFormConfig.SPWZ.WrapperId}() {
+  function ml_webform_success_${MailerLiteFormConfig.SPWZSzkolenie.WrapperId}() {
     document.getElementsByClassName('row-success')[0].style.display = 'block';
     document.getElementsByClassName('row-form')[0].style.display = 'none';
     document.getElementsByClassName('newsletter-info')[0].style.display = 'none';
@@ -13,8 +13,8 @@ export const MailerLiteSuccessFunctionScriptSPWZ = `
 
 // export const MailerLiteScriptSrc = `https://static.mailerlite.com/js/w/webforms.min.js?v4a60e9ef938a7fa0240ac9ba567062cb`
 
-const TrackingImageSPWZ = () => {
-  const {WrapperId, FormId, TrackingImageId} = MailerLiteFormConfig.SPWZ
+const TrackingImage = () => {
+  const {WrapperId, FormId, TrackingImageId} = MailerLiteFormConfig.SPWZSzkolenie
 
   return (
     // eslint-disable-next-line @next/next/no-img-element
@@ -37,8 +37,8 @@ const TrackingImageSPWZ = () => {
 }
 
 // eslint-disable-next-line arrow-body-style
-export const MailerLiteForm = () => {
-  const {WrapperId, FormId} = MailerLiteFormConfig.SPWZ
+const MailerLiteForm = () => {
+  const {WrapperId, FormId} = MailerLiteFormConfig.SPWZSzkolenie
 
   return (
     <>
@@ -72,7 +72,7 @@ export const MailerLiteForm = () => {
                   </div>
                   <input type="hidden" name="ml-submit" value="1" />
                   <div className="ml-form-fieldRow ml-form-embedSubmit">
-                    <button type="submit" className="primary primary-button">Dołącz</button>
+                    <button type="submit" className="primary primary-button">Zapisz się</button>
                     <button disabled="disabled" style={{ display: 'none' }} type="button" className="loading primary-button">
                       <div className="ml-form-embedSubmitLoad" /> <span className="sr-only">Loading...</span>
                     </button>
@@ -85,7 +85,7 @@ export const MailerLiteForm = () => {
           </div>
         </div>
       </div>
-      <TrackingImageSPWZ />
+      <TrackingImage />
     </>
   )
 }
@@ -97,7 +97,7 @@ export const SubscribeSPWZToggleButton = ({ togglePopup }) => (
     style={{maxWidth: '232px', textTransform: 'uppercase'}}
     onClick={togglePopup}
   >
-    Dołącz do mailingu
+    Zapisz się
   </button>
 )
 export const SubscribeSPWZScrollButton = ({ scrollToSection: scrollToJoin }) => (
@@ -150,13 +150,13 @@ export const SubscribeSPWZ = ({ showPopup, togglePopup }) => {
 
           <div style={{padding: '0 1.275rem'}}>
             <h2 className="newsletter-info" style={{marginTop: 0}}>
-              Podaj email, na który wysłać Ci materiały
+              Zapisz się, żeby nie przegapić szkolenia:
             </h2>
 
             <div className="newsletter-info" style={{marginTop: '1.55rem'}}>
               <MailerLiteForm />
               <p style={{marginTop: '1.55rem', textAlign: 'center'}}>
-                <small>Zapisując się na mailing akceptujesz <Link href="/polityka-prywatnosci/">politykę prywatności</Link>.</small>
+                <small>Zapisując się na szkolenie akceptujesz <Link href="/polityka-prywatnosci/">politykę prywatności</Link>.</small>
               </p>
             </div>
 
