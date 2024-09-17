@@ -1,5 +1,6 @@
 import React, { forwardRef, useState } from "react"
 import ReactMarkdown from 'react-markdown'
+import ReactCountdown from 'react-countdown'
 import NextImage from 'next/image'
 
 import {Layout} from "@/components/layout"
@@ -51,6 +52,16 @@ const SPWZSzkoleniePage = () => {
 
       <p style={{textAlign: 'center', marginTop: 'var(--spacing-10)'}}>
         <SubscribeSPWZSzkolenieToggleButton togglePopup={togglePopup} />
+      </p>
+
+      <hr className="hr-spwz" />
+
+      <CenteredH2>
+        <span style={{borderBottom: '2px dashed var(--color-primary)'}}>Start: wtorek, 1 października 2024</span>
+      </CenteredH2>
+
+      <p style={{textAlign: 'center', fontSize: '3rem', fontWeight: 'bold'}}>
+        <ReactCountdown date={new Date('2024-10-01T19:00:00+02:00')} />
       </p>
 
       <hr className="hr-spwz" />
