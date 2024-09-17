@@ -58,7 +58,7 @@ const SPWZSzkoleniePage = () => {
       >
         Poznasz <strong>proces budowania umiejętności</strong>, które są <strong>ekstremalnie wartościowe</strong> dla ludzi, z którymi współpracujesz (w tym Twojego lidera / managera).<br /><br />
         Dowiesz się, jak dzięki nim <strong>zapewnić sobie w pracy to, czego potrzebujesz</strong>, m.in.:{' '}
-        większy wpływ na decyzje techniczne w projekcie, <br />zmianę roli, lepsze zarobki.
+        większy wpływ na decyzje w projekcie, <br />zmianę roli, lepsze zarobki.
       </h2>
 
       <p style={{textAlign: 'center', marginTop: 'var(--spacing-10)'}}>
@@ -87,7 +87,7 @@ const SPWZSzkoleniePage = () => {
 
 👉 Pokażę Ci, jak uporałem się z tym problemem i jak teraz zwiększam swoją wartość w oczach pracodawcy.
 
-👉 Dowiesz się jak budować umiejętności, które są wartościowe i w jaki sposób szybciej zdobywać informacje o tym, które z nich są najważniejsze.
+👉 Dowiesz się jak budować wartościowe umiejętności i zdobywać informacje o tym, które z nich są najważniejsze.
 
 **Co mi dało to podejście w ciągu ostatnich 10 lat pracy?**
 
@@ -99,7 +99,7 @@ const SPWZSzkoleniePage = () => {
 
 🎯 Nie mam problemów z "negocjowaniem" podwyżki (bo nie muszę tego robić).
 
-🎯 Dla klientów nie jestem już jednym z wielu randomów, którzy piszą kod, tylko ważną osobą z punktu widzenia biznesu.
+🎯 Dla klientów nie jestem już losowym klepaczem kodu, tylko ważną osobą z punktu widzenia biznesu.
 
 \\+ Kilka innych.
 
@@ -118,7 +118,7 @@ const SPWZSzkoleniePage = () => {
 - Nad czym pracowałem przez ostatnie dwa lata?
 - Co znajdziesz w prawie 20 godzinach nagrań?
 - Dlaczego jest to **jedyny taki program** na rynku?
-- Jaka jest cena?`}
+`}
       </ReactMarkdown>
 
       <p style={{textAlign: 'center', marginTop: 'var(--spacing-10)', marginBottom: 'var(--spacing-10)'}}>
