@@ -3,6 +3,7 @@ import Script from "next/script"
 
 import { MailerLiteScriptSrc, MailerLiteSuccessFunctionScriptKIO } from "@/components/mailerLiteKIO"
 import { MailerLiteSuccessFunctionScriptSPWZ } from "@/components/mailerLiteSPWZ"
+import { MailerLiteSuccessFunctionScriptSPWZSzkolenie } from "@/components/mailerLiteSPWZSzkolenie"
 
 import "@/styles/fonts.css"
 import "@/styles/normalize.css"
@@ -23,6 +24,9 @@ export default function App({ Component, pageProps }) {
       </Script>
       <Script id="mailerlite-success-function-script-spwz">
         {MailerLiteSuccessFunctionScriptSPWZ}
+      </Script>
+      <Script id="mailerlite-success-function-script-spwz-szkolenie">
+        {MailerLiteSuccessFunctionScriptSPWZSzkolenie}
       </Script>
       <Script src={MailerLiteScriptSrc} />
 

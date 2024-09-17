@@ -4,7 +4,7 @@ import NextImage from 'next/image'
 
 import {Layout} from "@/components/layout"
 import SEO from "@/components/seo"
-import { SubscribeSPWZ, SubscribeSPWZToggleButton } from "@/components/mailerLiteSPWZSzkolenie"
+import { SubscribeSPWZSzkolenie, SubscribeSPWZSzkolenieToggleButton } from "@/components/mailerLiteSPWZSzkolenie"
 import { Highlight } from "@/components/Highlight"
 
 const SPWZSzkoleniePage = () => {
@@ -50,7 +50,7 @@ const SPWZSzkoleniePage = () => {
       </h2>
 
       <p style={{textAlign: 'center', marginTop: 'var(--spacing-10)'}}>
-        <SubscribeSPWZToggleButton togglePopup={togglePopup} />
+        <SubscribeSPWZSzkolenieToggleButton togglePopup={togglePopup} />
       </p>
 
       <hr className="hr-spwz" />
@@ -61,7 +61,7 @@ const SPWZSzkoleniePage = () => {
 
       <ReactMarkdown>
         {`
-👉 Poznasz moją smutną historię o tym, jak myślałem, że zasługuję na awans i ciekawsze zadania, ale nikt poza mną tego nie widział.
+👉 Poznasz moją smutną historię o tym, jak myślałem, że zasługuję na awans i ciekawsze zadania, ale nikt poza mną tak nie uważał.
 
 👉 Pokażę Ci, jak uporałem się z tym problemem i jak teraz zwiększam swoją wartość w oczach pracodawcy.
 
@@ -100,7 +100,7 @@ const SPWZSzkoleniePage = () => {
       </ReactMarkdown>
 
       <p style={{textAlign: 'center', marginTop: 'var(--spacing-10)', marginBottom: 'var(--spacing-10)'}}>
-        <SubscribeSPWZToggleButton togglePopup={togglePopup} />
+        <SubscribeSPWZSzkolenieToggleButton togglePopup={togglePopup} />
       </p>
 
       <hr className="hr-spwz" />
@@ -150,12 +150,12 @@ product ownerzy, CTO, oraz założyciele firm zajmujących się tworzeniem oprog
       </p>
 
       <p style={{textAlign: 'center', marginTop: 'var(--spacing-10)'}}>
-        <SubscribeSPWZToggleButton togglePopup={togglePopup} />
+        <SubscribeSPWZSzkolenieToggleButton togglePopup={togglePopup} />
       </p>
 
       <hr className="hr-spwz" />
 
-      <SubscribeSPWZ showPopup={showPopup} togglePopup={togglePopup} />
+      <SubscribeSPWZSzkolenie showPopup={showPopup} togglePopup={togglePopup} />
     </Layout>
   )
 }

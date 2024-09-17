@@ -2,7 +2,7 @@ import React from 'react'
 import { MailerLiteFormConfig } from './mailerLiteFormConfig'
 import Link from 'next/link'
 
-export const MailerLiteSuccessFunctionScriptSPWZ = `
+export const MailerLiteSuccessFunctionScriptSPWZSzkolenie = `
   function ml_webform_success_${MailerLiteFormConfig.SPWZSzkolenie.WrapperId}() {
     document.getElementsByClassName('row-success')[0].style.display = 'block';
     document.getElementsByClassName('row-form')[0].style.display = 'none';
@@ -90,7 +90,7 @@ const MailerLiteForm = () => {
   )
 }
 
-export const SubscribeSPWZToggleButton = ({ togglePopup }) => (
+export const SubscribeSPWZSzkolenieToggleButton = ({ togglePopup }) => (
   <button
     type="button"
     className="primary-button"
@@ -100,18 +100,8 @@ export const SubscribeSPWZToggleButton = ({ togglePopup }) => (
     Zapisz się
   </button>
 )
-export const SubscribeSPWZScrollButton = ({ scrollToSection: scrollToJoin }) => (
-  <button
-    type="button"
-    className="primary-button"
-    style={{maxWidth: '232px', textTransform: 'uppercase'}}
-    onClick={scrollToJoin}
-  >
-    Dołącz
-  </button>
-)
 
-export const SubscribeSPWZ = ({ showPopup, togglePopup }) => {
+export const SubscribeSPWZSzkolenie = ({ showPopup, togglePopup }) => {
   return (
     <>
       <div
