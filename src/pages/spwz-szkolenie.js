@@ -2,11 +2,22 @@ import React, { forwardRef, useState } from "react"
 import ReactMarkdown from 'react-markdown'
 import ReactCountdown from 'react-countdown'
 import NextImage from 'next/image'
+import { useHasMounted } from '@/lib/hasMounted'
 
 import {Layout} from "@/components/layout"
 import SEO from "@/components/seo"
 import { SubscribeSPWZSzkolenie, SubscribeSPWZSzkolenieToggleButton } from "@/components/mailerLiteSPWZSzkolenie"
 import { Highlight } from "@/components/Highlight"
+
+const Countdown = ({date}) => {
+  const hasMounted = useHasMounted();
+
+  if (!hasMounted) {
+    return null;
+  }
+
+  return <ReactCountdown date={date} />
+}
 
 const SPWZSzkoleniePage = () => {
   const [showPopup, setShowPopup] = useState(false)
@@ -61,7 +72,7 @@ const SPWZSzkoleniePage = () => {
       </CenteredH2>
 
       <p style={{textAlign: 'center', fontSize: '3rem', fontWeight: 'bold'}}>
-        <ReactCountdown date={new Date('2024-10-01T19:00:00+02:00')} />
+        <Countdown date={new Date('2024-10-01T19:00:00+02:00')} />
       </p>
 
       <hr className="hr-spwz" />
