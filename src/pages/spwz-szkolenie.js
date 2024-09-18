@@ -85,7 +85,7 @@ const SPWZSzkoleniePage = () => {
         {`
 👉 Poznasz moją smutną historię o tym, jak myślałem, że zasługuję na awans i ciekawsze zadania, ale nikt poza mną tak nie uważał.
 
-👉 Pokażę Ci, jak uporałem się z tym problemem i jak teraz zwiększam swoją wartość w oczach pracodawcy.
+👉 Pokażę Ci, jak uporałem się z tym problemem i jak teraz zwiększam swoją wartość w oczach pracodawcy, wykorzystując w dużej mierze umiejętności miękkie.
 
 👉 Dowiesz się jak budować wartościowe umiejętności i zdobywać informacje o tym, które z nich są najważniejsze.
 
