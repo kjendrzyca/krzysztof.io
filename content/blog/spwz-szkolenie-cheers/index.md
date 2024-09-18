@@ -8,7 +8,7 @@ shareButtons: false
 
 Wszystko gra, potwierdzam Twój zapis i jesteśmy w kontakcie.
 
-**Link do wydarzenia dostaniesz w kolejnym mailu.**
+**Link do wydarzenia dostaniesz w kolejnym mailu, gdy już będzie dostępny.**
 
 Pamiętaj, żeby [dodać](/dodaj-mnie/) mój adres krzysztof@skutecznyprogramista.pl do kontaktów.
 
