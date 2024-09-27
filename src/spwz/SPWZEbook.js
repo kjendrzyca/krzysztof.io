@@ -1,5 +1,5 @@
 import React from 'react'
-import { BookCover } from './BookCover'
+import { BookCover } from '@/components/BookCover'
 
 export const SPWZEbook = () => {
   return (
