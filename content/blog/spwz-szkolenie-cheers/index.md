@@ -8,7 +8,7 @@ shareButtons: false
 
 Wszystko gra, potwierdzam Twój zapis i jesteśmy w kontakcie.
 
-**Link do wydarzenia dostaniesz w kolejnym mailu, gdy już będzie dostępny.**
+**Link do wydarzenia: https://www.youtube.com/live/Nn1PnpbrVm8**
 
 Pamiętaj, żeby [dodać](/dodaj-mnie/) mój adres krzysztof@skutecznyprogramista.pl do kontaktów.
 
