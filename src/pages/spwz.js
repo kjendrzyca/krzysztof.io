@@ -1,7 +1,7 @@
 
 import { Layout } from "@/components/layout"
 import SEO from "@/components/seo"
-import { LandingMailing } from "@/spwz/LandingMailing"
+// import { LandingMailing } from "@/spwz/LandingMailing"
 import { LandingSprzedaz } from "@/spwz/LandingSprzedaz"
 
 const SPWZPage = () => {
@@ -15,8 +15,8 @@ const SPWZPage = () => {
         ogImagePath="/spwz/spwz-og.png"
       />
 
-      <LandingMailing />
-      {/* <LandingSprzedaz /> */}
+      {/* <LandingMailing /> */}
+      <LandingSprzedaz />
     </Layout>
   )
 }
