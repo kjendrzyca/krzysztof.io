@@ -69,6 +69,7 @@
   --color-heading: rgba(19, 20, 21, 1);
   --color-accent: rgba(209, 220, 229, 1); /* d1dc35 */
   --color-light: #f0f0f0;
+  --color-success: #4CAF50; /* A nice green color */
 
   --bear-url: url('/bear.svg');
 
@@ -542,6 +543,10 @@ span.custom-highlight {
   padding: 0 10px;
 }
 
+span.custom-highlight.nopadding {
+  padding: 0;
+}
+
 /* Media queries */
 
 @media (max-width: 42rem) {
@@ -639,5 +644,54 @@ span.custom-highlight {
   .share-buttons-container {
     margin-left: 0;
     margin-right: 0;
+  }
+}
+
+.testimonial {
+  margin: 2rem 0;
+}
+
+.testimonial-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.testimonial blockquote {
+  /* font-style: italic; */
+  margin-bottom: 1.5rem;
+  color: var(--color-text);
+}
+
+.testimonial-author-info {
+  display: flex;
+}
+
+.testimonial-avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-right: 1rem;
+}
+
+.testimonial-author-details {
+  display: flex;
+  flex-direction: column;
+}
+
+.testimonial-author {
+  font-weight: bold;
+  margin-bottom: 0.25rem;
+  color: #000;
+}
+
+.testimonial-title {
+  color: #666;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 768px) {
+  .testimonial blockquote {
+    font-size: 1rem;
   }
 }

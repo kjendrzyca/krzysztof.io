@@ -1,23 +1,13 @@
 import React, { forwardRef, useState } from "react"
 import ReactMarkdown from 'react-markdown'
-import ReactCountdown from 'react-countdown'
 import NextImage from 'next/image'
-import { useHasMounted } from '@/lib/hasMounted'
+
 
 import {Layout} from "@/components/layout"
 import SEO from "@/components/seo"
 import { SubscribeSPWZSzkolenie, SubscribeSPWZSzkolenieToggleButton } from "@/components/mailerLiteSPWZSzkolenie"
 import { Highlight } from "@/components/Highlight"
-
-const Countdown = ({date}) => {
-  const hasMounted = useHasMounted();
-
-  if (!hasMounted) {
-    return null;
-  }
-
-  return <ReactCountdown date={date} />
-}
+import { Countdown } from "@/components/Countdown"
 
 const SPWZSzkoleniePage = () => {
   const [showPopup, setShowPopup] = useState(false)
