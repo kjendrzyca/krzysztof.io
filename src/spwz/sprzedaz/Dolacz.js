@@ -14,7 +14,7 @@ export const Dolacz = forwardRef((_, ref) => {
       <ReactMarkdown>
         {`**Dostajesz**:
 
-**✅ 231 materiałów wideo, podzielone na 10 tygodni pracy (19 godzin i 10 minut)** - co tydzień otrzymasz kolejną porcję materiału, minimum 2 moduły tygodniowo. Dzięki temu w danym tygodniu wszyscy będą przerabiać te same tematy i zachowamy porządek na spotkaniach live.
+**✅ 231 materiałów wideo, czyli około 10 tygodni pracy (19 godzin i 10 minut)** - dostajesz dostęp do wszystkich materiałów od razu. Zachęcam jednak do przerabiania ich po kolei i wdrażania w praktyce, bo jest tego naprawdę sporo.
 
 **✅ 10 grupowych spotkań live** - co tydzień będziemy mieli okazję porozmawiać na spotkaniu live, przedyskutować materiały z poprzednich tygodni, lepiej się poznać, rozwiązać konkretne problemy w Twoim zespole i odpowiedzieć na pytania.
 
