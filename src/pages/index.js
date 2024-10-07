@@ -25,24 +25,32 @@ const BlogIndex = () => {
       </Head>
 
       <p>
-        Heja! 👋
-      </p>
-      <p>
-        Nazywam się Krzysztof Jendrzyca i zawodowo zajmuję się usprawnianiem architektury oraz spłacaniem długu technicznego w aplikacjach React/Node.js.
+        👋 Heja!
       </p>
 
       <p>
-        Ta <a href="https://joelhooks.com/digital-garden">strona</a> to moje miejsce do myślenia, <a href="https://www.swyx.io/learn-in-public/">uczenia się na głos</a> i skracania pętli feedbackowej.{' '}
-        Jest to baza wypadowa wszystkich moich projektów.
+        Nazywam się Krzysztof Jendrzyca i na codzień pracuję jako fullstack engineer.
       </p>
 
       <p>
-        Obecnie pracuję nad projektem <Link href="/spwz/">&quot;Skuteczna Praca w Zespole&quot;</Link>, który składa się z mailingu i programu szkoleniowego online.
+        Ta <a href="https://joelhooks.com/digital-garden">strona</a> to baza wypadowa moich prywatnych projektów.
       </p>
 
       <p>
-        Znajdziesz też tutaj moje obserwacje i notatki na tematy, które obecnie mnie interesują,{' '}
-        m.in. tworzenie treści i notatek, tworzenie produktów, produktywność, praca w IT, technologie webowe (React, Node).
+        Znajdziesz tutaj <Link href="/dokumentuj-zamiast-tworzyc/">opis moich doświadczeń</Link>, obserwacje oraz notatki dotyczące tematów, które obecnie mnie interesują,{' '}
+        m.in. tworzenie treści, notatek, produktów, produktywność, praca w IT, technologie webowe.
+      </p>
+
+      <p>
+        Obecnie pracuję nad programem szkoleniowym <Link href="/spwz/">&quot;Skuteczna Praca w Zespole&quot;</Link>.
+      </p>
+
+      <p>
+        Żeby pogadać złap mnie na <a href="https://instagram.com/kjendrzyca/">Instagramie</a> lub <a href="https://twitter.com/kjendrzyca/">Twitterze</a>.
+      </p>
+
+      <p>
+        Tutaj znajdziesz listę <Link href="/narzedzia/">narzędzi</Link>, których używam i <Link href="/linki/">linków</Link>, które wrzucam w świat.
       </p>
 
       <blockquote>
@@ -51,17 +59,6 @@ const BlogIndex = () => {
           <a href="https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes">~Sönke Ahrens</a>
         </p>
       </blockquote>
-
-      <p>
-        Jeśli coś, co tu przeczytasz, w jakiś sposób z Tobą zarezonuje, to podziel się tym z innymi i daj mi znać. Chętnie przyjmę konstruktywny feedback.
-      </p>
-      <p>
-        Żeby pogadać złap mnie na <a href="https://instagram.com/kjendrzyca/">Instagramie</a> lub ew. <a href="https://twitter.com/kjendrzyca/">Twitterze</a>.
-      </p>
-
-      <p>
-        Tutaj znajdziesz listę <Link href="/narzedzia/">narzędzi</Link>, których używam i <Link href="/linki/">linków</Link>, które wrzucam w świat.
-      </p>
 
       <h3>Wpisy</h3>
       <ul>

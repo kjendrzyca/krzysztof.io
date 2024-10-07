@@ -1,15 +1,17 @@
 import { ThemeProvider } from 'next-themes'
 import Script from "next/script"
+import { Inter } from 'next/font/google'
 
 import { MailerLiteScriptSrc, MailerLiteSuccessFunctionScriptKIO } from "@/components/mailerLiteKIO"
 import { MailerLiteSuccessFunctionScriptSPWZ } from "@/components/mailerLiteSPWZ"
 import { MailerLiteSuccessFunctionScriptSPWZSzkolenie } from "@/components/mailerLiteSPWZSzkolenie"
 
-import "@/styles/fonts.css"
 import "@/styles/normalize.css"
 import "@/styles/style.css"
 import '@/components/spwzEbook.css'
 import '@/components/bookCover.css'
+
+const inter = Inter({ subsets: ['latin'] })
 
 // Highlighting for code blocks
 // import "prismjs/themes/prism.css"
@@ -17,6 +19,12 @@ import '@/components/bookCover.css'
 export default function App({ Component, pageProps }) {
   return (
     <ThemeProvider enableSystem={false} attribute='class' value={{ dark: 'dark-mode', light: 'light-mode' }} forcedTheme={Component.theme || null}>
+      <style jsx global>{`
+        :root {
+          --fontFamily-sans: ${inter.style.fontFamily};
+        }
+      `}</style>
+
       <Component {...pageProps} />
 
       <Script id="mailerlite-success-function-script">
