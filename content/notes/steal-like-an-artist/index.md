@@ -24,7 +24,7 @@ Książka doskonale sprawdza się w duecie z kolejną pozycją autora, czyli ["S
 
 > “Immature poets imitate; mature poets steal; bad poets deface what they take, and good poets make it into something better, or at least something different. The good poet welds his theft into a whole of feeling which is unique, utterly different from that from which it was torn.” —T. S. Eliot
 
-## Kardnij jak artysta
+## Kradnij jak artysta
 
 Artysta patrzy na świat przez pryzmat tego, co warto podkraść innym i jak wykorzystać to u siebie, a nie przez pryzmat tego, co "dobre" lub "niedobre".
 

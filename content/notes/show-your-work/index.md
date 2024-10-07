@@ -50,7 +50,7 @@ Jest to najlepszy sposób, żeby zacząć dzielić się tym, co robisz.
 
 ## Zawsze masz coś do powiedzenia
 
-[Nic nie jest oryginalne, wszystko jest remixem](/steal-like-an-artist/#Kardnij-jak-artysta).
+[Nic nie jest oryginalne, wszystko jest remixem](/steal-like-an-artist/#Kradnij-jak-artysta).
 
 Niezależnie od tego, czy się dopiero uczymy, czy jesteśmy mistrzami w swoim fachu, zawsze możemy wnieść coś wartościowego do rozmowy.
 
@@ -200,7 +200,7 @@ Skup się na robieniu dobrej roboty, a nie na robieniu pieniędzy z bloga. Konie
 
 Czytanie zasila pisanie, które zachęca do dalszego czytania.
 
-Pamiętaj jednak, że [jesteś tak dobry, jak rzeczy, którymi się otaczasz, dlatego zbieraj tylko te rzeczy, które z Tobą rezonują](/steal-like-an-artist/#Kardnij-jak-artysta).
+Pamiętaj jednak, że [jesteś tak dobry, jak rzeczy, którymi się otaczasz, dlatego zbieraj tylko te rzeczy, które z Tobą rezonują](/steal-like-an-artist/#Kradnij-jak-artysta).
 
 ## Nie zwracaj uwagi na to, co inni myślą o rzeczach, które lubisz
 
