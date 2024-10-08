@@ -4,15 +4,11 @@ import { SPWZEbook } from "./SPWZEbook"
 import { forwardRef } from "react"
 
 const coKiedyMd = `
-Obecnie skończyłem pierwszą edycję programu i przygotowuję się do drugiej.
+Materiały z programu udostępniam obecnie w formie cotygodniowego mailingu, który czyta już **ponad 1000 osób**. Ich opinie możesz zobaczyć trochę niżej.
 
-Dużą ilość materiałów udostępniam teraz w formie cotygodniowego mailingu, na który możesz się tutaj zapisać.
+Możesz się do niego zapisać podając swój email, a ja przy okazji dopiszę Cię do listy oczekujących na pełny program.
 
-Dotychczas dołączyło do niego już **ponad 1000 osób**, których opinie możesz zobaczyć poniżej.
-
-Przy okazji dopiszę Cię do listy oczekujących na kolejne otwarcie programu.
-
-Otrzymasz **najlepszą ofertę dołączenia do jego pełnej wersji**, gdy znowu będzie dostępny.
+Dostaniejsz najlepszą ofertę dołączenia, gdy znowu będzie dostępny.
 `
 
 export const CoKiedy = forwardRef((_, ref) => {
