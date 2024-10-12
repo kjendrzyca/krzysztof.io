@@ -371,7 +371,7 @@ Na co zwracać uwagę:
 
 ## Mise en place
 
-W wielkim skrócie "mise en place" to podejście znane z kurcharstwa, które mówi o tym, żeby przygotować sobie rutyny i systemy, dzięki którym zminimalizujemy ilość podejmowanych decyzji, a zaoszczędzoną energię wykorzystamy na kreatywne aspekty naszej pracy.
+W wielkim skrócie "mise en place" to podejście znane z pracy w restauracjach, które mówi o tym, żeby przygotować sobie rutyny i systemy, dzięki którym zminimalizujemy ilość podejmowanych decyzji, a zaoszczędzoną energię wykorzystamy na kreatywne aspekty naszej pracy.
 
 Pracując nad produktami, możemy przygotować się zawczasu, zorganizować miejsce pracy i zebrać potrzebne materiały, które potem przekształcimy w outline i będziemy przesuwać jedna po drugiej z sekcji "todo" do sekcji "in progress".
 
@@ -509,8 +509,6 @@ Podczas tworzenia produktu, najgroszy możliwy scenariusz będzie najprawodpodob
 - Klient się z nami nie zgodzi.
 - Będziemy musieli słuchać, a potem przeprosić.
 - Będziemy musieli zwrócić kasę.
-
-> Scary stuff.
 
 ## Lepiej mniej teraz niż (potencjalnie) więcej potem 🔥
 
