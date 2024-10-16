@@ -91,7 +91,7 @@ Powrót do pracy na etacie w takim trybie traktuję jako eksperyment, który na 
 
 Najwiekszym plusem jest to, że doświadczeni ludzie wiedzą, co robią. Nie muszę zajmować się wszystkim, bo każdy potrafi wziąć odpowiedzialność za jakąś część tego, co robimy i dowieźć ją od początku do końca.
 
-Praca z osobami, którym możesz zaufać, że zrobią dobrą robotę to krok w stronę takiej pracy, jaką opisywałem w notatkach ze [Steal Like an Artist](/steal-like-an-artist/#Badz-nudny):
+Praca z osobami, którym możesz zaufać, że zrobią dobrą robotę to krok w stronę takiej pracy, jaką opisywałem w notatkach ze [Steal Like an Artist](/steal-like-an-artist/#bądź-nudny):
 
 > Znajdź pracę na etacie, która będzie wspierać Twoje projekty.
 >
