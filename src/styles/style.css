@@ -64,7 +64,7 @@
   --color-text: rgba(0,0,0, .9);
   --color-text-light: rgba(0,0,0, .6);
   --color-heading: rgba(19, 20, 21, 1);
-  --color-accent: rgba(209, 220, 229, 1); /* d1dc35 */
+  --color-accent: #7d8489; /* d1dc35 */
   --color-light: #f0f0f0;
   --color-success: #4CAF50; /* A nice green color */
 
@@ -95,10 +95,11 @@
 
 html.dark-mode {
   --color-background: #121212;
-  --color-primary: rgba(255, 41, 102, 1);
+  --color-primary: #ff2966;
   /* --color-primary-darker: stays the same */
-  --color-text: rgba(255, 255, 255, 0.89);
-  --color-text-light: rgba(255, 255, 255, .65);
+  /* --color-text: rgba(255, 255, 255, 0.89); */
+  --color-text: #e3e3e3;
+  --color-text-light: #a5a5a5;
   --color-heading: white;
   --color-accent: rgba(209, 220, 229, 0.6);
   --color-light: #1d1c1c;

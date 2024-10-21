@@ -194,7 +194,7 @@ Postanowiłem też, że najlepszą opcją, żeby z kimś pogadać, będzie się 
 
 > “On a social level, video games are decidedly low bandwidth compared to the experience of playing a game on a square of flat cardboard with another human being.”
 
-💡 Więcej informacji na ten temat znajdziesz w [moich notatkach](/digital-minimalism/#Social-Animal).
+💡 Więcej informacji na ten temat znajdziesz w [moich notatkach](/digital-minimalism/#social-animal).
 
 Śmiesznie się to pewnie czyta, bo dla wielu osób są to oczywistości, jednak ja nie zdawałem sobie sprawy, jak bardzo potrzebuję komunikacji z innymi i jak dobrze wpłynie to na moje samopoczucie.
 
