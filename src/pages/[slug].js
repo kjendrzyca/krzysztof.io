@@ -133,8 +133,6 @@ const getBannerImageProps = async (bannerPath, bannerAlt) => {
     return null
   }
 
-  console.log('bannerPath', bannerPath)
-
   const buffer = await fs.readFile(path.join('./public', bannerPath));
   const {
     metadata,
@@ -143,10 +141,6 @@ const getBannerImageProps = async (bannerPath, bannerAlt) => {
   } = await getPlaiceholder(buffer, { size: 10 })
   const {
     format,
-   } = metadata
-
-   const {
-
    } = metadata
 
   return {
