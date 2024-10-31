@@ -40,7 +40,7 @@ System ciągle ewoluuje, ale obecnie są to już minimalne usprawnienia, bo cał
 
 Największą zmianą, jaką wprowadziłem w 2021, był powrót do książek fizycznych (głównie dlatego, że mam [fajny sposób zaznaczania](https://www.instagram.com/stories/highlights/17888895380245826/) interesujących fragmentów) i spisywanie z nich notatek od razu własnymi słowami.
 
-Wcześniej używałem głównie Kindla i stosowałem [stopniowe podsumowywanie](https://www.instagram.com/stories/highlights/17912473435844361/), ale w przypadku książek taki proces zajmuje zbyt dużo czasu (do artykułów jest ok).
+Wcześniej używałem głównie Kindla i stosowałem [stopniowe podsumowanie](https://www.instagram.com/stories/highlights/17912473435844361/), ale w przypadku książek taki proces zajmuje zbyt dużo czasu (do artykułów jest ok).
 
 ## SP 2.0
 

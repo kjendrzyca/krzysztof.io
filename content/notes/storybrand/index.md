@@ -203,7 +203,7 @@ Przejmuj się sukcesem swoich klientów, a nie swoim.
 
 Bohater nigdy nie wie, czy mu się uda. Wątpi w siebie. Przewodnik już był w tym miejscu, pokonał przeciwności i teraz ma autorytet, żeby przekazać informacje dalej - "been there, done that".
 
-** Dwie rzeczy charakteryzujące dobrego przewodnika:**
+**Dwie rzeczy charakteryzujące dobrego przewodnika:**
 
 - Empatia
 - Autorytet

@@ -115,7 +115,7 @@ I w taki sposób znalazłem się w tym miejscu, w którym jestem teraz (czerwiec
 
 Nie dość, że nie wiem, co chcę robić w IT, to zacząłem zastanawiać się, czy są w ogóle jakieś projekty, które będą dla mnie interesujące i które nie będą wiązały się z zakamuflowanymi problemami z ludźmi.
 
-Przez ostatnie lata stało się dla mnie jasne to, że **wiele (jak nie większość) problemów technicznych jest spowodowane ludzką chęcią zaspokojenia swojego ego i potrzeby rozwoju**. Wiele osób nawet się z tym nie kryje.
+Przez ostatnie lata stało się dla mnie jasne to, że **wiele (jak nie większość) problemów technicznych jest spowodowane chęcią zaspokojenia swojego ego i potrzeby rozwoju**. Wiele osób nawet się z tym nie kryje.
 
 Rozwiązania takie jak *mikroserwisy/GraphQL/architektura oparta o eventy/[lub też inny dowolny hype z bańki, w której się teraz znajdujesz]*, które nie mają zbytnio uzasadnienia biznesowego, ale są źródłem problemów, to nie są problemy techniczne, tylko zakamuflowane problemy z ludźmi.
 

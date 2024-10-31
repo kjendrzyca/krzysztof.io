@@ -165,5 +165,3 @@ published: true
 - Purposefully unblock yourself by purposefully switching tasks.
 - If you use the Second Brain as a way to "save the game", you can, should and must multitask.
 - **The most important thing is to keep the flow, stay in the flow.**
-
-🖖

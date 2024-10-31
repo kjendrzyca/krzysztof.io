@@ -8,7 +8,7 @@ banner: './banner.jpg'
 
 Jakiś czas temu miałem okazję przemyśleć kilka najważniejszych lekcji, jakie wyniosłem upgradując przez ostatnie kilka lat swoją rolę w IT - z juniora na doradcę technicznego.
 
-Znajomy z [Brainhuba](https://brainhub.eu/), w którym pracowałem, przesłał mi listę fajnych pytań, które wyciągnęły ze mnie przemyślenia, o których zawsze chciałem napisać.
+Znajomy z [Brainhuba](https://brainhub.eu/), gdzie pracowałem, przesłał mi listę fajnych pytań, które wyciągnęły ze mnie przemyślenia, o których zawsze chciałem napisać.
 
 Możesz przeczytać [ładniejszą wersję tych przemyśleń w języku angielskim](https://brainhubeu.medium.com/testing-my-limits-my-road-from-developer-to-consultant-be77207a43fb), która jest jednak opatrzona wieloma zdjęciami mojej facjaty.
 
@@ -119,7 +119,7 @@ Staram się zawsze zachęcać nowe osoby, żeby się odzywały, gdy widzą, że 
 
 Jednocześnie, nie angażując się w projekt, sami tracimy możliwość szybkiego rozwoju i wykazania się. Sam początkowo hamowałem swój rozwój, bo zbyt bezpiecznie podchodziłem do nowego projektu. Przez długi czas robiłem praktycznie ciągle to samo, brałem najprostsze zadania na tym samym poziomie skomplikowania i bałem się wskoczyć na głęboką wodę. Wmawiałem sobie, że robię rozeznanie i wdrażam się w projekt.
 
-Problem jest taki, że nie można takiego podejścia nazwać rozwojem. **Rozwijamy się wtedy, gdy robimy [zadania na granicy swoich możliwości](https://skutecznyprogramista.pl/trudne-zadania/) i przeplatamy je łatwiejszymi zadaniami, żeby trochę odsapnąć**. Biorąc na siebie najprostsze zadania, nie ma szans, żeby się wykazać.
+Problem jest taki, że nie można takiego podejścia nazwać rozwojem. **Rozwijamy się wtedy, gdy robimy zadania na granicy swoich możliwości i przeplatamy je łatwiejszymi zadaniami, żeby trochę odsapnąć**. Biorąc na siebie najprostsze zadania, nie ma szans, żeby się wykazać.
 
 Z dużą pewnością siebie jest podobnie - traci zespół oraz my sami.
 
