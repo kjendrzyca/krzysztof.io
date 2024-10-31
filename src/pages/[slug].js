@@ -8,7 +8,9 @@ import remarkGfm from 'remark-gfm'
 import rehypeSlug from 'rehype-slug'
 import React from 'react'
 import SEO from '@/components/seo'
-import { getPlaiceholder } from "plaiceholder";
+import { getPlaiceholder } from 'plaiceholder'
+import fs from 'fs/promises'
+import path from 'path'
 
 const MarkdownImage = ({ src, alt }) => {
   return (
@@ -87,9 +89,9 @@ const Post = ({ content, frontmatter, slug, contentPath, bannerPath, bannerImage
 
                 return <MarkdownImage {...props} src={newSrc} />
               },
-              h2: ({ children, ...props }) => <LinkedHeader id={props.id} text={children[0]} comp={(propsy) => <h2 {...propsy} />} />,
-              h3: ({ children, ...props }) => <LinkedHeader id={props.id} text={children[0]} comp={(propsy) => <h3 {...propsy} />} />,
-              h4: ({ children, ...props }) => <LinkedHeader id={props.id} text={children[0]} comp={(propsy) => <h4 {...propsy} />} />,
+              h2: ({ children, ...props }) => <LinkedHeader id={props.id} text={children} comp={(propsy) => <h2 {...propsy} />} />,
+              h3: ({ children, ...props }) => <LinkedHeader id={props.id} text={children} comp={(propsy) => <h3 {...propsy} />} />,
+              h4: ({ children, ...props }) => <LinkedHeader id={props.id} text={children} comp={(propsy) => <h4 {...propsy} />} />,
             }}
             remarkPlugins={[remarkGfm]}
             rehypePlugins={[
@@ -131,12 +133,25 @@ const getBannerImageProps = async (bannerPath, bannerAlt) => {
     return null
   }
 
-  const { css, img, base64 } = await getPlaiceholder(bannerPath)
-  // eslint-disable-next-line no-unused-vars
-  const { width, height, ...imgProps } = img
+  console.log('bannerPath', bannerPath)
+
+  const buffer = await fs.readFile(path.join('./public', bannerPath));
+  const {
+    metadata,
+    css,
+    base64,
+  } = await getPlaiceholder(buffer, { size: 10 })
+  const {
+    format,
+   } = metadata
+
+   const {
+
+   } = metadata
 
   return {
-    ...imgProps,
+    type: format,
+    src: bannerPath,
     alt: bannerAlt || 'Banner image',
     blurDataURL: base64,
     style: {
