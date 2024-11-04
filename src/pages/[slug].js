@@ -118,7 +118,7 @@ const Post = ({ content, frontmatter, slug, contentPath, bannerPath, bannerImage
         </footer>
       </article>
       {shareButtons === false ? null : (<ShareButtons
-         url={`${siteUrl}/${slug}`}
+         url={`${siteUrl}/${slug}/`}
          title={pageTitle}
          socialHandle={social}
       />)}
