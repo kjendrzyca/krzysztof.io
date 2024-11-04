@@ -17,7 +17,7 @@ const ShareButtons = ({url, title, socialHandle, text}) => {
             title={title}
             via={socialHandle}
           >
-            Twitter
+            X
           </TwitterShareButton>
 
           {', '}
