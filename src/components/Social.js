@@ -7,8 +7,8 @@ export const Twitter = ({
   social = socialHandle,
 }) => (
   <a
-    href={`https://twitter.com/${social}`}
-    aria-label="Mój Twitter"
+    href={`https://x.com/${social}`}
+    aria-label="Mój X"
   >
     <svg
       xmlns="http://www.w3.org/2000/svg"

@@ -33,12 +33,12 @@ const BlogIndex = () => {
       </p>
 
       <p>
-        Ta <a href="https://joelhooks.com/digital-garden">strona</a> to baza wypadowa moich prywatnych projektów.
+        Ta <a href="https://joelhooks.com/digital-garden">strona</a> to baza wypadowa moich projektów.
       </p>
 
       <p>
-        Znajdziesz tutaj <Link href="/dokumentuj-zamiast-tworzyc/">opis moich doświadczeń</Link>, obserwacje oraz notatki dotyczące tematów, które obecnie mnie interesują,{' '}
-        m.in. tworzenie treści, notatek, produktów, produktywność, praca w IT, technologie webowe.
+        Znajdziesz tutaj <Link href="/dokumentuj-zamiast-tworzyc/">opis moich doświadczeń</Link>, obserwacje oraz notatki dotyczące tematów, które mnie obecnie interesują:{' '}
+        tworzenie treści, notatek, produktów, produktywność, programowanie i praca w IT, technologie webowe.
       </p>
 
       <p>
@@ -46,7 +46,7 @@ const BlogIndex = () => {
       </p>
 
       <p>
-        Żeby pogadać złap mnie na <a href="https://instagram.com/kjendrzyca/">Instagramie</a> lub <a href="https://twitter.com/kjendrzyca/">Twitterze</a>.
+        Żeby pogadać złap mnie na <a href="https://instagram.com/kjendrzyca/">Instagramie</a> lub <a href="https://x.com/kjendrzyca/">X</a>.
       </p>
 
       <p>

@@ -5,7 +5,7 @@ export const config = {
       name: `Krzysztof Jendrzyca`,
       summary: ``,
     },
-    description: `Artykuły na temat tworzenia treści i notatek, tworzenia produktów, produktywności, pracy w IT, technologii webowych (React, Node) oraz tego jak być sobą i robić to dobrze.`,
+    description: `Baza wypadowa moich projektów. Znajdziesz tutaj opis moich doświadczeń, obserwacje oraz notatki dotyczące tematów, które mnie obecnie interesują: tworzenie treści, notatek, produktów, produktywność, programowanie i praca w IT, technologie webowe (React, Node).`,
     siteUrl: `https://krzysztof.io`,
     social: {
       social: `kjendrzyca`,
