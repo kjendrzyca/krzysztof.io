@@ -44,6 +44,7 @@ const LinkedHeader = ({ id, text, comp: Comp}) => {
 const Post = ({ content, frontmatter, slug, contentPath, bannerPath, bannerImageProps}) => {
   const {title, date, shareButtons, description, isLanding} = frontmatter
   const pageTitle = title || siteUrl
+  const adjustedTitle = contentPath === 'notes' ? `${title}: podsumowanie, notatki i przemyślenia` : title
 
   const siteUrl = config.siteMetadata.siteUrl
   const social = config.siteMetadata.social.social
@@ -51,7 +52,7 @@ const Post = ({ content, frontmatter, slug, contentPath, bannerPath, bannerImage
   return (
     <Layout isLandingPage={isLanding || false}>
       <SEO
-        title={title}
+        title={adjustedTitle}
         description={description}
         slug={slug}
         ogType="article"
