@@ -42,14 +42,14 @@ Można go zastosować do budowania małych firm, działalności jednoosobowej, a
   - Zwiększ efektywność pracowników, zamiast zatrudniać nowych.
   - Mniej wydawaj.
   - Pracuj wydajnie nad projektem, zamiast poświęcać więcej godzin.
-- Nie wymieniaj czasu za pieniądze, korzystaj z systemów, automatyzacji, oraz twórz powtarzalne procesy.
+- Nie wymieniaj czasu na pieniądze, korzystaj z systemów, automatyzacji, oraz twórz powtarzalne procesy.
   - Przykład: produkty, soft, kursy online, delegowanie pracy.
   - Zabiera to czas, ale w takim modelu możesz mieć teoretycznie nieskończoną liczbę klientów, a zysk oderwany jest od poświęconego czasu (przynajmniej częściowo).
   - Freelancing to pierwszy krok do zbudowania Company of One, ale freelancerzy nadal wymieniają czas za pieniądze.
 - Kwestionuj wzrost, rozwązuj problemy przy użyciu tych zasobów, które masz już dostępne.
   - "Więcej" to najłatwiejszy sposób rozwiązywania problemów, ale nie najmądrzejszy.
   - Wzrost zawsze niesie ze sobą koszty: większy narzut pracy, złożoność, odpowiedzialność, wydatki, wypłaty dla pracowników itd.
-  - Limit założony na wzrost powoduje, że mamy szansę dojść do mądrzejszych i bardziej kreatywnych rozwiązań.
+  - Limit nałożony na wzrost powoduje, że mamy szansę dojść do mądrzejszych i bardziej kreatywnych rozwiązań.
   - Tylko w ostateczności zezwalaj na wzrost.
 - Buduj działaność wokół swojego życia, a nie w drugą stronę.
 - Maksymalizuj swoją pracę w taki sposób, który działa dla Ciebie, zamiast skupiać się na nieskończonym wzroście.
