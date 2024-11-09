@@ -166,7 +166,7 @@ Mam nadzieję, że ten wpis uczuli część osób na podobne problemy.
 
 👉 Jeśli wiesz, co jest przyczyną tego problemu, to daj mi znać. Chciałbym wiedzieć na 100%.
 
-Wielkie dzięki dla Mark, który mocniej popchnął mnie w stronę szukania problemów z cachem.
+Wielkie dzięki dla Marka, który mocniej popchnął mnie w stronę szukania problemów z cachem.
 
 --
 
