@@ -63,6 +63,18 @@ const BlogIndex = () => {
       <h3>Wpisy</h3>
       <ul>
         <IndexLink
+          title={`Pułapki cachowania w next-auth i Netlify`}
+          slug="cache"
+        />
+        <IndexLink
+          title={`Taktyczna empatia`}
+          slug="empatia"
+        />
+        <IndexLink
+          title={`Problem Dreamlinera`}
+          slug="problem-dreamlinera"
+        />
+        <IndexLink
           title={`"Skuteczna Praca w Zespole" - dziennik prac`}
           slug="sp-dziennik"
         />
@@ -181,18 +193,6 @@ const BlogIndex = () => {
         <IndexLink
           title="How to Win Friends and Influence People"
           slug="how-to-win-friends-and-influence-people"
-        />
-      </ul>
-
-      <h3>IT</h3>
-      <ul>
-        <IndexLink
-          title={`Taktyczna empatia`}
-          slug="empatia"
-        />
-        <IndexLink
-          title={`Problem Dreamlinera`}
-          slug="problem-dreamlinera"
         />
       </ul>
     </Layout>
