@@ -38,7 +38,7 @@ export default function App({ Component, pageProps }) {
       </Script>
       <Script src={MailerLiteScriptSrc} />
 
-      <Script async src="https://kio-analytics.netlify.app/script.js" data-website-id="2f1f0f53-a9f2-4b14-96eb-40b0aae3a8ff" />
+      <Script async src="https://analytics.krzysztof.io/script.js" data-website-id="2f1f0f53-a9f2-4b14-96eb-40b0aae3a8ff" />
     </ThemeProvider>
   )
 }
