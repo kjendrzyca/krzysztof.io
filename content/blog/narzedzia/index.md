@@ -30,6 +30,7 @@ description: 'Zestaw narzędzi, który wypracowałem sobie w ciągu wielu lat te
 - https://obsproject.com/
 - https://github.com/exelban/stats (monitorowanie RAM)
 - https://karabiner-elements.pqrs.org/
+- [NordVPN](https://refer-nordvpn.com/QKcGPyclsxy)
 
 ## Dev:
 
