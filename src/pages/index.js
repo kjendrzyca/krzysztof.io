@@ -42,7 +42,8 @@ const BlogIndex = () => {
       </p>
 
       <p>
-        Obecnie pracuję nad programem szkoleniowym <Link href="/spwz/">&quot;Skuteczna Praca w Zespole&quot;</Link>.
+        Mój ostatni projekt to program szkoleniowy <Link href="/spwz/">&quot;Skuteczna Praca w Zespole&quot;</Link>, a{' '}
+        <Link href="/teraz/">tutaj</Link> możesz przeczytać, czym się teraz zajmuję.
       </p>
 
       <p>

@@ -341,6 +341,16 @@ a {
   text-decoration: none;
 }
 
+/* a:after {
+  content: ']]';
+  color: rgba(107, 114, 128, 0.5);
+}
+
+a:before {
+  content: '[[';
+  color: rgba(107, 114, 128, 0.5);
+} */
+
 a:hover,
 a:focus {
   text-decoration: none;
