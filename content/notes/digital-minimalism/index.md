@@ -262,7 +262,8 @@ Eliminując czas spędzany w samotności, niszczymy swoje zdrowie psychiczne, po
 - Przetwarzania i zrozumienia swoich emocji.
 - Zastanowienia się nad tym, kim są i co w życiu tak naprawdę ma znaczenie.
 - Budowania silnych relacji z innymi.
-- Przemęczania społecznych części naszego mózgu, które nie zostały zaprojektowane do tego, żeby korzystać z nich cały czas.
+
+Przemęczamy też społeczne części naszego mózgu, które nie zostały zaprojektowane do tego, żeby korzystać z nich cały czas.
 
 ### Odosobnienia pozbawiamy się sami, a technologia bardzo nam w tym pomaga
 
