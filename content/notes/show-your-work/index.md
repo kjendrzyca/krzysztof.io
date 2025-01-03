@@ -1,6 +1,7 @@
 ---
 title: 'Show Your Work - Austin Kleon'
-date: '2022-02-02'
+createdAt: '2022-02-02'
+updatedAt: '2022-02-02'
 published: true
 description: '"Show Your Work" pokazuje jak dzielić się tym, co stworzyliśmy i promować swoją pracę w autentyczny, nienachalny sposób.'
 banner: './banner.jpg'

@@ -1,6 +1,7 @@
 ---
 title: 'Prywatny blog'
-date: '2024-01-29'
+createdAt: '2021-07-15'
+updatedAt: '2024-01-29'
 published: true
 description: 'Moje zasady tworzenia prywatnego bloga (lub inaczej "bloga osobistego"), gdzie skupiam się na podążaniu za własnymi zainteresowaniami.'
 banner: './banner.jpg'

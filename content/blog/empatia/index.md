@@ -1,6 +1,7 @@
 ---
 title: 'Taktyczna empatia'
-date: '2024-05-27'
+createdAt: '2024-05-27'
+updatedAt: '2024-05-27'
 published: true
 description: 'Proste podejście, które pomaga mi wyjść z sytuacji "pod presją".'
 banner: ''

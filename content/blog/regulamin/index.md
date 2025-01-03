@@ -1,6 +1,7 @@
 ---
 title: 'Regulamin korzystania z serwisu edu.krzysztof.io'
-date: '2024-07-15'
+createdAt: '2022-05-31'
+updatedAt: '2024-07-15'
 published: true
 description: 'Regulamin korzystania z serwisu edu.krzysztof.io.'
 shareButtons: false

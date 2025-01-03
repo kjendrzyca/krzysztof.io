@@ -1,6 +1,7 @@
 ---
 title: 'Problem Dreamlinera'
-date: '2023-01-01'
+createdAt: '2023-01-01'
+updatedAt: '2023-02-19'
 published: true
 description: 'Co łączy Dreamlinera oraz Cyberpunka i czego się nauczyłem o wprowadzaniu zbyt wielu zmian naraz.'
 banner: './banner.jpg'

@@ -1,6 +1,7 @@
 ---
 title: 'How to Win Friends and Influence People - Dale Carnegie'
-date: '2020-11-26'
+createdAt: '2020-11-26'
+updatedAt: '2021-05-13'
 description: ''
 published: true
 ---

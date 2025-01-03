@@ -1,6 +1,7 @@
 ---
 title: 'Linki'
-date: '2021-11-11'
+createdAt: '2021-11-11'
+updatedAt: '2021-11-11'
 published: true
 description: 'Zbiór linków, którymi dzielę się w Internecie.'
 ---

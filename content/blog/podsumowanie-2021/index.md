@@ -1,6 +1,7 @@
 ---
 title: 'Podsumowanie 2021'
-date: '2022-01-19'
+createdAt: '2022-01-19'
+updatedAt: '2022-01-19'
 published: true
 description: 'Podsumowanie 2021 i plany na 2022.'
 banner: './banner.jpg'

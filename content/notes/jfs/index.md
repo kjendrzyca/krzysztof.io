@@ -1,6 +1,7 @@
 ---
 title: 'Just Fucking Ship - Amy Hoy'
-date: '2021-12-14'
+createdAt: '2021-12-14'
+updatedAt: '2021-12-23'
 published: true
 description: 'JFS to książka najbardziej przydatna dla osób, które mają problem z wypuszczeniem swojego pierwszego produktu (🙋‍♂️) lub w ogóle nie wiedzą jak się za to zabrać i myślą, że wymaga to jakiś skomplikowanych planów czy działań.'
 banner: './banner.jpg'

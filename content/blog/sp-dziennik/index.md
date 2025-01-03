@@ -1,6 +1,7 @@
 ---
 title: 'Dziennik prac nad programem "Skuteczna Praca w Zespole"'
-date: '2022-06-07'
+createdAt: '2022-06-01'
+updatedAt: '2022-06-07'
 published: true
 ---
 

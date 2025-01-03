@@ -1,6 +1,7 @@
 ---
 title: 'Nieformalna nauka rzemiosła'
-date: '2021-10-14'
+createdAt: '2021-10-13'
+updatedAt: '2021-10-14'
 published: true
 description: 'W średniowieczu nauka rzemiosła była formalnym i skutecznym procesem - uczeń terminował u mistrza, żeby zostać czeladnikiem. Dzisiaj ten proces wygląda inaczej, ale można go zasymulować i osiągnąć podobne wyniki.'
 banner: './banner.jpg'

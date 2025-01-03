@@ -1,6 +1,7 @@
 ---
 title: 'Praca bottom-up, czyli dlaczego pozbyłem się wielkiej listy niedowiezionych pomysłów i zacząłem robić notatki'
-date: '2021-09-06'
+createdAt: '2021-08-27'
+updatedAt: '2021-09-06'
 published: true
 description: 'Zamiast spisywać kolejne pomysły, zacząłem spisywać, co wiem na dany temat, a pomysły pojawiają się organicznie.'
 banner: './banner.jpg'

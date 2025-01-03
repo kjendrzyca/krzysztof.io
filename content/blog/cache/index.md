@@ -1,6 +1,7 @@
 ---
 title: 'Pułapki cachowania w next-auth i Netlify'
-date: '2024-11-09'
+createdAt: '2024-11-09'
+updatedAt: '2024-11-09'
 published: true
 description: 'Notatki i przemyślenia na temat problemów z cachem w next-auth, Next.js i Netlify po tym, jak użytkownicy zaczęli widzieć dane innych osób.'
 ---

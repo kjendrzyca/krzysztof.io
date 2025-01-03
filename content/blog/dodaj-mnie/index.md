@@ -1,6 +1,7 @@
 ---
 title: 'Dodaj mnie do kontaktów'
-date: '2024-06-09'
+createdAt: '2024-06-09'
+updatedAt: '2024-06-09'
 description: "Co zrobić, żeby zawsze widzieć moje maile."
 published: true
 ---

@@ -1,6 +1,7 @@
 ---
 title: 'The Cook and the Chef: Musk’s Secret Sauce - Tim Urban'
-date: '2020-11-26'
+createdAt: '2020-11-26'
+updatedAt: '2020-11-26'
 description: ''
 published: false
 banner: './software-full.jpg'

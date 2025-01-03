@@ -1,6 +1,7 @@
 ---
 title: 'Skup się na procesie, a nie na wynikach'
-date: '2021-09-06'
+createdAt: '2021-05-27'
+updatedAt: '2021-09-06'
 published: true
 description: 'Dlaczego powinienem skupiać się na dobrym wykonywaniu tego, co robię, zamiast na wynikach swojej pracy. (Przynajmniej na początku).'
 ---

@@ -1,6 +1,7 @@
 ---
 title: 'Steal Like an Artist - Austin Kleon'
-date: '2021-09-28'
+createdAt: '2021-09-27'
+updatedAt: '2021-09-28'
 published: true
 description: 'Artysta patrzy na świat przez pryzmat tego, co warto ukraść. "Steal Like an Artist" pokazuje, jak zacząć zbierać pomysły i tworzyć.'
 banner: './banner.jpg'

@@ -1,6 +1,7 @@
 ---
 title: 'Agenda programu "Skuteczna Praca w Zespole"'
-date: '2022-06-02'
+createdAt: '2022-06-02'
+updatedAt: '2022-06-02'
 published: true
 description: 'Agenda programu "Skuteczna Praca w Zespole"'
 shareButtons: false

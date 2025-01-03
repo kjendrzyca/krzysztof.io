@@ -1,6 +1,7 @@
 ---
 title: 'Po co to wszystko?'
-date: '2021-07-06'
+createdAt: '2021-06-13'
+updatedAt: '2021-07-06'
 published: true
 description: 'Podsumowanie kilku ostatnich miesięcy zastanawiania się nad tym, w którą stronę powinienem popchnąć swoją pracę i rozwój.'
 banner: './no-idea.jpg'

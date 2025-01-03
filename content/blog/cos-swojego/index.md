@@ -1,6 +1,7 @@
 ---
 title: 'Zamień to w coś swojego'
-date: '2021-06-06'
+createdAt: '2021-06-03'
+updatedAt: '2021-07-10'
 published: true
 description: 'Mój sposób opisywania przemyśleń innych osób.'
 ---

@@ -1,6 +1,7 @@
 ---
 title: 'Narzędzia, których używam'
-date: '2024-08-04'
+createdAt: '2021-05-29'
+updatedAt: '2024-11-21'
 published: true
 description: 'Zestaw narzędzi, który wypracowałem sobie w ciągu wielu lat testów.'
 ---

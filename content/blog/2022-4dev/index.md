@@ -1,6 +1,7 @@
 ---
 title: '4Developers Katowice 2022'
-date: '2021-11-11'
+createdAt: '2022-11-11'
+updatedAt: '2022-11-11'
 published: true
 description: 'Zbiór linków z prezentacji na 4Developers Katowice 2022'
 ---

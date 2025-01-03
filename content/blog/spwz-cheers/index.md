@@ -1,6 +1,7 @@
 ---
 title: 'Cheers'
-date: '2024-06-09'
+createdAt: '2024-06-09'
+updatedAt: '2024-06-09'
 published: true
 isLanding: true
 shareButtons: false

@@ -1,6 +1,7 @@
 ---
 title: 'The Building a Second Brain Podcast - Tiago Forte'
-date: '2021-02-01'
+createdAt: '2021-02-01'
+updatedAt: '2021-06-11'
 published: true
 ---
 

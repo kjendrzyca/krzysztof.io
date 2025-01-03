@@ -1,6 +1,7 @@
 ---
 title: 'Live: Płatne newslettery w Polsce - Mirek Burnejko'
-date: '2021-05-19'
+createdAt: '2021-05-18'
+updatedAt: '2021-05-19'
 published: true
 ---
 

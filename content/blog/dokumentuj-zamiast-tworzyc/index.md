@@ -1,6 +1,7 @@
 ---
 title: 'Dokumentuj zamiast tworzyć'
-date: '2022-01-17'
+createdAt: '2021-05-19'
+updatedAt: '2022-01-17'
 published: true
 description: 'Taktyka i mindset, które pomagają szybko wystartować i tworzyć autentyczne treści w Internecie bez nadmiernego wysiłku.'
 ---

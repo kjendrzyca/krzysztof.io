@@ -1,6 +1,7 @@
 ---
 title: 'Jak zbudowałem swój Second Brain'
-date: '2021-02-01'
+createdAt: '2020-12-10'
+updatedAt: '2021-02-01'
 published: true
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: 'Jak czerpię korzyści z Zeigarnik Effect'
-date: '2021-09-06'
+createdAt: '2021-07-21'
+updatedAt: '2021-09-06'
 published: true
 description: 'Sposoby na wykorzystanie Zeigarnik Effect w praktyce i przeciwdziałanie negatywnym skutkom otwartych pętli.'
 banner: './banner.png'

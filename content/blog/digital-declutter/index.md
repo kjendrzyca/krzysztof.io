@@ -1,6 +1,7 @@
 ---
 title: 'Cyfrowe odgracanie i walka z uzależnieniem od aplikacji'
-date: '2021-06-29'
+createdAt: '2021-06-29'
+updatedAt: '2021-06-29'
 published: true
 description: 'Digital Declutter - proces cyfrowego odgracania, dzięki któremu pokonałem uzależnienie od aplikacji.'
 banner: './banner.jpg'

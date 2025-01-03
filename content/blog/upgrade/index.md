@@ -1,6 +1,7 @@
 ---
 title: 'Upgrade z juniora na doradcę technicznego'
-date: '2021-07-06'
+createdAt: '2021-06-23'
+updatedAt: '2021-07-06'
 published: true
 description: 'Kilka przemyśleń i wniosków na temat pracy jako doradca techniczny.'
 banner: './banner.jpg'

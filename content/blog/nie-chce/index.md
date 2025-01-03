@@ -1,6 +1,7 @@
 ---
 title: 'Cheers 🖖'
-date: '2024-10-07'
+createdAt: '2024-10-07'
+updatedAt: '2024-10-07'
 published: true
 description: ''
 shareButtons: false

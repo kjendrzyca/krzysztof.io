@@ -1,6 +1,7 @@
 ---
 title: 'Cheers 🖖'
-date: '2021-05-29'
+createdAt: '2021-05-29'
+updatedAt: '2021-06-13'
 published: true
 description: 'Dzięki za dołączenie do listy!'
 shareButtons: false

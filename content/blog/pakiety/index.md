@@ -1,6 +1,7 @@
 ---
 title: 'Praca przy pomocy pakietów'
-date: '2021-09-06'
+createdAt: '2021-08-03'
+updatedAt: '2021-08-23'
 published: true
 description: 'Sposób pracy oparty o regularną serię zwycięstw, który pomaga hackować motywację i budować skomplikowane projekty bez zbędnego wysiłku.'
 banner: './banner.jpg'

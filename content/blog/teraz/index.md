@@ -1,6 +1,7 @@
 ---
 title: 'Czym się teraz zajmuję'
-date: '2024-11-24'
+createdAt: '2024-11-24'
+updatedAt: '2024-11-24'
 published: true
 ---
 

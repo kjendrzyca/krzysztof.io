@@ -1,6 +1,7 @@
 ---
 title: 'Polityka Prywatności'
-date: '2024-07-15'
+createdAt: '2021-02-01'
+updatedAt: '2024-07-15'
 published: true
 description: 'Polityka Prywatności.'
 shareButtons: false

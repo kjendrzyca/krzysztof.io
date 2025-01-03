@@ -42,7 +42,7 @@ const LinkedHeader = ({ id, text, comp: Comp}) => {
 }
 
 const Post = ({ content, frontmatter, slug, contentPath, bannerPath, bannerImageProps}) => {
-  const {title, date, shareButtons, description, isLanding} = frontmatter
+  const {title, createdAt, updatedAt, shareButtons, description, isLanding} = frontmatter
   const pageTitle = title || siteUrl
   const adjustedTitle = contentPath === 'notes' ? `${title}: podsumowanie, notatki i przemyślenia` : title
 
@@ -106,7 +106,9 @@ const Post = ({ content, frontmatter, slug, contentPath, bannerPath, bannerImage
           <p>
             ---
             <br />
-            Ostatnia aktualizacja: {date}
+            Opublikowano: {createdAt}
+            <br />
+            Ostatnia aktualizacja: {updatedAt}
             <br />
             <a
               target="_blank"
