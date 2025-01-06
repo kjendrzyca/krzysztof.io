@@ -107,49 +107,6 @@ html.dark-mode {
   --bear-url: url('/bear-dark.svg');
 }
 
-.theme-toggler-button {
-  background-color: var(--color-light);
-  color: var(--color-text);
-  border-radius: 50%;
-  width: 2.375rem;
-  height: 2.375rem;
-  padding: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin: 0;
-  cursor: pointer;
-}
-
-.theme-toggler-button:hover {
-  background-color: var(--color-text);
-  color: var(--color-light);
-}
-
-.theme-toggler-button svg {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin: 0;
-}
-
-.linked-header .header-anchor {
-  visibility: hidden;
-}
-
-.linked-header:hover .header-anchor {
-  visibility: visible;
-}
-
-.header-anchor svg {
-  fill: var(--color-text-light)
-}
-
-.header-anchor.after {
-  display: inline-block;
-  padding-left: 4px;
-}
-
 /* HTML elements */
 
 *,
@@ -381,6 +338,49 @@ button:focus {outline:0;}
 }
 
 /* Custom classes */
+
+.theme-toggler-button {
+  background-color: var(--color-light);
+  color: var(--color-text);
+  border-radius: 50%;
+  width: 2.375rem;
+  height: 2.375rem;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  cursor: pointer;
+}
+
+.theme-toggler-button:hover {
+  background-color: var(--color-text);
+  color: var(--color-light);
+}
+
+.theme-toggler-button svg {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+}
+
+.linked-header .header-anchor {
+  visibility: hidden;
+}
+
+.linked-header:hover .header-anchor {
+  visibility: visible;
+}
+
+.header-anchor svg {
+  fill: var(--color-text-light)
+}
+
+.header-anchor.after {
+  display: inline-block;
+  padding-left: 4px;
+}
 
 .footer-bottom {
   padding-top: var(--spacing-16);
@@ -689,4 +689,23 @@ span.custom-highlight.nopadding {
   .testimonial blockquote {
     font-size: 1rem;
   }
+}
+
+.index-links {
+  margin-left: 0;
+
+  li {
+    list-style: none;
+  }
+}
+
+.index-link {
+  display: flex;
+  gap: var(--spacing-2);
+}
+
+.index-link .link-date {
+  color: var(--color-accent);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
 }
