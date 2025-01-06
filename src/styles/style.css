@@ -553,10 +553,6 @@ span.custom-highlight.nopadding {
     padding: var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-4);
     margin-left: var(--spacing-0);
   }
-  ul,
-  ol {
-    list-style-position: inside;
-  }
 }
 
 /* Subscribe form */
