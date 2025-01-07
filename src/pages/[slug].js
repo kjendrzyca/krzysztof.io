@@ -106,9 +106,9 @@ const Post = ({ content, frontmatter, slug, contentPath, bannerPath, bannerImage
           <p>
             ---
             <br />
-            Opublikowano: {createdAt}
+            Opublikowano: <span className="date">{createdAt}</span>
             <br />
-            Ostatnia aktualizacja: {updatedAt}
+            Ostatnia aktualizacja: <span className="date">{updatedAt}</span>
             <br />
             <a
               target="_blank"

@@ -709,3 +709,7 @@ span.custom-highlight.nopadding {
   font-variant-numeric: tabular-nums;
   white-space: nowrap;
 }
+
+.date {
+  font-variant-numeric: tabular-nums;
+}
