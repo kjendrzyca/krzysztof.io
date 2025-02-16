@@ -66,13 +66,15 @@ description: 'Zestaw narzędzi, który wypracowałem sobie w ciągu wielu lat te
 - https://nextjs.org/
 - https://www.netlify.com/ (Vercel w darmowym tierze nie może być wykorzystywany do budowy produktów komercyjnych)
 - https://www.mailerlite.com/invite/7ff80cb5801e5
+- https://tally.cello.so/iMjlAVP6H1H - darmowe ankiety w stylistyce Notion
 
 ## Sprzęt:
 
 - MacBook Pro M1 16" 32gb RAM, 1TB
-- Monitor Dell 27 P2723QE (Delle często migają na MacOS, lepiej kupić LG)
-- Tablet Samsung Galaxy Tab S6Lite (do Kindla)
+- Monitor LG UltraFine 27UN880P-B
+- iPad Mini 6 + Pencil (do Kindla i podpisywania dokumentów)
 - Aparat Canon M50 + 15-45mm + 22mm (korzystam tylko z 22mm)
+- Mikrofon Shure SM7B
 - Mikrofon Novox NC X USB
 - Lampa Yongnuo YN-600 Air 5600k na statywie
 - Mysz Logitech MX Master 3
