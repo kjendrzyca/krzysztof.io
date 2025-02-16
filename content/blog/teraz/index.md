@@ -25,13 +25,15 @@ Gdy wpadnie mi coś ciekawego w ręce, to się tym podzielę.
 
 ## SPWZ
 
-Druga edycja programu [skutecznapracawzespole.pl](https://skutecznapracawzespole.pl) cały czas trwa.
+~~Druga edycja programu [skutecznapracawzespole.pl](https://skutecznapracawzespole.pl) cały czas trwa.~~
 
-Zdzwaniamy się na live'ach, przegadujemy problemy i dobrze się bawimy. Zostało nam jeszcze 5 takich spotkań.
+~~Zdzwaniamy się na live'ach, przegadujemy problemy i dobrze się bawimy. Zostało nam jeszcze 5 takich spotkań.~~
 
-Pracuję właśnie bonusowym materiałem o różnych rodzajach klientów i jak ich obsługiwać.
+~~Pracuję właśnie bonusowym materiałem o różnych rodzajach klientów i jak ich obsługiwać.~~
 
-Z tej okazji program będzie dostępny do kupienia w Black Friday, ale bardzo krótko i wyłącznie dla osób, które są zapisane na listę mailową lub zapytają o linka.
+~~Z tej okazji program będzie dostępny do kupienia w Black Friday, ale bardzo krótko i wyłącznie dla osób, które są zapisane na listę mailową lub zapytają o linka.~~
+
+Done 🚀
 
 ## Następne projekty
 
