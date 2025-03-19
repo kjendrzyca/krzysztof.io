@@ -47,7 +47,7 @@ Nie uważam, że tradycyjne budowanie marki osobistej nie działa i rozumiem, ż
 
 W Internecie na każdym kroku spotykam osoby, które twierdzą, że łączą te dwie rzeczy, a gdy się przypatrzeć, to widać, że już od dawna są nastawione wyłącznie na wzmacnianie siebie albo każde "pomaganie innym" jest wypaczone przez "czy to pomoże mojej marce osobistej".
 
-Jeśli moim celem jest podążać za swoimi zainteresowaniami i robić wartościowe rzeczy dla innych, to mogę skupić się na tym w 100%, bo wiem, że jeśli będę robił coś naprawdę dobrego, to ludzie to zauważą. To jest też założenie [prywatnego bloga](/prywatny-blog).
+Jeśli moim celem jest podążać za swoimi zainteresowaniami i robić wartościowe rzeczy dla innych, to mogę skupić się na tym w 100%, bo wiem, że jeśli będę robił coś naprawdę dobrego, to ludzie to zauważą. To jest też jedno z założeń [prywatnego bloga](/prywatny-blog).
 
 Zdaję sobie sprawę, że w dzisiejszych czasach, gdzie każdy stara się wszystkich przekrzyczeć, to podejście jest może zbyt naiwne. **Sprawia mi jednak więcej przyjemności**.
 
