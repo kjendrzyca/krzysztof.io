@@ -49,6 +49,6 @@ W Internecie na każdym kroku spotykam osoby, które twierdzą, że łączą te 
 
 Jeśli moim celem jest podążać za swoimi zainteresowaniami i robić wartościowe rzeczy dla innych, to mogę skupić się na tym w 100%, bo wiem, że jeśli będę robił coś naprawdę dobrego, to ludzie to zauważą. To jest też jedno z założeń [prywatnego bloga](/prywatny-blog).
 
-Zdaję sobie sprawę, że w dzisiejszych czasach, gdzie każdy stara się wszystkich przekrzyczeć, to podejście jest może zbyt naiwne. **Sprawia mi jednak więcej przyjemności**.
+Zdaję sobie sprawę, że w dzisiejszych czasach, gdzie każdy stara się wszystkich przekrzyczeć, to podejście może wydawać się zbyt naiwne. **Sprawia mi jednak więcej przyjemności**.
 
 Marka osobista nie jest dla mnie celem. Jest efektem dobrze zrobionej roboty.
