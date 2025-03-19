@@ -1,7 +1,7 @@
 ---
 title: 'Zamień to w coś swojego'
 createdAt: '2021-06-03'
-updatedAt: '2021-07-10'
+updatedAt: '2025-03-19'
 published: true
 description: 'Mój sposób opisywania przemyśleń innych osób.'
 ---
@@ -66,4 +66,4 @@ Ja mówię, co myślę, a nie co myślą inni i jednocześnie nie ukrywam, od ko
 
 W [pierwszej wersji](https://github.com/kjendrzyca/krzysztof.io/blob/35a627dd8ee7756841721160bec8f2789b847092/content/blog/cytaty/index.md) tego wpisu wydawało mi się, że chcę po prostu ograniczyć cytowanie, a tak naprawdę chodzi o to, że zacząłem przekazywać informacje własnymi słowami, więc cytaty w większości stały się zbędne. Na wierzch wyszły korzyści, które opisałem powyżej.
 
-Nadal będę używał cytatów do zobrazowania jakiegoś przykładu albo gdy nie będę miał powodu, żeby mówić coś własnymi słowami.
+Nadal będę używał cytatów do zobrazowania jakiegoś przykładu albo gdy nie będę miał powodu, żeby powiedzieć coś własnymi słowami.
