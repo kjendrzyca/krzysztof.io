@@ -11,8 +11,8 @@ const targetNotesDir = path.join(process.cwd(), 'public', 'images', 'notes')
 
 async function createPostImageFoldersForCopy() {
   // Get every post folder: post-one, post-two etc.
-  const postSlugs = await fsPromises.readdir(postsDir);
-  const notesSlugs = await fsPromises.readdir(notesDir);
+  const postSlugs = (await fsPromises.readdir(postsDir)).filter(file => !file.startsWith('.'));
+  const notesSlugs = (await fsPromises.readdir(notesDir)).filter(file => !file.startsWith('.'));
 
   for (const slug of postSlugs) {
     const allowedImageFileExtensions = ['.png', '.jpg', '.jpeg', '.gif'];
