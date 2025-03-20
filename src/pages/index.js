@@ -68,6 +68,12 @@ const BlogIndex = () => {
       <h3>Wpisy</h3>
       <ul className="index-links">
         <IndexLink
+          title={`Marka osobista to efekt uboczny`}
+          slug="marka-osobista"
+          createdAt="2025-03-19"
+          hot
+        />
+        <IndexLink
           title={`Pułapki cachowania w next-auth i Netlify`}
           slug="cache"
           createdAt="2024-11-09"
