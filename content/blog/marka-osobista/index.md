@@ -53,7 +53,7 @@ Zdaję sobie sprawę, że w świecie, gdzie prawie każdy stara się wszystkich 
 
 **Sprawia mi jednak więcej przyjemności**.
 
-Nie neguję tradycyjnego podejścia do budowania marki. Rozumiem, że można jednocześnie pomagać innym i budować swoją rozpoznawalność. Ale dla mnie ta granica jest zbyt cienka. Zbyt łatwo można się wykoleić i przejść od "dzielę się tym, co wiem" do "dzielę się tym, co się dobrze klika".
+Nie neguję tradycyjnego podejścia do budowania marki. Rozumiem, że można jednocześnie pomagać innym i budować swoją rozpoznawalność. Ale dla mnie ta granica jest zbyt cienka. Zbyt łatwo można się wykoleić i przejść od "dzielę się tym, co pomaga" do "dzielę się tym, co się dobrze klika".
 
 Dlatego wyrzuciłem frazę "budowanie marki osobistej" ze swojego słownika.
 
