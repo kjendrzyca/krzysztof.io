@@ -1,7 +1,7 @@
 ---
 title: 'Marka osobista to efekt uboczny'
 createdAt: '2025-03-19'
-updatedAt: '2025-03-19'
+updatedAt: '2025-03-24'
 published: true
 description: 'Marka osobista nie jest dla mnie celem. Jest efektem dobrze zrobionej roboty.'
 banner: './banner.jpg'
