@@ -27,8 +27,6 @@ Nie planowałem żadnych efektów i nie oczekiwałem, że będę miał z tego ja
 - Wyglądało, że wiem, co robię, więc miałem większy wpływ na to, nad czym będę pracować.
 - A gdy wrzucałem codziennie przez 316 dni commity na GitHuba, to firmy zaczęły pisać do mnie z ofertami pracy, mimo że wtedy nie prowadziłem nawet LinkedIna.
 
-To wszystko przyszło samo.
-
 Największe korzyści przychodziły przeważnie wtedy, gdy wcale się ich nie spodziewałem i gdy po prostu dzieliłem się tym, co robię.
 
 **Nigdy świadomie nie budowałem marki osobistej**. Kiedyś próbowałem sobie wmówić, że jest inaczej i że wszystkie pozytywne rzeczy, które mnie spotkały, są wynikiem jakiejś doskonałej strategii.
