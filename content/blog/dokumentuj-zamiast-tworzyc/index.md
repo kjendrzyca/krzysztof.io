@@ -20,7 +20,7 @@ To dlatego, że miałem namacalne wyniki i byłem pewien, że wiele rzeczy, o kt
 
 Gdy w pewnym momencie zacząłem koloryzować i zaczął włączać mi się overselling, to zrozumiałem, że staram się za bardzo. Starałem się kontrolować coś, na co nie mam wpływu.
 
-Zacząłem robić to samo, co robi wiele osób skupionych na budowaniu marki osobistej. Wiele z nich próbuje pokazać się w lepszym świetle, niż jest naprawdę, robią rzeczy, których normalnie by nie robili i liczą, że zyskają dzięki temu uwagę innych.
+Zacząłem robić to samo, co robi wiele osób skupionych na [budowaniu marki osobistej](/marka-osobista/). Wiele z nich próbuje pokazać się w lepszym świetle, niż jest naprawdę, robią rzeczy, których normalnie by nie robili i liczą, że zyskają dzięki temu uwagę innych.
 
 Bez wątpienia ta taktyka często działa, jednak dla mnie utrzymywanie iluzji jest zbyt męczące i nieszczere.
 

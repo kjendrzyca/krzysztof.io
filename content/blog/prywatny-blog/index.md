@@ -95,7 +95,7 @@ Jeszcze nie wiem, do czego to doprowadzi, ale już teraz mam fun.
 
 **Zamiast pracować nad tematami zdefiniowanymi z góry, pracuję nad swoimi rzeczami i patrzę, co chwyci.**
 
-[Uczę się na głos](https://www.swyx.io/learn-in-public/). Nie skupiam się na budowaniu marki osobistej.
+[Uczę się na głos](https://www.swyx.io/learn-in-public/). Nie skupiam się na [budowaniu marki osobistej](/marka-osobista/).
 
 Pracuję nad tym, co mnie obecnie interesuje i co jest dla mnie przydatne, a gdy jakiś temat zainteresuje innych, to wiem, że jest coś, nad czym mógłbym się bardziej pochylić.
 
@@ -193,7 +193,7 @@ Jak dotąd jedyny produkt, który stworzyłem (szkolenie z testów), wynikał z 
 
 Po raz kolejny: pracuję nad swoimi rzeczami i patrzę, co chwyci. A gdy już chwyci, to przygotuję kolejny artykuł, który posłuży jako wstępna forma weryfikacji zainteresowania.
 
-**W taki sposób upewnię się, że mam odbiorców, zanim w ogóle zacznę cokolwiek budować i tracić na to wiele miesięcy życia.**
+**W taki sposób upewnię się, że kogoś to w ogóle obchodzi, zanim w ogóle zacznę cokolwiek budować i tracić na to wiele miesięcy życia.**
 
 Bonus: temat będzie dla mnie interesujący, bo w końcu podążam za własnymi zainteresowaniami. Nawet jeśli się nie uda, to będę do przodu, bo się czegoś nauczę.
 
