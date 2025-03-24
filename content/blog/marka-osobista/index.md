@@ -47,14 +47,14 @@ Na szczęście **nie wszystko musi być**. Wpisy takie jak ten mają często sł
 
 Dzięki temu mogę skupić się w 100% na tym, co mnie angażuje, bez zastanawiania się, czy "to dobrze wypadnie" albo "czy to pomoże mojej marce osobistej". To daje mi swobodę i pozwala uniknąć pułapki generowania treści tylko po to, by dobrze wyglądały na zewnątrz i żeby zaznaczyć swoją obecność.
 
-Często widzę osoby, które deklarują, że budują markę osobistą poprzez pomaganie innym. Ale kiedy się przyjrzeć, okazuje się, że to głównie strategia na wzmacnianie własnego wizerunku. Każda "pomoc" jest wypaczona przez pytanie: *czy to pomoże mojej marce osobistej*? To jest takie "trochę wam pomogę, ale nie za dużo, bo chcę mieć jeszcze czas, żeby zadbać o swoją rozpoznawalność". Bardzo bym nie chciał trafić do tej grupy.
+Bardzo nie chciałbym trafić do grupy tych osób, które deklarują, że budują markę osobistą poprzez pomaganie innym, ale kiedy się przyjrzeć, okazuje się, że to głównie strategia na wzmacnianie własnego wizerunku. Każda "pomoc" jest wypaczona przez pytanie: *czy to pomoże mojej marce osobistej*? To jest takie "trochę wam pomogę, ale nie za dużo, bo chcę mieć jeszcze czas, żeby zadbać o swoją rozpoznawalność".
 
-Zdaję sobie sprawę, że w świecie, gdzie prawie każdy stara się wszystkich przekrzyczeć, moje podejście może wydawać się naiwne.
-
-**Sprawia mi jednak więcej przyjemności**.
-
-Nie neguję tradycyjnego podejścia do budowania marki. Rozumiem, że można jednocześnie pomagać innym i budować swoją rozpoznawalność. Ale dla mnie ta granica jest zbyt cienka. Zbyt łatwo można się wykoleić i przejść od "dzielę się tym, co pomaga" do "dzielę się tym, co się dobrze klika".
+Nawet jeśli niektórym udaje się jednocześnie pomagać innym i budować swoją rozpoznawalność, to dla mnie ta granica jest zbyt cienka. Zbyt łatwo można się wykoleić i przejść od "dzielę się tym, co pomaga" do "dzielę się tym, co się dobrze klika".
 
 Dlatego wyrzuciłem frazę "budowanie marki osobistej" ze swojego słownika.
 
 Nie jest dla mnie celem. Jest efektem dobrze wykonanej roboty.
+
+Zdaję sobie sprawę, że w świecie, gdzie prawie każdy stara się wszystkich przekrzyczeć, to podejście może wydawać się naiwne.
+
+**Sprawia mi jednak więcej przyjemności**.
