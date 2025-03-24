@@ -35,7 +35,7 @@ Największe korzyści przychodziły przeważnie wtedy, gdy wcale się ich nie sp
 
 A prawda jest taka, że wszystko jest wynikiem **uczenia się, realizowania ciekawych projektów i dzielenia się swoimi doświadczeniami**.
 
-Przez większość czasu staram się po prostu przejść z punktu *nie wiem, co robię, ale mnie to ciekawi*, do punktu *w końcu, to rozumiem, mogę zająć się teraz czymś innym* i opublikować to, czego się dowiedziałem.
+Przez większość czasu staram się po prostu przejść z punktu *nie wiem, co robię, ale mnie to ciekawi*, do punktu *w końcu to rozumiem, mogę zająć się teraz czymś innym* i opublikować to, czego się dowiedziałem.
 
 Ktoś kiedyś pomógł mi też zrozumieć, że nastawienie się na "budowanie marki osobistej" często prowadzi do odwrócenia przyczyny i skutku – **tworzymy treści i robimy rzeczy, żeby być widocznym, zamiast być widocznym dzięki temu, co robimy**. W skrajnych przypadkach staje się to grą pozorów: **publikujemy, żeby zaistnieć, a nie dlatego, że mamy coś wartościowego do powiedzenia**.
 
