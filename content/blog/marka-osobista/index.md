@@ -29,17 +29,19 @@ Nie planowałem żadnych efektów i nie oczekiwałem, że będę miał z tego ja
 
 To wszystko przyszło samo.
 
-Z moich doświadczeń wynika, że największe korzyści przychodzą wtedy, gdy wcale się ich nie spodziewam i gdy po prostu dzielę się tym, co robię.
+Największe korzyści przychodziły przeważnie wtedy, gdy wcale się ich nie spodziewałem i gdy po prostu dzieliłem się tym, co robię.
 
 **Nigdy świadomie nie budowałem marki osobistej**. Kiedyś próbowałem sobie wmówić, że jest inaczej i że wszystkie pozytywne rzeczy, które mnie spotkały, są wynikiem jakiejś doskonałej strategii.
 
-A prawda jest taka, że wszystko jest wynikiem **uczenia się, realizowania ciekawych projektów, dzielenia się swoimi doświadczeniami i czasem jakąś wiedzą**.
+A prawda jest taka, że wszystko jest wynikiem **uczenia się, realizowania ciekawych projektów i dzielenia się swoimi doświadczeniami**.
+
+Przez większość czasu staram się po prostu przejść z punktu *nie wiem, co robię, ale mnie to ciekawi*, do punktu *w końcu, to rozumiem, mogę zająć się teraz czymś innym* i opublikować to, czego się dowiedziałem.
 
 Ktoś kiedyś pomógł mi też zrozumieć, że nastawienie się na "budowanie marki osobistej" często prowadzi do odwrócenia przyczyny i skutku – **tworzymy treści i robimy rzeczy, żeby być widocznym, zamiast być widocznym dzięki temu, co robimy**. W skrajnych przypadkach staje się to grą pozorów: **publikujemy, żeby zaistnieć, a nie dlatego, że mamy coś wartościowego do powiedzenia**.
 
 Po latach obserwacji, nabrałem pewności, że najbardziej autentyczna marka osobista buduje się sama. Jeśli robimy naprawdę dobrą robotę, to ludzie w końcu to zauważą. Jeśli musimy ich do tego w jakikolwiek sposób namawiać, to nigdy nie mamy pewności, czy rzeczywiście nas cenią, czy np. tylko odwzajemniają przysługę lub [po prostu nas lubią i nie chcą zranić](https://www.momtestbook.com/).
 
-Dlatego moją strategią nadal jest [podążać za swoimi zainteresowaniami](/prywatny-blog/), robić to, co mnie ciekawi i [dzielić się tym, czego się nauczyłem](/dokumentuj-zamiast-tworzyc/). Bez ukrytych celów, bez kreowania się na eksperta i bez udawania, że "pomagam innym".
+Dlatego nadal chcę [podążać za swoimi zainteresowaniami](/prywatny-blog/), robić to, co mnie ciekawi i [dzielić się tym, czego się nauczyłem](/dokumentuj-zamiast-tworzyc/). Bez ukrytych celów, bez kreowania się na eksperta i bez udawania, że "pomagam innym".
 
 Czasem okaże się, że to, co tworzę, jest wartościowe dla innych, a czasem nie.
 
