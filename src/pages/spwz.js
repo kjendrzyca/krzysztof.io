@@ -9,7 +9,7 @@ const SPWZPage = () => {
     <Layout isLandingPage>
       <SEO
         title="Skuteczna Praca w Zespole"
-        description={`Kompletny przewodnik po umiejętnościach miękkich oraz sposobach pracy doświadczonych programistów. "Skuteczna Praca w Zespole" to program szkoleniowy online, w którym pokażę Ci, czego nauczyłem się przez ostatnie kilka lat o skutecznej współpracy z zespołem, klientem oraz pracodawcą, jak podchodzę do wykonywania zadań i jakie czerpię z tego wszystkiego korzyści.`}
+        description={`Kompletny przewodnik po umiejętnościach miękkich dla programistów. Odkryj sprawdzone metody skutecznej współpracy w zespole, z klientem i pracodawcą.`}
         slug="spwz"
         ogType="page"
         ogImagePath="/spwz/spwz-og.png"
