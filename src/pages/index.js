@@ -183,6 +183,11 @@ const BlogIndex = () => {
       <h3>Notatki z książek, artykułów i podcastów</h3>
       <ul className="index-links">
         <IndexLink
+          title="Tiny Experiments"
+          slug="tiny-experiments"
+          createdAt="2025-03-29"
+        />
+        <IndexLink
           title="Show Your Work"
           slug="show-your-work"
           createdAt="2022-02-02"
