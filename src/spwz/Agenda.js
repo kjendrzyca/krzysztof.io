@@ -4,147 +4,101 @@ import ReactMarkdown from "react-markdown"
 const agendaMd = `
 ### Wstęp
 
-👉 Dlaczego warto traktować swoją karierę jako biznes.
+👉 Jak traktować swoją karierę jak biznes.
 
-👉 Jak działa model oparty o budowanie kapitału zawodowego i dlaczego pasja w pracy jest niepotrzebna, a czasem nawet szkodliwa.
+👉 Model budowania kapitału zawodowego – bez mitów o „pasji”.
 
-👉 Jak budować reputację.
-
-👉 Dlaczego umiejętności miękkie (które wcale nie są takie miękkie) odgrywają w tym kluczową rolę.
+👉 Budowanie reputacji i dlaczego umiejętności miękkie są kluczowe.
 
 ### Ustawienie mindsetu
 
-👉 W jaki sposób szybciej zdobywać informacje potrzebne do wejścia na wyższy poziom.
+👉 Jak zdobywać informacje potrzebne do wejścia na wyższy poziom.
 
-👉 Dlaczego nigdy nie nazywałem się "juniorem" i polecam to samo innym.
+👉 Dlaczego nigdy nie nazywałem się "juniorem" i dlaczego nie warto.
 
-👉 Masz wpływ praktycznie na każdy aspekt swojej pracy i jak wykorzystać to na swoją korzyść.
-
-👉 Jak się rozwijać na własną rękę.
+👉 Jak mieć wpływ na swoją pracę i wykorzystać to na swoją korzyść.
 
 ### Praca z zadaniami
 
-👉 Sprawdzony w bojach proces planowania i realizacji zadań, którego używam od lat.
+👉 Sprawdzony proces planowania i realizacji zadań.
 
-👉 Zadawanie pytań i zbieranie informacji o tym, co trzeba zrobić.
+👉 Jak zadawać pytania, raportować postępy i radzić sobie z opóźnieniami.
 
-👉 Raportowanie, informowanie o problemach i radzenie sobie z opóźnieniami.
+👉 Jak pracować, żeby nikt nie miał Ci nic do zarzucenia (jak nie robić bagna w kodzie).
 
-👉 Radzenie sobie z blokadą (writer's block).
+👉 Radzenie sobie z trudnymi zadaniami, z blokadą i intuicja w kodowaniu.
 
-👉 Zbieranie feedbacku do zadania.
+👉 Code Review – jak robić to dobrze.
 
-👉 Dlaczego warto i jak wymasterować narzędzia, których używasz.
-
-👉 Jak pracować, żeby nikt nie miał Ci nic do zarzucenia, jak radzić sobie z bagnem w kodzie i jak nie tworzyć nowego.
-
-👉 Jak radzić sobie z trudnymi zadaniami oraz jak przekuć nudne zadania w coś pozytywnego.
-
-👉 Jak wyrobić sobie intuicję, która będzie Ci automatycznie podpowiadać dobre i złe rozwiązania.
-
-👉 Na czym tak naprawdę polega Code Review i jak robić to dobrze.
-
-👉 Jak sobie radzić, gdy czujesz, że brakuje Ci doświadczenia.
+👉 Najważniejsze elementy pracy z Jira, Linear i innymi narzędziami.
 
 👉 Dlaczego oraz kiedy stosować TDD. Gdzie i jak najszybciej się go nauczyć.
 
-👉 Najważniejsze elementy pracy z narzędziami do zarządzania pracą zespołu (Jira, Linear itp.).
-
-### Praca w zespole
-
-**Serce tego programu**. Największy i najważniejszy moduł.
+### Praca w zespole (największy i najważniejszy moduł)
 
 👉 Dlaczego programowanie to zawsze praca zespołowa.
 
-👉 Kilka szybkich taktyk, żeby wykazać się w projekcie. Do zastosowania od zaraz.
+👉 Jak szybko wykazać się w projekcie i ogarnąć onboarding.
 
-👉 Jak wchodzić na grubo do projektu w trakcie trwania onboardingu.
+👉 Dlaczego niektóre zespoły działają jak grupa komandosów, a inne, jak grupa gęsi.
 
-👉 Ekstremalnie trafny model, który opisuje, dlaczego niektóre zespoły działają jak grupa komandosów, a inne, jak grupa nieporadnych gęsi.
+👉 Komunikacja – jak mówić jasno i konkretnie.
 
-👉 Co możesz dać od siebie, żeby stopniowo przesuwać swój zespół w stronę tego pierwszego.
+👉 Jak dogadać się z ludźmi w sytuacjach konfliktowych lub gdy ktoś jest wrogo nastawiony.
 
-👉 **Gruby moduł o komunikacji.**
-
-👉 Jak przekazywać to, co chcesz powiedzieć w jasny, zrozumiały i klarowny sposób.
-
-👉 Jak dogadać się z ludźmi, w różnych sytuacjach, również konfliktowych, gdy każdy ma odmienne zdanie lub jest wrogo nastawiony.
-
-👉 Jak to robić, żeby dosadnie przekazać wszystko, co chcesz przekazać, a jednocześnie zminimalizować ryzyko, że kogoś urazisz.
-
-👉 Jak i kiedy mówić "nie".
-
-👉 Jak i kiedy mówić "tak".
+👉 Jak mówić „tak” i „nie” w odpowiednich momentach.
 
 👉 Jak prosić o pomoc i komunikować swoje potrzeby.
 
-👉 Jak w tym wszystkim nie triggerować ludzi ;).
-
-👉 Jak rozwiązywać konflikty i kłótnie oraz jak podejmować decyzje w zespole tak, żeby zminimalizować narzekanie i sabotowanie podjętych decyzji.
-
-👉 Jak skutecznie pracować z innymi i jak być dobrym współpracownikiem dla analityków biznesowych, QA, liderów i wszystkich innych, z którymi wchodzisz na co dzień w relacje.
+👉 Jak radzić sobie z presją i nadgodzinami.
 
 👉 Jak wyglądają spotkania, na których nikt nie zasypia, które szybko się kończą, a jednocześnie przynoszą rezultaty.
 
 👉 Co zrobić, gdy planowania są nudne, a retra to spotkania-wydmuszki, po których nic się nie zmienia.
 
-👉 Jak propagować wiedzę w zespole.
+👉 Jak, gdzie, kiedy i kogo informować o problemach w zespole, które wymagają eskalacji?
 
 👉 Jak zbierać i dawać feedback.
 
-👉 Jak radzić sobie z presją i nadgodzinami.
+👉 Jak propagować wiedzę w zespole.
 
-👉 Jak odnaleźć się w zespole, gdzie wszystkim wszystko wydaje się oczywiste, gdzie czujesz dużą różnicę poziomów i brakuje ludzi skorych do pomocy.
+👉 Jak skutecznie estymować pracę.
 
-👉 Jak poradzić sobie z nieogarniętym seniorem, który nie robi swojej roboty, jak należy?
+👉 Jak dobrze poustawiać pracę zdalną i asynchroniczną.
 
-👉 Jak, gdzie, kiedy i kogo informować o problemach w zespole, które wymagają eskalacji?
-
-👉 Czy da się sensownie estymować. Jak to robić.
-
-👉 Jak dobrze poustawiać sobie pracę zdalną i asynchroniczną.
-
-👉 Offboarding - jak wyjść z projektu nie paląc za sobą mostów i zostawiając dobre wrażenie.
+👉 Offboarding – jak wychodzić z projektu, zostawiając dobre wrażenie.
 
 ### Praca z klientem
 
-👉 Punkt widzenia klienta, kim on jest w zależności od tego, w jakiego rodzaju firmie pracujesz.
+👉 Jak klient postrzega Twoją rolę i czego naprawdę oczekuje.
 
-👉 Co tak naprawdę myśli klient, czego potrzebuje i jaka jest w tym rola zespołu deweloperskiego.
-
-👉 Jak dobrze zaprezentować się przed klientem i być kimś więcej niż losowym programistą z Polski, którego imienia nawet nie pamięta.
+👉 Jak prezentować się przed klientem jako ktoś, kogo warto zapamiętać.
 
 👉 Jak przekonać klienta do większej ilości testów, do refactoringu lub innego z Twoich pomysłów.
 
-👉 Co należy zrobić, gdy pomysły klienta wydają się bezsensowne i nie ma on wg Ciebie prawa działać dobrze, a on niekoniecznie słucha Twojego feedbacku.
+👉 Jak przygotować się do demo i spotkań.
 
-👉 Jak wyciągać od klienta potrzebne informacje i co zrobić, gdy nie wywiązuje się ze swoich zobowiązań.
-
-👉 Jak stopniowo poprawiać komunikację z klientem.
-
-👉 Jak przygotować się do demo oraz innych spotkań, na których musisz coś zaprezentować przed klientem.
-
-👉 Jak podchodzę do nadgodzin, żeby się nie wypalić.
+👉 Jak wyciągać od klienta potrzebne informacje.
 
 ### Praca z pracodawcą
 
-👉 Na czym polega dobra relacja z pracodawcą i jak to zrobić, żeby obydwie strony skorzystały na niej jak najwięcej.
+👉 Jak budować dobrą relację, która działa dla obu stron.
 
-👉 Niezawodne podejście do awansów, podwyżek oraz "negocjacji". Czym tak naprawdę są negocjacje.
+👉 Niezawodne podejście do rozmów o podwyżce i awansie.
 
-👉 Za jakie dodatkowe działania ceni nas większość pracodawców.
-
-👉 Dodatkowe sposoby inwestowania w siebie i budowania reputacji, która zostanie z Tobą nawet wtedy, gdy zmienisz pracę.
+👉 Jak inwestować w siebie i budować reputację niezależną od firmy.
 
 ### Pułapki odpowiedzialności
 
-👉 Najbardziej powszechne pułapki, które czekają na wszystkich, którzy robią dobrą robotę.
+👉 Gdzie kończy się dobra robota, a zaczyna wykorzystywanie.
 
-👉 Jak sobie z nimi poradzić i nie dać się wykorzystać.
+👉 Dlaczego nie zawsze warto awansować za wszelką cenę.
 
-👉 Dlaczego branie zbyt wielu odpowiedzialności i zbyt szybki awans, mogą być błędem.
+👉 Jak nie wpaść w pułapkę „zbyt dużej odpowiedzialności” i się nie wypalić.
 
-👉 Jak szukać balansu w zależności od tego, co chcesz osiągnąć w swojej pracy.
+### ⭐ Bonus - typy osobowości klienta
+
+👉 Jak dostosować się do różnych typów osobowości klienta.
 `
 export const Agenda = () => {
   return (
