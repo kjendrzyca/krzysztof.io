@@ -9,6 +9,8 @@ Materiały z programu udostępniam obecnie w formie cotygodniowego mailingu, kt�
 Możesz się do niego zapisać podając swój email, a ja przy okazji dopiszę Cię do listy oczekujących na pełny program.
 
 Dostaniejsz najlepszą ofertę dołączenia, gdy znowu będzie dostępny.
+
+Przykładowy email znajdziesz [tutaj](https://emails.skutecznyprogramista.pl/u4b0b0).
 `
 
 export const CoKiedy = forwardRef((_, ref) => {
