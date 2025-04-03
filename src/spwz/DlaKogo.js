@@ -6,7 +6,7 @@ const dlaKogoMd = `
 
 **Dla seniorów**, którzy czują **braki w umiejętnościach nietechnicznych** i chcą je poprawić, żeby nie było przypału.
 
-Dla tych, którzy chcą wziąć **odpowiedzialność za cały proces tworzenia oprogramowania**, zostać **kluczowymi członkami zespołu** i mieć wpływ na to jak realizowane są projekty.
+Dla tych, którzy chcą wziąć **odpowiedzialność za cały proces tworzenia oprogramowania**, zostać **kluczowymi członkami zespołu** i mieć wpływ na to, jak realizowane są projekty.
 `
 
 export const DlaKogo = () => {
