@@ -17,8 +17,7 @@ Poniżej znajdziesz link do dokumentu. Link do tej strony wysłałem Ci też na 
 
 [🔗 Link](https://kjendrzyca.notion.site/Zacznij-dowozi-zadania-w-czasie-kr-tszym-o-po-ow-8073e7f6a8b44bcf8168ea178fed5901)
 
-Jeśli masz chwilę, to będę bardzo wdzięczny za wypełnienie ankiety, która pomoże mi dostosować treści do tego, co potrzebujesz.
-Znajduje się tam dosłownie jedno pytanie.
+Jeśli masz chwilę, to będę bardzo wdzięczny za wypełnienie krótkiej ankiety, która pomoże mi dostosować treści do tego, co potrzebujesz.
 
 [Link do ankiety](/spwz-ankieta/)
 
