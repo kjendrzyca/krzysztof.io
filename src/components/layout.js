@@ -23,9 +23,7 @@ export const Layout = ({ children, isLandingPage }) => {
         {isLandingPage ? null : <SubscribeKIO />}
         <div className="footer-bottom">
           <div>
-            © {new Date().getFullYear()}, Built with
-            {` `}
-            <a href="https://nextjs.org">NextJS</a>
+            © {new Date().getFullYear()}
           </div>
           <div className="footer-social-links">
             <Twitter />
