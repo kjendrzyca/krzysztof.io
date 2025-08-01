@@ -28,7 +28,7 @@ const LinksPage = () => {
         <div className="links-container">
           <LinkButton
             href="https://skutecznapracawzespole.pl"
-            title="🧑‍💻 Kompletny przewodnik po soft skillach w IT"
+            title="🧑‍💻 Kompletny przewodnik po soft skillach w IT - skutecznapracawzespole.pl"
           />
 
           <LinkButton
