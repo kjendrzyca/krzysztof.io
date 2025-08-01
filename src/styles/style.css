@@ -720,6 +720,7 @@ span.custom-highlight.nopadding {
   display: flex;
   flex-direction: column;
   gap: var(--spacing-4);
+  margin-bottom: var(--spacing-32);
 }
 
 .links-container {
