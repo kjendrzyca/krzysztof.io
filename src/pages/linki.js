@@ -51,4 +51,6 @@ const LinksPage = () => {
   )
 }
 
+LinksPage.theme = 'dark'
+
 export default LinksPage
