@@ -713,3 +713,57 @@ span.custom-highlight.nopadding {
 .date {
   font-variant-numeric: tabular-nums;
 }
+
+/* Links page styles */
+
+.links-page {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-4);
+}
+
+.links-container {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-4);
+}
+
+.link-button {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  background-color: var(--color-background);
+  border: 2px solid var(--color-primary);
+  padding: var(--spacing-5) var(--spacing-6);
+}
+
+.link-button:hover {
+  background-color: var(--color-primary);
+  color: var(--color-white);
+  text-decoration: none;
+}
+
+.link-button:focus {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 2px;
+}
+
+.link-button-content {
+  text-align: center;
+}
+
+.link-button-title {
+  font-size: var(--fontSize-1);
+  font-weight: var(--fontWeight-semibold);
+  line-height: var(--lineHeight-tight);
+}
+
+.link-button-description {
+  font-size: var(--fontSize-0);
+  color: var(--color-text-light);
+  line-height: var(--lineHeight-normal);
+}
+
+.link-button:hover .link-button-description {
+  color: rgba(255, 255, 255, 0.8);
+}

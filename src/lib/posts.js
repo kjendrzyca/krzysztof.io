@@ -6,8 +6,8 @@ const blogDirectory = join(process.cwd(), 'content', 'blog')
 const notesDirectory = join(process.cwd(), 'content', 'notes')
 
 export function getAllSlugs() {
-  const blogSlugs = fs.readdirSync(blogDirectory)
-  const notesSlugs = fs.readdirSync(notesDirectory)
+  const blogSlugs = fs.readdirSync(blogDirectory).filter(slug => !slug.startsWith('.'))
+  const notesSlugs = fs.readdirSync(notesDirectory).filter(slug => !slug.startsWith('.'))
 
   return [...blogSlugs, ...notesSlugs]
 }

@@ -102,23 +102,25 @@ const Post = ({ content, frontmatter, slug, contentPath, bannerPath, bannerImage
             {content}
           </ReactMarkdown>
         </section>
-        <footer>
-          <p>
-            ---
-            <br />
-            Opublikowano: <span className="date">{createdAt}</span>
-            <br />
-            Ostatnia aktualizacja: <span className="date">{updatedAt}</span>
-            <br />
-            <a
-              target="_blank"
-              rel="noopener noreferrer"
-              href={`https://github.com/kjendrzyca/krzysztof.io/blob/main/content/${contentPath}/${slug}`}
-            >
-              Edytuj ten wpis na GitHubie
-            </a>
-          </p>
-        </footer>
+        {shareButtons === false ? null : (
+          <footer>
+            <p>
+              ---
+              <br />
+              Opublikowano: <span className="date">{createdAt}</span>
+              <br />
+              Ostatnia aktualizacja: <span className="date">{updatedAt}</span>
+              <br />
+              <a
+                target="_blank"
+                rel="noopener noreferrer"
+                href={`https://github.com/kjendrzyca/krzysztof.io/blob/main/content/${contentPath}/${slug}`}
+              >
+                Edytuj ten wpis na GitHubie
+              </a>
+            </p>
+          </footer>
+        )}
       </article>
       {shareButtons === false ? null : (<ShareButtons
          url={`${siteUrl}/${slug}/`}
