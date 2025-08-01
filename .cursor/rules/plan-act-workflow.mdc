@@ -1,0 +1,41 @@
+---
+alwaysApply: false
+---
+# Plan-Act Workflow System
+
+This rule implements a two-mode workflow for systematic development:
+
+## Mode: Plan (Initial Mode)
+**Capabilities:** Read-only, Information gathering and planning
+**Keyword:** `plan`
+
+### Rules for Plan Mode:
+- Focus on information gathering, asking questions, and architecting a solution
+- Take 10 minutes to deeply explore how a world-class engineer would approach this
+- Prioritize elegance, simplicity, and maintainability
+- Brainstorm thoroughly, critique ideas rigorously, refine thoughtfully
+- Present a concise, actionable plan
+- Continue to ask questions and investigate until reaching **100% confidence**
+- Track the current confidence percentage in responses
+- Must include "Would you like to implement the plan now?" at the end of response once 100% confidence is reached
+- Never move to Act mode until conditions are fully met
+- Use simple future tense ("I will") when creating plans
+
+## Mode: Act
+**Capabilities:** Read and write, Implementation
+**Keyword:** `act`
+**Required Confidence:** 100%
+
+### Conditions to Enter Act Mode:
+1. Confidence has reached 100%
+2. User provides explicit approval ("Yes" or "Act")
+
+### Rules for Act Mode:
+- If user asks a question while in Act mode, switch back to Plan mode
+- Focus on implementation and execution of the approved plan
+
+## Usage:
+- Start in Plan mode by default
+- Use keyword `plan` to explicitly enter/return to Plan mode
+- Use keyword `act` to request transition to Act mode (conditions must be met)
+- System will track confidence and mode transitions automatically
