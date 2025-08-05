@@ -72,13 +72,13 @@ Brzmi znajomo?
 
 Przez długi czas przeleciałem na autopilocie, w trybie reagowania. Doskonale pamiętam, jak wielokrotnie ryzykowałem i zaczynałem pracować nad zadaniem, które nie do końca rozumiałem. Czasem się udawało, ale równie często musiałem:
 
-👉 Spędzać olbrzymie ilości czasu na dogadywaniu szczegółów, żeby się dowiedzieć, że nikt nie rozumie, co trzeba zrobić
+**👉 Spędzać olbrzymie ilości czasu na dogadywaniu szczegółów, żeby się dowiedzieć, że nikt nie rozumie, co trzeba zrobić**
 
-👉 Wprowadzać grube poprawki już po "ukończeniu" zadania
+**👉 Wprowadzać grube poprawki już po "ukończeniu" zadania**
 
-👉 Przepisywać wszystko od początku
+**👉 Przepisywać wszystko od początku**
 
-👉 Revertować zmiany, bo zupełnie źle podeszedłem do zadania
+**👉 Revertować zmiany, bo zupełnie źle podeszedłem do zadania**
 
 Najgorsze było to poczucie, że kolejne zadanie może się skończyć podobnie. Nie miałem kontroli nad tym, co robię i czy w ogóle idę w dobrym kierunku.`}
       </ReactMarkdown>
