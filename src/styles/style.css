@@ -557,6 +557,11 @@ span.custom-highlight.nopadding {
 
 /* Subscribe form */
 
+.subscribe-button-wrapper {
+  max-width: 300px;
+  margin: 0 auto;
+}
+
 .subscribe-form {
   margin-top: var(--spacing-12);
 }
