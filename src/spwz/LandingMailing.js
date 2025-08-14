@@ -1,4 +1,4 @@
-import { useRef, useState } from "react"
+import { useRef } from "react"
 import { config } from "@/config"
 
 import { CzemuCiSieToPrzyda } from "@/spwz/CzemuCiSieToPrzyda"
@@ -12,7 +12,6 @@ import { CoKiedy } from "@/spwz/CoKiedy"
 
 import NextImage from 'next/image'
 
-import { SubscribeSPWZ } from "@/components/mailerLiteSPWZ"
 import ShareButtons from "@/components/shareButtons"
 import { SPWZScrollButton, SubscribeSPWZToggleButton } from "./buttons"
 
@@ -21,9 +20,7 @@ export const LandingMailing = () => {
   const social = config.siteMetadata.social.social
   const coKiedyRef = useRef(null)
 
-  const [showPopup, setShowPopup] = useState(false)
-
-  const togglePopup = () => setShowPopup(showPopup => !showPopup)
+  const openSubscribePage = () => window.location.href = 'https://landing.mailerlite.com/webforms/landing/b0j1j8'
   const scrollToSection = () => coKiedyRef.current.scrollIntoView({ behavior: 'smooth' })
 
   return (
@@ -73,7 +70,7 @@ export const LandingMailing = () => {
       <CoKiedy ref={coKiedyRef} />
 
       <p style={{textAlign: 'center', marginTop: 'var(--spacing-10)'}}>
-        <SubscribeSPWZToggleButton togglePopup={togglePopup} />
+        <SubscribeSPWZToggleButton togglePopup={openSubscribePage} />
       </p>
 
       <hr className="hr-spwz" />
@@ -89,7 +86,7 @@ export const LandingMailing = () => {
       </p>
 
       <p style={{textAlign: 'center', marginTop: 'var(--spacing-10)'}}>
-        <SubscribeSPWZToggleButton togglePopup={togglePopup} />
+        <SubscribeSPWZToggleButton togglePopup={openSubscribePage} />
       </p>
 
       <hr className="hr-spwz" />
@@ -100,8 +97,6 @@ export const LandingMailing = () => {
          socialHandle={social}
          text={<>Jeśli znasz kogoś, kto chciałby zrozumieć, jak skutecznie pracować w zespole i poprawić swoje warunki zatrudnienia, ale nie wie jak się za to zabrać, to będę wdzięczny jeśli <span className="click-it">podeślesz mu link do tej strony.</span></>}
       />
-
-      <SubscribeSPWZ showPopup={showPopup} togglePopup={togglePopup} />
     </>
   )
 }
