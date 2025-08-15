@@ -123,9 +123,13 @@ export const SubscribeKIO = () => {
       </div>
 
       <div className="subscribe-button-wrapper">
-        <button className="primary-button" onClick={() => {
-          window.open('https://landing.mailerlite.com/webforms/landing/r5b2n3', '_blank')
-        }}>
+        <button
+          className="primary-button"
+          onClick={() => {
+            window.open('https://landing.mailerlite.com/webforms/landing/r5b2n3', '_blank')
+          }}
+          data-umami-event="kio-subscribe-button-clicked"
+        >
           Zapisz się
         </button>
       </div>

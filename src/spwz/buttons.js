@@ -4,6 +4,7 @@ export const SubscribeSPWZToggleButton = ({ togglePopup }) => (
     className="primary-button"
     style={{maxWidth: '232px', textTransform: 'uppercase'}}
     onClick={togglePopup}
+    data-umami-event="spwz-subscribe-button-clicked"
   >
     Dołącz do mailingu
   </button>
@@ -28,6 +29,7 @@ export const BuySPWZButton = () => (
     onClick={() => {
       window.location.href = 'https://edu.krzysztof.io/spwz-kup/'
     }}
+    data-umami-event="spwz-buy-button-clicked"
   >
     Dołączam do programu
   </button>

@@ -47,14 +47,7 @@ const SPWZEbookPage = () => {
       </h2>
 
       <p style={{textAlign: 'center', marginTop: 'var(--spacing-10)'}}>
-        <button
-          type="button"
-          className="primary-button"
-          style={{maxWidth: '232px', textTransform: 'uppercase'}}
-          onClick={redirectToEbook}
-        >
-          Pobieram
-        </button>
+        <PobieramButton redirectToEbook={redirectToEbook} />
       </p>
 
       <hr className="hr-spwz" />
@@ -156,14 +149,7 @@ Cały dokument napisałem w taki sposób, żeby każdy - od juniora do seniora -
       </ReactMarkdown>
 
       <p style={{textAlign: 'center', marginTop: 'var(--spacing-10)', marginBottom: 'var(--spacing-10)'}}>
-        <button
-          type="button"
-          className="primary-button"
-          style={{maxWidth: '232px', textTransform: 'uppercase'}}
-          onClick={redirectToEbook}
-        >
-          Pobieram
-        </button>
+        <PobieramButton redirectToEbook={redirectToEbook} />
       </p>
 
       <ReactMarkdown>
@@ -223,14 +209,7 @@ product ownerzy, CTO, oraz założyciele firm zajmujących się tworzeniem oprog
       </p>
 
       <p style={{textAlign: 'center', marginTop: 'var(--spacing-10)'}}>
-        <button
-          type="button"
-          className="primary-button"
-          style={{maxWidth: '232px', textTransform: 'uppercase'}}
-          onClick={redirectToEbook}
-        >
-          Pobieram
-        </button>
+        <PobieramButton redirectToEbook={redirectToEbook} />
       </p>
     </Layout>
   )
@@ -239,6 +218,19 @@ product ownerzy, CTO, oraz założyciele firm zajmujących się tworzeniem oprog
 SPWZEbookPage.theme = 'light'
 
 export default SPWZEbookPage
+
+const PobieramButton = ({ redirectToEbook }) => (
+  <button
+    type="button"
+    className="primary-button"
+    style={{ maxWidth: '232px', textTransform: 'uppercase' }}
+    onClick={redirectToEbook}
+    data-umami-event="spwz-ebook-notion-visited"
+  >
+    Pobieram
+  </button>
+);
+
 
 const CenteredH2 = forwardRef(({children}, ref) => {
   return (
