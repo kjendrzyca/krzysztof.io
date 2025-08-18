@@ -402,6 +402,7 @@ button:focus {outline:0;}
 
 .footer-links a {
   margin-left: var(--spacing-3);
+  color: var(--color-text-light);
 }
 
 .footer-social-links {
@@ -725,7 +726,6 @@ span.custom-highlight.nopadding {
   display: flex;
   flex-direction: column;
   gap: var(--spacing-4);
-  margin-bottom: var(--spacing-32);
 }
 
 .links-container {

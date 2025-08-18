@@ -42,8 +42,13 @@ const LinksPage = () => {
           />
 
           <LinkButton
+            href="https://nothinkdo.app"
+            title='💻 Moja aplikacja do zadań - NoThinkDo'
+          />
+
+          <LinkButton
             href="https://www.youtube.com/watch?v=URNzJb4rG0k"
-            title='🎤 Podcast Beyond Code'
+            title='🎤 Odcinek podcastu - "Marka osobista to efekt uboczny"'
           />
         </div>
       </div>
