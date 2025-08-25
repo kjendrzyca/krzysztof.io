@@ -1,13 +1,13 @@
 import { useRef } from "react"
 import { Highlight } from "@/components/Highlight"
 
-import { CzemuCiSieToPrzyda } from "@/spwz/CzemuCiSieToPrzyda"
 import { CenteredH2 } from "@/components/CenteredH2"
 import { LogoAndHeading } from "@/spwz/LogoAndHeading"
 import { CoZnajdzieszWSrodku } from "@/spwz/CoZnajdzieszWSrodku"
 import { Agenda } from "@/spwz/Agenda"
 import { DlaKogo } from "@/spwz/DlaKogo"
 import { OMnie } from "@/spwz/OMnie"
+import { OpisProblemu } from '@/spwz/OpisProblemu'
 
 import NextImage from 'next/image'
 
@@ -16,6 +16,7 @@ import { Demo } from "./sprzedaz/Demo"
 import { Dolacz } from "./sprzedaz/Dolacz"
 import { Testimonial } from "@/components/Testimonial"
 import { FAQ } from "./Faq"
+import { OpisProduktu } from "./OpisProduktu"
 
 export const LandingSprzedaz = () => {
   const dolacz = useRef(null)
@@ -32,7 +33,11 @@ export const LandingSprzedaz = () => {
 
       <hr className="hr-spwz" />
 
-      <CzemuCiSieToPrzyda />
+      <OpisProblemu />
+
+      <hr className="hr-spwz" />
+
+      <OpisProduktu />
 
       <hr className="hr-spwz" />
 

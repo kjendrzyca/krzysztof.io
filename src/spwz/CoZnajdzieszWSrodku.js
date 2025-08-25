@@ -1,7 +1,7 @@
 import { CenteredH2 } from "@/components/CenteredH2"
 import ReactMarkdown from "react-markdown"
 
-const coZnajdzieszMd = `
+const text = `
 ✅ **231 materiałów wideo** podzielonych na **24 moduły**. **19 godzin i 10 minut** wypełnionych samymi konkretami.
 
 📚 **Zero teorii dla teorii** – tylko **sprawdzone sposoby działania**.
@@ -24,7 +24,7 @@ export const CoZnajdzieszWSrodku = () => {
       </CenteredH2>
 
       <ReactMarkdown>
-        {coZnajdzieszMd}
+        {text}
       </ReactMarkdown>
     </>
   )
