@@ -1,0 +1,29 @@
+import React from 'react'
+import { CenteredH2 } from '@/components/CenteredH2'
+import { MarkdownWithHighlights } from '@/components/MarkdownWithHighlights'
+
+const text = `
+**Masz wrażenie, że nikt Cię nie docenia?** Mimo że się starasz, rozwijasz technicznie i dowozisz zadania, to podwyżki i ciekawsze role nadal Cię omijają. Awanse dostają inni, często ci, którzy są po prostu najgłośniejsi.
+
+**Męczy Cię chaos w zespole?** Brak testów, wieczny dług technologiczny, niejasne wymagania i ciągłe gaszenie pożarów wysysają z Ciebie energię. Masz dość tłumaczenia się z nie swoich błędów.
+
+**Praca przestała sprawiać Ci przyjemność?** To, co kiedyś było pasją, staje się źródłem stresu. Presja, poczucie braku wpływu i zmęczenie materiałem to pierwsze sygnały wypalenia, którego objawy zauważa u siebie co trzeci programista w Polsce.
+
+**Dopiero zaczynasz, może jest to Twoja pierwsza praca i chcesz uniknąć błędów, które spowalniają innych?** Widzisz chaos w starszych projektach i wiesz, że musi istnieć lepszy, bardziej poukładany sposób na pracę, ale nie masz się od kogo go nauczyć.
+
+**Zarządzasz zespołem i widzisz, że brakuje mu samodzielności?** Męczysz się z rozwiązywaniem tych samych problemów, a Twoi ludzie, mimo że są zdolni technicznie, nie potrafią wziąć pełnej odpowiedzialności za dowożenie tematów od A do Z.
+
+Jeśli kiwasz głową, czytając te punkty, to chcę Ci powiedzieć, że **nie jesteś z tym sam/sama.**
+
+Sama wiedza techniczna to tylko część układanki. Druga, często ważniejsza, to wszystko to, co dzieje się poza edytorem kodu.
+`
+
+export const OpisProblemu = () => {
+  return (
+    <>
+      <CenteredH2>Czy któraś z tych sytuacji brzmi znajomo?</CenteredH2>
+
+      <MarkdownWithHighlights>{text}</MarkdownWithHighlights>
+    </>
+  )
+}

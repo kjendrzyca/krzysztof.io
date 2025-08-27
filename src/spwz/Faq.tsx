@@ -17,6 +17,15 @@ const FaqItem = ({ question, answer }: FaqItemProps) => (
 export const FAQ = () => {
   return (
     <>
+      <CenteredH2>Masz inne pytania lub wątpliwości?</CenteredH2>
+
+      <p>Napisz do mnie na krzysztof@krzysztof.io i na pewno Ci pomogę.</p>
+
+      <p>
+        <strong>Nie boję się odradzać uczestnictwa w programie</strong>, jeśli uważam, że sie u
+        kogoś nie sprawdzi. Zależy mi na tym, żeby każdy uczestnik był zadowolony.
+      </p>
+
       <CenteredH2>FAQ</CenteredH2>
 
       <FaqItem
@@ -28,10 +37,6 @@ export const FAQ = () => {
         question="Co jeśli chcę, żeby firma sfinansowała mi zakup?"
         answer="Nie ma żadnego problemu. Napisz do mnie na maila i ogarniemy fakturę z odroczoną płatnością lub coś innego."
       />
-
-      <CenteredH2>Masz inne pytania?</CenteredH2>
-
-      <p>Napisz do mnie na krzysztof@krzysztof.io.</p>
     </>
   )
 }

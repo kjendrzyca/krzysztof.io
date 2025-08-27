@@ -10,7 +10,19 @@ export const SubscribeSPWZToggleButton = ({ togglePopup }: ToggleButtonProps) =>
     onClick={togglePopup}
     data-umami-event="spwz-subscribe-button-clicked"
   >
-    Dołącz do mailingu
+    Dołączam do mailingu
+  </button>
+)
+
+export const ListaOczekujacychButton = () => (
+  <button
+    type="button"
+    className="primary-button"
+    style={{ maxWidth: '232px', textTransform: 'uppercase' }}
+    onClick={() => (window.location.href = '/spwz#co-i-kiedy')}
+    data-umami-event="spwz-waiting-list-button-clicked"
+  >
+    Dołączam do mailingu
   </button>
 )
 
@@ -25,7 +37,7 @@ export const SPWZScrollButton = ({ scrollToSection: scrollToJoin }: ScrollButton
     style={{ maxWidth: '232px', textTransform: 'uppercase' }}
     onClick={scrollToJoin}
   >
-    Dołącz
+    Dołączam
   </button>
 )
 

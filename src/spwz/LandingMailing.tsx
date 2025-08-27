@@ -1,12 +1,8 @@
 import { useRef } from 'react'
 import { config } from '@/config'
 
-import { CzemuCiSieToPrzyda } from '@/spwz/CzemuCiSieToPrzyda'
 import { CenteredH2 } from '@/components/CenteredH2'
 import { LogoAndHeading } from '@/spwz/LogoAndHeading'
-import { CoZnajdzieszWSrodku } from '@/spwz/CoZnajdzieszWSrodku'
-import { Agenda } from '@/spwz/Agenda'
-import { DlaKogo } from '@/spwz/DlaKogo'
 import { OMnie } from '@/spwz/OMnie'
 import { CoKiedy } from '@/spwz/CoKiedy'
 
@@ -14,6 +10,8 @@ import NextImage from 'next/image'
 
 import ShareButtons from '@/components/shareButtons'
 import { SPWZScrollButton, SubscribeSPWZToggleButton } from './buttons'
+import { OpisProblemu } from './OpisProblemu'
+import { OpisProduktu } from './OpisProduktu'
 
 export const LandingMailing = () => {
   const siteUrl = config.siteMetadata.siteUrl
@@ -34,60 +32,17 @@ export const LandingMailing = () => {
 
       <hr className="hr-spwz" />
 
-      <CzemuCiSieToPrzyda />
+      <OpisProblemu />
 
       <hr className="hr-spwz" />
 
-      <CoZnajdzieszWSrodku />
-
-      <p
-        style={{
-          textAlign: 'center',
-          marginTop: 'var(--spacing-10)',
-          marginBottom: 'var(--spacing-10)',
-        }}
-      >
-        <SPWZScrollButton scrollToSection={scrollToSection} />
-      </p>
-
-      <p style={{ marginInline: '-22px' }}>
-        <span
-          className="image-wrapper"
-          style={{ textAlign: 'center' }}
-        >
-          <NextImage
-            src="/spwz/edu-frame.png"
-            fill
-            alt="Platforma"
-          />
-        </span>
-      </p>
-
-      <hr className="hr-spwz" />
-
-      <Agenda />
-
-      <p
-        style={{
-          textAlign: 'center',
-          marginTop: 'var(--spacing-10)',
-          marginBottom: 'var(--spacing-10)',
-        }}
-      >
-        <SPWZScrollButton scrollToSection={scrollToSection} />
-      </p>
-
-      <hr className="hr-spwz" />
-
-      <DlaKogo />
-
-      <hr className="hr-spwz" />
-
-      <OMnie />
+      <OpisProduktu />
 
       <hr className="hr-spwz" />
 
       <CoKiedy ref={coKiedyRef} />
+
+      <hr className="hr-spwz" />
 
       <p style={{ textAlign: 'center', marginTop: 'var(--spacing-10)' }}>
         <SubscribeSPWZToggleButton togglePopup={openSubscribePage} />
@@ -110,6 +65,10 @@ export const LandingMailing = () => {
       <p style={{ textAlign: 'center', marginTop: 'var(--spacing-10)' }}>
         <SubscribeSPWZToggleButton togglePopup={openSubscribePage} />
       </p>
+
+      <hr className="hr-spwz" />
+
+      <OMnie />
 
       <hr className="hr-spwz" />
 

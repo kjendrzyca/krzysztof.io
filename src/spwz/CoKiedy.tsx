@@ -16,7 +16,7 @@ Przykładowy email znajdziesz [tutaj](https://emails.skutecznyprogramista.pl/u4b
 export const CoKiedy = forwardRef<HTMLDivElement>((_, ref) => {
   return (
     <div ref={ref}>
-      <CenteredH2>Co i kiedy?</CenteredH2>
+      <CenteredH2 id="co-i-kiedy">Co i kiedy?</CenteredH2>
 
       <ReactMarkdown>{coKiedyMd}</ReactMarkdown>
 

@@ -1,20 +1,41 @@
 import { CenteredH2 } from '@/components/CenteredH2'
-import ReactMarkdown from 'react-markdown'
+import { MarkdownWithHighlights } from '@/components/MarkdownWithHighlights'
 import NextImage from 'next/image'
 
-const kilkaSlowOMnieMd = `
-Pracowałem w różnych projektach - od startupów po wieloletnie legacy.
+const text = `
+===**Zanim zacząłem pokazywać, jak radzić sobie z chaosem w IT, sam przez niego przeszedłem.**===
 
-Byłem programistą, liderem technicznym, architektem i doradcą technicznym.
+Pracuję w branży od 2013 roku. Zaczynałem w software housie, w wieloletnim legacy, a z czasem trafiłem do startupów.
 
-Pomagałem przekształcać dysfunkcyjne zespoły w takie, które wydajnie rozwiązują wszystkie napotkane problemy.
+Byłem programistą, liderem technicznym, architektem i doradcą. Ta droga pokazała mi, że **same umiejętności techniczne nie wystarczą.**
 
-Widziałem większość antypatternów w kodzie i zespołach - i wiem, jak sobie z nimi radzić.
+Widziałem projekty, które były ogarnięte technicznie, ale upadały przez złą komunikację.
 
-Swoje doświadczenia weryfikuję przez dzielenie się nimi na konferencjach, warsztatach, w pracy na etacie oraz online.
+Obserwowałem świetnych programistów, którzy wypalali się, bo utknęli w dysfunkcyjnych zespołach.
 
-Rolę bullshit detectora pełni też bogata siatka znajomych - doświadczeni programiści, analitycy biznesowi, scrum masterzy,
-product ownerzy, CTO, oraz założyciele firm zajmujących się tworzeniem oprogramowania.
+Sam byłem w miejscu, w którym czułem, że mimo wiedzy i zaangażowania, stoję w miejscu, a moja praca jest niedoceniana.
+
+**Dlaczego warto dać temu szansę?**
+
+Bo ten program nie jest zbiorem teorii z książek.
+
+To system, który powstał w oparciu o lata praktyki i setki rozmów.
+
+- **Widziałem większość antypatternów.** Pracując w różnych rolach, miałem okazję zobaczyć, co psuje projekty od środka - zarówno w kodzie, jak i w zespołach. Wiem, jak sobie z tym radzić i jakich błędów unikać.
+- **Od lat pomagam naprawiać to, co nie działa w zespole.** Praktycznie każdy zespół, w którym pracowałem, w pewnym momencie musiał uporać się z jakimiś dysfunkcjami. Zawsze staram się z tym pomóc, bo inaczej nie da się sensownie pracować. Wiem, co działa, a co jest tylko stratą czasu.
+- **Wszystko weryfikuję w praktyce.** Wiedzą z tego programu dzielę się na konferencjach, warsztatach i w codziennej pracy. Każdy model i taktyka zostały przetestowane w boju i przepuszczone przez mój "bullshit detector" - sieć doświadczonych znajomych z branży: od programistów, przez managerów, po założycieli firm.
+
+**Moje podejście:**
+
+Stworzyłem ten program, bo mam dość powierzchownych rozwiązań, które nie mają przełożenia na rzeczywistość. Wierzę, że:
+
+- **Programowanie to rzemiosło, a nie wyścig.** Skupiam się na jakości, świadomym rozwoju i dostarczaniu wartości biznesowej, a nie tylko na "klepaniu tasków".
+- **Praktyka jest ważniejsza niż teoria.** Daję Ci konkretne, sprawdzone narzędzia i modele myślowe, a nie akademickie definicje.
+- **Szczerość buduje zaufanie.** Mówię wprost o problemach i pułapkach, również tych, w które sam wpadłem.
+
+===Chcę Ci dać system, którego mi brakowało na początku mojej drogi.=== System, który pomoże Ci odzyskać kontrolę, zbudować silną pozycję w zespole i czerpać satysfakcję z pracy, na którą zasługujesz.
+
+Jeśli to podejście z Tobą rezonuje, to jesteś we właściwym miejscu.
 `
 
 export const OMnie = () => {
@@ -38,7 +59,7 @@ export const OMnie = () => {
 
       <h3 style={{ textAlign: 'center', marginTop: 0 }}>Krzysztof Jendrzyca / @kjendrzyca</h3>
 
-      <ReactMarkdown>{kilkaSlowOMnieMd}</ReactMarkdown>
+      <MarkdownWithHighlights highlightNopadding>{text}</MarkdownWithHighlights>
     </>
   )
 }

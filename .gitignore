@@ -33,3 +33,5 @@ yarn-error.log*
 
 # images copied from /content
 /public/images/
+src/spwz/agenda.md
+src/spwz/bio.md
