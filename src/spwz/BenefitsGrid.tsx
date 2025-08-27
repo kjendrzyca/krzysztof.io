@@ -29,7 +29,11 @@ const PeopleIcon = () => (
     height="32"
   >
     <path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2" />
-    <circle cx="9" cy="7" r="4" />
+    <circle
+      cx="9"
+      cy="7"
+      r="4"
+    />
     <path d="M23 21v-2a4 4 0 00-3-3.87" />
     <path d="M16 3.13a4 4 0 010 7.75" />
   </svg>
@@ -69,24 +73,28 @@ const TrendingUpIcon = () => (
 const benefits = [
   {
     icon: <ChecklistIcon />,
-    title: "Przejąć kontrolę nad zadaniami:",
-    description: "Poznasz sprawdzony proces planowania i realizacji zadań, który ogranicza stres, eliminuje poprawki i buduje Twoją reputację jako osoby niezawodnej."
+    title: 'Przejąć kontrolę nad zadaniami:',
+    description:
+      'Poznasz sprawdzony proces planowania i realizacji zadań, który ogranicza stres, eliminuje poprawki i buduje Twoją reputację jako osoby niezawodnej.',
   },
   {
     icon: <PeopleIcon />,
-    title: "Zbudować silną pozycję w zespole:",
-    description: "Zrozumiesz, jak działają zespoły, jak rozwiązywać konflikty i jak skutecznie się komunikować, żeby Twoje pomysły były wysłuchane i wdrażane."
+    title: 'Zbudować silną pozycję w zespole:',
+    description:
+      'Zrozumiesz, jak działają zespoły, jak rozwiązywać konflikty i jak skutecznie się komunikować, żeby Twoje pomysły były wysłuchane i wdrażane.',
   },
   {
     icon: <ChatIcon />,
-    title: "Pewnie rozmawiać z klientem i biznesem:",
-    description: "Nauczysz się rozmawiać językiem korzyści, rozumieć potrzeby biznesowe i przekonywać do swoich racji bez niepotrzebnych spięć."
+    title: 'Pewnie rozmawiać z klientem i biznesem:',
+    description:
+      'Nauczysz się rozmawiać językiem korzyści, rozumieć potrzeby biznesowe i przekonywać do swoich racji bez niepotrzebnych spięć.',
   },
   {
     icon: <TrendingUpIcon />,
-    title: "Świadomie kształtować swój rozwój:",
-    description: "Dowiesz się, jak rozmawiać o podwyżce i awansie w oparciu o konkretne dowody, a nie nadzieję, że ktoś Cię zauważy."
-  }
+    title: 'Świadomie kształtować swój rozwój:',
+    description:
+      'Dowiesz się, jak rozmawiać o podwyżce i awansie w oparciu o konkretne dowody, a nie nadzieję, że ktoś Cię zauważy.',
+  },
 ]
 
 export const BenefitsGrid = () => {
@@ -94,10 +102,11 @@ export const BenefitsGrid = () => {
     <>
       <div className="benefits-grid">
         {benefits.map((benefit, index) => (
-          <div key={index} className="benefit-card">
-            <div className="benefit-icon">
-              {benefit.icon}
-            </div>
+          <div
+            key={index}
+            className="benefit-card"
+          >
+            <div className="benefit-icon">{benefit.icon}</div>
             <h3 className="benefit-title">{benefit.title}</h3>
             <p className="benefit-description">{benefit.description}</p>
           </div>
@@ -106,7 +115,11 @@ export const BenefitsGrid = () => {
 
       <div className="benefits-summary">
         <h3 className="summary-title">
-          <span className="summary-highlight">W skrócie:</span> Pokażę Ci, jak stać się dojrzałym, godnym zaufania i cenionym członkiem zespołu, którego głos ma znaczenie.
+          W skrócie:{' '}
+          <span className="summary-highlight">
+            Pokażę Ci, jak stać się dojrzałym, godnym zaufania i cenionym członkiem zespołu, którego
+            głos ma znaczenie.
+          </span>
         </h3>
       </div>
 
@@ -126,8 +139,6 @@ export const BenefitsGrid = () => {
           box-shadow: var(--shadow-elevation-low);
           position: relative;
         }
-
-
 
         .benefit-icon {
           color: var(--color-primary);
@@ -164,8 +175,6 @@ export const BenefitsGrid = () => {
           align-items: center;
           text-align: center;
         }
-
-
 
         .summary-title {
           font-size: var(--fontSize-2);

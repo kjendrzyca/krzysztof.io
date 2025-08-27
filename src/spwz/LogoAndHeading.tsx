@@ -11,7 +11,7 @@ export const LogoAndHeading = () => {
       <h1 style={{ fontSize: '2.5rem', marginTop: 'var(--spacing-6)', lineHeight: '3.2rem' }}>
         Bądź odpowiedzią na pytanie:
         <br />
-        <Highlight>"Kto nam to ogarnie?"</Highlight>
+        <Highlight>&quot;Kto nam to ogarnie?&quot;</Highlight>
       </h1>
 
       <h2
