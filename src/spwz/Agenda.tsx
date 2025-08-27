@@ -1,12 +1,7 @@
 import { CenteredH2 } from '@/components/CenteredH2'
-import { Highlight } from '@/components/Highlight'
-import ReactMarkdown from 'react-markdown'
-import remarkGfm from 'remark-gfm'
-import rehypeRaw from 'rehype-raw'
-import { processHighlights } from '@/lib/processHighlights'
-import type { ReactNode } from 'react'
+import { MarkdownWithHighlights } from '@/components/MarkdownWithHighlights'
 
-const textRaw = `
+const text = `
 Program jest podzielony na logiczne części, które krok po kroku przeprowadzą Cię przez cały system.
 
 ### ===CZĘŚĆ I: FUNDAMENTY I MINDSET===
@@ -144,24 +139,12 @@ Pokażę Ci prosty model, który pozwoli w kilka minut "zdiagnozować" klienta i
 ✅ Rezultat: Przestajesz działać na czuja. Zamiast zastanawiać się, dlaczego klient jest "trudny", dostajesz konkretną instrukcję obsługi do każdego z nich. Wiesz, jakich argumentów użyć, jakich unikać i jak budować zaufanie, dopasowując się do jego naturalnego stylu pracy.
 `
 
-const text = processHighlights(textRaw)
-
 export const Agenda = () => {
   return (
     <>
-      <CenteredH2>📋 Pełna agenda:</CenteredH2>
+      <CenteredH2>📋 Agenda:</CenteredH2>
 
-      <ReactMarkdown
-        components={{
-          mark: ({ children }: { children: ReactNode }) => (
-            <Highlight nopadding>{children}</Highlight>
-          ),
-        }}
-        remarkPlugins={[remarkGfm]}
-        rehypePlugins={[rehypeRaw]}
-      >
-        {text}
-      </ReactMarkdown>
+      <MarkdownWithHighlights highlightNopadding>{text}</MarkdownWithHighlights>
     </>
   )
 }

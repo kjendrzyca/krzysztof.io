@@ -1,12 +1,7 @@
 import { CenteredH2 } from '@/components/CenteredH2'
-import { Highlight } from '@/components/Highlight'
-import ReactMarkdown from 'react-markdown'
-import remarkGfm from 'remark-gfm'
-import rehypeRaw from 'rehype-raw'
-import { processHighlights } from '@/lib/processHighlights'
-import type { ReactNode } from 'react'
+import { MarkdownWithHighlights } from '@/components/MarkdownWithHighlights'
 
-const textRaw = `
+const text = `
 **Podchodzę do tego programu bardzo osobiście.** Zależy mi na tym, żeby ta wiedza naprawdę u Ciebie zadziałała.
 
 Dlatego daję Ci podwójną gwarancję.
@@ -26,24 +21,12 @@ Wspólnie przeanalizujemy Twoją sytuację i znajdziemy rozwiązanie. Bez dodatk
 Chcę mieć pewność, że wyciągniesz z tego programu jak najwięcej.
 `
 
-const text = processHighlights(textRaw)
-
 export const Gwarancja = () => {
   return (
     <>
       <CenteredH2>🤝 Gwarancja satysfakcji i osobistego wsparcia</CenteredH2>
 
-      <ReactMarkdown
-        components={{
-          mark: ({ children }: { children: ReactNode }) => (
-            <Highlight nopadding>{children}</Highlight>
-          ),
-        }}
-        remarkPlugins={[remarkGfm]}
-        rehypePlugins={[rehypeRaw]}
-      >
-        {text}
-      </ReactMarkdown>
+      <MarkdownWithHighlights highlightNopadding>{text}</MarkdownWithHighlights>
     </>
   )
 }
