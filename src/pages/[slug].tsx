@@ -124,7 +124,7 @@ const Post = ({
         title={adjustedTitle}
         description={description}
         slug={slug}
-        ogType="article"
+        ogType={contentPath === 'pages' ? 'website' : 'article'}
         ogImagePath={bannerPath ?? undefined}
       />
       <article
