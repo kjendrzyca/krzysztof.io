@@ -110,21 +110,6 @@ const MailerLiteForm = () => {
   )
 }
 
-type ToggleButtonProps = {
-  togglePopup: () => void
-}
-
-export const SubscribeSPWZSzkolenieToggleButton = ({ togglePopup }: ToggleButtonProps) => (
-  <button
-    type="button"
-    className="primary-button"
-    style={{ maxWidth: '232px', textTransform: 'uppercase' }}
-    onClick={togglePopup}
-  >
-    Zapisz się
-  </button>
-)
-
 type SubscribeProps = {
   showPopup: boolean
   togglePopup: () => void

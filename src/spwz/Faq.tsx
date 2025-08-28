@@ -17,7 +17,7 @@ const FaqItem = ({ question, answer }: FaqItemProps) => (
 export const FAQ = () => {
   return (
     <>
-      <CenteredH2>Masz inne pytania lub wątpliwości?</CenteredH2>
+      <CenteredH2>Masz pytania lub wątpliwości?</CenteredH2>
 
       <p>Napisz do mnie na krzysztof@krzysztof.io i na pewno Ci pomogę.</p>
 

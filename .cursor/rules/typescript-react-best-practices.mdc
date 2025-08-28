@@ -1,0 +1,21 @@
+---
+alwaysApply: true
+---
+# TypeScript/React Best Practices
+
+## Avoid React.FC
+- Never use `React.FC` or `React.FunctionComponent` for typing React components
+- Instead, type props directly in the function parameter
+- Example: `const Component = ({ prop }: Props) => { ... }` not `const Component: React.FC<Props> = ({ prop }) => { ... }`
+- Reason: React.FC is outdated, adds unnecessary complexity, interferes with TypeScript inference, and automatically includes children even when not needed
+
+## Prefer Types over Interfaces
+- Use `type` instead of `interface` for object shapes and component props
+- Example: `type Props = { name: string }` not `interface Props { name: string }`
+- Exception: Only use `interface` when you need declaration merging or extending other interfaces
+- Reason: Types are more flexible, support unions/intersections better, and are more consistent with modern TypeScript practices
+
+## Additional TypeScript Rules
+- Always use explicit return types for functions when not obvious
+- Prefer const assertions over type annotations when possible
+- Use meaningful names for generic type parameters (not just T, U, V)

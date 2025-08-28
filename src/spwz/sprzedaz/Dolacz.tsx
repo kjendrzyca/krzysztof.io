@@ -8,7 +8,7 @@ export const Dolacz = forwardRef<HTMLDivElement>((_, ref) => {
     <div ref={ref}>
       <CenteredH2>
         Dołącz teraz za{' '}
-        <span style={{ color: 'var(--color-success)', fontWeight: 'bold' }}>768 zł</span>
+        <span style={{ color: 'var(--color-success)', fontWeight: 'bold' }}>769 zł</span>
       </CenteredH2>
 
       <ReactMarkdown>
