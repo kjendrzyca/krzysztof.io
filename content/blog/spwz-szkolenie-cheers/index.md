@@ -1,17 +1,13 @@
 ---
 title: 'Cheers'
 createdAt: '2024-09-17'
-updatedAt: '2024-09-29'
+updatedAt: '2025-08-28'
 published: true
 isLanding: true
 shareButtons: false
 ---
 
 Wszystko gra, potwierdzam Twój zapis i jesteśmy w kontakcie.
-
-**Link do szkolenia: https://www.youtube.com/live/Nn1PnpbrVm8**
-
-Podeślę Ci go jeszcze przed samym szkoleniem.
 
 Pamiętaj, żeby [dodać](/dodaj-mnie/) mój adres krzysztof@skutecznyprogramista.pl do kontaktów.
 
