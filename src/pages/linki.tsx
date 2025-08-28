@@ -38,6 +38,11 @@ const LinksPage = () => {
 
         <div className="links-container">
           <LinkButton
+            href="https://krzysztof.io/spwz-szkolenie/"
+            title="💻 Szkolenie online: Jak szybciej wskoczyć na poziom seniora (i wyżej), zbudować mocną pozycję w zespole i zacząć pracować na własnych zasadach"
+          />
+
+          <LinkButton
             href="https://skutecznapracawzespole.pl"
             title="🧑‍💻 Kompletny przewodnik po soft skillach w IT - skutecznapracawzespole.pl"
           />
