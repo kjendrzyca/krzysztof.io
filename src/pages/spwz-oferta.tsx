@@ -10,7 +10,7 @@ const SPWZPage = () => {
         description={`Kompletny przewodnik po umiejętnościach miękkich dla programistów. Odkryj sprawdzone metody skutecznej współpracy w zespole, z klientem i pracodawcą.`}
         slug="spwz"
         ogType="page"
-        ogImagePath="/spwz/spwz-og.png"
+        ogImagePath="/spwz/spwz-offer-og.png"
       />
 
       <LandingSprzedaz />
