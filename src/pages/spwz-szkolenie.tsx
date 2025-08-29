@@ -15,7 +15,7 @@ const SPWZSzkoleniePage = () => {
     <Layout isLandingPage>
       <SEO
         title="Jak szybciej wskoczyć na poziom seniora (i wyżej), zbudować mocną pozycję w zespole i zacząć pracować na własnych zasadach."
-        description={`W 90 minut rozłożymy na części pierwsze system, którego używam od 10 lat. Zobaczysz, na czym polega "postawa rzemieślnika" i poznasz 5 konkretnych strategii znajdowania tego, co jest naprawdę wartościowe w Twoim zespole, by następnie skutecznie wymienić to na wpływ, kontrolę i lepsze warunki pracy.`}
+        description={`W 90 minut rozłożymy na części pierwsze system, którego używam od ponad 10 lat. Zobaczysz, na czym polega "postawa rzemieślnika" i poznasz 5 konkretnych strategii znajdowania tego, co jest naprawdę wartościowe w Twoim zespole, by następnie skutecznie wymienić to na wpływ, kontrolę i lepsze warunki pracy.`}
         slug="spwz-szkolenie"
         ogType="page"
         ogImagePath="/spwz/spwz-szkolenie-2-og.png"
@@ -48,7 +48,7 @@ const SPWZSzkoleniePage = () => {
       >
         W <strong>90 minut</strong> rozłożymy na części pierwsze system,
         <br />
-        którego używam od <strong>10 lat</strong>.<br />
+        którego używam od <strong>ponad 10 lat</strong>.<br />
         <br />
         Zobaczysz, na czym polega <strong>&ldquo;postawa rzemieślnika&rdquo;</strong> i poznasz{' '}
         <strong>5 konkretnych strategii</strong> na identyfikowanie oraz rozwijanie{' '}

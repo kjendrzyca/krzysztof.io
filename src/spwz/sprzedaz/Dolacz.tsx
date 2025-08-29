@@ -28,7 +28,7 @@ export const Dolacz = forwardRef<HTMLDivElement>((_, ref) => {
 
 **✅ Gwarancja satysfakcji** - jeśli z jakiegoś powodu program Ci nie podejdzie, to wystarczy, że do mnie napiszesz i **zwrócę Ci 100% wpłaconej kwoty**. Masz na to **30 dni** i nie musisz się w żaden sposób tłumaczyć.
 
-👉 Za tę cenę dostajesz wiedzę wyniesioną z wielu różnych projektów, firm, konferencji, książek, rozmów, porażek oraz zdobytą przez długą obserwację doświadczonych programistów. To wszystko dodatkowo przefiltrowane przez 10 lat doświadczeń, testów i eksperymentowania.
+👉 Za tę cenę dostajesz wiedzę wyniesioną z wielu różnych projektów, firm, konferencji, książek, rozmów, porażek oraz zdobytą przez długą obserwację doświadczonych programistów. To wszystko dodatkowo przefiltrowane przez ponad 10 lat doświadczeń, testów i eksperymentowania.
 
 👉 Na chwilę obecną, nie znalazłem lepszej opcji i **jest to jedyny taki program na rynku**.
 
