@@ -36,3 +36,4 @@ yarn-error.log*
 src/spwz/agenda.md
 src/spwz/bio.md
 src/spwz/bio-szkolenie.md
+/blog-posts-collection
