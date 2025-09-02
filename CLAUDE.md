@@ -4,11 +4,56 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Development Commands
 
+**Package Manager:**
+- Use `yarn` for all package management commands in this repository
+- Do not use `npm` commands
+
 **Development:**
 - `yarn dev` - Start development server on port 4022
 - `yarn build` - Production build (includes prebuild image copying)
 - `yarn lint` - ESLint with Prettier integration
 - `yarn lint:fix` - Auto-fix linting issues
+
+**Database migrations:**
+- Never run migrations unless asked. If they need to be run, inform the user and print the command he should use.
+
+## TypeScript/React Best Practices
+
+### Avoid React.FC
+- Never use `React.FC` or `React.FunctionComponent` for typing React components
+- Instead, type props directly in the function parameter
+- Example: `const Component = ({ prop }: Props) => { ... }` not `const Component: React.FC<Props> = ({ prop }) => { ... }`
+- Reason: React.FC is outdated, adds unnecessary complexity, interferes with TypeScript inference, and automatically includes children even when not needed
+
+### Prefer Types over Interfaces
+- Use `type` instead of `interface` for object shapes and component props
+- Example: `type Props = { name: string }` not `interface Props { name: string }`
+- Exception: Only use `interface` when you need declaration merging or extending other interfaces
+- Reason: Types are more flexible, support unions/intersections better, and are more consistent with modern TypeScript practices
+
+### Type Definitions vs Type Assertions
+- **ALWAYS prefer type definitions (`:Type`) over type assertions (`as Type`)**
+- Type definitions provide compile-time type checking and catch mismatches
+- Type assertions bypass type checking and should only be used when you know more than TypeScript
+- Examples:
+  ```typescript
+  // Good - type definition
+  const getData = (): ApiData => fetchData()
+  const user: User = { name: 'John', age: 30 }
+  
+  // Avoid - type assertion (unless necessary)
+  const data = fetchData() as ApiData
+  ```
+- **When type assertions are acceptable:**
+  - DOM elements: `element as HTMLInputElement`
+  - Working with untyped third-party libraries
+  - When you have more type information than TypeScript can infer
+
+### Additional TypeScript Rules
+- Always use explicit return types for functions when not obvious
+- Prefer const assertions over type annotations when possible
+- Use meaningful names for generic type parameters (not just T, U, V)
+- Use generic functions instead of type assertions when possible
 
 ## Architecture Overview
 
