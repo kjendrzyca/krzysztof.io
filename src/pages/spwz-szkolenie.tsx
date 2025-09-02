@@ -262,6 +262,7 @@ function DolaczDoSzkoleniaButton() {
       onClick={() =>
         (window.location.href = 'https://landing.mailerlite.com/webforms/landing/q5y3j2')
       }
+      data-umami-event="spwz-subscribe-button-clicked-szkolenie"
     >
       Dołączam
     </button>
