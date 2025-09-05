@@ -18,6 +18,7 @@ import { FAQ } from './Faq'
 import { CzyToDlaMnie } from './CzyToDlaMnie'
 import { Gwarancja } from './sprzedaz/Gwarancja'
 import { ListaOczekujacych } from './sprzedaz/ListaOczekujacych'
+import { Dolacz } from './sprzedaz/Dolacz'
 
 export const LandingSprzedaz = () => {
   const dolacz = useRef<HTMLDivElement>(null)
@@ -105,11 +106,11 @@ export const LandingSprzedaz = () => {
 
       <hr className="hr-spwz" />
 
+      <Dolacz ref={dolacz} />
+
       <ListaOczekujacych ref={dolacz} />
 
-      {/* <Dolacz ref={dolacz} />
-
-      <BuySPWZButtonParagraph />
+      {/* <BuySPWZButtonParagraph />
 
       <p style={{ textAlign: 'center', marginTop: 'var(--spacing-10)', fontSize: '0.8rem' }}>
         Kliknięcie w przycisk przekieruje Cię na stronę edu.krzysztof.io, gdzie możesz dokonać

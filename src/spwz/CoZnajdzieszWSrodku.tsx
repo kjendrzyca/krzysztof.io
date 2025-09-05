@@ -34,7 +34,7 @@ Masz również możliwość dołączenia do spotkań w przyszłych edycjach prog
 
 **6️⃣ Baza notatek ze spotkań na żywo**
 
-Nie nagrywam spotkań, ale robię notatki, żeby nic nam nie uciekło gdy rozpracujemy jakiś ciekawy problem lub temat. Nie ląduje w nich nic poufnego.
+Nie nagrywam spotkań, ale robię notatki, żeby nic nam nie uciekło, gdy rozpracujemy jakiś ciekawy problem lub temat. Nie ląduje w nich nic poufnego.
 
 **7️⃣ Dostęp do grupy na Discordzie**
 
