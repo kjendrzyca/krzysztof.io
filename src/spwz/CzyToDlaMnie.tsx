@@ -21,8 +21,9 @@ export const CzyToDlaMnie = () => {
     <>
       <CenteredH2>Dla kogo jest ten program?</CenteredH2>
 
-      <p>
-        W skrócie:{' '}
+      <p style={{ textAlign: 'center' }}>
+        W skrócie:
+        <br />
         <Highlight>
           <strong>Dla ambitnych programistów (na każdym poziomie), którzy chcą więcej.</strong>
         </Highlight>

@@ -5,6 +5,7 @@ import NextImage from 'next/image'
 import { Layout } from '@/components/layout'
 import SEO from '@/components/seo'
 import { Highlight } from '@/components/Highlight'
+import { ResponsiveH1 } from '../components/ResponsiveH1'
 
 const SPWZEbookPage = () => {
   const redirectToEbook = () => {
@@ -32,11 +33,11 @@ const SPWZEbookPage = () => {
         Darmowy ebook 📖
       </h3>
 
-      <h1 style={{ fontSize: '2.6rem', marginTop: 'var(--spacing-6)', lineHeight: '3.2rem' }}>
+      <ResponsiveH1>
         <Highlight>
           Od revertowania merge requestów do pewności, że QA nie znajdzie żadnych bugów
         </Highlight>
-      </h1>
+      </ResponsiveH1>
 
       <h2
         style={{

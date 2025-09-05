@@ -13,9 +13,7 @@ type LayoutProps = {
 }
 
 export const Layout = ({ children, isLandingPage }: LayoutProps) => {
-  const globalWrapperClassNames = ['global-wrapper', isLandingPage ? 'wide' : null]
-    .filter((cn) => cn)
-    .join(' ')
+  const globalWrapperClassNames = ['global-wrapper'].filter((cn) => cn).join(' ')
 
   return (
     <div className={globalWrapperClassNames}>

@@ -1,5 +1,6 @@
 import { Highlight } from '@/components/Highlight'
 import { SPWZLogo } from './SPWZLogo'
+import { ResponsiveH1 } from '@/components/ResponsiveH1'
 
 export const LogoAndHeading = () => {
   return (
@@ -8,11 +9,11 @@ export const LogoAndHeading = () => {
         <SPWZLogo />
       </p>
 
-      <h1 style={{ fontSize: '2.5rem', marginTop: 'var(--spacing-6)', lineHeight: '3.2rem' }}>
+      <ResponsiveH1>
         Bądź odpowiedzią na pytanie:
         <br />
         <Highlight>&quot;Kto nam to ogarnie?&quot;</Highlight>
-      </h1>
+      </ResponsiveH1>
 
       <h2
         style={{
