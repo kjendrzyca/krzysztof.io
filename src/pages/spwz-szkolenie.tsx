@@ -184,10 +184,10 @@ Dodatkowo: Na sam koniec szkolenia przedstawię też krótko **III edycję progr
           style={{ textAlign: 'center' }}
         >
           <NextImage
-            src="/spwz/face.jpg"
-            width={282}
-            height={282}
-            alt="Opinie"
+            src="/spwz/face2.jpg"
+            width={320}
+            height={400}
+            alt="Krzysztof Jendrzyca"
           />
         </span>
       </p>
