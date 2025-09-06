@@ -333,7 +333,7 @@ export const Dolacz = forwardRef<HTMLDivElement>((_, ref) => {
           To wszystko otrzymasz za: <span className="price">769 zł brutto</span>
         </h3>
         <p className="pricing-description">
-          Wychodzi ~30 zł za moduł, czyli jakieś dwie duże, dobre kawy u mnie na mieście.
+          Wychodzi ~30 zł za moduł, czyli jakieś dwie duże kawy u mnie na mieście.
         </p>
         <p className="pricing-highlight">
           👉 Za tę cenę dostajesz przefiltrowane ponad 10 lat doświadczeń, eksperymentowania,
