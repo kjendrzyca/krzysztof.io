@@ -15,6 +15,8 @@ Obserwowałem świetnych programistów, którzy wypalali się, bo utknęli w dys
 
 Sam byłem w miejscu, w którym czułem, że mimo wiedzy i zaangażowania, stoję w miejscu, a moja praca jest niedoceniana.
 
+Teraz wiem, że w żadnym projekcie nie jest dobrze. Ale zawsze mogę zrobić coś, żeby temu zaradzić.
+
 **Dlaczego warto dać temu szansę?**
 
 Bo ten program nie jest zbiorem teorii z książek.
@@ -32,8 +34,9 @@ Stworzyłem ten program, bo mam dość powierzchownych rozwiązań, które nie m
 - **Programowanie to rzemiosło, a nie wyścig.** Skupiam się na jakości, świadomym rozwoju i dostarczaniu wartości biznesowej, a nie tylko na "klepaniu tasków".
 - **Praktyka jest ważniejsza niż teoria.** Daję Ci konkretne, sprawdzone narzędzia i modele myślowe, a nie akademickie definicje.
 - **Szczerość buduje zaufanie.** Mówię wprost o problemach i pułapkach, również tych, w które sam wpadłem.
+- **Unikanie problemów to strategia tylko dla wytrwałych**, którzy nie boją się wypalenia i skakania po firmach, a rozwiązywanie problemów jest dla tych, którzy chcą naprawdę mieć spokój.
 
-===Chcę Ci dać system, którego mi brakowało na początku mojej drogi.=== System, który pomoże Ci odzyskać kontrolę, zbudować silną pozycję w zespole i czerpać satysfakcję z pracy, na którą zasługujesz.
+===Chcę Ci dać system, którego mi brakowało na początku mojej drogi.=== System, który pomoże Ci odzyskać kontrolę, zbudować silną pozycję w zespole i czerpać satysfakcję z pracy.
 
 Jeśli to podejście z Tobą rezonuje, to jesteś we właściwym miejscu.
 `
@@ -49,10 +52,10 @@ export const OMnie = () => {
           style={{ textAlign: 'center' }}
         >
           <NextImage
-            src="/spwz/face.jpg"
-            width={282}
-            height={282}
-            alt="Opinie"
+            src="/spwz/face2.jpg"
+            width={320}
+            height={400}
+            alt="Krzysztof Jendrzyca"
           />
         </span>
       </p>

@@ -19,6 +19,7 @@ import { CzyToDlaMnie } from './CzyToDlaMnie'
 import { Gwarancja } from './sprzedaz/Gwarancja'
 import { ListaOczekujacych } from './sprzedaz/ListaOczekujacych'
 import { Dolacz } from './sprzedaz/Dolacz'
+import { Lider } from './Lider'
 
 export const LandingSprzedaz = () => {
   const dolacz = useRef<HTMLDivElement>(null)
@@ -109,6 +110,10 @@ export const LandingSprzedaz = () => {
       <Dolacz ref={dolacz} />
 
       <ListaOczekujacych ref={dolacz} />
+
+      <hr className="hr-spwz" />
+
+      <Lider />
 
       {/* <BuySPWZButtonParagraph />
 
