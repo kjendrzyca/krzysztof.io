@@ -196,8 +196,6 @@ Dodatkowo: Na sam koniec szkolenia przedstawię też krótko **III edycję progr
 
       <MarkdownWithHighlights>
         {`
-===**Zanim zacząłem pokazywać, jak radzić sobie z chaosem w IT, sam przez niego przeszedłem.**===
-
 Pracuję w IT od 2013 roku. Zaczynałem w software housie, w wieloletnim legacy, a z czasem trafiłem do startupów.
 
 Byłem programistą, liderem technicznym, architektem i doradcą. Ta droga pokazała mi, że **same umiejętności techniczne nie wystarczą.**
