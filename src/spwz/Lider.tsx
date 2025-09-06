@@ -22,7 +22,7 @@ Dlaczego?
 
 Bo na pewnym etapie rozwoju, największe problemy, które nas spowalniają, **nie są techniczne** i mierzy się z nimi każdy, niezależnie od stanowiska.
 
-Są to takie rzeczy jak:
+Są to np.:
 
 - Spory, które ciągną się w nieskończoność i niczego nie wnoszą.
 - Niejasne wymagania, przez które musimy przepisywać kod.
