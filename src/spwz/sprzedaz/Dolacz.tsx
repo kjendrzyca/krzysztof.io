@@ -344,12 +344,12 @@ export const Dolacz = forwardRef<HTMLDivElement>((_, ref) => {
 
       {/* <CenteredH2>
         <span style={{ borderBottom: '2px dashed var(--color-primary)', lineHeight: '2.5rem' }}>
-          Koniec sprzedaży: środa, 17 września 2025 o 20:00
+          Koniec sprzedaży: piątek, 19 września 2025 o 20:00
         </span>
       </CenteredH2>
 
       <p style={{ textAlign: 'center', fontSize: '2rem', fontWeight: 'bold' }}>
-        <Countdown date={new Date('2025-09-17T20:00:00+02:00')} />
+        <Countdown date={new Date('2025-09-19T20:00:00+02:00')} />
       </p> */}
 
       <style jsx>{`
