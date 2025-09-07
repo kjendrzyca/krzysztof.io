@@ -10,7 +10,7 @@ Po dołączeniu natychmiast otrzymujesz dostęp do wszystkich modułów, bonusó
 
 Zaczynasz przerabiać materiały i wdrażać nowy sposób działania. Moduł po module, poznajesz konkretne modele myślowe i taktyki - od tego, jak planujesz zadania, przez to, jak komunikujesz się w zespole, aż po to, jak podchodzisz do rozmów o pieniądzach.
 
-Każda lekcja to kolejny element Twojego systemu, który od razu testujesz w praktyce dzięki sugestiom załączonym pod każdym modułem.
+Każda kolejny materiał to kolejny element Twojego systemu, który od razu testujesz w praktyce dzięki sugestiom załączonym pod każdym modułem.
 
 **💬 Krok 3: Ciągłe wsparcie, gdy go potrzebujesz**
 
