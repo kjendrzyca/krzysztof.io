@@ -8,6 +8,35 @@ export const Opinie = () => {
       <CenteredH2>Kilka opinii</CenteredH2>
 
       <Testimonial
+        imageSrc="/spwz/michal-gawarzynski.jpg"
+        quote={
+          <>
+            <p>
+              Nie znałem w ogóle Krzysztofa i jego twórczości wcześniej. Obawiałem się, że to będzie
+              kolejny kursowy skok na kasę. Przekonała mnie moja intuicja. Mało jest kursów w takiej
+              tematyce i chciałem ugruntować swoją wiedzę.
+            </p>
+            <p>
+              Im dłużej pracuję w branży, tym częściej widzę, że aspekty miękkie okazują się coraz
+              bardziej ważne.{' '}
+              <Highlight nopadding>Frameworki się zmieniają, a mental pozostaje</Highlight>.
+            </p>
+            <p>
+              Program pozwolił mi przekrojowo spojrzeć na proces wytwarzania oprogramowania. Jak
+              łączyć pracę twórczą z wytwórczym dowożeniem tematów. Część rzeczy czułem intuicyjnie
+              jak należy robić, ale{' '}
+              <Highlight nopadding>
+                program ugruntował moją wiedzę i poszerzył perspektywy
+              </Highlight>
+              .
+            </p>
+          </>
+        }
+        author="Michał Gawarzyński"
+        title="Engineering Manager"
+      />
+
+      <Testimonial
         imageSrc="/spwz/marcin-deperas.jpg"
         quote={
           <>
