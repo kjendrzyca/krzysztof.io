@@ -157,7 +157,7 @@ export const Opinie = () => {
           </>
         }
         author="Marcin Czarkowski"
-        title="Senior Software Engineer"
+        title="Co-Founder of @przeprogramowani"
       />
 
       <Testimonial
