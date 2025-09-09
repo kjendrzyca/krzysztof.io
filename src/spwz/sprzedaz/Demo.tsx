@@ -26,6 +26,16 @@ export const Demo = () => {
           allowFullScreen
         />
       </div>
+
+      <div style={{ position: 'relative', paddingTop: '56.25%' }}>
+        <iframe
+          src="https://iframe.mediadelivery.net/embed/174887/67b062e3-545b-4a0b-a9ea-0dce5f7d0bc9?autoplay=false&loop=false&muted=false&preload=true&responsive=true"
+          loading="lazy"
+          style={{ border: '0', position: 'absolute', top: '0', height: '100%', width: '100%' }}
+          allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;"
+          allowFullScreen
+        />
+      </div>
     </>
   )
 }
