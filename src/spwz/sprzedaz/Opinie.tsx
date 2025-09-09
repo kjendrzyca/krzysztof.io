@@ -119,6 +119,48 @@ export const Opinie = () => {
       />
 
       <Testimonial
+        imageSrc="/spwz/marcincz.jpg"
+        quote={
+          <>
+            <p>
+              &ldquo;Skuteczna praca w zespole&rdquo; daje to, czego brakuje w większości materiałów
+              o soft skills -{' '}
+              <Highlight nopadding>sprawdzone frameworki komunikacyjne i procesowe</Highlight>.
+            </p>
+            <p>
+              Moduły o feedbacku i code review zawierają konkretne wzorce komunikacji, które możesz
+              od razu stosować.{' '}
+              <Highlight nopadding>
+                Przestaniesz improwizować podczas wymagających sytuacji
+              </Highlight>
+              . Dodatek o typach osobowości klientów to praktyczny przewodnik - w kilka minut
+              &ldquo;zdiagnozujesz&rdquo; stakeholdera i dostosujesz komunikację.
+            </p>
+            <p>
+              Szczególnie cenne są taktyki planowania zadań i zarządzania oczekiwaniami.{' '}
+              <Highlight nopadding>
+                System estymacji oparty na metrykach zamiast zgadywania eliminuje wiele
+                niepotrzebnych konfliktów z biznesem
+              </Highlight>
+              .
+            </p>
+            <p>
+              Program unika buzzwordów i skupia się na działaniu. Każdy moduł kończy się konkretnymi
+              sugestiami do wdrożenia. To podejście inżynierskie do problemów zespołowych.
+            </p>
+            <p>
+              <Highlight nopadding>
+                W programie dostajesz skondensowaną wiedzę praktyczną, którą inaczej zbierasz latami
+              </Highlight>
+              .
+            </p>
+          </>
+        }
+        author="Marcin Czarkowski"
+        title="Senior Software Engineer"
+      />
+
+      <Testimonial
         imageSrc="/spwz/bartek.jpg"
         quote={
           <>
