@@ -85,9 +85,9 @@ const SPWZSzkoleniePage = () => {
         wymienić je na <strong>wpływ, kontrolę i lepsze warunki pracy</strong>.
       </h2>
 
-      <p style={{ textAlign: 'center', marginTop: 'var(--spacing-10)' }}>
+      {/* <p style={{ textAlign: 'center', marginTop: 'var(--spacing-10)' }}>
         <DolaczDoSzkoleniaButton />
-      </p>
+      </p> */}
 
       <hr className="hr-spwz" />
 
@@ -171,7 +171,22 @@ Dodatkowo: Na sam koniec szkolenia przedstawię też krótko **III edycję progr
           marginBottom: 'var(--spacing-10)',
         }}
       >
-        <DolaczDoSzkoleniaButton />
+        {/* <DolaczDoSzkoleniaButton /> */}
+        <strong>
+          Szkolenie jest już niedostępne. Obecnie trwają zapisy do pełnego programu &quot;Skuteczna
+          praca w zespole&quot;.
+        </strong>
+        <br />
+        <br />
+        <button
+          type="button"
+          className="primary-button"
+          style={{ maxWidth: '232px', textTransform: 'uppercase' }}
+          onClick={() => (window.location.href = 'https://krzysztof.io/spwz-oferta/')}
+          data-umami-event="spwz-oferta-button-clicked-szkolenie"
+        >
+          Szczegóły
+        </button>
       </p>
 
       <hr className="hr-spwz" />
@@ -244,28 +259,28 @@ Jeśli to podejście z Tobą rezonuje, to jesteś we właściwym miejscu.
         </span>
       </p>
 
-      <p style={{ textAlign: 'center', marginTop: 'var(--spacing-10)' }}>
+      {/* <p style={{ textAlign: 'center', marginTop: 'var(--spacing-10)' }}>
         <DolaczDoSzkoleniaButton />
-      </p>
+      </p> */}
     </Layout>
   )
 }
 
-function DolaczDoSzkoleniaButton() {
-  return (
-    <button
-      type="button"
-      className="primary-button"
-      style={{ maxWidth: '232px', textTransform: 'uppercase' }}
-      onClick={() =>
-        (window.location.href = 'https://landing.mailerlite.com/webforms/landing/q5y3j2')
-      }
-      data-umami-event="spwz-subscribe-button-clicked-szkolenie"
-    >
-      Dołączam
-    </button>
-  )
-}
+// function DolaczDoSzkoleniaButton() {
+//   return (
+//     <button
+//       type="button"
+//       className="primary-button"
+//       style={{ maxWidth: '232px', textTransform: 'uppercase' }}
+//       onClick={() =>
+//         (window.location.href = 'https://landing.mailerlite.com/webforms/landing/q5y3j2')
+//       }
+//       data-umami-event="spwz-subscribe-button-clicked-szkolenie"
+//     >
+//       Dołączam
+//     </button>
+//   )
+// }
 
 SPWZSzkoleniePage.theme = 'light'
 
