@@ -10,14 +10,14 @@ import { JakWygladaPraca } from '@/spwz/sprzedaz/JakWygladaPraca'
 
 import NextImage from 'next/image'
 
-import { SPWZScrollButton } from './buttons'
+import { BuySPWZButton, SPWZScrollButton } from './buttons'
 import { Demo } from './sprzedaz/Demo'
 // import { Dolacz } from './sprzedaz/Dolacz'
 import { Opinie } from './sprzedaz/Opinie'
 import { FAQ } from './Faq'
 import { CzyToDlaMnie } from './CzyToDlaMnie'
 import { Gwarancja } from './sprzedaz/Gwarancja'
-import { ListaOczekujacych } from './sprzedaz/ListaOczekujacych'
+// import { ListaOczekujacych } from './sprzedaz/ListaOczekujacych'
 import { Dolacz } from './sprzedaz/Dolacz'
 import { Lider } from './Lider'
 
@@ -109,18 +109,18 @@ export const LandingSprzedaz = () => {
 
       <Dolacz ref={dolacz} />
 
-      <ListaOczekujacych ref={dolacz} />
+      {/* <ListaOczekujacych ref={dolacz} /> */}
 
-      <hr className="hr-spwz" />
-
-      <Lider />
-
-      {/* <BuySPWZButtonParagraph />
+      <BuySPWZButtonParagraph />
 
       <p style={{ textAlign: 'center', marginTop: 'var(--spacing-10)', fontSize: '0.8rem' }}>
         Kliknięcie w przycisk przekieruje Cię na stronę edu.krzysztof.io, gdzie możesz dokonać
         płatności.
-      </p> */}
+      </p>
+
+      <hr className="hr-spwz" />
+
+      <Lider />
 
       <hr className="hr-spwz" />
 
@@ -129,10 +129,10 @@ export const LandingSprzedaz = () => {
   )
 }
 
-// function BuySPWZButtonParagraph() {
-//   return (
-//     <p style={{ textAlign: 'center', marginTop: 'var(--spacing-10)' }}>
-//       <BuySPWZButton />
-//     </p>
-//   )
-// }
+function BuySPWZButtonParagraph() {
+  return (
+    <p style={{ textAlign: 'center', marginTop: 'var(--spacing-10)' }}>
+      <BuySPWZButton />
+    </p>
+  )
+}
