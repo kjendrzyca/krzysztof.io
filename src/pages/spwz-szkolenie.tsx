@@ -91,7 +91,31 @@ const SPWZSzkoleniePage = () => {
 
       <hr className="hr-spwz" />
 
-      <CenteredH2>
+      <p
+        style={{
+          textAlign: 'center',
+          marginTop: 'var(--spacing-10)',
+          marginBottom: 'var(--spacing-10)',
+        }}
+      >
+        <strong>
+          Szkolenie jest już niedostępne. Obecnie trwają zapisy do pełnego programu &quot;Skuteczna
+          praca w zespole&quot;.
+        </strong>
+        <br />
+        <br />
+        <button
+          type="button"
+          className="primary-button"
+          style={{ maxWidth: '232px', textTransform: 'uppercase' }}
+          onClick={() => (window.location.href = 'https://krzysztof.io/spwz-oferta/')}
+          data-umami-event="spwz-oferta-button-clicked-szkolenie"
+        >
+          Szczegóły
+        </button>
+      </p>
+
+      {/* <CenteredH2>
         <span style={{ borderBottom: '2px dashed var(--color-primary)', lineHeight: '2.5rem' }}>
           Start: środa, 10 września 2025 o 19:00
         </span>
@@ -99,7 +123,7 @@ const SPWZSzkoleniePage = () => {
 
       <p style={{ textAlign: 'center', fontSize: '3rem', fontWeight: 'bold' }}>
         <Countdown date={new Date('2025-09-10T19:00:00+02:00')} />
-      </p>
+      </p> */}
 
       <hr className="hr-spwz" />
 
