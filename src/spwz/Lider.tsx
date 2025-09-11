@@ -70,7 +70,7 @@ Więc tak naprawdę **wybór należy do Ciebie**.
 export const Lider = () => {
   return (
     <>
-      <CenteredH2>A co jeśli (nie) chcę zostać liderem?</CenteredH2>
+      <CenteredH2 id="nie-chce-byc-liderem">A co jeśli (nie) chcę zostać liderem?</CenteredH2>
       <MarkdownWithHighlights>{text}</MarkdownWithHighlights>
     </>
   )
