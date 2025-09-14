@@ -8,6 +8,39 @@ export const Opinie = () => {
       <CenteredH2>Kilka opinii</CenteredH2>
 
       <Testimonial
+        imageSrc="/spwz/filip-swacha.png"
+        quote={
+          <>
+            <p>
+              <Highlight nopadding>
+                Program bardzo pomógł mi zmienić mindset i nastawienie do swojej pracy i
+                umiejętności
+              </Highlight>
+              .
+            </p>
+            <p>
+              Poznałem sposoby reframingu w mojej głowie tak, aby wziąć pełną odpowiedzialność za
+              swoją pracę oraz konkretne przykłady tego, jak zadawać dobre pytania.
+            </p>
+            <p>
+              Poznałem listę etapów na które można rozbić proces planowania pracy - dzięki niej{' '}
+              <Highlight nopadding>
+                usystematyzowałem swój workflow i przestałem się obwiniać
+              </Highlight>
+              , że to ja czegoś nie wiem, tylko może np. wymagania są niekompletne i należy zwrócić
+              się z prośbą o klaryfikację.
+            </p>
+            <p>
+              Na spotkaniach live mogłem podzielić się swoimi doświadczeniami i dowiedzieć się, że{' '}
+              burnout nie jest tylko moim przypadkiem, ale może zdarzyć się każdemu.
+            </p>
+          </>
+        }
+        author="Filip Swacha"
+        title="Software Engineer"
+      />
+
+      <Testimonial
         imageSrc="/spwz/michal-gawarzynski.jpg"
         quote={
           <>
