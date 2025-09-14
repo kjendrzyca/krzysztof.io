@@ -405,7 +405,7 @@ export const Dolacz = forwardRef<HTMLDivElement>((_, ref) => {
         }
 
         .pricing-summary {
-          margin-top: var(--spacing-8);
+          margin-top: var(--spacing-16);
           text-align: center;
         }
 

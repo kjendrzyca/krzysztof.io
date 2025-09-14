@@ -11,6 +11,7 @@ import { JakWygladaPraca } from '@/spwz/sprzedaz/JakWygladaPraca'
 import NextImage from 'next/image'
 
 import { BuySPWZButton, SPWZScrollButton } from './buttons'
+import { Countdown } from '@/components/Countdown'
 import { Demo } from './sprzedaz/Demo'
 // import { Dolacz } from './sprzedaz/Dolacz'
 import { Opinie } from './sprzedaz/Opinie'
@@ -116,6 +117,23 @@ export const LandingSprzedaz = () => {
       <p style={{ textAlign: 'center', marginTop: 'var(--spacing-10)', fontSize: '0.8rem' }}>
         Kliknięcie w przycisk przekieruje Cię na stronę edu.krzysztof.io, gdzie możesz dokonać
         płatności.
+      </p>
+
+      <hr className="hr-spwz" />
+
+      <p style={{ textAlign: 'center', marginTop: 'var(--spacing-6)', fontSize: '1.2rem' }}>
+        Do końca zapisów zostało:
+      </p>
+
+      <p
+        style={{
+          textAlign: 'center',
+          fontSize: '3rem',
+          fontWeight: 'bold',
+          marginTop: 'var(--spacing-2)',
+        }}
+      >
+        <Countdown date={new Date('2025-09-19T20:00:00+02:00')} />
       </p>
 
       <hr className="hr-spwz" />
