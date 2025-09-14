@@ -342,8 +342,11 @@ export const Dolacz = forwardRef<HTMLDivElement>((_, ref) => {
         </p>
         <p>Nic nie ryzykujesz, bo masz 30 dni na przetestowanie.</p>
         <p>
-          🗓️ Zapisy otwarte <Highlight nopadding><strong>do piątku 19.09.2025 godz. 20:00.</strong></Highlight> Po tej dacie
-          możliwość dołączenia znika na przynajmniej kilka miesięcy.
+          🗓️ Zapisy otwarte{' '}
+          <Highlight nopadding>
+            <strong>do piątku 19.09.2025 godz. 20:00.</strong>
+          </Highlight>{' '}
+          Po tej dacie możliwość dołączenia znika na przynajmniej kilka miesięcy.
         </p>
       </div>
 
