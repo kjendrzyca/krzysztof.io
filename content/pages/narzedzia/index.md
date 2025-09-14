@@ -65,6 +65,7 @@ description: 'Zestaw narzędzi, który wypracowałem sobie w ciągu wielu lat te
 
 - https://nextjs.org/
 - https://www.netlify.com/ (Vercel w darmowym tierze nie może być wykorzystywany do budowy produktów komercyjnych)
+- https://bunny.net?ref=8a7zkue452 - używam do streamingu moich szkoleń, najlepsza alternatywa jaką znalazłem do Vimeo czy Wistia
 - https://www.mailerlite.com/invite/7ff80cb5801e5
 - https://tally.cello.so/iMjlAVP6H1H - darmowe ankiety w stylistyce Notion
 
