@@ -1,5 +1,6 @@
 import { forwardRef } from 'react'
 import { CenteredH2 } from '@/components/CenteredH2'
+import { Highlight } from '../../components/Highlight'
 // import { Countdown } from '@/components/Countdown'
 
 // SVG Icons for benefits
@@ -340,6 +341,10 @@ export const Dolacz = forwardRef<HTMLDivElement>((_, ref) => {
           sukcesów i porażek. Skondensowane w przystępnej formie i gotowe do zaimplementowania.
         </p>
         <p>Nic nie ryzykujesz, bo masz 30 dni na przetestowanie.</p>
+        <p>
+          🗓️ Zapisy otwarte <Highlight nopadding><strong>do piątku 19.09.2025 godz. 20:00.</strong></Highlight> Po tej dacie
+          możliwość dołączenia znika na przynajmniej kilka miesięcy.
+        </p>
       </div>
 
       {/* <CenteredH2>
