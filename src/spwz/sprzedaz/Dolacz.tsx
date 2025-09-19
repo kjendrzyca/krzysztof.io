@@ -1,7 +1,8 @@
 import { forwardRef } from 'react'
 import { CenteredH2 } from '@/components/CenteredH2'
 import { Highlight } from '../../components/Highlight'
-// import { Countdown } from '@/components/Countdown'
+import { Countdown } from '../../components/Countdown'
+import { BuySPWZButton } from '../buttons'
 
 // SVG Icons for benefits
 const PlayCircleIcon = () => (
@@ -350,15 +351,29 @@ export const Dolacz = forwardRef<HTMLDivElement>((_, ref) => {
         </p>
       </div>
 
-      {/* <CenteredH2>
-        <span style={{ borderBottom: '2px dashed var(--color-primary)', lineHeight: '2.5rem' }}>
-          Koniec sprzedaży: piątek, 19 września 2025 o 20:00
-        </span>
-      </CenteredH2>
+      <BuySPWZButtonParagraph />
 
-      <p style={{ textAlign: 'center', fontSize: '2rem', fontWeight: 'bold' }}>
+      <p style={{ textAlign: 'center', marginTop: 'var(--spacing-10)', fontSize: '0.8rem' }}>
+        Kliknięcie w przycisk przekieruje Cię na stronę edu.krzysztof.io, gdzie możesz dokonać
+        płatności.
+      </p>
+
+      <hr className="hr-spwz" />
+
+      <p style={{ textAlign: 'center', marginTop: 'var(--spacing-6)', fontSize: '1.2rem' }}>
+        Do końca zapisów zostało:
+      </p>
+
+      <p
+        style={{
+          textAlign: 'center',
+          fontSize: '3rem',
+          fontWeight: 'bold',
+          marginTop: 'var(--spacing-2)',
+        }}
+      >
         <Countdown date={new Date('2025-09-19T20:00:00+02:00')} />
-      </p> */}
+      </p>
 
       <style jsx>{`
         .benefits-container {
@@ -473,3 +488,12 @@ export const Dolacz = forwardRef<HTMLDivElement>((_, ref) => {
 })
 
 Dolacz.displayName = 'Dolacz'
+
+
+function BuySPWZButtonParagraph() {
+  return (
+    <p style={{ textAlign: 'center', marginTop: 'var(--spacing-10)' }}>
+      <BuySPWZButton />
+    </p>
+  )
+}
