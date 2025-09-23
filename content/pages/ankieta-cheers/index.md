@@ -5,6 +5,7 @@ updatedAt: '2025-09-23'
 published: true
 description: 'Dzięki za wypełnienie ankiety 💪'
 shareButtons: false
+isLanding: true
 ---
 
 Wielkie dzięki za wypełnienie ankiety 💪.

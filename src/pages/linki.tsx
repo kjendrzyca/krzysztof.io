@@ -26,7 +26,7 @@ const LinkButton = ({ href, title, description }: LinkButtonProps) => {
 
 const LinksPage = () => {
   return (
-    <Layout isLandingPage={true}>
+    <Layout isLandingPage>
       <SEO
         title="Linki"
         description="Zbiór linków, którymi dzielę się w Internecie."
