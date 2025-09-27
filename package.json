@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
+    "typecheck": "tsc --noEmit",
     "prebuild": "node ./scripts/copy-images.mjs"
   },
   "dependencies": {
