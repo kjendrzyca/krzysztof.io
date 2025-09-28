@@ -3,10 +3,6 @@ import Script from 'next/script'
 import { Inter } from 'next/font/google'
 import type { AppProps } from 'next/app'
 
-import { MailerLiteScriptSrc, MailerLiteSuccessFunctionScriptKIO } from '@/components/mailerLiteKIO'
-import { MailerLiteSuccessFunctionScriptSPWZ } from '@/components/mailerLiteSPWZ'
-import { MailerLiteSuccessFunctionScriptSPWZSzkolenie } from '@/components/mailerLiteSPWZSzkolenie'
-
 import '@/styles/normalize.css'
 import '@/styles/style.css'
 import '@/components/spwzEbook.css'
@@ -43,15 +39,6 @@ export default function App({ Component, pageProps }: AppPropsWithTheme) {
       `}</style>
 
       <Component {...pageProps} />
-
-      <Script id="mailerlite-success-function-script">{MailerLiteSuccessFunctionScriptKIO}</Script>
-      <Script id="mailerlite-success-function-script-spwz">
-        {MailerLiteSuccessFunctionScriptSPWZ}
-      </Script>
-      <Script id="mailerlite-success-function-script-spwz-szkolenie">
-        {MailerLiteSuccessFunctionScriptSPWZSzkolenie}
-      </Script>
-      <Script src={MailerLiteScriptSrc} />
 
       <Script
         async

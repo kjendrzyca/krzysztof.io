@@ -2,7 +2,7 @@ import React, { ReactNode } from 'react'
 
 import Link from 'next/link'
 
-import { SubscribeKIO } from './mailerLiteKIO'
+import { SubscribeKIO } from './SubscribeKIO'
 import { GitHub, Instagram, Twitter } from './Social'
 import ThemeToggler from './ThemeToggler'
 import { config } from '@/config'
