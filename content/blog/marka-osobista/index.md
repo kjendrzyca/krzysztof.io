@@ -7,19 +7,19 @@ description: 'Marka osobista nie jest dla mnie celem. Jest efektem dobrze zrobio
 banner: './banner.jpg'
 ---
 
-Kiedyś myślałem, że aby stać się bardziej rozpoznawalnym w swojej branży, trzeba mieć jakiś plan, ale okazało się, że wystarczy po prostu robić rzeczy, które mają sens:
+Kiedyś myślałem, że aby stać się bardziej rozpoznawalnym w swojej branży, trzeba mieć jakiś plan. Z czasem okazało się, że wystarczy po prostu robić rzeczy, które mają sens:
 
-- podzielić się czymś na spotkaniu zespołowym,
-- przygotować krótką prezentację o czymś, czego ostatnio się nauczyłem i co może się przydać w projekcie,
-- wytłumaczyć jakieś zagadnienie na tablicy podczas rozmowy.
+- Podzielić się czymś na spotkaniu zespołowym.
+- Przygotować krótką prezentację o czymś, czego ostatnio się nauczyłem i co może się przydać w projekcie.
+- Wytłumaczyć jakieś zagadnienie na tablicy podczas rozmowy.
 
 Na początku nie widziałem w tym nic wielkiego, ale z czasem zauważyłem, że ludzie zaczynają mnie kojarzyć jako osobę, do której warto przyjść z pytaniem.
 
 Potem pojawiły się kolejne okazje:
 
-- tech talki,
-- wewnętrzne webinary,
-- meetupy, konferencje.
+- Tech talki.
+- Wewnętrzne webinary.
+- Meetupy, konferencje.
 
 Nie planowałem żadnych efektów i nie oczekiwałem, że będę miał z tego jakieś korzyści, ale i tak się pojawiły:
 
@@ -35,7 +35,9 @@ A prawda jest taka, że wszystko jest wynikiem **uczenia się, realizowania ciek
 
 Przez większość czasu staram się po prostu przejść z punktu *nie wiem, co robię, ale mnie to ciekawi*, do punktu *w końcu to rozumiem, mogę zająć się teraz czymś innym* i opublikować to, czego się dowiedziałem.
 
-Ktoś kiedyś pomógł mi też zrozumieć, że nastawienie się na "budowanie marki osobistej" często prowadzi do odwrócenia przyczyny i skutku – **tworzymy treści i robimy rzeczy, żeby być widocznym, zamiast być widocznym dzięki temu, co robimy**. W skrajnych przypadkach staje się to grą pozorów: **publikujemy, żeby zaistnieć, a nie dlatego, że mamy coś wartościowego do powiedzenia**.
+Ktoś kiedyś pomógł mi też zrozumieć, że nastawienie się na "budowanie marki osobistej" często prowadzi do odwrócenia przyczyny i skutku - **tworzymy treści i robimy rzeczy, żeby być widocznym, zamiast być widocznym dzięki temu, co robimy**.
+
+W skrajnych przypadkach staje się to grą pozorów: **publikujemy, żeby zaistnieć, a nie dlatego, że mamy coś wartościowego do powiedzenia**.
 
 Po latach obserwacji nabrałem pewności, że najbardziej autentyczna marka osobista buduje się sama. Jeśli robimy naprawdę dobrą robotę, to ludzie w końcu to zauważą. Jeśli musimy ich do tego w jakikolwiek sposób namawiać, to nigdy nie mamy pewności, czy rzeczywiście nas cenią, czy np. tylko odwzajemniają przysługę lub [po prostu nas lubią i nie chcą zranić](https://www.momtestbook.com/).
 
@@ -47,7 +49,9 @@ Na szczęście **nie wszystko musi być**. Wpisy takie jak ten mają często sł
 
 Dzięki temu mogę skupić się w 100% na tym, co mnie angażuje, bez zastanawiania się, czy "to dobrze wypadnie" albo "czy to pomoże mojej marce osobistej". To daje mi swobodę i pozwala uniknąć pułapki generowania treści tylko po to, by dobrze wyglądały na zewnątrz i żeby zaznaczyć swoją obecność.
 
-Bardzo nie chciałbym trafić do grupy tych osób, które deklarują, że budują markę osobistą poprzez pomaganie innym, ale kiedy się przyjrzeć, okazuje się, że to głównie strategia na wzmacnianie własnego wizerunku. Każda "pomoc" jest wypaczona przez pytanie: *czy to pomoże mojej marce osobistej*? To jest takie "trochę wam pomogę, ale nie za dużo, bo chcę mieć jeszcze czas, żeby zadbać o swoją rozpoznawalność".
+Bardzo nie chciałbym trafić do grupy tych osób, które deklarują, że budują markę osobistą poprzez pomaganie innym, ale kiedy się przyjrzeć, okazuje się, że to głównie strategia na wzmacnianie własnego wizerunku. Każda "pomoc" jest wypaczona przez pytanie: *czy to pomoże mojej marce osobistej*?
+
+To jest coś w stylu "trochę wam pomogę, ale nie za dużo, bo chcę mieć jeszcze czas, żeby zadbać o swoją rozpoznawalność". W praktyce kończy się to często serią "pomocnych" postów, które prowadzą do kolejnego newslettera, e-booka za maila albo kursu, a pożytku dla odbiorcy jest tam tyle, co nic.
 
 Nawet jeśli niektórym udaje się jednocześnie pomagać innym i budować swoją rozpoznawalność, to dla mnie ta granica jest zbyt cienka. Zbyt łatwo można się wykoleić i przejść od "dzielę się tym, co pomaga" do "dzielę się tym, co się dobrze klika".
 
