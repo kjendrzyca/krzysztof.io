@@ -5,14 +5,15 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## Development Commands
 
 **Package Manager:**
-- Use `yarn` for all package management commands in this repository
-- Do not use `npm` commands
+- Use `pnpm` for all package management commands in this repository
+- Do not use `npm` or `yarn` commands
+- pnpm is managed via corepack for version consistency
 
 **Development:**
-- `yarn dev` - Start development server on port 4022
-- `yarn build` - Production build (includes prebuild image copying)
-- `yarn lint` - ESLint with Prettier integration
-- `yarn lint:fix` - Auto-fix linting issues
+- `pnpm dev` - Start development server on port 4022
+- `pnpm build` - Production build (includes prebuild image copying)
+- `pnpm lint` - ESLint with Prettier integration
+- `pnpm lint:fix` - Auto-fix linting issues
 
 **Database migrations:**
 - Never run migrations unless asked. If they need to be run, inform the user and print the command he should use.

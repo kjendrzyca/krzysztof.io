@@ -2,6 +2,7 @@
   "name": "blog_v3",
   "version": "0.1.0",
   "private": true,
+  "packageManager": "pnpm@10.25.0",
   "scripts": {
     "dev": "PORT=4022 next dev",
     "build": "next build",
