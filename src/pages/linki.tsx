@@ -38,28 +38,30 @@ const LinksPage = () => {
 
         <div className="links-container">
           <LinkButton
-            href="https://skutecznapracawzespole.pl"
-            title="🧑‍💻 Kompletny przewodnik po soft skillach w IT - skutecznapracawzespole.pl"
+            href="https://krzysztof.io/spwz-ebook/"
+            title='⏱️ Ebook (free): "Jak dowozić zadania w czasie krótszym o połowę"'
           />
 
           <LinkButton
-            href="https://krzysztof.io/spwz-ebook/"
-            title='⏱️ Ebook - "Jak dowozić zadania w czasie krótszym o połowę"'
+            href="https://skutecznapracawzespole.pl"
+            title="🧑‍💻 Skuteczna praca w zespole: program szkoleniowy (+ darmowe materiały na maila)"
           />
+
+          <div className="links-divider" />
 
           <LinkButton
             href="https://krzysztof.io"
-            title="📝 Blog i notatki"
+            title="📝 Blog: notatki i rozkminy"
           />
 
           <LinkButton
             href="https://nothinkdo.app"
-            title="💻 Moja aplikacja do zadań - NoThinkDo"
+            title="💻 NoThinkDo: moja aplikacja do zadań"
           />
 
           <LinkButton
             href="https://www.youtube.com/watch?v=URNzJb4rG0k"
-            title='🎤 Odcinek podcastu - "Marka osobista to efekt uboczny"'
+            title='🎤 Podcast: "Marka osobista to efekt uboczny"'
           />
         </div>
       </div>
