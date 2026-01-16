@@ -36,6 +36,8 @@ const LinksPage = () => {
       <div className="links-page">
         <h1>@kjendrzyca</h1>
 
+        <p className="links-intro">Pierwszy raz tutaj? Zacznij od ebooka.</p>
+
         <div className="links-container">
           <LinkButton
             href="https://krzysztof.io/spwz-ebook/"
