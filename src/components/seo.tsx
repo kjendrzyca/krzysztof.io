@@ -32,10 +32,6 @@ const SEO = ({
         content={metaDescription}
       />
       <meta
-        property="og:type"
-        content="website"
-      />
-      <meta
         property="og:title"
         content={title}
       />
