@@ -1,11 +1,11 @@
 ---
-title: 'W jakim języku tworzyć treści w Internecie?'
-createdAt: '2021-09-30'
-updatedAt: '2021-09-30'
+title: "W jakim języku tworzyć treści w Internecie?"
+createdAt: "2021-09-30"
+updatedAt: "2021-09-30"
 published: true
-description: 'Prosty model wyboru języka swoich treści.'
-banner: './banner.jpg'
-bannerAlt: 'https://unsplash.com/@jontyson'
+description: "Prosty model wyboru języka swoich treści."
+banner: "./banner.jpg"
+bannerAlt: "https://unsplash.com/@jontyson"
 ---
 
 Miałem ostatnio kilka rozmów, które otworzyły świeżo zamkniętą ranę pod tytułem "pisać po polsku, czy po angielsku?".
@@ -29,11 +29,11 @@ Dwie zalety języka angielskiego, które najbardziej do mnie przemawiają:
 1. Wg badań 3/4 potencjalnych odbiorców anglojęzycznych treści to NIE są native speakerzy. Nie trzeba się więc martwić, że nie potrafimy pisać i mówić jak native speaker.
 1. Ilość odbiorców jest znacznie większa, przez co łatwiej zawierać znajomości z osobami z zagranicy i znaleźć odbiorców.
 
-Te dwie rzeczy mogą komuś wystarczyć, żeby podjąć decyzję o tworzeniu po angielsku. **Jeśli to kupujesz i chcesz być internetowym obywatelem świata, to na Twoim miejscu bym się nie zastanawiał, tylko zaczął tworzyć po angielsku.**
+Te dwie rzeczy mogą komuś wystarczyć, żeby podjąć decyzję o tworzeniu po angielsku. *Jeśli to kupujesz i chcesz być internetowym obywatelem świata, to na Twoim miejscu bym się nie zastanawiał, tylko zaczął tworzyć po angielsku.*
 
 (Jak zobaczysz za chwilę, pasowałoby to do mojego modelu).
 
-Wadą języka angielskiego, która najbardziej do mnie przemawia, jest to, że **"możesz być małą rybką w wielkim stawie (Świat), lub małą rybką w małym stawie (Polska)".**
+Wadą języka angielskiego, która najbardziej do mnie przemawia, jest to, że *"możesz być małą rybką w wielkim stawie (Świat), lub małą rybką w małym stawie (Polska)".*
 
 Niektórym osobom wydaje się to odrobinę naciągane, bo przecież w Polsce też czytamy treści po angielsku.
 
@@ -61,7 +61,7 @@ Zrozumiałem jednak, że wybór staje się znacznie prostszy, gdy zawężę rozw
 
 W przypadku tego bloga odpowiedź była prosta:
 
-- **Nie chcę niczego budować. Chcę być sobą.**
+- *Nie chcę niczego budować. Chcę być sobą.*
 - Moja internetowa tożsamość ma być taka sama jak w normalnym życiu. Chcę pisać [prywatnego bloga](/prywatny-blog/).
 
 Druga sprawa jest taka, że tworzenie treści w Internecie składa się z kilku rzeczy:
@@ -78,7 +78,7 @@ W przeciwnym wypadku zostaje drugie pytanie i mała analiza:
 
 **👉 2. W jakim języku chcę robić te wszystkie rzeczy? 👈**
 
-W moim przypadku pytanie brzmi: **w jakim języku chcę robić te wszystkie rzeczy, jeśli nie chcę niczego budować i chcę być sobą w Internecie?**
+W moim przypadku pytanie brzmi: *w jakim języku chcę robić te wszystkie rzeczy, jeśli nie chcę niczego budować i chcę być sobą w Internecie?*
 
 Czy chcę pisać o moich zainteresowaniach po angielsku do ludzi z drugiego końca świata?
 
@@ -86,7 +86,7 @@ Czy jak przyjdzie mi do głowy, że chcę nagrywać podcast albo YouTube, to czy
 
 W prywatnym życiu rozmawiam po polsku, pracuję w Polsce, mam znajomych w Polsce i niekoniecznie chcę mieć znajomych za granicą, jak już komuś z czymś pomagam, to ludziom z Polski.
 
-**Wszystkie przemyślenia na temat prywatnego życia i zainteresowań pojawiają się w mojej głowie w języku polskim.**
+*Wszystkie przemyślenia na temat prywatnego życia i zainteresowań pojawiają się w mojej głowie w języku polskim.*
 
 - Gdy ktoś mnie wkurza, to myślę o tym po polsku.
 - Gdy chcę komuś pokazać ciekawe rzeczy, których się nauczyłem, to myślę o tym po polsku.
@@ -95,7 +95,7 @@ W prywatnym życiu rozmawiam po polsku, pracuję w Polsce, mam znajomych w Polsc
 
 (Najłatwiej jest mi to wszystko ocenić, słuchając swoich myśli pod prysznicem, kiedy baniak nadaje na pełny regulator).
 
-Prosty wniosek: **Chcę** tworzyć, promować, zawierać znajomości i prowadzić dyskusje w języku polskim, **bo niczego nie buduję, chcę być sobą i moje prywatne przemyślenia pojawiają się w głowie w języku polskim.**
+Prosty wniosek: *Chcę* tworzyć, promować, zawierać znajomości i prowadzić dyskusje w języku polskim, *bo niczego nie buduję, chcę być sobą i moje prywatne przemyślenia pojawiają się w głowie w języku polskim.*
 
 Moja prywatna tożsamość powinna być przeniesiona do Internetu w języku polskim.
 
@@ -120,21 +120,21 @@ Jeśli nie odpowiada nam język, do którego doprowadziły nas przemyślenia, to
 **Kim chcę być i co chcę budować?**
 
 - Chcę być przedsiębiorcą i chcę prowadzić własny Software House.
-- **Chcę** tworzyć, promować, zawierać znajomości i prowadzić dyskusje w w języku angielskim, **bo celuję w klientów z całego świata.**
+- *Chcę* tworzyć, promować, zawierać znajomości i prowadzić dyskusje w w języku angielskim, *bo celuję w klientów z całego świata.*
 
 **Kim chcę być i co chcę budować?**
 
 - Chcę być programistą ekspertem i zbudować kanał promocji, żeby zobaczyli mnie ludzie z najlepszych firm na świecie.
-- **Muszę** tworzyć, promować, zawierać znajomości i prowadzić dyskusje w języku angielskim, bo **najlepsze firmy znajdują się poza granicami naszego kraju.**
+- *Muszę* tworzyć, promować, zawierać znajomości i prowadzić dyskusje w języku angielskim, bo *najlepsze firmy znajdują się poza granicami naszego kraju.*
 
 **Kim chcę być i co chcę budować?**
 
 - Chcę zbudować własny SaaS i mieć kupę hajsu.
-- **Muszę** tworzyć, promować, zawierać znajomości i prowadzić dyskusje w języku angielskim, **bo chcę konkurować z innymi firmami na światowym rynku, ogłosić się na Product Huncie, a najlepszy hajs to ten w dolarach.**
+- *Muszę* tworzyć, promować, zawierać znajomości i prowadzić dyskusje w języku angielskim, *bo chcę konkurować z innymi firmami na światowym rynku, ogłosić się na Product Huncie, a najlepszy hajs to ten w dolarach.*
 
 **Kim chcę być i co chcę budować?**
 
 - Niczego nie chcę budować, chcę się uczyć na głos, poznawać fajnych ludzi i zobaczyć, do czego mnie to doprowadzi.
-- **Chcę** tworzyć, promować, zawierać znajomości i prowadzić dyskusje w języku angielskim, **bo nie lubię raka na polskich grupach facebookowych i Wykopie.**
+- *Chcę* tworzyć, promować, zawierać znajomości i prowadzić dyskusje w języku angielskim, *bo nie lubię raka na polskich grupach facebookowych i Wykopie.*
 
 🖖
