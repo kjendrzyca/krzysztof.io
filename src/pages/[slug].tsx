@@ -199,7 +199,7 @@ const Post = ({
           <ReactMarkdown
             components={{
               em: ({ children }: { children: React.ReactNode }) => (
-                <span className="brush-highlight">{children}</span>
+                <em className="brush-highlight">{children}</em>
               ),
               img: function ({ node, ...props }) {
                 // ReactMarkdown node typing is complex, using controlled any here
