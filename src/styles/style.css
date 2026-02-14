@@ -1,7 +1,7 @@
 /* CSS Custom Properties Definitions */
 
 :root {
-  --maxWidth-none: "none";
+  --maxWidth-none: 'none';
   --maxWidth-xs: 20rem;
   --maxWidth-sm: 24rem;
   --maxWidth-md: 28rem;
@@ -10,10 +10,10 @@
   --maxWidth-2xl: 42rem;
   --maxWidth-3xl: 48rem;
   --maxWidth-4xl: 56rem;
-  --maxWidth-full: "100%";
+  --maxWidth-full: '100%';
   --maxWidth-wrapper: var(--maxWidth-2xl);
   --maxWidth-wrapper-wide: var(--maxWidth-3xl);
-  --spacing-px: "1px";
+  --spacing-px: '1px';
   --spacing-0: 0;
   --spacing-1: 0.25rem;
   --spacing-2: 0.5rem;
@@ -28,7 +28,7 @@
   --spacing-20: 5rem;
   --spacing-24: 6rem;
   --spacing-32: 8rem;
-  --fontFamily-serif: "Georgia", Cambria, "Times New Roman", Times, serif;
+  --fontFamily-serif: 'Georgia', Cambria, 'Times New Roman', Times, serif;
   --font-body: var(--fontFamily-sans);
   --font-heading: var(--fontFamily-sans);
   --fontWeight-normal: 400;
@@ -69,7 +69,7 @@
   --color-success: #4caf50;
   /* A nice green color */
 
-  --bear-url: url("/bear.svg");
+  --bear-url: url('/bear.svg');
 
   /* shadows */
   --shadow-color: 0deg 0% 63%;
@@ -105,7 +105,7 @@ html.dark-mode {
   --color-accent: rgba(209, 220, 229, 0.6);
   --color-light: #1d1c1c;
 
-  --bear-url: url("/bear-dark.svg");
+  --bear-url: url('/bear-dark.svg');
 }
 
 /* HTML elements */
@@ -444,7 +444,7 @@ button:focus {
   max-width: var(--maxWidth-wrapper-wide);
 }
 
-.global-wrapper[data-is-root-path="true"] .bio {
+.global-wrapper[data-is-root-path='true'] .bio {
   margin-bottom: var(--spacing-12);
 }
 
@@ -538,25 +538,15 @@ hr.hr-spwz {
 }
 
 hr.hr-spwz:before {
-  content: "~ ~ ~";
+  content: '~ ~ ~';
 }
 
-span.custom-highlight {
-  background: #fff2c0;
-  border-radius: 4px;
-  padding: 0 10px;
-}
-
-span.custom-highlight.nopadding {
-  padding: 0;
-}
-
-/* Brush-stroke highlight for emphasis in blog content */
+/* Brush-stroke highlight */
+span.custom-highlight,
 .brush-highlight {
-  font-style: normal;
   background-color: #fff2c0;
-  -webkit-mask-image: url("/brush-stroke.svg");
-  mask-image: url("/brush-stroke.svg");
+  -webkit-mask-image: url('/brush-stroke.svg');
+  mask-image: url('/brush-stroke.svg');
   -webkit-mask-size: 100% 100%;
   mask-size: 100% 100%;
   -webkit-mask-repeat: no-repeat;
@@ -566,6 +556,15 @@ span.custom-highlight.nopadding {
   box-decoration-break: clone;
 }
 
+.brush-highlight {
+  font-style: normal;
+}
+
+span.custom-highlight.smallerpadding {
+  padding: 2px 4px;
+}
+
+html.dark-mode span.custom-highlight,
 html.dark-mode .brush-highlight {
   background-color: rgba(200, 170, 50, 0.25);
 }

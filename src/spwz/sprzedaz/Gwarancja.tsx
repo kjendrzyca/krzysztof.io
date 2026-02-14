@@ -26,7 +26,7 @@ export const Gwarancja = () => {
     <>
       <CenteredH2>🤝 Gwarancja satysfakcji i osobistego wsparcia</CenteredH2>
 
-      <MarkdownWithHighlights highlightNopadding>{text}</MarkdownWithHighlights>
+      <MarkdownWithHighlights highlightSmallerpadding>{text}</MarkdownWithHighlights>
     </>
   )
 }

@@ -60,7 +60,7 @@ export const OMnie = () => {
 
       <h3 style={{ textAlign: 'center', marginTop: 0 }}>Krzysztof Jendrzyca / @kjendrzyca</h3>
 
-      <MarkdownWithHighlights highlightNopadding>{text}</MarkdownWithHighlights>
+      <MarkdownWithHighlights highlightSmallerpadding>{text}</MarkdownWithHighlights>
     </>
   )
 }

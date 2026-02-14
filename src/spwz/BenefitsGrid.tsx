@@ -116,7 +116,7 @@ export const BenefitsGrid = () => {
       <div className="benefits-summary">
         <h3 className="summary-title">
           W skrócie:{' '}
-          <span className="summary-highlight">
+          <span className="custom-highlight">
             Pokażę Ci, jak stać się dojrzałym, godnym zaufania i cenionym członkiem zespołu, którego
             głos ma znaczenie.
           </span>
@@ -182,12 +182,6 @@ export const BenefitsGrid = () => {
           color: var(--color-heading);
           margin: 0;
           line-height: var(--lineHeight-relaxed);
-        }
-
-        .summary-highlight {
-          background: #fff2c0;
-          border-radius: 4px;
-          padding: 0 6px;
         }
 
         @media (max-width: 42rem) {

@@ -2,9 +2,9 @@ import { ReactNode } from 'react'
 
 type HighlightProps = {
   children: ReactNode
-  nopadding?: boolean
+  smallerpadding?: boolean
 }
 
-export const Highlight = ({ children, nopadding }: HighlightProps) => (
-  <span className={`custom-highlight ${nopadding ? 'nopadding' : ''}`}>{children}</span>
+export const Highlight = ({ children, smallerpadding }: HighlightProps) => (
+  <span className={`custom-highlight ${smallerpadding ? 'smallerpadding' : ''}`}>{children}</span>
 )

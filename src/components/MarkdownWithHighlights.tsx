@@ -9,20 +9,20 @@ interface MarkdownWithHighlightsProps {
   children: string
   className?: string
   components?: Partial<Components>
-  highlightNopadding?: boolean
+  highlightSmallerpadding?: boolean
 }
 
 export const MarkdownWithHighlights = ({
   children,
   className,
   components = {},
-  highlightNopadding = true,
+  highlightSmallerpadding = true,
 }: MarkdownWithHighlightsProps) => {
   const processedText = processHighlights(children)
 
   const defaultComponents: Partial<Components> = {
     mark: ({ children }: { children: ReactNode }) => (
-      <Highlight nopadding={highlightNopadding}>{children}</Highlight>
+      <Highlight smallerpadding={highlightSmallerpadding}>{children}</Highlight>
     ),
     ...components, // Allow overriding default components
   }

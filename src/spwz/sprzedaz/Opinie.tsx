@@ -12,7 +12,7 @@ export const Opinie = () => {
         quote={
           <>
             <p>
-              <Highlight nopadding>
+              <Highlight smallerpadding>
                 Program bardzo pomógł mi zmienić mindset i nastawienie do swojej pracy i
                 umiejętności
               </Highlight>
@@ -24,14 +24,14 @@ export const Opinie = () => {
             </p>
             <p>
               Poznałem listę etapów na które można rozbić proces planowania pracy - dzięki niej{' '}
-              <Highlight nopadding>
+              <Highlight smallerpadding>
                 usystematyzowałem swój workflow i przestałem się obwiniać
               </Highlight>
               , że to ja czegoś nie wiem, tylko może np. wymagania są niekompletne i należy zwrócić
               się z prośbą o klaryfikację.
             </p>
             <p>
-              Na spotkaniach live mogłem podzielić się swoimi doświadczeniami i dowiedzieć się, że{' '}
+              Na spotkaniach live mogłem podzielić się swoimi doświadczeniami i dowiedzieć się, że
               burnout nie jest tylko moim przypadkiem, ale może zdarzyć się każdemu.
             </p>
           </>
@@ -52,13 +52,13 @@ export const Opinie = () => {
             <p>
               Im dłużej pracuję w branży, tym częściej widzę, że aspekty miękkie okazują się coraz
               bardziej ważne.{' '}
-              <Highlight nopadding>Frameworki się zmieniają, a mental pozostaje</Highlight>.
+              <Highlight smallerpadding>Frameworki się zmieniają, a mental pozostaje</Highlight>.
             </p>
             <p>
               Program pozwolił mi przekrojowo spojrzeć na proces wytwarzania oprogramowania. Jak
               łączyć pracę twórczą z wytwórczym dowożeniem tematów. Część rzeczy czułem intuicyjnie
               jak należy robić, ale{' '}
-              <Highlight nopadding>
+              <Highlight smallerpadding>
                 program ugruntował moją wiedzę i poszerzył perspektywy
               </Highlight>
               .
@@ -74,7 +74,7 @@ export const Opinie = () => {
         quote={
           <>
             <p>
-              <Highlight nopadding>
+              <Highlight smallerpadding>
                 Program w pełni spełnił moje oczekiwania i rozwiał wszystkie początkowe obawy
               </Highlight>{' '}
               (czy wniesie coś nowego do mojego rozwoju, czy znajdę tam praktyczne wskazówki, jak
@@ -82,7 +82,7 @@ export const Opinie = () => {
               doświadczenia, czy nie będzie zbyt zaawansowany i abstrakcyjny).
             </p>
             <p>
-              <Highlight nopadding>Jestem zachwycony tym co otrzymałem!</Highlight>
+              <Highlight smallerpadding>Jestem zachwycony tym co otrzymałem!</Highlight>
             </p>
             <p>
               Największą zmianą, jaką zauważyłem po ukończeniu, było moje podejście do pracy w
@@ -94,7 +94,7 @@ export const Opinie = () => {
             </p>
             <p>
               Program nie tylko dostarczył mi wiedzy, ale przede wszystkim{' '}
-              <Highlight nopadding>dał narzędzia do zmiany w codziennej pracy</Highlight>.
+              <Highlight smallerpadding>dał narzędzia do zmiany w codziennej pracy</Highlight>.
             </p>
             <p>
               Regularnie wracam do materiałów. Traktuję swój rozwój jako proces, który się nie
@@ -112,11 +112,11 @@ export const Opinie = () => {
         quote={
           <>
             <p>
-              <Highlight nopadding>
+              <Highlight smallerpadding>
                 Nie spodziewałam się zupełnie, że program to będzie takie kompendium wiedzy
               </Highlight>
               . Jest dobre dla osób na każdym poziomie,{' '}
-              <Highlight nopadding>
+              <Highlight smallerpadding>
                 zarówno początkujących, jak i tych bardziej doświadczonych
               </Highlight>
               .
@@ -140,9 +140,9 @@ export const Opinie = () => {
         imageSrc="/spwz/marcin.jpg"
         quote={
           <>
-            <Highlight nopadding>Same konkrety bez bullshitu</Highlight>. Pracuję w IT już wiele lat
-            i aż żal, że dopiero niedawno trafiłem na ten program.{' '}
-            <Highlight nopadding>
+            <Highlight smallerpadding>Same konkrety bez bullshitu</Highlight>. Pracuję w IT już
+            wiele lat i aż żal, że dopiero niedawno trafiłem na ten program.{' '}
+            <Highlight smallerpadding>
               W końcu ktoś opisał tematy, które wcześniej trzeba było latami rozpracowywać samemu.
             </Highlight>
           </>
@@ -158,12 +158,12 @@ export const Opinie = () => {
             <p>
               &ldquo;Skuteczna praca w zespole&rdquo; daje to, czego brakuje w większości materiałów
               o soft skills -{' '}
-              <Highlight nopadding>sprawdzone frameworki komunikacyjne i procesowe</Highlight>.
+              <Highlight smallerpadding>sprawdzone frameworki komunikacyjne i procesowe</Highlight>.
             </p>
             <p>
               Moduły o feedbacku i code review zawierają konkretne wzorce komunikacji, które możesz
               od razu stosować.{' '}
-              <Highlight nopadding>
+              <Highlight smallerpadding>
                 Przestaniesz improwizować podczas wymagających sytuacji
               </Highlight>
               . Dodatek o typach osobowości klientów to praktyczny przewodnik - w kilka minut
@@ -171,7 +171,7 @@ export const Opinie = () => {
             </p>
             <p>
               Szczególnie cenne są taktyki planowania zadań i zarządzania oczekiwaniami.{' '}
-              <Highlight nopadding>
+              <Highlight smallerpadding>
                 System estymacji oparty na metrykach zamiast zgadywania eliminuje wiele
                 niepotrzebnych konfliktów z biznesem
               </Highlight>
@@ -182,7 +182,7 @@ export const Opinie = () => {
               sugestiami do wdrożenia. To podejście inżynierskie do problemów zespołowych.
             </p>
             <p>
-              <Highlight nopadding>
+              <Highlight smallerpadding>
                 W programie dostajesz skondensowaną wiedzę praktyczną, którą inaczej zbierasz latami
               </Highlight>
               .
@@ -200,7 +200,10 @@ export const Opinie = () => {
             <p>
               Na początku przygody z kodowaniem wydawało mi się, że najważniejsze są twarde skille.
               Programista ma pisać kod - rozwiązywać problemy. Po latach wiem, że{' '}
-              <Highlight nopadding>samo programowanie to tylko wierzchołek góry lodowej</Highlight>.
+              <Highlight smallerpadding>
+                samo programowanie to tylko wierzchołek góry lodowej
+              </Highlight>
+              .
             </p>
             <p>
               Krzysztof konkretnie pokazuje jak dawać wartość. Kompleksowo omawia tematy miękkie,
@@ -209,7 +212,7 @@ export const Opinie = () => {
             <p>
               {' '}
               Bardzo szanuję formę i sposób komunikacji -{' '}
-              <Highlight nopadding>bez wciskania rzeczy na siłę</Highlight>, a po prostu
+              <Highlight smallerpadding>bez wciskania rzeczy na siłę</Highlight>, a po prostu
               przedstawienie własnych przemyśleń. Polecam wszystkim devom.
             </p>
           </>

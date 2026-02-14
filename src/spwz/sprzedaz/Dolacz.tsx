@@ -344,7 +344,7 @@ export const Dolacz = forwardRef<HTMLDivElement>((_, ref) => {
         <p>Nic nie ryzykujesz, bo masz 30 dni na przetestowanie.</p>
         <p>
           🗓️ Zapisy otwarte{' '}
-          <Highlight nopadding>
+          <Highlight smallerpadding>
             <strong>do piątku 19.09.2025 godz. 20:00.</strong>
           </Highlight>{' '}
           Po tej dacie możliwość dołączenia znika na przynajmniej kilka miesięcy.
@@ -353,14 +353,26 @@ export const Dolacz = forwardRef<HTMLDivElement>((_, ref) => {
 
       <BuySPWZButtonParagraph />
 
-      <p style={{ textAlign: 'center', marginTop: 'var(--spacing-10)', fontSize: '0.8rem' }}>
+      <p
+        style={{
+          textAlign: 'center',
+          marginTop: 'var(--spacing-10)',
+          fontSize: '0.8rem',
+        }}
+      >
         Kliknięcie w przycisk przekieruje Cię na stronę edu.krzysztof.io, gdzie możesz dokonać
         płatności.
       </p>
 
       <hr className="hr-spwz" />
 
-      <p style={{ textAlign: 'center', marginTop: 'var(--spacing-6)', fontSize: '1.2rem' }}>
+      <p
+        style={{
+          textAlign: 'center',
+          marginTop: 'var(--spacing-6)',
+          fontSize: '1.2rem',
+        }}
+      >
         Do końca zapisów zostało:
       </p>
 
@@ -488,7 +500,6 @@ export const Dolacz = forwardRef<HTMLDivElement>((_, ref) => {
 })
 
 Dolacz.displayName = 'Dolacz'
-
 
 function BuySPWZButtonParagraph() {
   return (

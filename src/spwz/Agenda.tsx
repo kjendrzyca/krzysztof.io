@@ -144,7 +144,7 @@ export const Agenda = () => {
     <>
       <CenteredH2>📋 Agenda:</CenteredH2>
 
-      <MarkdownWithHighlights highlightNopadding>{text}</MarkdownWithHighlights>
+      <MarkdownWithHighlights highlightSmallerpadding>{text}</MarkdownWithHighlights>
     </>
   )
 }
