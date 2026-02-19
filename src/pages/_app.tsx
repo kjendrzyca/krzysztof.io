@@ -1,6 +1,6 @@
 import { ThemeProvider } from 'next-themes'
 import Script from 'next/script'
-import { Inter } from 'next/font/google'
+import { Geist } from 'next/font/google'
 import type { AppProps } from 'next/app'
 
 import '@/styles/normalize.css'
@@ -8,7 +8,7 @@ import '@/styles/style.css'
 import '@/components/spwzEbook.css'
 import '@/components/bookCover.css'
 
-const inter = Inter({ subsets: ['latin'] })
+const geist = Geist({ subsets: ['latin'] })
 
 // Highlighting for code blocks
 // import 'prismjs/themes/prism.css'
@@ -34,7 +34,7 @@ export default function App({ Component, pageProps }: AppPropsWithTheme) {
         global
       >{`
         :root {
-          --fontFamily-sans: ${inter.style.fontFamily};
+          --fontFamily-sans: ${geist.style.fontFamily};
         }
       `}</style>
 
