@@ -16,12 +16,12 @@ function IndexLink({ title, slug, createdAt, hot }: IndexLinkProps) {
   const formattedDate = `${date.getFullYear()} · ${String(date.getMonth() + 1).padStart(2, '0')} `
 
   return (
-    <li>
+    <li className="index-link">
+      <span className="link-date">{formattedDate}</span>
       <Link
         href={slug}
-        className="index-link"
+        className="index-link-title"
       >
-        <span className="link-date">{formattedDate}</span>
         {hot ? (
           <span
             role="img"

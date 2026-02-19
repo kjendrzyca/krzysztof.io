@@ -32,7 +32,6 @@ export const Layout = ({ children, isLandingPage }: LayoutProps) => {
       <footer>
         {isLandingPage ? null : <SubscribeKIO />}
         <div className="footer-bottom">
-          <div>© {new Date().getFullYear()}</div>
           <div className="footer-social-links">
             <Twitter />
             <Instagram />

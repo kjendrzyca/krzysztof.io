@@ -11,7 +11,7 @@
   --maxWidth-3xl: 48rem;
   --maxWidth-4xl: 56rem;
   --maxWidth-full: '100%';
-  --maxWidth-wrapper: var(--maxWidth-2xl);
+  --maxWidth-wrapper: 38rem;
   --maxWidth-wrapper-wide: var(--maxWidth-3xl);
   --spacing-px: '1px';
   --spacing-0: 0;
@@ -60,7 +60,8 @@
   --color-background: var(--color-white);
   --color-primary: rgba(222, 1, 76, 1);
   --color-primary-darker: rgba(197, 3, 69, 0.8);
-  --color-text: rgba(0, 0, 0, 0.9);
+  /* --color-text: rgba(0, 0, 0, 0.9); -- before readability update */
+  --color-text: #404040;
   --color-text-light: rgba(0, 0, 0, 0.6);
   --color-heading: rgba(19, 20, 21, 1);
   --color-accent: #7d8489;
@@ -95,15 +96,16 @@
 }
 
 html.dark-mode {
-  --color-background: #121212;
+  /* Option 1: bg #181818, text #d0d0d0, heading #f0f0f0 (contrast 11.5:1) */
+  /* Option 4 (minimal): bg #161616, text #c8c8c8, heading #ececec, light #222222 (contrast 10.8:1) */
+  /* Previous: bg #121212, text #e3e3e3, heading white (contrast 14.6:1 - too high) */
+  --color-background: #181818;
   --color-primary: #ff2966;
-  /* --color-primary-darker: stays the same */
-  /* --color-text: rgba(255, 255, 255, 0.89); */
-  --color-text: #e3e3e3;
+  --color-text: #d0d0d0;
   --color-text-light: #a5a5a5;
-  --color-heading: white;
+  --color-heading: #f0f0f0;
   --color-accent: rgba(209, 220, 229, 0.6);
-  --color-light: #1d1c1c;
+  --color-light: #242424;
 
   --bear-url: url('/bear-dark.svg');
 }
@@ -226,12 +228,12 @@ p {
   line-height: var(--lineHeight-relaxed);
   --baseline-multiplier: 0.179;
   --x-height-multiplier: 0.35;
-  margin: var(--spacing-0) var(--spacing-0) var(--spacing-4) var(--spacing-0);
+  margin: var(--spacing-0) var(--spacing-0) var(--spacing-6) var(--spacing-0);
   padding: var(--spacing-0);
 }
 
 .small-spacing p {
-  margin-bottom: var(--spacing-4);
+  margin-bottom: var(--spacing-6);
 }
 
 ul,
@@ -295,23 +297,17 @@ table thead tr th {
 /* Link */
 
 a {
-  color: var(--color-primary);
-  text-decoration: none;
+  color: var(--color-heading);
+  font-weight: var(--fontWeight-medium);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-thickness: 1px;
 }
-
-/* a:after {
-  content: ']]';
-  color: rgba(107, 114, 128, 0.5);
-}
-
-a:before {
-  content: '[[';
-  color: rgba(107, 114, 128, 0.5);
-} */
 
 a:hover,
 a:focus {
-  text-decoration: none;
+  color: var(--color-primary);
+  text-decoration: underline;
 }
 
 /* forms */
@@ -391,13 +387,10 @@ button:focus {
   color: var(--color-text-light);
   font-size: var(--fontSize-0);
   display: flex;
+  justify-content: space-between;
+  align-items: center;
   flex-wrap: wrap;
-}
-
-.footer-bottom > div {
-  flex-grow: 1;
-  flex-basis: 200px;
-  white-space: nowrap;
+  gap: var(--spacing-4);
 }
 
 .footer-links {
@@ -407,10 +400,6 @@ button:focus {
 .footer-links a {
   margin-left: var(--spacing-3);
   color: var(--color-text-light);
-}
-
-.footer-social-links {
-  text-align: center;
 }
 
 .footer-social-links a {
@@ -426,10 +415,13 @@ button:focus {
   color: var(--color-primary);
 }
 
-@media (max-width: 42rem) {
-  .footer-bottom > div {
+@media (max-width: 38rem) {
+  .footer-bottom {
+    justify-content: center;
+  }
+
+  .footer-links {
     text-align: center;
-    margin-bottom: var(--spacing-2);
   }
 }
 
@@ -464,6 +456,7 @@ button:focus {
   font-weight: var(--fontWeight-bold);
   font-family: var(--font-heading);
   text-decoration: none;
+  color: var(--color-primary);
   font-size: var(--fontSize-2);
   background-image: var(--bear-url);
   background-size: auto var(--fontSize-6);
@@ -566,12 +559,12 @@ span.custom-highlight.smallerpadding {
 
 html.dark-mode span.custom-highlight,
 html.dark-mode .brush-highlight {
-  background-color: rgba(200, 170, 50, 0.25);
+  background-color: rgba(250, 200, 60, 0.3);
 }
 
 /* Media queries */
 
-@media (max-width: 42rem) {
+@media (max-width: 38rem) {
   blockquote {
     padding: var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-4);
     margin-left: var(--spacing-0);
@@ -663,7 +656,7 @@ html.dark-mode .brush-highlight {
   color: var(--color-primary) !important;
 }
 
-@media (max-width: 42rem) {
+@media (max-width: 38rem) {
   .share-buttons-container {
     margin-left: 0;
     margin-right: 0;
@@ -736,6 +729,14 @@ html.dark-mode .brush-highlight {
   color: var(--color-accent);
   font-variant-numeric: tabular-nums;
   white-space: nowrap;
+}
+
+.index-link-title {
+  text-decoration: none;
+}
+
+.index-link-title:hover {
+  color: var(--color-primary);
 }
 
 .date {
