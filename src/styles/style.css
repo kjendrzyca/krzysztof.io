@@ -338,8 +338,13 @@ a {
 
 a:hover,
 a:focus {
-  color: var(--color-primary);
+  color: var(--color-black);
   text-decoration: underline;
+}
+
+html.dark-mode a:hover,
+html.dark-mode a:focus {
+  color: var(--color-white);
 }
 
 /* forms */
@@ -444,7 +449,7 @@ button:focus {
 }
 
 .footer-social-links a:hover {
-  color: var(--color-primary);
+  color: var(--color-heading);
 }
 
 @media (max-width: 38rem) {
@@ -534,7 +539,7 @@ button:focus {
 }
 
 .blog-post footer a:hover {
-  color: var(--color-primary);
+  color: var(--color-heading);
 }
 
 .blog-post-nav ul {
@@ -768,7 +773,7 @@ html.dark-mode .brush-highlight {
 }
 
 .index-link-title:hover {
-  color: var(--color-primary);
+  color: var(--color-heading);
 }
 
 .date {
