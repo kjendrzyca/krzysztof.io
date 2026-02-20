@@ -282,7 +282,7 @@ li *:last-child {
 li > ul,
 li > ol {
   margin-left: var(--spacing-6);
-  margin-top: var(--spacing-3);
+  margin-top: var(--spacing-2);
   margin-bottom: var(--spacing-1);
 }
 
