@@ -577,17 +577,12 @@ hr.hr-spwz:before {
   content: '~ ~ ~';
 }
 
-/* Brush-stroke highlight */
+/* Highlight */
 span.custom-highlight,
 .brush-highlight {
   background-color: #fff2c0;
-  -webkit-mask-image: url('/brush-stroke.svg');
-  mask-image: url('/brush-stroke.svg');
-  -webkit-mask-size: 100% 100%;
-  mask-size: 100% 100%;
-  -webkit-mask-repeat: no-repeat;
-  mask-repeat: no-repeat;
-  padding: 2px 6px;
+  border-radius: 2px;
+  padding: 0px 1px;
   -webkit-box-decoration-break: clone;
   box-decoration-break: clone;
 }
@@ -602,7 +597,12 @@ span.custom-highlight.smallerpadding {
 
 html.dark-mode span.custom-highlight,
 html.dark-mode .brush-highlight {
-  background-color: rgba(250, 200, 60, 0.3);
+  /* background-color: #4a3d1e; -- opcja A: ciepły amber */
+  /* background-color: #524420; -- opcja B: jaśniejszy złoty */
+  /* background-color: #5a4a28; -- opcja D: jasny amber */
+  /* background-color: #483a28; -- opcja G: ciepły brąz-amber */
+  /* background-color: #5e4e1e; -- opcja H: jasny miodowy */
+  background-color: #524420;
 }
 
 /* Media queries */
