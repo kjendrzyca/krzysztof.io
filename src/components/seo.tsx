@@ -58,7 +58,7 @@ const SEO = ({
       />
       <meta
         property="twitter:creator"
-        content={`@${config.siteMetadata.social.social}`}
+        content={`@${config.siteMetadata.socialHandle}`}
       />
       <meta
         property="twitter:title"

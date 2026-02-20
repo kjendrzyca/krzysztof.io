@@ -1,7 +1,7 @@
 import React from 'react'
 import { config } from '../config'
 
-const socialHandle = config.siteMetadata.social.social
+const socialHandle = config.siteMetadata.socialHandle
 
 export const Twitter = ({ social = socialHandle }) => (
   <a

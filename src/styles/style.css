@@ -67,6 +67,7 @@
   --color-accent: #7d8489;
   /* d1dc35 */
   --color-light: #f0f0f0;
+  --color-blockquote-bg: #f6f6f6;
   --color-success: #4caf50;
   /* A nice green color */
 
@@ -106,6 +107,7 @@ html.dark-mode {
   --color-heading: #f0f0f0;
   --color-accent: rgba(209, 220, 229, 0.6);
   --color-light: #242424;
+  --color-blockquote-bg: #222222;
 
   --bear-url: url('/bear-dark.svg');
 }
@@ -244,10 +246,6 @@ p {
   padding: var(--spacing-0);
 }
 
-.small-spacing p {
-  margin-bottom: var(--spacing-5);
-}
-
 ul,
 ol {
   margin-top: var(--spacing-0);
@@ -309,7 +307,7 @@ blockquote {
   margin-right: var(--spacing-0);
   padding: var(--spacing-4) var(--spacing-5) var(--spacing-4) var(--spacing-5);
   border-left: var(--spacing-1) solid var(--color-primary);
-  background-color: #f6f6f6;
+  background-color: var(--color-blockquote-bg);
   margin-bottom: var(--spacing-4);
 }
 
@@ -487,24 +485,11 @@ button:focus {
   overflow-x: auto;
 }
 
-.global-wrapper.wide {
-  max-width: var(--maxWidth-wrapper-wide);
-}
-
-.global-wrapper[data-is-root-path='true'] .bio {
-  margin-bottom: var(--spacing-12);
-}
-
 .global-header {
   margin-bottom: var(--spacing-12);
   position: relative;
   display: flex;
   justify-content: space-between;
-}
-
-.main-heading {
-  font-size: var(--fontSize-7);
-  margin: 0;
 }
 
 .header-link-home {
@@ -520,22 +505,6 @@ button:focus {
   height: var(--fontSize-6);
   line-height: var(--fontSize-6);
   padding-left: var(--spacing-10);
-}
-
-.bio {
-  display: flex;
-  margin-bottom: var(--spacing-16);
-}
-
-.bio p {
-  margin-bottom: var(--spacing-0);
-}
-
-.bio-avatar {
-  margin-right: var(--spacing-4);
-  margin-bottom: var(--spacing-0);
-  min-width: 50px;
-  border-radius: 100%;
 }
 
 .blog-post header h1 {
@@ -558,10 +527,6 @@ button:focus {
 
 .blog-post footer a:hover {
   color: var(--color-heading);
-}
-
-.blog-post-nav ul {
-  margin: var(--spacing-0);
 }
 
 .image-wrapper {
@@ -607,10 +572,6 @@ span.custom-highlight.smallerpadding {
   padding: 2px 4px;
 }
 
-html.dark-mode blockquote {
-  background-color: #222222;
-}
-
 html.dark-mode span.custom-highlight,
 html.dark-mode .brush-highlight {
   /* background-color: #4a3d1e; -- opcja A: ciepły amber */
@@ -639,44 +600,6 @@ html.dark-mode .brush-highlight {
 
 .subscribe-form {
   margin-top: var(--spacing-12);
-}
-
-.subscribe-form h2 {
-  font-size: var(--fontSize-3);
-}
-
-.ml-form-formContent {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-}
-
-.ml-form-fieldRow {
-  flex-grow: 1;
-  flex-basis: 200px;
-  margin-bottom: 20px;
-}
-
-.ml-form-fieldRow input {
-  background: var(--color-white);
-  border: 1px solid var(--color-accent);
-  color: var(--color-black);
-  height: 50px;
-  border-radius: 3px;
-  /* border-color: #dedede; */
-  box-shadow: none;
-  padding: 5px 10px;
-  width: 100%;
-}
-
-@media (min-width: 545px) {
-  .ml-form-fieldRow {
-    margin-right: 20px;
-  }
-
-  .ml-form-fieldRow:last-child {
-    margin: 0;
-  }
 }
 
 .testimonial {
