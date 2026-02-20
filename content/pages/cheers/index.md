@@ -4,7 +4,7 @@ createdAt: '2021-05-29'
 updatedAt: '2021-06-13'
 published: true
 description: 'Dzięki za dołączenie do listy!'
-shareButtons: false
+isLanding: true
 ---
 
 Wszystko gra i jesteśmy w kontakcie.

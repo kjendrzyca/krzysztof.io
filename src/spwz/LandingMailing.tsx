@@ -1,5 +1,4 @@
 import { useRef } from 'react'
-import { config } from '@/config'
 
 import { CenteredH2 } from '@/components/CenteredH2'
 import { LogoAndHeading } from '@/spwz/LogoAndHeading'
@@ -8,14 +7,11 @@ import { CoKiedy } from '@/spwz/CoKiedy'
 
 import NextImage from 'next/image'
 
-import ShareButtons from '@/components/shareButtons'
 import { SPWZScrollButton, SubscribeSPWZToggleButton } from './buttons'
 import { OpisProblemu } from './OpisProblemu'
 import { OpisProduktu } from './OpisProduktu'
 
 export const LandingMailing = () => {
-  const siteUrl = config.siteMetadata.siteUrl
-  const social = config.siteMetadata.social.social
   const coKiedyRef = useRef<HTMLDivElement>(null)
 
   const openSubscribePage = () =>
@@ -69,21 +65,6 @@ export const LandingMailing = () => {
       <hr className="hr-spwz" />
 
       <OMnie />
-
-      <hr className="hr-spwz" />
-
-      <ShareButtons
-        url={`${siteUrl}/spwz`}
-        title="Skuteczna Praca w Zespole"
-        socialHandle={social}
-        text={
-          <>
-            Jeśli znasz kogoś, kto chciałby zrozumieć, jak skutecznie pracować w zespole i poprawić
-            swoje warunki zatrudnienia, ale nie wie jak się za to zabrać, to będę wdzięczny jeśli{' '}
-            <span className="click-it">podeślesz mu link do tej strony.</span>
-          </>
-        }
-      />
     </>
   )
 }

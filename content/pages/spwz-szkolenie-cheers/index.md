@@ -4,7 +4,6 @@ createdAt: '2024-09-17'
 updatedAt: '2025-08-28'
 published: true
 isLanding: true
-shareButtons: false
 ---
 
 Wszystko gra, potwierdzam Twój zapis i jesteśmy w kontakcie.

@@ -2,7 +2,7 @@ import NextImage from 'next/image'
 import Head from 'next/head'
 import { getAllSlugs, getPost } from '@/lib/posts'
 import { Layout } from '@/components/layout'
-import ShareButtons from '@/components/shareButtons'
+
 import { config } from '@/config'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
@@ -91,7 +91,6 @@ type FrontmatterData = {
   title: string
   createdAt: string
   updatedAt: string
-  shareButtons?: boolean
   description: string
   isLanding?: boolean
   banner?: string
@@ -126,10 +125,9 @@ const Post = ({
   bannerPath,
   bannerImageProps,
 }: PostProps) => {
-  const { title, createdAt, updatedAt, shareButtons, description, isLanding } =
+  const { title, createdAt, updatedAt, description, isLanding } =
     frontmatter as FrontmatterData
   const siteUrl = config.siteMetadata.siteUrl
-  const social = config.siteMetadata.social.social
   const pageTitle = title || siteUrl
   const adjustedTitle =
     contentPath === 'notes' ? `${title}: podsumowanie, notatki i przemyślenia` : title
@@ -243,9 +241,9 @@ const Post = ({
             {content}
           </ReactMarkdown>
         </section>
-        {shareButtons === false ? null : (
+        {contentPath !== 'pages' && (
           <footer>
-            <p>
+            <p style={{ marginBottom: 0 }}>
               ---
               <br />
               Opublikowano: <span className="date">{createdAt}</span>
@@ -263,13 +261,7 @@ const Post = ({
           </footer>
         )}
       </article>
-      {shareButtons === false ? null : (
-        <ShareButtons
-          url={`${siteUrl}/${slug}/`}
-          title={pageTitle}
-          socialHandle={social}
-        />
-      )}
+
     </Layout>
   )
 }

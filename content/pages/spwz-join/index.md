@@ -4,7 +4,6 @@ createdAt: '2025-04-11'
 updatedAt: '2025-04-11'
 published: true
 description: 'Dzięki za dołączenie do listy!'
-shareButtons: false
 ---
 
 Wszystko gra i jesteśmy w kontakcie.

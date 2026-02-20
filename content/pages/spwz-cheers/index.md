@@ -4,7 +4,6 @@ createdAt: '2024-06-09'
 updatedAt: '2024-06-09'
 published: true
 isLanding: true
-shareButtons: false
 ---
 
 Wszystko gra i jesteśmy w kontakcie.

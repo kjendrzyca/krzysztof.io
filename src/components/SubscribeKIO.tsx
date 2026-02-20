@@ -6,7 +6,7 @@ export const SubscribeKIO = () => {
       <div>
         <p>
           <b>P.S.</b> Jeśli chcesz od czasu do czasu dostać ode mnie informacje o nowych wpisach,
-          notatkach lub projektach, to zostaw tutaj swój e-mail.
+          notatkach lub projektach, to zapisz się do newslettera.
         </p>
       </div>
 

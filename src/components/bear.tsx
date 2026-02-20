@@ -3,6 +3,7 @@ import React from 'react'
 const Bear = () => {
   return (
     <svg
+      className="footer-bear"
       version="1.0"
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 640.000000 1280.000000"

@@ -4,7 +4,6 @@ createdAt: '2025-09-23'
 updatedAt: '2025-09-23'
 published: true
 description: 'Dzięki za wypełnienie ankiety 💪'
-shareButtons: false
 isLanding: true
 ---
 

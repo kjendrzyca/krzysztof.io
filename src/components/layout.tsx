@@ -2,6 +2,7 @@ import React, { ReactNode } from 'react'
 
 import Link from 'next/link'
 
+import Bear from './bear'
 import { SubscribeKIO } from './SubscribeKIO'
 import { GitHub, Instagram, Twitter } from './Social'
 import ThemeToggler from './ThemeToggler'
@@ -30,6 +31,7 @@ export const Layout = ({ children, isLandingPage }: LayoutProps) => {
       )}
       <main>{children}</main>
       <footer>
+        <Bear />
         {isLandingPage ? null : <SubscribeKIO />}
         <div className="footer-bottom">
           <div className="footer-social-links">

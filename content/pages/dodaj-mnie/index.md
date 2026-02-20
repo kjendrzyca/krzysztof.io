@@ -5,7 +5,6 @@ updatedAt: '2024-06-09'
 description: "Co zrobić, żeby zawsze widzieć moje maile."
 published: true
 isLanding: true
-shareButtons: false
 ---
 
 Nie wiem jak inne usługi mailowe, ale Gmail lubi wrzucać maile do zakładki innej niż "Primary". Jest szansa, że wlecą one do "Promotions".

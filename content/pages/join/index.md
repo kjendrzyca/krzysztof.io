@@ -4,7 +4,6 @@ createdAt: '2021-05-29'
 updatedAt: '2021-07-24'
 published: true
 description: 'Dzięki za dołączenie do listy!'
-shareButtons: false
 isLanding: true
 ---
 

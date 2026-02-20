@@ -463,6 +463,13 @@ button:focus {
   color: var(--color-heading);
 }
 
+.footer-bear {
+  display: block;
+  margin: var(--spacing-4) auto 0;
+  height: var(--spacing-16);
+  width: auto;
+}
+
 @media (max-width: 38rem) {
   .footer-bottom {
     justify-content: center;
@@ -672,49 +679,6 @@ html.dark-mode .brush-highlight {
   }
 }
 
-.share-buttons-container {
-  margin-left: var(--spacing-12);
-  margin-right: var(--spacing-12);
-  padding: var(--spacing-6) var(--spacing-0);
-  text-align: center;
-}
-
-.share-buttons-container h2 {
-  font-size: var(--fontSize-3);
-}
-
-.share-buttons-container svg {
-  height: var(--spacing-16);
-}
-
-.share-buttons-container small {
-  color: var(--color-text-light);
-}
-
-.share-buttons {
-  display: inline-block;
-  padding-top: var(--spacing-12);
-}
-
-.share-button {
-  text-decoration: underline;
-}
-
-.share-button:hover {
-  color: var(--color-primary) !important;
-}
-
-.click-it {
-  color: var(--color-primary) !important;
-}
-
-@media (max-width: 38rem) {
-  .share-buttons-container {
-    margin-left: 0;
-    margin-right: 0;
-  }
-}
-
 .testimonial {
   margin: 2rem 0;
 }
@@ -801,6 +765,7 @@ html.dark-mode .brush-highlight {
   display: flex;
   flex-direction: column;
   gap: var(--spacing-4);
+  margin-bottom: var(--spacing-8);
 }
 
 .links-intro {
