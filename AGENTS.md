@@ -14,6 +14,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - `pnpm build` - Production build (includes prebuild image copying)
 - `pnpm lint` - ESLint with Prettier integration
 - `pnpm lint:fix` - Auto-fix linting issues
+- Never use `pnpm build` as a routine verification step. It can kill a potentially working dev server.
+- Only run `pnpm build` when the user explicitly asks for it.
 
 **Database migrations:**
 - Never run migrations unless asked. If they need to be run, inform the user and print the command he should use.
