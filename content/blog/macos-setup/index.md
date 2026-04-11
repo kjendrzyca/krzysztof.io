@@ -16,7 +16,7 @@ description: 'Żyjąca dokumentacja mojego setupu macOS i rozwiązania, które s
 
 Gdy używam MacBooka na wbudowanym ekranie z notchem, a nie na zewnętrznym monitorze, to przy większej liczbie ikonek część z nich po prostu znika za notchem.
 
-macOS nie daje niestety sensownego (żadnego?) wbudowanego narzędzia do zarządzania tym miejscem (ciekawi mnie, jakie oficjalne rozwiązanie sugerują inżynieży Apple'a).
+macOS nie daje niestety sensownego ([żadnego?](https://discussions.apple.com/thread/255568709?sortBy=rank)) wbudowanego narzędzia do zarządzania tym miejscem (ciekawi mnie, jakie oficjalne rozwiązanie sugerują inżynieży Apple'a).
 
 Istnieją rozwiązania 3rd-party i sprawdziłem dwa:
 
