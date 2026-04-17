@@ -1,7 +1,7 @@
 ---
 title: 'Narzędzia, których używam'
 createdAt: '2021-05-29'
-updatedAt: '2026-02-27'
+updatedAt: '2026-04-17'
 published: true
 description: 'Zestaw narzędzi, który wypracowałem sobie w ciągu wielu lat testów.'
 ---
@@ -44,7 +44,6 @@ description: 'Zestaw narzędzi, który wypracowałem sobie w ciągu wielu lat te
 - https://github.com/junegunn/fzf
 - [Antigravity](https://antigravity.google/) - główny edytor
 - https://code.visualstudio.com/
-- [OpenCode](https://opencode.ai/) - główne narzędzie AI do kodowania (Claude Code, Codex, Gemini CLI)
 - https://cli.github.com/
 - https://www.docker.com/
 - https://github.com/BurntSushi/ripgrep
@@ -52,6 +51,25 @@ description: 'Zestaw narzędzi, który wypracowałem sobie w ciągu wielu lat te
 - https://github.com/sharkdp/bat
 - https://dbeaver.io/
 - https://www.loom.com/
+
+## AI do kodowania
+
+- [OpenCode](https://opencode.ai/) - interfejs, przez który korzystam z GPT-5.4-xhigh w ramach subskrypcji Codexa. Do niedawna wspierał też natywnie modele Anthropica i życie było piękne, ale Antrhopic postanowił [zablokować taką możliwość](https://x.com/thdxr/status/2034730036759339100). Istnieją community plugins, ale powodują banowanie kont. Wyjątkiem może być `opencode-with-claude`, który łączy się przez oficjalne Claude SDK. Testuję przy pomocy konta, które i tak zamierzam zamknąć, więc potencjalny ban mi dużo nie napsuje.
+- Równolegle testuję też dostęp do modeli przez subskrybcję [GitHub Copilot](https://github.com/features/copilot), bo daje dostęp do modeli Anthropica i innych providerów. Potencjalnie może to posłużyć jako docelowy setup (jeden interfejs do wszystkich modeli), ale zobaczymy, czy nie będę zbyt szybko uderzał w limity (rozliczanie jest per request, a Opus liczony jest x3).
+- [Claude Code](https://www.anthropic.com/claude-code) - natywny CLI do modeli Anthropica. Używam równolegle do OpenCode, bo nie da się inaczej. Wolałbym jedno wspólne narzędzie zamiast żonglować dwoma. Zwłaszcza, że DX Claude Code jest lata świetlne za OpenCode.
+
+Wtyczki, których używam w OpenCode:
+
+- [opencode-gemini-auth](https://www.npmjs.com/package/opencode-gemini-auth) - autoryzacja Gemini CLI do OpenCode. Plugin mam podpięty, ale na razie z modeli Gemini nie korzystam, bo w porównaniu do GPT i Anthropica okazały się ekstremalnie słabe.
+- [@franlol/opencode-md-table-formatter](https://www.npmjs.com/package/@franlol/opencode-md-table-formatter) - formatowanie tabel markdown
+- [@slkiser/opencode-quota](https://www.npmjs.com/package/@slkiser/opencode-quota) - limity użycia modeli w statusbarze TUI
+- [opencode-with-claude](https://github.com/ianjwhite99/opencode-with-claude) - testowo, do korzystania z modeli Claude (Opus) w OpenCode przez lokalny proxy [Meridian](https://github.com/rynfar/meridian). Plugin sam startuje i zamyka proxy razem z OpenCode, każdej instancji OpenCode przydziela osobny port.
+
+MCP:
+
+- [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - sterowanie przeglądarką z poziomu agenta (screenshoty, console, network, Lighthouse)
+- [gh_grep](https://mcp.grep.app) - przeszukiwanie kodu publicznego na GitHubie przez [grep.app](https://grep.app). Mam wpięty i włączany case by case.
+
 
 ## Frameworki, Libki, Platformy:
 
