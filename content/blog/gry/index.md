@@ -232,6 +232,8 @@ Gry, które sprawdziłem, ale mi nie siadły.
 
 ## Inbox
 
+- Gothic Remake
+  - Jestem team Morrowind i w Gothica nigdy nie grałem. Remake to okazja, żeby to zmienić. Zwłaszcza, że twórcy chcą wiernie odwzorować oryginał.
 - Lords of the Fallen(2023)
 - Lies of P
 - Wuchang
