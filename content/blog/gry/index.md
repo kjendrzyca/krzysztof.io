@@ -78,6 +78,7 @@ Legenda:
   - Wplatam w watch order serialu.
 - **Undertale**
 - **What Remains of Edith Finch**
+- **The Last Guardian**
 - **Fort Solis**
 
 ## Ukończone
