@@ -72,8 +72,8 @@ const BlogIndex = () => {
       </p>
 
       <p>
-        Tutaj znajdziesz listę <Link href="/narzedzia/">narzędzi</Link>, których używam i{' '}
-        <Link href="/linki/">linków</Link>, które wrzucam w świat.
+        Tutaj znajdziesz listę <Link href="/narzedzia/">narzędzi</Link>, których używam, {' '}
+        <Link href="/linki/">linków</Link>, które wrzucam w świat i <Link href="/gry/">gier</Link>, które obecnie ogrywam.
       </p>
 
       <blockquote>
