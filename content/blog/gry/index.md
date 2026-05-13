@@ -1,7 +1,7 @@
 ---
 title: 'Gry'
 createdAt: '2026-05-09'
-updatedAt: '2026-05-12'
+updatedAt: '2026-05-13'
 published: true
 description: 'Moja osobista lista gier: co przeszedłem, kolejka, jak oceniam, i wszystko, co przykuło moją uwagę.'
 banner: './banner.jpg'
@@ -208,90 +208,108 @@ Legenda:
 
 Gry, które sprawdziłem, ale mi nie siadły.
 
-- **Arco**
-- **Lego Horizon**
+- Arco
+- Lego Horizon
   - Nie jest to ani dobra gra LEGO, ani dobry Horizon.
   - Nie wiem, co poszło nie tak, bo gra miała olbrzymi potencjał.
   - Na plus fotorealistyczna klockowa grafika. Wszystkie gry lego mogłyby tak wyglądać.
-- **Stellar Blade**
-- **Axiom Verge**
-- **Dragon's Dogma: Dark Arisen**
+- Stellar Blade
+- Axiom Verge
+- Dragon's Dogma: Dark Arisen
   - Grałem 20h, ale mnie zmęczyło.
   - Clunkiness i pustawy świat, choć sam pomysł na grę jest mega.
   - Mam nadzieję, że będę się lepiej bawił przy dwójce, bo to remake.
-- **Another Crab's Treasure**
+- Another Crab's Treasure
   - Niby są to crab soulsy i gra jest wysoko oceniana, ale clunkiness i słabe wykonanie soulsowych mechanik mnie odrzuciły.
   - Soulsy polegają na precyzyjnie ustawionych timingach i hitboxach w taki sposób, że gdy robisz coś dobrze, to gra cię wynagradza.
   - Tutaj było zbyt dużo losowości, przez co gra momentami jest trudniejsza niż jakiekolwiek soulsy.
   - Czułem się oszukany, że robię wszystko dobrze, a i tak jestem karany przez niedopracowane mechaniki.
-- **Lords of the Fallen (2014)**
+- Lords of the Fallen (2014)
   - Odrzuciło mnie to samo, co w przypadku Another Crab's Treasure.
   - Za to remake zapowiada się dobrze.
-- **Celeste**
+- Celeste
   - Gra dla masochistów. Nie mam z tego radości.
+- Subnautica
+  - Podoba mi, ale nie wiem, co mam robić.
 
 ## Inbox
 
+- Control Resonant 🔥🔥🔥
 - Gothic Remake
   - Jestem team Morrowind i w Gothica nigdy nie grałem. Remake to okazja, żeby to zmienić. Zwłaszcza, że twórcy chcą wiernie odwzorować oryginał.
 - Lords of the Fallen(2023)
-- Lies of P
-- Wuchang
-- Nier Automata
-- Mortal Shell
-- Abzu
-- Subnautica
-- Outer Wilds
-- Metro
-- Sekiro
-- GTA 5
-- A Plague Tale: Requiem
-- Vampyr
-- Dragon Age: Origins
-- Dragon Age: Inquisition
-- Batman: Arkham City
-- Disco Elysium
-- Doom
-- Returnal
-- Pillars of Eternity
-- The Evil Within
 - Resident Evil 4
 - Resident Evil 8
 - Resident Evil 9
-- Banishers: Ghosts of New Eden
-- Gris
-- Tunic
-- Rain World
-- Signalis
-- Kentucky Route Zero
-- Herdling
-- Still Wakes the Deep
-- Dread Delusion
-- Indika
 - Stray
-- Solar Ash
-- Evil West
-- Sifu
-- Killer Frequency
-- Transistor
-- Inside
-- Death's Door
-- Cuphead
-- Soma
-- The Stanley Parable
-- Atomic Heart
-- Ballad of Antara
-  - Chinese soulslike.
-- Hell is Us
-- Mirthwood
-- Stalker 2
-- Silent Hill
+- Lies of P
+- Wuchang
+- Nier Automata
+- Jusant
+- Mortal Shell
+- Abzu
+- Outer Wilds
+- Sekiro
+  - Wstyd. Ale wiem, że to mogą być najlepsze soulsy, więc zostawiam na później już kilka lat.
+- GTA 5
 - Silent Hill 2 Remake
 - Silent Hill 1 Remake
 - Silent Hill F
+- A Plague Tale: Requiem
+- Death's Door
+- Tunic
+- Signalis
+- Batman: Arkham City
+- Returnal
+- Metro
+- Kentucky Route Zero
+- Still Wakes the Deep
+- The Stanley Parable
+- Atomic Heart
+- Sifu
+- Hell is Us
 - Path of Exile 2
+- Mirthwood
+- Black Myth: Wukong
+- Season: A Letter to the Future
+- Pragmata
+- Cairn
+- Star Wars Outlaws
+- Detroit: Become Human
+- Phantom Blade 0
+- Kena: Bridge of Spirits
+- Kena: Scars of Kosmora
+- Silent Hill: Townfall
+- God of War Trilogy Remake
+- God of War: Sons of Sparta
+  - 2D.
+- Katana Zero
+  - polecajka
+  - "zajebista muza i styl, taki retro-cyberpunk-noir, w chuj dziwna gra"
+- Vampyr
+- Dragon Age: Origins
+- Dragon Age: Inquisition
+- Disco Elysium
+- Doom
+- Pillars of Eternity
+- The Evil Within
+- Banishers: Ghosts of New Eden
+- Gris
+- Soma
+- Rain World
+- Herdling
+- Dread Delusion
+- Indika
+- Solar Ash
+- Evil West
+- Killer Frequency
+- Transistor
+- Inside
+- Cuphead
+- Ballad of Antara
+  - Chinese soulslike.
+- Stalker 2
 - Neon Blood
-- Jusant
 - Somerville
 - The Cub
 - Children of Morta
@@ -305,13 +323,9 @@ Gry, które sprawdziłem, ale mi nie siadły.
 - Sea of Solitude
 - Chorus
 - Final Fantasy VII Rebirth
-- Black Myth: Wukong
-- Season: A Letter to the Future
 - Greed and Darkness
   - https://yrgo-game-creator.itch.io/greed-and-darkness
 - Hirogami
-- Pragmata
-- Cairn
 - Sea of Remnants
 - Sword of the Sea
   - Od twórcy Journey.
@@ -331,12 +345,10 @@ Gry, które sprawdziłem, ale mi nie siadły.
 - Darwin's Paradox!
   - Skradanka ośmiornicą.
 - La Divina Commedia
-- Star Wars Outlaws
 - Cronos: The New Dawn
 - Life is Strange
 - Life is Strange 2
 - Telltale's The Walking Dead
-- Detroit: Become Human
 - Life is Strange: True Colors
 - Lost Records: Bloom & Rage
 - The Dark Pictures Anthology
@@ -362,21 +374,13 @@ Gry, które sprawdziłem, ale mi nie siadły.
 - South of Midnight
 - Exodus
   - 2027.
-- Control Resonant 🔥🔥🔥
 - Forest3
 - Orbitals
   - Switch, retro anime.
-- Phantom Blade 0
-- Kena: Bridge of Spirits
-- Kena: Scars of Kosmora
 - Yakoh Shinobi Ops
   - Coś jak Komandos.
 - Project Windless
   - Wielki kurczak, armie wrogów, epickie widoki, naparzanie.
-- Silent Hill: Townfall
-- God of War Trilogy Remake
-- God of War: Sons of Sparta
-  - 2D.
 - Ikuma
   - Coop.
 - Septerra Core
