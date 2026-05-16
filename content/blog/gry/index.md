@@ -1,7 +1,7 @@
 ---
 title: 'Gry'
 createdAt: '2026-05-09'
-updatedAt: '2026-05-13'
+updatedAt: '2026-05-16'
 published: true
 description: 'Moja osobista lista gier: co przeszedłem, kolejka, jak oceniam, i wszystko, co przykuło moją uwagę.'
 banner: './banner.jpg'
@@ -348,6 +348,7 @@ Gry, które sprawdziłem, ale mi nie siadły.
 - Cronos: The New Dawn
 - Life is Strange
 - Life is Strange 2
+- Mixtape
 - Telltale's The Walking Dead
 - Life is Strange: True Colors
 - Lost Records: Bloom & Rage
