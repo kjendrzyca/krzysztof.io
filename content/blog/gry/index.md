@@ -44,6 +44,9 @@ Legenda:
 - **Mad Max** / SD
   - In progress od ponad roku.
   - Trochę wypaliłem się otwartym światem, ale mega podoba mi się klimat i widoczki. Teraz od czasu do czasu kontynuuję na Steam Decku.
+- **GTA 5** / PS5
+  - Włączyłem niedawno i zostało na dysku.
+  - Gram wtedy, gdy mam mało czasu, bo misje w GTA są raczej krótkie.
 
 ## Paused
 
@@ -251,7 +254,6 @@ Gry, które sprawdziłem, ale mi nie siadły.
 - Outer Wilds
 - Sekiro
   - Wstyd. Ale wiem, że to mogą być najlepsze soulsy, więc zostawiam na później już kilka lat.
-- GTA 5
 - Silent Hill 2 Remake
 - Silent Hill 1 Remake
 - Silent Hill F
