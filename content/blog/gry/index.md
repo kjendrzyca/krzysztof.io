@@ -1,7 +1,7 @@
 ---
 title: 'Gry'
 createdAt: '2026-05-09'
-updatedAt: '2026-05-16'
+updatedAt: '2026-05-27'
 published: true
 description: 'Moja osobista lista gier: co przeszedłem, kolejka, jak oceniam, i wszystko, co przykuło moją uwagę.'
 banner: './banner.jpg'
@@ -400,3 +400,4 @@ Gry, które sprawdziłem, ale mi nie siadły.
 - Jade Cocoon
 - Castlevania: Symphony of the Night
 - Vagrant Story
+- The Edge of Water
