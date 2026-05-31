@@ -1,7 +1,7 @@
 ---
 title: 'Gry'
 createdAt: '2026-05-09'
-updatedAt: '2026-05-27'
+updatedAt: '2026-05-31'
 published: true
 description: 'Moja osobista lista gier: co przeszedłem, kolejka, jak oceniam, i wszystko, co przykuło moją uwagę.'
 banner: './banner.jpg'
@@ -267,6 +267,7 @@ Gry, które sprawdziłem, ale mi nie siadły.
 - Kentucky Route Zero
 - Still Wakes the Deep
 - The Stanley Parable
+- Last Report
 - Atomic Heart
 - Sifu
 - Hell is Us
@@ -296,9 +297,12 @@ Gry, które sprawdziłem, ale mi nie siadły.
 - Pillars of Eternity
 - The Evil Within
 - Banishers: Ghosts of New Eden
+- Rain World
+- Sable
+- Sheepo
+- Crypt Custodian
 - Gris
 - Soma
-- Rain World
 - Herdling
 - Dread Delusion
 - Indika
@@ -307,6 +311,7 @@ Gry, które sprawdziłem, ale mi nie siadły.
 - Killer Frequency
 - Transistor
 - Inside
+- Viewfinder
 - Cuphead
 - Ballad of Antara
   - Chinese soulslike.
@@ -316,11 +321,14 @@ Gry, które sprawdziłem, ale mi nie siadły.
 - The Cub
 - Children of Morta
 - The Last Hero of Nostalgaia
+- Nine Sols
 - The Gunk
 - Death Must Die
 - Morbid
 - Greak
 - Omno
+- Dorfromantik
+- Blue Prince
 - The Forest Quartet
 - Sea of Solitude
 - Chorus
@@ -401,3 +409,23 @@ Gry, które sprawdziłem, ale mi nie siadły.
 - Castlevania: Symphony of the Night
 - Vagrant Story
 - The Edge of Water
+- The Dark Queen of Mortholme
+- A Highland Song
+- Mutazione
+- Midnight Fight Express
+- Dawnfolk
+- Mosaic
+- Tails Noir
+- ColdRidge
+- Cast n Chill
+- Echoes of the Living
+- Gorogoa
+- Samorost 3
+- Creaks
+- Tower Wizard
+- Fountains
+- MIO: Memories in Orbit
+- Chants of Sennaar
+- The Pathless
+- Iron Lung
+- Eclipsium
