@@ -35,8 +35,8 @@ importers:
         specifier: 18.3.1
         version: 18.3.1
       react-cookie-consent:
-        specifier: 9.0.0
-        version: 9.0.0(react@18.3.1)
+        specifier: 10.0.1
+        version: 10.0.1(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       react-countdown:
         specifier: 2.3.6
         version: 2.3.6(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
@@ -1269,8 +1269,8 @@ packages:
     resolution: {integrity: sha512-H0dkQoCa3b2VEeKQBOxFph+JAbcrQdE7KC0UkqwpLmv2EC4P41QXP+rqo9wYodACiG5/WM5s9oDApTU8utwj9g==}
     engines: {node: '>= 0.4'}
 
-  js-cookie@2.2.1:
-    resolution: {integrity: sha512-HvdH2LzI/EAZcUwA8+0nKNtWHqS+ZmijLA30RwZA0bo7ToCckjK5MkGhjED9KoRcXO6BaGI3I9UIzSA1FKFPOQ==}
+  js-cookie@3.0.8:
+    resolution: {integrity: sha512-yeJd4aNAdYZQjaon2bpD/Gb0B/omw7HQOsynXXcOiWVCacbBcPlgn8S/d1X6blFSaHao7ozqtW7NZW19xpCtIw==}
 
   js-tokens@4.0.0:
     resolution: {integrity: sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ==}
@@ -1628,11 +1628,12 @@ packages:
   queue-microtask@1.2.3:
     resolution: {integrity: sha512-NuaNSa6flKT5JaSYQzJok04JzTL1CA6aGhv5rfLW3PgqA+M2ChpZQnAC8h8i4ZFkBS8X5RqkDBHA7r4hej3K9A==}
 
-  react-cookie-consent@9.0.0:
-    resolution: {integrity: sha512-Blyj+m+Zz7SFHYqT18p16EANgnSg2sIyU6Yp3vk83AnOnSW7qnehPkUe4+8+qxztJrNmCH5GP+VHsWzAKVOoZA==}
-    engines: {node: '>=10'}
+  react-cookie-consent@10.0.1:
+    resolution: {integrity: sha512-qgU7Kr+x9/feKZxaIJbMT+R/xD1lnAQy9MzD4yLooVrkhoUR7XFc8Xv8M+GDQYcjoYh6uszslLGo1k+eU2VLtw==}
+    engines: {node: '>=20.16'}
     peerDependencies:
-      react: '>=16'
+      react: '>=18'
+      react-dom: '>=18'
 
   react-countdown@2.3.6:
     resolution: {integrity: sha512-ZfX6S08Hb6x6W6eCn1hMDvxPICI/T30fd+gaeVTCR/2cGZ2WJ3f26e4ImNIMX1fHkopJrUdnRpWXP13/D39+gg==}
@@ -3256,7 +3257,7 @@ snapshots:
       has-symbols: 1.1.0
       set-function-name: 2.0.2
 
-  js-cookie@2.2.1: {}
+  js-cookie@3.0.8: {}
 
   js-tokens@4.0.0: {}
 
@@ -3830,10 +3831,11 @@ snapshots:
 
   queue-microtask@1.2.3: {}
 
-  react-cookie-consent@9.0.0(react@18.3.1):
+  react-cookie-consent@10.0.1(react-dom@18.3.1(react@18.3.1))(react@18.3.1):
     dependencies:
-      js-cookie: 2.2.1
+      js-cookie: 3.0.8
       react: 18.3.1
+      react-dom: 18.3.1(react@18.3.1)
 
   react-countdown@2.3.6(react-dom@18.3.1(react@18.3.1))(react@18.3.1):
     dependencies:
