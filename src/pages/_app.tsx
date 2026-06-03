@@ -3,6 +3,8 @@ import Script from 'next/script'
 import { Geist } from 'next/font/google'
 import type { AppProps } from 'next/app'
 
+import { CookieConsent } from '@/components/CookieConsent'
+
 import '@/styles/normalize.css'
 import '@/styles/style.css'
 import '@/components/spwzEbook.css'
@@ -39,6 +41,8 @@ export default function App({ Component, pageProps }: AppPropsWithTheme) {
       `}</style>
 
       <Component {...pageProps} />
+
+      <CookieConsent />
 
       <Script
         async

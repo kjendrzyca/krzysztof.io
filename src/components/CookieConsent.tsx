@@ -6,7 +6,6 @@ export const CookieConsent = () => (
     location="bottom"
     buttonText="Rozumiem"
     style={{ fontSize: '12px', textAlign: 'center' }}
-    debug={true}
   >
     Ta strona używa ciastek 🍪. <Link href="/polityka-prywatnosci/">Tutaj</Link> możesz poczytać
     dlaczego.
