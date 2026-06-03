@@ -1,7 +1,7 @@
 ---
 title: 'Gry'
 createdAt: '2026-05-09'
-updatedAt: '2026-05-31'
+updatedAt: '2026-06-03'
 published: true
 description: 'Moja osobista lista gier: co przeszedłem, kolejka, jak oceniam, i wszystko, co przykuło moją uwagę.'
 banner: './banner.jpg'
@@ -247,6 +247,9 @@ Gry, które sprawdziłem, ale mi nie siadły.
 - Stray
 - Lies of P
 - Wuchang
+- The Lost Wild
+- God of War Laufey
+- No Rest for the Wicked
 - Nier Automata
 - Jusant
 - Mortal Shell
@@ -274,6 +277,7 @@ Gry, które sprawdziłem, ale mi nie siadły.
 - Path of Exile 2
 - Mirthwood
 - Black Myth: Wukong
+- ILL
 - Season: A Letter to the Future
 - Pragmata
 - Cairn
@@ -347,7 +351,6 @@ Gry, które sprawdziłem, ale mi nie siadły.
 - Out of Words
   - Coop.
 - Mindseye
-- ILL
 - End of Abyss
 - Beast of Reincarnation
   - Sekiro/soulslike z wilkiem?
@@ -356,6 +359,7 @@ Gry, które sprawdziłem, ale mi nie siadły.
   - Skradanka ośmiornicą.
 - La Divina Commedia
 - Cronos: The New Dawn
+- Onimusha: Way of the Sword
 - Life is Strange
 - Life is Strange 2
 - Mixtape
@@ -367,6 +371,8 @@ Gry, które sprawdziłem, ale mi nie siadły.
 - Gone Home
 - Life is Strange: Before the Storm
 - The Quarry
+- Until Dawn Remaster
+- Until Dawn 2
 - Road 96
 - Tell Me Why
 - Warcraft
