@@ -4,6 +4,8 @@ createdAt: '2026-06-04'
 updatedAt: '2026-06-04'
 published: true
 description: 'Warsztat o tym, jak ustawić repo, architekturę, narzędzia, proces i organizację pod powtarzalną pracę z agentami AI.'
+banner: './banner.png'
+bannerAlt: 'Claude Code standardizing agent work in a monorepo'
 ---
 
 Jak ustawić cały cykl wytwarzania oprogramowania - repo, architekturę, narzędzia, proces i organizację - tak, żeby praca z agentami była powtarzalna, bezpieczna i dawała kod, który da się utrzymać. Stopniowe przejście w stronę AI-first: od diagnozy stanu obecnego po propagację w organizacji.
