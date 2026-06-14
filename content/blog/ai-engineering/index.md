@@ -10,7 +10,7 @@ bannerAlt: 'Claude Code standardizing agent work in a monorepo'
 
 Jak ustawić cały cykl wytwarzania oprogramowania - repo, architekturę, narzędzia, proces i organizację - tak, żeby praca z agentami była powtarzalna, bezpieczna i dawała kod, który da się utrzymać. Stopniowe przejście w stronę AI-first: od diagnozy stanu obecnego po propagację w organizacji.
 
-Większość zespołów ma już dostęp do narzędzi AI, ale nadal pracuje ad hoc: ktoś klika w chacie w przeglądarce, ktoś inny odpala agenta w terminalu, a nikt nie ustalił, jak robić to wspólnie, powtarzalnie i bezpiecznie. Problem rzadko leży w licencjach. Częściej chodzi o brak workflow, brak standardów w repo i duże różnice w know-how.
+Większość zespołów ma już dostęp do narzędzi AI, ale nadal pracuje ad hoc: ktoś pisze z czatem w przeglądarce, ktoś inny odpala agenta w terminalu, a nikt nie ustalił, jak robić to wspólnie, powtarzalnie i bezpiecznie. Problem rzadko leży w licencjach. Częściej chodzi o brak workflow, brak standardów w repo i duże różnice w know-how.
 
 Warsztat obejmuje cały cykl: diagnozę, standaryzację repo, architekturę pod agentów, dobór narzędzi, codzienną pracę z agentami, proces jakości, stopniowe wdrażanie i propagację w organizacji. Punkt ciężkości to setup i proces, nie samo promptowanie. Celem jest powtarzalny i utrzymywalny engineering z AI, a nie jednorazowy vibecoding, który działa do pierwszej większej zmiany.
 
