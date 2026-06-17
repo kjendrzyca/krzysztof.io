@@ -9,9 +9,9 @@ description: 'Zestaw narzędzi, który wypracowałem sobie w ciągu wielu lat te
 ## Notatki:
 
 - [Logseq](https://logseq.com/) - mój [Second Brain](/second-brain/)
-- [Google Keep](https://keep.google.com/) - inbox do notatek na telefonie
+- WhatsApp "Message Yourself" - szybki inbox do notatek na telefonie, synchronizowany przez moje CLI i skill dla agenta
 - [Notion](https://www.notion.so/) - do współpracy z innymi
-- [Readwise](https://readwise.io/i/krzysztof49) (ref link) - gromadzenie notatek + okazjonalnie [Reader](https://readwise.io/read)
+- [Readwise](https://readwise.io/i/krzysztof49) (ref link) - highlighty + [Reader](https://readwise.io/read) jako read-it-later, RSS i inbox do czytania
 - [Bear](https://bear.app/) - szybkie notatki do zadań w pracy
 - [Obsidian](https://obsidian.md/) - notatki z książek na telefonie
 
@@ -38,12 +38,11 @@ description: 'Zestaw narzędzi, który wypracowałem sobie w ciągu wielu lat te
 
 ## Dev:
 
-- [Superset](https://superset.sh/) - główny kokpit do pracy. Wspiera Git worktrees, pozwala pracować nad wieloma projektami jednocześnie, ma dobry UX i jest aktywnie rozwijany. Na chwilę obecną nie widzę lepszego narzędzia (wcześniej używałem [Conductora](https://conductor.build/))
+- [Visual Studio Code](https://code.visualstudio.com/) - główny edytor. Głównie do git diffa i przeglądania plików.
+- [Antigravity](https://antigravity.google/) - mam roczną subskrypcję, ale obecnie nie używam, bo modele Google przestały dorównywać GPT.
 - [kitty](https://sw.kovidgoyal.net/kitty/) - terminal
 - [Oh My Zsh](https://ohmyz.sh/)
 - [fzf](https://github.com/junegunn/fzf)
-- [Antigravity](https://antigravity.google/) - główny edytor
-- [Visual Studio Code](https://code.visualstudio.com/)
 - [GitHub CLI](https://cli.github.com/)
 - [Docker](https://www.docker.com/)
 - [ripgrep](https://github.com/BurntSushi/ripgrep)
@@ -54,16 +53,14 @@ description: 'Zestaw narzędzi, który wypracowałem sobie w ciągu wielu lat te
 
 ## AI do kodowania
 
-- [OpenCode](https://opencode.ai/) - interfejs, przez który korzystam z GPT-5.4-xhigh w ramach subskrypcji Codexa. Do niedawna wspierał też natywnie modele Anthropica i życie było piękne, ale Antrhopic postanowił [zablokować taką możliwość](https://x.com/thdxr/status/2034730036759339100). Istnieją community plugins, ale powodują banowanie kont. Wyjątkiem może być `opencode-with-claude`, który łączy się przez oficjalne Claude SDK. Testuję przy pomocy konta, które i tak zamierzam zamknąć, więc potencjalny ban mi dużo nie napsuje.
-- Równolegle testuję też dostęp do modeli przez subskrybcję [GitHub Copilot](https://github.com/features/copilot), bo daje dostęp do modeli Anthropica i innych providerów. Potencjalnie może to posłużyć jako docelowy setup (jeden interfejs do wszystkich modeli), ale zobaczymy, czy nie będę zbyt szybko uderzał w limity (rozliczanie jest per request, a Opus liczony jest x3).
-- [Claude Code](https://www.anthropic.com/claude-code) - natywny CLI do modeli Anthropica. Używam równolegle do OpenCode, bo nie da się inaczej. Wolałbym jedno wspólne narzędzie zamiast żonglować dwoma. Zwłaszcza, że DX Claude Code jest lata świetlne za OpenCode.
+- [Codex](https://openai.com/codex/) - główny driver do pracy z kodem i agentami. Używam go do planowania, implementacji, review, refaktorów i prowadzenia kilku równoległych wątków.
+- Własne narzędzie do pracy z agentami w terminalu - używam go do ogarniania sesji agentów, worktree i równoległej pracy. Więcej info soon.
+- [Claude Code](https://claude.com/product/claude-code) - natywny CLI do modeli Anthropic. Używam wtedy, kiedy potrzebuję Claude'a zamiast modeli OpenAI.
+- [OpenCode](https://opencode.ai/) - sporadycznie, głównie gdy chcę przetestować niestandardowe modele albo nietypowy provider setup.
 
-Wtyczki, których używam w OpenCode:
+Wtyczka, której używam w OpenCode:
 
-- [opencode-gemini-auth](https://www.npmjs.com/package/opencode-gemini-auth) - autoryzacja Gemini CLI do OpenCode. Plugin mam podpięty, ale na razie z modeli Gemini nie korzystam, bo w porównaniu do GPT i Anthropica okazały się ekstremalnie słabe.
-- [@franlol/opencode-md-table-formatter](https://www.npmjs.com/package/@franlol/opencode-md-table-formatter) - formatowanie tabel markdown
-- [@slkiser/opencode-quota](https://www.npmjs.com/package/@slkiser/opencode-quota) - limity użycia modeli w statusbarze TUI
-- [opencode-with-claude](https://github.com/ianjwhite99/opencode-with-claude) - testowo, do korzystania z modeli Claude (Opus) w OpenCode przez lokalny proxy [Meridian](https://github.com/rynfar/meridian). Plugin sam startuje i zamyka proxy razem z OpenCode, każdej instancji OpenCode przydziela osobny port.
+- [opencode-with-claude](https://github.com/ianjwhite99/opencode-with-claude) - testowo, do korzystania z modeli Claude w OpenCode przez lokalny proxy [Meridian](https://github.com/rynfar/meridian).
 
 MCP:
 
@@ -78,7 +75,7 @@ MCP:
 - [Bunny](https://bunny.net?ref=8a7zkue452) (ref link) - używam do streamingu moich szkoleń, najlepsza alternatywa jaką znalazłem do Vimeo czy Wistia
 - [MailerLite](https://www.mailerlite.com/invite/7ff80cb5801e5) (ref link)
 - [Tally](https://tally.cello.so/iMjlAVP6H1H) (ref link) - darmowe ankiety w stylistyce Notion
-- [Hetzner](https://hetzner.cloud/?ref=rhn5AMNMfoTi) (ref link) - najtańszy VPS, na nim stoją wszystkie moje projekty
+- [Hetzner](https://hetzner.cloud/?ref=rhn5AMNMfoTi) (ref link) - VPS do wszystkich moich projektów
 - [Neon](https://neon.com/signup?refcode=26ISSFD0) (ref link) - zarządzany Postgres pod własne projekty
 - [Cloudflare](https://www.cloudflare.com/) - domeny i DNS (dla zwiększenia bezpieczeństwa)
 
@@ -102,7 +99,7 @@ Backup:
 
 ## Biurko:
 
-- [Biurko Ikea 160cm](https://www.ikea.com/pl/pl/p/trotten-biurko-z-regulacja-wysokosci-bezowy-bialy-s29434130/)
+- Biurko Ikea 160cm
 - [Stołek Ikea Trollberget](https://www.ikea.com/pl/pl/p/trollberget-stolek-do-siedzenia-stania-glose-czarny-80379347)
 
 ## Inne
