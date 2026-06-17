@@ -1,56 +1,56 @@
 ---
 title: 'Narzędzia, których używam'
 createdAt: '2021-05-29'
-updatedAt: '2026-04-17'
+updatedAt: '2026-06-17'
 published: true
 description: 'Zestaw narzędzi, który wypracowałem sobie w ciągu wielu lat testów.'
 ---
 
 ## Notatki:
 
-- https://workflowy.com/ (mój [Second Brain](/second-brain/))
-- https://keep.google.com/ (inbox do notatek na telefonie)
-- https://www.notion.so/ (do współpracy z innymi)
-- https://readwise.io/i/krzysztof49 (gromadzenie notatek + okazjonalnie [Reader](https://readwise.io/read))
-- https://bear.app/ - szybkie notatki do zadań w pracy
-- https://obsidian.md/ - notatki z książek na telefonie
+- [Logseq](https://logseq.com/) - mój [Second Brain](/second-brain/)
+- [Google Keep](https://keep.google.com/) - inbox do notatek na telefonie
+- [Notion](https://www.notion.so/) - do współpracy z innymi
+- [Readwise](https://readwise.io/i/krzysztof49) (ref link) - gromadzenie notatek + okazjonalnie [Reader](https://readwise.io/read)
+- [Bear](https://bear.app/) - szybkie notatki do zadań w pracy
+- [Obsidian](https://obsidian.md/) - notatki z książek na telefonie
 
 ## Książki:
 
-- Najczęście papierowe z amazon.pl
+- Najczęściej papierowe z [Amazon.pl](https://amazon.pl/)
 - Kindle
 - [Audible](https://audible.com)
-- [Legimi](https://www.legimi.pl/kod/JSNUK/)
+- [Legimi](https://www.legimi.pl/kod/JSNUK/) (ref link)
 
 ## System
 
 - [AeroSpace](https://github.com/nikitabobko/AeroSpace) ([moja konfiguracja](https://github.com/kjendrzyca/dotfiles-mac))
-- https://www.raycast.com/
+- [Raycast](https://www.raycast.com/)
 - [Brave](https://brave.com/)
 - [1Password](https://1password.com/)
 - [Ice](https://github.com/jordanbaird/Ice) (gdy w menu barze brakuje miejsca)
 - [Aldente](https://apphousekitchen.com/) (sailing mode 40-80%)
-- https://eqmac.app/ ([AutoEq](https://autoeq.app/) dla słuchawek)
-- https://obsproject.com/
-- https://github.com/exelban/stats (monitorowanie RAM)
-- https://karabiner-elements.pqrs.org/
-- [NordVPN](https://refer-nordvpn.com/QKcGPyclsxy)
+- [eqMac](https://eqmac.app/) ([AutoEq](https://autoeq.app/) dla słuchawek)
+- [OBS](https://obsproject.com/)
+- [Stats](https://github.com/exelban/stats) - monitorowanie RAM
+- [Karabiner-Elements](https://karabiner-elements.pqrs.org/)
+- [NordVPN](https://refer-nordvpn.com/QKcGPyclsxy) (ref link)
 
 ## Dev:
 
 - [Superset](https://superset.sh/) - główny kokpit do pracy. Wspiera Git worktrees, pozwala pracować nad wieloma projektami jednocześnie, ma dobry UX i jest aktywnie rozwijany. Na chwilę obecną nie widzę lepszego narzędzia (wcześniej używałem [Conductora](https://conductor.build/))
-- https://sw.kovidgoyal.net/kitty/ terminal
-- https://ohmyz.sh/
-- https://github.com/junegunn/fzf
+- [kitty](https://sw.kovidgoyal.net/kitty/) - terminal
+- [Oh My Zsh](https://ohmyz.sh/)
+- [fzf](https://github.com/junegunn/fzf)
 - [Antigravity](https://antigravity.google/) - główny edytor
-- https://code.visualstudio.com/
-- https://cli.github.com/
-- https://www.docker.com/
-- https://github.com/BurntSushi/ripgrep
-- https://github.com/sharkdp/fd
-- https://github.com/sharkdp/bat
-- https://dbeaver.io/
-- https://www.loom.com/
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [GitHub CLI](https://cli.github.com/)
+- [Docker](https://www.docker.com/)
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+- [fd](https://github.com/sharkdp/fd)
+- [bat](https://github.com/sharkdp/bat)
+- [DBeaver](https://dbeaver.io/)
+- [Loom](https://www.loom.com/)
 
 ## AI do kodowania
 
@@ -73,12 +73,13 @@ MCP:
 
 ## Frameworki, Libki, Platformy:
 
-- https://nextjs.org/
-- https://www.netlify.com/ (Vercel w darmowym tierze nie może być wykorzystywany do budowy produktów komercyjnych)
-- https://bunny.net?ref=8a7zkue452 - używam do streamingu moich szkoleń, najlepsza alternatywa jaką znalazłem do Vimeo czy Wistia
-- https://www.mailerlite.com/invite/7ff80cb5801e5
-- https://tally.cello.so/iMjlAVP6H1H - darmowe ankiety w stylistyce Notion
-- [Hetzner](https://hetzner.cloud/?ref=rhn5AMNMfoTi) - najtańszy VPS, na nim stoją wszystkie moje projekty
+- [Next.js](https://nextjs.org/)
+- [Netlify](https://www.netlify.com/) - Vercel w darmowym tierze nie może być wykorzystywany do budowy produktów komercyjnych
+- [Bunny](https://bunny.net?ref=8a7zkue452) (ref link) - używam do streamingu moich szkoleń, najlepsza alternatywa jaką znalazłem do Vimeo czy Wistia
+- [MailerLite](https://www.mailerlite.com/invite/7ff80cb5801e5) (ref link)
+- [Tally](https://tally.cello.so/iMjlAVP6H1H) (ref link) - darmowe ankiety w stylistyce Notion
+- [Hetzner](https://hetzner.cloud/?ref=rhn5AMNMfoTi) (ref link) - najtańszy VPS, na nim stoją wszystkie moje projekty
+- [Neon](https://neon.com/signup?refcode=26ISSFD0) (ref link) - zarządzany Postgres pod własne projekty
 - [Cloudflare](https://www.cloudflare.com/) - domeny i DNS (dla zwiększenia bezpieczeństwa)
 
 ## Sprzęt:
@@ -106,8 +107,8 @@ Backup:
 
 ## Inne
 
-- [Brain.fm](https://my.brain.fm/?promotionCode=promo_1KC6DhDxyvLufNfyZ264p2Za&name=Your%20First%20Month%20of%20Brain.fm%20Pro%20for%20$1&displayCost=1.00&description=You%27ve%20been%20referred!%20Get%201%20Month%20of%20Brain.fm%20Pro%20for%20$1&targetPlan=Monthly)
-- [Wispr Flow](https://wisprflow.ai/r?KRZYSZTOF327) - dyktowanie
+- [Brain.fm](https://my.brain.fm/?promotionCode=promo_1KC6DhDxyvLufNfyZ264p2Za&name=Your%20First%20Month%20of%20Brain.fm%20Pro%20for%20$1&displayCost=1.00&description=You%27ve%20been%20referred!%20Get%201%20Month%20of%20Brain.fm%20Pro%20for%20$1&targetPlan=Monthly) (ref link)
+- [Wispr Flow](https://wisprflow.ai/r?KRZYSZTOF327) (ref link) - dyktowanie
 - [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) - transkrypcja
 - [Spotify](https://spotify.com/)
 - [Signal](https://signal.org/)
