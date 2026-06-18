@@ -1,7 +1,7 @@
 ---
 title: 'Narzędzia, których używam'
 createdAt: '2021-05-29'
-updatedAt: '2026-06-17'
+updatedAt: '2026-06-18'
 published: true
 description: 'Zestaw narzędzi, który wypracowałem sobie w ciągu wielu lat testów.'
 ---
@@ -83,13 +83,15 @@ MCP:
 
 - MacBook Pro M1 Pro 16" 32gb RAM, 1TB
 - Monitor LG UltraFine 27UN880P-B
+- Monitory studyjne ADAM Audio D3V - zależy mi na neutralnym, niepodkoloryzowanym brzmieniu, więc monitory > głośniki. W tym wypadku ciężko uwierzyć, monitory o tak małych gabarytach potrafią tak dobrze i naturalnie grać ([link do pomiarów](https://www.adam-audio.com/content/uploads/2024/10/adam-audio-d3v-desktop-monitor-measurement-report-english.pdf)).
 - iPad Mini 6 + Pencil (do Kindla i podpisywania dokumentów)
 - Aparat Sony ZV-E10 II + Sigma 16mm
 - Aparat Canon M50 + 15-45mm + 22mm (backup)
 - Mikrofon Shure SM7B
 - Mikrofon Novox NC X USB
-- Lampa Yongnuo YN-600 Air 5600k na statywie
+- Elgato Key Light
 - Mysz Logitech MX Master 3
+- Klawiatura mechaniczna NuPhy Air75 V2 ze switchami Cowberry
 - Google Pixel 8 Pro
 
 Backup:
