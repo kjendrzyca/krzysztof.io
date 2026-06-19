@@ -1,6 +1,6 @@
-# CLAUDE.md
+# AGENTS.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+This file provides guidance to agents working with code in this repository.
 
 ## Development Commands
 
@@ -16,6 +16,17 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - `pnpm lint:fix` - Auto-fix linting issues
 - Never use `pnpm build` as a routine verification step. It can kill a potentially working dev server.
 - Only run `pnpm build` when the user explicitly asks for it.
+
+**Execution Plans:**
+- For changes that no longer fit in one clean implementation pass, create or update an ExecPlan under `docs/exec-plans/active/` using `docs/exec-plans/create-plan-file.md`.
+- If a change touches user-facing behavior, Markdown/content rendering, public routes, build/dev commands, or anything documented here, update the relevant plan or documentation in the same change.
+- Completed plans move to `docs/exec-plans/completed/`; abandoned plans move to `docs/exec-plans/abandoned/`.
+
+**Public Repository Safety:**
+- This is a public repository. Do not commit secrets, tokens, private URLs, local usernames, absolute machine paths, private project names, client names, or private workspace details.
+- Examples, docs, plans, comments, and test fixtures must be safe to publish.
+- If a change needs private context to explain why it exists, keep that context out of the repo and describe only the public technical behavior.
+- Before committing documentation or generated agent output, scan for local paths and private references.
 
 **Database migrations:**
 - Never run migrations unless asked. If they need to be run, inform the user and print the command he should use.
@@ -60,7 +71,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Architecture Overview
 
-**Framework:** Next.js 15.0.2 with TypeScript using Pages Router (not App Router)
+**Framework:** Next.js 16.2.6 with TypeScript using Pages Router (not App Router)
 
 **Content Management System:**
 - File-based content using markdown with gray-matter frontmatter
@@ -69,7 +80,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - Images automatically copied from content dirs to `public/images/` during build
 
 **Routing Strategy:**
-- Single dynamic route `pages/[slug].tsx` handles all blog posts, notes, and pages
+- Single dynamic route `src/pages/[slug].tsx` handles all blog posts, notes, and pages
 - Content path detection logic in `src/lib/posts.ts`
 - Static generation with `getStaticProps` and `getStaticPaths`
 
@@ -142,10 +153,4 @@ content/
 **Deployment:**
 - Netlify deployment with `netlify.toml` configuration
 - Prebuild script copies images before Next.js build
-- Static export to `.next/` directory
-
-## API Routes
-
-- Calendar integration API at `pages/api/calendar/[code].ts`
-- Rate limiting implemented with in-memory storage
-- Cache-busting headers for Netlify compatibility
+- Netlify publishes the `.next/` output directory

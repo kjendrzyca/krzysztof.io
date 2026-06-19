@@ -1,34 +1,75 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# krzysztof.io
 
-## Getting Started
+Personal website and blog built with Next.js, TypeScript, file-based Markdown
+content, and custom CSS.
 
-First, run the development server:
+## Stack
+
+- Next.js Pages Router
+- TypeScript
+- React
+- Markdown content with `gray-matter` frontmatter
+- `react-markdown` for rendering
+- Next Image and `plaiceholder` for content images
+- Netlify deployment
+
+## Content Model
+
+Content lives in three main folders:
+
+- `content/blog/` - articles and personal writing
+- `content/notes/` - notes and book summaries
+- `content/pages/` - static Markdown-backed pages
+
+Each content item lives in its own directory with an `index.md` file. Images
+used by that entry live next to the Markdown file and are copied into
+`public/images/` during the build.
+
+Additional older drafts live in `blog-posts-collection/`.
+
+## Development
+
+Use pnpm for all commands.
 
 ```bash
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The dev server runs on:
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```text
+http://localhost:4022
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Useful checks:
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```bash
+pnpm typecheck
+pnpm lint
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Production build:
 
-## Learn More
+```bash
+pnpm build
+```
 
-To learn more about Next.js, take a look at the following resources:
+Do not use `pnpm build` as routine local verification. See `AGENTS.md` for the
+repo-specific rule.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Repository Map
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- `src/pages/[slug].tsx` - shared route for Markdown-backed blog posts, notes,
+  and pages
+- `src/lib/posts.ts` - content loading and slug resolution
+- `src/components/layout.tsx` - shared site layout
+- `src/styles/style.css` - global custom CSS
+- `src/spwz/` - product-specific components
+- `scripts/copy-images.mjs` - copies content-local images to `public/images/`
+- `docs/exec-plans/` - execution plans for larger changes
 
-## Deploy on Vercel
+## Agent Notes
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Read `AGENTS.md` before making changes. For larger changes that do not fit in
+one clean implementation pass, create or update an ExecPlan under
+`docs/exec-plans/active/`.
