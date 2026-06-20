@@ -654,7 +654,7 @@ html.dark-mode .brush-highlight {
   }
 
   blockquote {
-    padding: var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-4);
+    padding: var(--spacing-4) var(--spacing-0) var(--spacing-4) var(--spacing-4);
     margin-left: var(--spacing-0);
   }
 }
