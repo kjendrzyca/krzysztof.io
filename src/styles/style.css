@@ -13,6 +13,10 @@
   --maxWidth-full: '100%';
   --maxWidth-wrapper: 38rem;
   --maxWidth-wrapper-wide: var(--maxWidth-3xl);
+  --maxWidth-prose: 35.5rem;
+  --maxWidth-content-narrow: 28.4rem;
+  --maxWidth-content-wide: 42.6rem;
+  --maxWidth-content-frame: 45.1rem;
   --spacing-px: '1px';
   --spacing-0: 0;
   --spacing-1: 0.25rem;
@@ -485,6 +489,26 @@ button:focus {
   overflow-x: auto;
 }
 
+.global-wrapper--media {
+  max-width: var(--maxWidth-content-frame);
+  overflow-x: visible;
+}
+
+.global-wrapper--media .global-header,
+.global-wrapper--media > footer,
+.global-wrapper--media .blog-post > header,
+.global-wrapper--media .blog-post > footer,
+.global-wrapper--media .post-content > :not(.content-image) {
+  max-width: var(--maxWidth-prose);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.global-wrapper--media .post-content > ul,
+.global-wrapper--media .post-content > ol {
+  padding-left: var(--spacing-6);
+}
+
 .global-header {
   margin-bottom: var(--spacing-12);
   position: relative;
@@ -527,6 +551,27 @@ button:focus {
 
 .blog-post footer a:hover {
   color: var(--color-heading);
+}
+
+.content-image {
+  display: block;
+  margin: var(--spacing-0) auto var(--spacing-5);
+  max-width: var(--maxWidth-prose);
+  width: 100%;
+}
+
+.content-image--narrow {
+  max-width: var(--maxWidth-content-narrow);
+}
+
+.content-image--wide {
+  max-width: var(--maxWidth-content-wide);
+}
+
+.content-image__img {
+  display: block;
+  height: auto;
+  width: 100%;
 }
 
 .image-wrapper {
@@ -585,6 +630,22 @@ html.dark-mode .brush-highlight {
 /* Media queries */
 
 @media (max-width: 38rem) {
+  .global-wrapper--media {
+    max-width: var(--maxWidth-wrapper);
+    overflow-x: auto;
+  }
+
+  .global-wrapper--media .global-header,
+  .global-wrapper--media > footer,
+  .global-wrapper--media .blog-post > header,
+  .global-wrapper--media .blog-post > footer,
+  .global-wrapper--media .post-content > :not(.content-image),
+  .content-image,
+  .content-image--narrow,
+  .content-image--wide {
+    max-width: 100%;
+  }
+
   blockquote {
     padding: var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-4);
     margin-left: var(--spacing-0);

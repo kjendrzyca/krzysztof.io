@@ -11,10 +11,16 @@ import { config } from '@/config'
 type LayoutProps = {
   children: ReactNode
   isLandingPage?: boolean
+  contentWidth?: 'prose' | 'media'
 }
 
-export const Layout = ({ children, isLandingPage }: LayoutProps) => {
-  const globalWrapperClassNames = ['global-wrapper'].filter((cn) => cn).join(' ')
+export const Layout = ({ children, isLandingPage, contentWidth = 'prose' }: LayoutProps) => {
+  const globalWrapperClassNames = [
+    'global-wrapper',
+    contentWidth === 'media' ? 'global-wrapper--media' : null,
+  ]
+    .filter((cn) => cn)
+    .join(' ')
 
   return (
     <div className={globalWrapperClassNames}>

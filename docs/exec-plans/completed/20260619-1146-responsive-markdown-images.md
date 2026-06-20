@@ -29,13 +29,19 @@ the old width.
 
 ## Assumptions
 
-The prose column remains `--maxWidth-wrapper`, currently `38rem`.
+The visible prose column remains the same width as before this change. The
+existing `--maxWidth-wrapper` is `38rem`, but that includes `1.25rem` left and
+right wrapper padding, so the actual prose rail is `35.5rem`.
 
 The wide media rail should be exactly 20% wider than the prose column on
-desktop. With the current prose width, that is `45.6rem`.
+desktop. With the current visible prose width, that is `42.6rem`.
 
 The narrow media rail should be exactly 20% narrower than the prose column on
-desktop. With the current prose width, that is `30.4rem`.
+desktop. With the current visible prose width, that is `28.4rem`.
+
+The media layout frame should be wide enough to contain the wide rail plus the
+same horizontal wrapper padding. With the current values, that frame is
+`45.1rem`.
 
 The public authoring syntax is:
 
@@ -65,9 +71,9 @@ this plan or stop for review before widening scope.
 - [x] (2026-06-19 09:46Z) Inspected current Markdown rendering, layout CSS, image copying, content examples, and repo conventions.
 - [x] (2026-06-19 09:46Z) Installed a repo-local ExecPlan entrypoint under `docs/exec-plans/`.
 - [x] (2026-06-19 09:46Z) Drafted this implementation plan.
-- [ ] Implement the layout rails and image metadata/rendering changes.
-- [ ] Validate desktop and mobile behavior visually and with DOM measurements.
-- [ ] Update this plan with implementation outcomes and move it to `completed/` after the change is done.
+- [x] (2026-06-20 10:50Z) Implemented content image metadata extraction, `normal` / `narrow` / `wide` Markdown parsing, banner-as-wide rendering, and scoped media/prose layout rails.
+- [x] (2026-06-20 10:55Z) Validated desktop and mobile behavior with browser DOM measurements.
+- [x] (2026-06-20 10:56Z) Updated this plan with implementation outcomes and moved it to `completed/`.
 
 ## Surprises & Discoveries
 
@@ -94,6 +100,13 @@ this plan or stop for review before widening scope.
   This works today but is not a clean foundation for width variants.
   Evidence: `src/pages/[slug].tsx` renders Markdown images with `fill`; the only
   global image-specific CSS is `.image-wrapper` and `.image-wrapper img`.
+
+- Observation: The original `38rem` wrapper width is not the visible prose
+  width because `.global-wrapper` uses `box-sizing: border-box` and horizontal
+  padding of `1.25rem` on each side.
+  Evidence: `src/styles/style.css` sets `--maxWidth-wrapper: 38rem`,
+  `.global-wrapper` uses `max-width: var(--maxWidth-wrapper)` with horizontal
+  `var(--spacing-5)` padding, and `--spacing-5` is `1.25rem`.
 
 ## Decision Log
 
@@ -136,7 +149,47 @@ this plan or stop for review before widening scope.
 
 ## Outcomes & Retrospective
 
-Not started. Fill this section after implementation and validation.
+Implemented without changing author content. The public authoring syntax is:
+
+    ![Alt text](./image.png)
+    ![Alt text](./image.png?size=normal)
+    ![Alt text](./image.png?size=narrow)
+    ![Alt text](./image.png?size=wide)
+
+Generated blog, note, and page content now uses a media-width layout frame while
+prose remains constrained to the original visible text rail. Banners render on
+the wide rail by default. Normal Markdown images preserve the existing visible
+width, narrow images render at 80% of that width, and wide images render at
+120% on desktop. Mobile collapses all image variants to the available content
+width.
+
+The implementation computes image `width`, `height`, and blur data from the
+content-local image files during static props generation. Authors do not need to
+write image dimensions manually.
+
+Verification performed:
+
+- `pnpm typecheck` passed.
+- `pnpm lint` passed with existing warnings in unrelated files:
+  `next-env.d.ts`, `src/pages/index.tsx`, and
+  `src/pages/spwz-szkolenie.tsx`.
+- Browser DOM measurements on `/bottom-up/` at 1280px viewport: wrapper 812px,
+  prose 639px, banner/wide 767px, normal 639px, narrow 511px, and no
+  `p > .content-image` invalid wrappers.
+- Browser DOM measurements on `/bottom-up/` at 390px viewport: prose and all
+  image variants 345px.
+- Browser sanity check on `/dodaj-mnie/`: Markdown-backed page images use
+  `.content-image` and render at normal width by default.
+- Browser sanity check on `/spwz-ebook/`: bespoke route still uses
+  `.image-wrapper` and does not receive `.content-image` classes.
+- Fresh browser error check on `/bottom-up/` after the final dev compile
+  returned no page errors.
+- Follow-up cleanup extracted image rendering, Markdown rendering, Meta Pixel,
+  and Markdown image parsing out of `src/pages/[slug].tsx`, leaving the route
+  focused on page composition and static props.
+
+The implementation was initially left uncommitted for review, then committed
+after a follow-up user request.
 
 ## Context and Orientation
 
