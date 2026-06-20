@@ -652,11 +652,6 @@ html.dark-mode .brush-highlight {
     margin-left: calc(50% - 50vw);
     margin-right: calc(50% - 50vw);
   }
-
-  blockquote {
-    padding: var(--spacing-4) var(--spacing-0) var(--spacing-4) var(--spacing-4);
-    margin-left: var(--spacing-0);
-  }
 }
 
 /* Subscribe form */
