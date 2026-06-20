@@ -6,6 +6,7 @@ type ContentImageProps = ContentImageMetadata & {
   alt: string
   size: MarkdownImageSize
   priority?: boolean
+  variant?: 'default' | 'banner'
 }
 
 const getContentImageSizes = (size: MarkdownImageSize) => {
@@ -28,6 +29,7 @@ export const ContentImage = ({
   blurDataURL,
   size,
   priority = false,
+  variant = 'default',
 }: ContentImageProps) => {
   const placeholderProps = blurDataURL
     ? {
@@ -37,7 +39,11 @@ export const ContentImage = ({
     : {}
 
   return (
-    <figure className={`content-image content-image--${size}`}>
+    <figure
+      className={`content-image content-image--${size}${
+        variant === 'banner' ? ' content-image--banner' : ''
+      }`}
+    >
       <NextImage
         src={src}
         alt={alt}

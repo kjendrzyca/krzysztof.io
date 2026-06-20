@@ -646,6 +646,13 @@ html.dark-mode .brush-highlight {
     max-width: 100%;
   }
 
+  .content-image--banner {
+    max-width: 100vw;
+    width: 100vw;
+    margin-left: calc(50% - 50vw);
+    margin-right: calc(50% - 50vw);
+  }
+
   blockquote {
     padding: var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-4);
     margin-left: var(--spacing-0);

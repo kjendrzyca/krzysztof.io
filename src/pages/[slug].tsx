@@ -123,6 +123,7 @@ const Post = ({
               {...bannerImageProps}
               alt={bannerAlt || 'Banner image'}
               size="wide"
+              variant="banner"
               priority
             />
           )}
