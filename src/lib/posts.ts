@@ -6,10 +6,29 @@ const blogDirectory = join(process.cwd(), 'content', 'blog')
 const notesDirectory = join(process.cwd(), 'content', 'notes')
 const pagesDirectory = join(process.cwd(), 'content', 'pages')
 
+const getPublishedSlugs = (directory: string): string[] => {
+  return fs.readdirSync(directory).flatMap((slug) => {
+    if (slug.startsWith('.')) {
+      return []
+    }
+
+    const fullPath = join(directory, slug, 'index.md')
+
+    if (!fs.existsSync(fullPath) || !fs.statSync(fullPath).isFile()) {
+      return []
+    }
+
+    const fileContents = fs.readFileSync(fullPath, 'utf8')
+    const { data } = grayMatter(fileContents)
+
+    return data.published === false ? [] : [slug]
+  })
+}
+
 export function getAllSlugs(): string[] {
-  const blogSlugs = fs.readdirSync(blogDirectory).filter((slug) => !slug.startsWith('.'))
-  const notesSlugs = fs.readdirSync(notesDirectory).filter((slug) => !slug.startsWith('.'))
-  const pagesSlugs = fs.readdirSync(pagesDirectory).filter((slug) => !slug.startsWith('.'))
+  const blogSlugs = getPublishedSlugs(blogDirectory)
+  const notesSlugs = getPublishedSlugs(notesDirectory)
+  const pagesSlugs = getPublishedSlugs(pagesDirectory)
 
   return [...blogSlugs, ...notesSlugs, ...pagesSlugs]
 }

@@ -1,6 +1,13 @@
 import React from 'react'
 import Head from 'next/head'
 import { config } from '@/config'
+import {
+  contentLocaleByLanguage,
+  defaultContentLanguage,
+  getTranslationEntries,
+  type ContentLanguage,
+  type TranslationMap,
+} from '@/lib/content-language'
 
 type SEOProps = {
   description?: string
@@ -8,6 +15,8 @@ type SEOProps = {
   slug?: string | null
   ogType?: string
   ogImagePath?: string | undefined
+  language?: ContentLanguage
+  translations?: TranslationMap | undefined
 }
 
 const SEO = ({
@@ -16,13 +25,27 @@ const SEO = ({
   slug = null,
   ogType = 'website',
   ogImagePath,
+  language = defaultContentLanguage,
+  translations,
 }: SEOProps) => {
   const metaDescription = description || config.siteMetadata.description
   const siteTitle = config.siteMetadata.title
   const siteUrl = config.siteMetadata.siteUrl
 
   const ogImageAbsoluteUrl = ogImagePath ? `${siteUrl}${ogImagePath}` : `${siteUrl}/bear.png`
-  const postUrl = slug ? `${config.siteMetadata.siteUrl}/${slug}/` : siteUrl
+  const postUrl = slug ? `${config.siteMetadata.siteUrl}/${slug}/` : null
+  const translationEntries = getTranslationEntries(translations).filter(
+    ([translationLanguage]) => translationLanguage !== language,
+  )
+  const alternateSlugs = new Map<ContentLanguage, string>()
+
+  if (slug && translationEntries.length) {
+    alternateSlugs.set(language, slug)
+  }
+
+  for (const [translationLanguage, translationSlug] of translationEntries) {
+    alternateSlugs.set(translationLanguage, translationSlug)
+  }
 
   return (
     <Head>
@@ -44,13 +67,33 @@ const SEO = ({
         content={ogType}
       />
       <meta
+        property="og:locale"
+        content={contentLocaleByLanguage[language]}
+      />
+      <meta
         property="og:image"
         content={ogImageAbsoluteUrl}
       />
-      <meta
-        property="og:url"
-        content={postUrl}
-      />
+      {postUrl ? (
+        <meta
+          property="og:url"
+          content={postUrl}
+        />
+      ) : null}
+      {postUrl ? (
+        <link
+          rel="canonical"
+          href={postUrl}
+        />
+      ) : null}
+      {Array.from(alternateSlugs.entries()).map(([alternateLanguage, alternateSlug]) => (
+        <link
+          key={alternateLanguage}
+          rel="alternate"
+          hrefLang={alternateLanguage}
+          href={`${siteUrl}/${alternateSlug}/`}
+        />
+      ))}
 
       <meta
         property="twitter:card"

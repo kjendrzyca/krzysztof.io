@@ -5,6 +5,12 @@ import { MetaPixel } from '@/components/MetaPixel'
 import { PostMarkdown } from '@/components/PostMarkdown'
 import SEO from '@/components/seo'
 import { config } from '@/config'
+import {
+  getContentLanguage,
+  getTranslationEntries,
+  type ContentLanguage,
+  type TranslationMap,
+} from '@/lib/content-language'
 import { getAllSlugs, getPost } from '@/lib/posts'
 import {
   getContentImageMetadataByFileName,
@@ -22,6 +28,8 @@ type FrontmatterData = {
   isLanding?: boolean
   banner?: string
   bannerAlt?: string
+  language?: ContentLanguage
+  translations?: TranslationMap
 }
 
 type PostProps = {
@@ -41,12 +49,59 @@ type ArticleFooterProps = {
   updatedAt: string
 }
 
+type LanguageLinksProps = {
+  currentLanguage: ContentLanguage
+  translations?: TranslationMap | undefined
+}
+
 const getAdjustedTitle = (title: string, contentPath: ContentPath) => {
   if (contentPath === 'notes') {
     return `${title}: podsumowanie, notatki i przemyślenia`
   }
 
   return title
+}
+
+const translationLabels: Record<ContentLanguage, Record<ContentLanguage, string>> = {
+  pl: {
+    pl: 'Wersja polska',
+    en: 'Wersja angielska',
+  },
+  en: {
+    pl: 'Polish version',
+    en: 'English version',
+  },
+}
+
+const translationNavLabels: Record<ContentLanguage, string> = {
+  pl: 'Wersje językowe',
+  en: 'Translations',
+}
+
+const LanguageLinks = ({ currentLanguage, translations }: LanguageLinksProps) => {
+  const translationEntries = getTranslationEntries(translations).filter(
+    ([language]) => language !== currentLanguage,
+  )
+
+  if (!translationEntries.length) {
+    return null
+  }
+
+  return (
+    <nav
+      className="content-language-links"
+      aria-label={translationNavLabels[currentLanguage]}
+    >
+      {translationEntries.map(([language, translatedSlug]) => (
+        <a
+          key={language}
+          href={`/${translatedSlug}/`}
+        >
+          {translationLabels[currentLanguage][language]}
+        </a>
+      ))}
+    </nav>
+  )
 }
 
 const ArticleFooter = ({ contentPath, createdAt, slug, updatedAt }: ArticleFooterProps) => {
@@ -80,10 +135,20 @@ const Post = ({
   bannerImageProps,
   contentImageMetadataByFileName,
 }: PostProps) => {
-  const { title, createdAt, updatedAt, description, isLanding, bannerAlt } = frontmatter
+  const {
+    title,
+    createdAt,
+    updatedAt,
+    description,
+    isLanding,
+    bannerAlt,
+    language: rawLanguage,
+    translations,
+  } = frontmatter
   const siteUrl = config.siteMetadata.siteUrl
   const pageTitle = title || siteUrl
   const adjustedTitle = getAdjustedTitle(title, contentPath)
+  const language = getContentLanguage(rawLanguage)
 
   const getContentImageMetadata = (fileName: string) => {
     return (
@@ -103,6 +168,8 @@ const Post = ({
         slug={slug}
         ogType={contentPath === 'pages' ? 'website' : 'article'}
         ogImagePath={bannerPath ?? undefined}
+        language={language}
+        translations={translations}
       />
       <MetaPixel slug={slug} />
 
@@ -113,6 +180,10 @@ const Post = ({
       >
         <header>
           <h1 itemProp="headline">{pageTitle}</h1>
+          <LanguageLinks
+            currentLanguage={language}
+            translations={translations}
+          />
         </header>
         <section
           className="post-content"
@@ -152,6 +223,13 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   const { slug } = params as { slug: string }
 
   const post = getPost(slug)
+
+  if (post.frontmatter.published === false) {
+    return {
+      notFound: true,
+    }
+  }
+
   const { contentPath } = post
   const { banner } = post.frontmatter as {
     banner?: string

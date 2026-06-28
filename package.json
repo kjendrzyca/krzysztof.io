@@ -4,6 +4,7 @@
   "private": true,
   "packageManager": "pnpm@10.25.0",
   "scripts": {
+    "predev": "node ./scripts/copy-images.mjs",
     "dev": "PORT=4022 next dev",
     "build": "next build",
     "start": "next start",

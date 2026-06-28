@@ -535,6 +535,21 @@ button:focus {
   margin: var(--spacing-0) var(--spacing-0) var(--spacing-4) var(--spacing-0);
 }
 
+.content-language-links {
+  margin: var(--spacing-0) var(--spacing-0) var(--spacing-6);
+  text-align: center;
+  font-family: var(--font-heading);
+  font-size: var(--fontSize-0);
+}
+
+.content-language-links a {
+  color: var(--color-text-light);
+}
+
+.content-language-links a:hover {
+  color: var(--color-heading);
+}
+
 .blog-post footer {
   text-align: right;
 }
