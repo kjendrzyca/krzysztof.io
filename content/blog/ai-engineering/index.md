@@ -1,7 +1,7 @@
 ---
 title: 'Inżynieria oprogramowania z agentami AI - warsztat end-to-end'
 createdAt: '2026-06-04'
-updatedAt: '2026-06-28'
+updatedAt: '2026-06-30'
 published: true
 description: 'Warsztat o tym, jak ustawić repo, architekturę, narzędzia, proces i organizację pod powtarzalną pracę z agentami AI.'
 banner: './banner.png'
@@ -97,4 +97,6 @@ Najbardziej się przydam, gdy macie jedno repo i konkretne zadanie. Przyspieszam
 
 ## Następny krok
 
-Jeśli to brzmi sensownie, umówmy krótki call (30-45 min): zmapujemy wasz setup i cele. Na tej podstawie wracam z propozycją - waga modułów, format, timeline i wycena.
+Jeśli to brzmi sensownie, odezwij się do mnie na [Instagramie](https://instagram.com/kjendrzyca/), [LinkedInie](https://www.linkedin.com/in/kjendrzyca/) albo mailowo: [kontakt@krzysztof.io](mailto:kontakt@krzysztof.io). Wystarczy krótko opisać zespół, stack i największy problem z używaniem agentów AI.
+
+Jeśli temat będzie pasował, umówimy krótki call (30-45 min): zmapujemy wasz setup i cele. Na tej podstawie wracam z propozycją - waga modułów, format, timeline i wycena.

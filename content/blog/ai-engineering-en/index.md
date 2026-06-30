@@ -1,7 +1,7 @@
 ---
 title: 'Software Engineering with AI Agents - an end-to-end workshop'
 createdAt: '2026-06-28'
-updatedAt: '2026-06-28'
+updatedAt: '2026-06-30'
 published: true
 description: 'A workshop on setting up your repository, architecture, tooling, process, and organization for repeatable work with AI coding agents.'
 banner: './banner.png'
@@ -97,4 +97,6 @@ I am most useful when you have one repository and a concrete task to work on. Th
 
 ## Next step
 
-If this sounds relevant, let's schedule a short scoping call (30-45 min). We will map your setup and goals. Based on that, I will come back with a proposal covering module weighting, format, timeline, and pricing.
+If this sounds relevant, reach out on [Instagram](https://instagram.com/kjendrzyca/), [LinkedIn](https://www.linkedin.com/in/kjendrzyca/), or by email at [kontakt@krzysztof.io](mailto:kontakt@krzysztof.io). A short note about your team, stack, and the main bottleneck with AI coding agents is enough.
+
+If there is a fit, we can schedule a short scoping call (30-45 min). We will map your setup and goals. Based on that, I will come back with a proposal covering module weighting, format, timeline, and pricing.
