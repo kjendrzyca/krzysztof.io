@@ -7,20 +7,41 @@ import { SubscribeKIO } from './SubscribeKIO'
 import { GitHub, Instagram, Twitter } from './Social'
 import ThemeToggler from './ThemeToggler'
 import { config } from '@/config'
+import type { ContentLanguage } from '@/lib/content-language'
 
 type LayoutProps = {
   children: ReactNode
   isLandingPage?: boolean
   contentWidth?: 'prose' | 'media'
+  hideSubscribe?: boolean
+  language?: ContentLanguage
 }
 
-export const Layout = ({ children, isLandingPage, contentWidth = 'prose' }: LayoutProps) => {
+const footerLinkLabels: Record<ContentLanguage, { privacy: string; terms: string }> = {
+  pl: {
+    privacy: 'Polityka prywatności',
+    terms: 'Regulamin',
+  },
+  en: {
+    privacy: 'Privacy Policy',
+    terms: 'Terms',
+  },
+}
+
+export const Layout = ({
+  children,
+  isLandingPage,
+  contentWidth = 'prose',
+  hideSubscribe = false,
+  language = 'pl',
+}: LayoutProps) => {
   const globalWrapperClassNames = [
     'global-wrapper',
     contentWidth === 'media' ? 'global-wrapper--media' : null,
   ]
     .filter((cn) => cn)
     .join(' ')
+  const footerLabels = footerLinkLabels[language]
 
   return (
     <div className={globalWrapperClassNames}>
@@ -38,16 +59,16 @@ export const Layout = ({ children, isLandingPage, contentWidth = 'prose' }: Layo
       <main>{children}</main>
       <footer>
         <Bear />
-        {isLandingPage ? null : <SubscribeKIO />}
+        {isLandingPage || hideSubscribe ? null : <SubscribeKIO language={language} />}
         <div className="footer-bottom">
           <div className="footer-social-links">
-            <Twitter />
-            <Instagram />
-            <GitHub />
+            <Twitter language={language} />
+            <Instagram language={language} />
+            <GitHub language={language} />
           </div>
           <div className="footer-links">
-            <Link href="/polityka-prywatnosci/">Polityka prywatności</Link>
-            <Link href="/regulamin/">Regulamin</Link>
+            <Link href="/polityka-prywatnosci/">{footerLabels.privacy}</Link>
+            <Link href="/regulamin/">{footerLabels.terms}</Link>
           </div>
         </div>
       </footer>

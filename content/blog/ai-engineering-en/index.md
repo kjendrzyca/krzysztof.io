@@ -4,6 +4,8 @@ createdAt: '2026-06-28'
 updatedAt: '2026-06-30'
 published: true
 description: 'A workshop on setting up your repository, architecture, tooling, process, and organization for repeatable work with AI coding agents.'
+hideArticleFooter: true
+hideSubscribe: true
 banner: './banner.png'
 bannerAlt: 'Claude Code standardizing agent work in a monorepo'
 language: 'en'
@@ -11,11 +13,11 @@ translations:
   pl: 'ai-engineering'
 ---
 
-This workshop is about setting up the whole software delivery cycle - repository, architecture, tooling, process, and organization - so work with AI coding agents becomes repeatable and controlled, and the resulting code is something your team can maintain. It helps teams move gradually toward AI-first engineering: from diagnosing the current setup to spreading working practices across the organization.
+This workshop is about setting up the whole software delivery cycle - repository, architecture, tooling, process, and organization - so teams can work with AI coding agents in a repeatable and controlled way, and keep the resulting code maintainable. It helps teams gradually adopt AI-first engineering practices: from diagnosing the current setup to spreading working practices across the organization.
 
 Most engineering teams already have access to AI tools, but the work is still ad hoc: one person uses a browser chat, someone else runs an agent in a terminal, and no one has agreed on how to work this way as a team, safely and repeatedly. The problem is rarely the license. More often, the team lacks a shared workflow, repository standards, and enough shared know-how.
 
-The workshop covers the full cycle: diagnosis, repository standardization, architecture for agents, tool selection, daily work with agents, quality practices, gradual adoption, and internal rollout. The focus is setup and process, not prompt tricks. The goal is repeatable, maintainable engineering with AI - not one-off vibecoding that breaks at the first substantial change.
+The workshop covers the full cycle: diagnosis, repository standardization, architecture for agents, tool selection, daily work with agents, quality practices, gradual adoption, and internal rollout. The focus is setup and process, not prompt tricks. The goal is repeatable, maintainable engineering with AI - not one-off vibe coding that breaks at the first substantial change.
 
 I keep the approach deliberately lightweight: we start with the smallest thing that removes your current bottleneck, then extend the setup only when it pays off - without building a large framework upfront. Humans remain responsible for engineering decisions and for what goes to production.
 
@@ -28,13 +30,13 @@ I keep the approach deliberately lightweight: we start with the smallest thing t
 
 ## What your team gets out of it
 
-- A clear picture of where you are today and what a mature 2026 setup looks like, including where you are on the maturity ladder.
+- A clear picture of where you are today and what a mature AI engineering setup looks like in 2026, including your current maturity level.
 - A tool and model strategy that can survive pricing changes and periods when a model underperforms: explicit model choice, a fallback path, and your own set of reference tasks for comparison.
 - A plan for a "gold standard repository" where agents can work reliably: standards plus architecture.
 - Daily work patterns: task slicing, plan-first loops, isolated repository copies, several agents running in parallel, and permission boundaries.
 - A review and quality process that scales with agent output instead of becoming the bottleneck.
 - Security and governance guardrails matched to your risk profile.
-- A plan for the first weeks and the months after that, with owners and a clear "do not touch yet" list.
+- A plan for the first few weeks and the following months, with owners and a clear "do not touch yet" list.
 - Starting materials: the public repo-harness starter, a tool evaluation list including review bots, and sources to track the market.
 - Shared team vocabulary that narrows know-how gaps.
 
@@ -44,23 +46,23 @@ Nine modules. The order, weight, and depth are adjusted to your stack and maturi
 
 ### 1. Current state and diagnosis
 
-What a mature setup with AI coding agents looks like in 2026, and how vibecoding differs from deliberate engineering with AI. Where teams get stuck - usually not because of the tools, but because they lack a shared workflow, repository standards, and enough shared know-how. We identify where you are on the maturity ladder - from browser chat through IDE and terminal agents to subagents and cloud agents - so the rest of the program has a clear reference point.
+What a mature AI coding agent setup looks like in 2026, and how vibe coding differs from deliberate engineering with AI. Where teams get stuck - usually not because of the tools, but because they lack a shared workflow, repository standards, and enough shared know-how. We identify your current maturity level - from browser chat through IDE and terminal agents to subagents and cloud agents - so the rest of the program has a clear reference point.
 
 ### 2. Tools and vendor independence
 
-A review of current tools (Claude Code, Cursor, Copilot, Codex, Gemini CLI, Windsurf, and others) and how to choose between them without becoming dependent on one vendor or a period when one model happens to perform well. Pricing models and their pitfalls (per-request vs per-token, Pro vs Enterprise), explicit model choice instead of "auto" mode (which hides the model, cost, and comparability of results), and a 6-12 month fallback strategy.
+A review of current tools (Claude Code, Cursor, Copilot, Codex, Gemini CLI, Windsurf, and others) and how to choose between them without tying your workflow to a single vendor or to whichever model happens to be strongest at the time. Pricing models and their pitfalls (per-request vs per-token, Pro vs Enterprise), explicit model choice instead of "auto" mode (which hides the model, cost, and comparability of results), and a 6-12 month fallback strategy.
 
 ### 3. Project-level standardization
 
-How to turn a repository into a place where an agent can work. `AGENTS.md` / `CLAUDE.md` as the repository map and the place for hard rules, how to separate company, project, and personal instructions without duplication, what skills are and when they make sense, MCP vs CLI vs commands, and documentation patterns that make an agent follow steps instead of guessing. We also cover the conventions that need to be written down before you let AI write code in the repo.
+How to prepare a repository for reliable agent work. `AGENTS.md` / `CLAUDE.md` as the repository map and the place for hard rules, how to separate company, project, and personal instructions without duplication, what agent skills are and when they make sense, MCP vs CLI vs commands, and documentation patterns that make an agent follow steps instead of guessing. We also cover the conventions that need to be written down before you let AI write code in the repo.
 
 ### 4. Architecture for agents
 
-Why clear layers, module isolation, and shared contracts matter even more when an agent writes code. How to enforce rules in several layers (types, tests, CI), instead of trusting one large linter, what a linter can and cannot cover, where good naming is enough, and where documentation has to make the boundary explicit. We also cover semantic tooling (LSP, symbol search, safe refactors) that helps agents avoid getting lost in a large codebase.
+Why clear layers, module isolation, and shared contracts matter even more when an agent writes code. How to enforce rules in several layers (types, tests, CI), instead of trusting one large linter, what a linter can and cannot cover, where clear naming is enough, and where documentation has to make the boundary explicit. We also cover semantic tooling (LSP, symbol search, safe refactors) that helps agents avoid getting lost in a large codebase.
 
 ### 5. Working with agents
 
-Daily patterns: how to slice tasks so an agent can handle them well, plan-first loops, working in a worktree (an isolated repository copy for parallel work), several agents running in parallel, and when to let an agent work independently vs when it should ask a human. Browser automation and runtime access (for example read-only access to databases or logs) as normal parts of the workflow, plus context management so agents do not get buried in irrelevant information.
+Daily patterns: how to slice tasks so an agent can handle them well, plan-first loops, working in a worktree (an isolated repository copy for parallel work), several agents running in parallel, and when to let an agent work independently vs when it should ask a human. The module also covers browser automation and runtime access (for example read-only access to databases or logs) as normal parts of the workflow, plus context management so agents do not get buried in irrelevant information.
 
 ### 6. Process and quality
 
@@ -91,9 +93,9 @@ This topic runs through modules 2-6 and is especially important in regulated env
 
 ## How I tailor the program
 
-The same program can look different at two companies because I start by mapping your current "as-is" state: what types of repositories and systems are involved, which ones are business-critical, which ones are safe pilot candidates, where time, money, and attention are currently being wasted, and which workflows repeat often enough to justify automation. That map shapes the choice of initial pilot projects and the weight of each module. Some teams need the most time on standardization and architecture; others need more work on process, quality, and governance.
+The same program can look different from one company to another because I start by mapping your current "as-is" state: what types of repositories and systems are involved, which ones are business-critical, which ones are safe pilot candidates, where time, money, and attention are currently being wasted, and which workflows repeat often enough to justify automation. That map shapes the choice of initial pilot projects and the weight of each module. Some teams need the most time on standardization and architecture; others need more work on process, quality, and governance.
 
-I am most useful when you have one repository and a concrete task to work on. That lets me speed up diagnosis and help design the first repeatable way of working. Ownership of standards, exceptions, and long-term maintenance stays with you.
+The workshop is most effective when we can work with one real repository and a concrete task. That lets me speed up diagnosis and help design the first repeatable way of working. Ownership of standards, exceptions, and long-term maintenance stays with you.
 
 ## Next step
 

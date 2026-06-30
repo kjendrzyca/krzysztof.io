@@ -1,12 +1,33 @@
 import React from 'react'
 import { config } from '../config'
+import type { ContentLanguage } from '@/lib/content-language'
 
 const socialHandle = config.siteMetadata.socialHandle
+const socialLabels: Record<
+  ContentLanguage,
+  { twitter: string; instagram: string; github: string }
+> = {
+  pl: {
+    twitter: 'Mój X',
+    instagram: 'Mój Instagram',
+    github: 'Mój GitHub',
+  },
+  en: {
+    twitter: 'My X',
+    instagram: 'My Instagram',
+    github: 'My GitHub',
+  },
+}
 
-export const Twitter = ({ social = socialHandle }) => (
+type SocialLinkProps = {
+  social?: string
+  language?: ContentLanguage
+}
+
+export const Twitter = ({ social = socialHandle, language = 'pl' }: SocialLinkProps) => (
   <a
     href={`https://x.com/${social}`}
-    aria-label="Mój X"
+    aria-label={socialLabels[language].twitter}
   >
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -23,10 +44,10 @@ export const Twitter = ({ social = socialHandle }) => (
   </a>
 )
 
-export const Instagram = ({ social = socialHandle }) => (
+export const Instagram = ({ social = socialHandle, language = 'pl' }: SocialLinkProps) => (
   <a
     href={`https://instagram.com/${social}`}
-    aria-label="Mój Instagram"
+    aria-label={socialLabels[language].instagram}
   >
     <svg
       data-name="Layer 1"
@@ -58,10 +79,10 @@ export const Instagram = ({ social = socialHandle }) => (
   </a>
 )
 
-export const GitHub = ({ social = socialHandle }) => (
+export const GitHub = ({ social = socialHandle, language = 'pl' }: SocialLinkProps) => (
   <a
     href={`https://github.com/${social}`}
-    aria-label="Mój GitHub"
+    aria-label={socialLabels[language].github}
   >
     <svg
       xmlns="http://www.w3.org/2000/svg"

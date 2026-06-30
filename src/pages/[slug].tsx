@@ -25,6 +25,8 @@ type FrontmatterData = {
   createdAt: string
   updatedAt: string
   description: string
+  hideArticleFooter?: boolean
+  hideSubscribe?: boolean
   isLanding?: boolean
   banner?: string
   bannerAlt?: string
@@ -45,6 +47,7 @@ type PostProps = {
 type ArticleFooterProps = {
   contentPath: ContentPath
   createdAt: string
+  language: ContentLanguage
   slug: string
   updatedAt: string
 }
@@ -78,6 +81,22 @@ const translationNavLabels: Record<ContentLanguage, string> = {
   en: 'Translations',
 }
 
+const articleFooterLabels: Record<
+  ContentLanguage,
+  { published: string; updated: string; editOnGithub: string }
+> = {
+  pl: {
+    published: 'Opublikowano',
+    updated: 'Ostatnia aktualizacja',
+    editOnGithub: 'Edytuj ten wpis na GitHubie',
+  },
+  en: {
+    published: 'Published',
+    updated: 'Last updated',
+    editOnGithub: 'Edit this post on GitHub',
+  },
+}
+
 const LanguageLinks = ({ currentLanguage, translations }: LanguageLinksProps) => {
   const translationEntries = getTranslationEntries(translations).filter(
     ([language]) => language !== currentLanguage,
@@ -104,22 +123,30 @@ const LanguageLinks = ({ currentLanguage, translations }: LanguageLinksProps) =>
   )
 }
 
-const ArticleFooter = ({ contentPath, createdAt, slug, updatedAt }: ArticleFooterProps) => {
+const ArticleFooter = ({
+  contentPath,
+  createdAt,
+  language,
+  slug,
+  updatedAt,
+}: ArticleFooterProps) => {
+  const labels = articleFooterLabels[language]
+
   return (
     <footer>
       <p style={{ marginBottom: 0 }}>
         ---
         <br />
-        Opublikowano: <span className="date">{createdAt}</span>
+        {labels.published}: <span className="date">{createdAt}</span>
         <br />
-        Ostatnia aktualizacja: <span className="date">{updatedAt}</span>
+        {labels.updated}: <span className="date">{updatedAt}</span>
         <br />
         <a
           target="_blank"
           rel="noopener noreferrer"
           href={`https://github.com/kjendrzyca/krzysztof.io/blob/main/content/${contentPath}/${slug}`}
         >
-          Edytuj ten wpis na GitHubie
+          {labels.editOnGithub}
         </a>
       </p>
     </footer>
@@ -140,6 +167,8 @@ const Post = ({
     createdAt,
     updatedAt,
     description,
+    hideArticleFooter = false,
+    hideSubscribe = false,
     isLanding,
     bannerAlt,
     language: rawLanguage,
@@ -161,6 +190,8 @@ const Post = ({
     <Layout
       isLandingPage={isLanding || false}
       contentWidth="media"
+      hideSubscribe={hideSubscribe}
+      language={language}
     >
       <SEO
         title={adjustedTitle}
@@ -204,10 +235,11 @@ const Post = ({
             getContentImageMetadata={getContentImageMetadata}
           />
         </section>
-        {contentPath !== 'pages' && (
+        {contentPath !== 'pages' && !hideArticleFooter && (
           <ArticleFooter
             contentPath={contentPath}
             createdAt={createdAt}
+            language={language}
             slug={slug}
             updatedAt={updatedAt}
           />

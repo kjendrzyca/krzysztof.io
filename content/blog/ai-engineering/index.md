@@ -4,6 +4,7 @@ createdAt: '2026-06-04'
 updatedAt: '2026-06-30'
 published: true
 description: 'Warsztat o tym, jak ustawić repo, architekturę, narzędzia, proces i organizację pod powtarzalną pracę z agentami AI.'
+hideArticleFooter: true
 banner: './banner.png'
 bannerAlt: 'Claude Code standardizing agent work in a monorepo'
 language: 'pl'
@@ -28,7 +29,7 @@ Podejście jest minimalistyczne: zaczynamy od najmniejszej rzeczy, która usuwa 
 
 ## Co z tego wynosicie
 
-- Obraz tego, gdzie jesteście dziś i jak wygląda dojrzały setup w 2026, z waszą pozycją na drabinie dojrzałości.
+- Obraz tego, gdzie jesteście dziś i jak wygląda dojrzały setup pracy z agentami AI w 2026, z waszym aktualnym poziomem dojrzałości.
 - Strategię narzędzi i modeli, która przetrwa zmiany cen i słabsze okresy modeli: jawny wybór modelu, ścieżka fallbacku, własny zestaw zadań referencyjnych do porównań.
 - Plan na "gold standard repo", w którym agent potrafi pracować - standardy plus architektura.
 - Wzorce codziennej pracy: krojenie zadań, pętle plan-first, praca w izolowanych kopiach repo, kilku agentów naraz, uprawnienia.
@@ -44,11 +45,11 @@ Dziewięć modułów. Kolejność, waga i głębokość są dopasowywane do wasz
 
 ### 1. Stan obecny i diagnoza
 
-Jak wygląda dojrzały setup z agentami AI w 2026 i czym różni się vibecoding od craftowego engineeringu z AI. Gdzie zespoły się zacinają - zwykle nie na narzędziach, tylko na braku wspólnego workflow, standardów w repo i na dużych różnicach w know-how. Nazywamy, gdzie jesteście na drabinie dojrzałości (od "chat w przeglądarce", przez agenta w IDE i w terminalu, po subagentów i agentów w chmurze), żeby reszta programu miała punkt odniesienia.
+Jak wygląda dojrzały setup z agentami AI w 2026 i czym różni się vibecoding od craftowego engineeringu z AI. Gdzie zespoły się zacinają - zwykle nie na narzędziach, tylko na braku wspólnego workflow, standardów w repo i na dużych różnicach w know-how. Ustalamy wasz aktualny poziom dojrzałości (od "chat w przeglądarce", przez agenta w IDE i w terminalu, po subagentów i agentów w chmurze), żeby reszta programu miała punkt odniesienia.
 
 ### 2. Narzędzia i niezależność od dostawcy
 
-Przegląd aktualnych narzędzi (Claude Code, Cursor, Copilot, Codex, Gemini CLI, Windsurf i spółka) oraz sposób ich dobierania, żeby nie być zakładnikiem jednego dostawcy ani słabszego okresu jednego modelu. Modele pricingu i ich pułapki (per-request vs per-token, Pro vs Enterprise), jawny wybór modelu zamiast trybu "auto" (który ukrywa użyty model, koszt i porównywalność wyników), oraz strategia fallbacku na 6-12 miesięcy.
+Przegląd aktualnych narzędzi (Claude Code, Cursor, Copilot, Codex, Gemini CLI, Windsurf i spółka) oraz sposób ich dobierania, żeby nie być zakładnikiem jednego dostawcy ani modelu, który akurat w tym momencie jest najmocniejszy. Modele pricingu i ich pułapki (per-request vs per-token, Pro vs Enterprise), jawny wybór modelu zamiast trybu "auto" (który ukrywa użyty model, koszt i porównywalność wyników), oraz strategia fallbacku na 6-12 miesięcy.
 
 ### 3. Standaryzacja na poziomie projektu
 
@@ -91,7 +92,7 @@ Wątek przewijający się przez moduły 2-6, szczególnie istotny w środowiskac
 
 ## Jak dopasowuję program
 
-Ten sam program u dwóch firm może wyglądać inaczej, bo zaczynam od mapy waszego stanu "as is": jakie typy repo i systemów są w grze, które są krytyczne biznesowo, a które nadają się na bezpieczny poligon, gdzie dziś marnuje się najwięcej czasu, pieniędzy i uwagi, oraz które workflowy są najbardziej powtarzalne. Z tej mapy wychodzi wybór pierwszych projektów pilotażowych i waga poszczególnych modułów. Jedne zespoły potrzebują najwięcej czasu na standaryzację i architekturę, inne na proces, jakość i governance.
+Ten sam program u dwóch firm może wyglądać inaczej, bo zaczynam od mapy waszego stanu "as is": jakie typy repo i systemów są w grze, które są krytyczne biznesowo, które można bezpiecznie wybrać na pilotaż, gdzie dziś marnuje się najwięcej czasu, pieniędzy i uwagi, oraz które workflowy są najbardziej powtarzalne. Z tej mapy wychodzi wybór pierwszych projektów pilotażowych i waga poszczególnych modułów. Jedne zespoły potrzebują najwięcej czasu na standaryzację i architekturę, inne na proces, jakość i governance.
 
 Najbardziej się przydam, gdy macie jedno repo i konkretne zadanie. Przyspieszam wtedy diagnozę i pomagam zaprojektować pierwszy powtarzalny wzorzec pracy. Własność standardów, wyjątków i ich utrzymania zostaje po waszej stronie.
 
