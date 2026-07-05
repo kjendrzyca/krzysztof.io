@@ -333,6 +333,7 @@ Gry, które sprawdziłem, ale mi nie siadły.
 - Omno
 - Dorfromantik
 - Blue Prince
+- Deer & Boy
 - The Forest Quartet
 - Sea of Solitude
 - Chorus
