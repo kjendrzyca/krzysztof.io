@@ -247,5 +247,6 @@ Znalazłem jednak kilka dobrych przykładów za granicą, m.in.:
 - https://maggieappleton.com/
 - https://joel.is/notes/
 - http://codeofrob.com/blog.html
+- https://deepakness.com/
 
 Jeśli tworzysz prywatny blog lub znasz jakiś godny polecenia, to daj znać 🙏. Chętnie rozbuduję swoją kolekcję.
