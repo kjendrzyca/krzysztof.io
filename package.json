@@ -16,7 +16,7 @@
   "dependencies": {
     "fs-extra": "11.2.0",
     "gray-matter": "4.0.3",
-    "next": "16.2.6",
+    "next": "16.2.11",
     "next-themes": "0.3.0",
     "plaiceholder": "3.0.0",
     "prop-types": "15.8.1",
