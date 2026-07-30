@@ -17,6 +17,12 @@ This file provides guidance to agents working with code in this repository.
 - Never use `pnpm build` as a routine verification step. It can kill a potentially working dev server.
 - Only run `pnpm build` when the user explicitly asks for it.
 
+**Route verification:**
+- After changes to Next.js, image processing, content loading, routing, or deployment configuration, test `/`, representative routes handled by `src/pages/[slug].tsx`, and an unknown slug.
+- Cover at least one blog post, one note, and one page when the change can affect shared content rendering.
+- Check both the status code and a page-specific HTML marker such as the title. The unknown slug must return 404.
+- Repeat this route matrix on the deploy preview before merge and on production after deployment. A working homepage alone is not enough.
+
 **Execution Plans:**
 - For changes that no longer fit in one clean implementation pass, create or update an ExecPlan under `docs/exec-plans/active/` using `docs/exec-plans/create-plan-file.md`.
 - If a change touches user-facing behavior, Markdown/content rendering, public routes, build/dev commands, or anything documented here, update the relevant plan or documentation in the same change.
@@ -71,7 +77,7 @@ This file provides guidance to agents working with code in this repository.
 
 ## Architecture Overview
 
-**Framework:** Next.js 16.2.6 with TypeScript using Pages Router (not App Router)
+**Framework:** Next.js 16.2.11 with TypeScript using Pages Router (not App Router)
 
 **Content Management System:**
 - File-based content using markdown with gray-matter frontmatter
