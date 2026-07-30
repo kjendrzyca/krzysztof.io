@@ -1,6 +1,5 @@
 import fs from 'fs/promises'
 import path from 'path'
-import { getPlaiceholder } from 'plaiceholder'
 
 export type ContentPath = 'blog' | 'notes' | 'pages'
 
@@ -47,6 +46,12 @@ export const getContentImageMetadataByFileName = async ({
   }
 
   const imageFileNames = fileNames.filter(isAllowedImageFile)
+
+  if (imageFileNames.length === 0) {
+    return {}
+  }
+
+  const { getPlaiceholder } = await import('plaiceholder')
 
   const metadataEntries = await Promise.all(
     imageFileNames.map(async (fileName) => {
