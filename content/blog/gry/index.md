@@ -1,7 +1,7 @@
 ---
 title: 'Gry'
 createdAt: '2026-05-09'
-updatedAt: '2026-06-03'
+updatedAt: '2026-08-02'
 published: true
 description: 'Moja osobista lista gier: co przeszedłem, kolejka, jak oceniam, i wszystko, co przykuło moją uwagę.'
 banner: './banner.jpg'
@@ -30,6 +30,9 @@ Legenda:
 - **Death Stranding 2** / PS5 / ❤️
   - Kocham serię.
   - Przerwałem jakiś czas temu po 70h grania, bo nie chciałem tak szybko przejść i robię dosłownie wszystko, co jest do zrobienia.
+- **GTA IV** / SD
+  - Postanowiłem zagrać, ze względu na to, jak mocno spodobało mi się GTA V i ze względu na ten nowojorski klimat.
+  - Okzało się, że najlepsza opcja, żeby zagrać to PC/Steam Deck, bo są mody, które [naprawiają błędy i przywracają grafikę](https://fusionfix.io/iv) z oryginalnych wersji konsolowych.
 - **Dredge** / SD
   - Lovecraftove łowienie ryb <3
 - **Diablo 2 Resurrected** / SD
@@ -44,9 +47,6 @@ Legenda:
 - **Mad Max** / SD
   - In progress od ponad roku.
   - Trochę wypaliłem się otwartym światem, ale mega podoba mi się klimat i widoczki. Teraz od czasu do czasu kontynuuję na Steam Decku.
-- **GTA 5** / PS5
-  - Włączyłem niedawno i zostało na dysku.
-  - Gram wtedy, gdy mam mało czasu, bo misje w GTA są raczej krótkie.
 
 ## Paused
 
@@ -88,6 +88,10 @@ Legenda:
 
 ### 2026
 
+- **GTA V** / 5️⃣ / PS5
+  - Miałem odpalać od czasu do czasu, a skończyło się na tym, że wszedłem na pełnej.
+  - Momentami ciężko było mi uwierzyć, że gra powstała w 2013 roku, bo wyprzedza sporo tego, co wychodzi obecnie.
+  - Jednak gdybym grał drugi raz, to wybrałbym wersję na oryginalnego XBoxa albo PS3, bo raytracing i 60 fps w remasterze nie jest w stanie zastąpić klimatu, jaki robiła oryginalna paleta kolorów. Momentami czułem, że coś jest nie tak, ale dopiero gdy przeszedłem, to zobaczyłem jak duża jest różnica między starymi i nowymi wersjami. Oryginalne wersje znaczie lepiej oddają klimat L.A., które znamy ze starszych filmów. [Screenshot](/images/blog/gry/gta5comparison.jpg) (źródło: [Reddit](https://www.reddit.com/r/PS3/comments/12pamzq/gtav_ps3_vs_ps4pro_visual_comparison_i_prefer_the/)).
 - **Hades** / 5️⃣ / SD
   - Naprawdę nie chciałem spędzić w tej grze ponad 100h, ale nie dało się przerwać.
   - Nie polecam osobom, które mają tendencję wpadania w hiperfokus, bo z tego nie da się wyrwać.
@@ -436,3 +440,14 @@ Gry, które sprawdziłem, ale mi nie siadły.
 - The Pathless
 - Iron Lung
 - Eclipsium
+- genAtlas
+- Alien Isolation 2
+- Resident Evil Veronica
+- Crossfire
+- Blood Message
+- Swords of Legends
+  - Soulslike.
+- Lords of the Fallen 2
+- Last Harbor
+- 1666 Amsterdam
+- Trawler's Wake
