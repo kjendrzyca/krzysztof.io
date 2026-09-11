@@ -77,7 +77,7 @@ This file provides guidance to agents working with code in this repository.
 
 ## Architecture Overview
 
-**Framework:** Next.js 16.2.11 with TypeScript using Pages Router (not App Router)
+**Framework:** Next.js 16.3.3 with TypeScript using Pages Router (not App Router)
 
 **Content Management System:**
 - File-based content using markdown with gray-matter frontmatter
