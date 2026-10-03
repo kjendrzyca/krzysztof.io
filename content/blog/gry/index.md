@@ -338,6 +338,7 @@ Gry, które sprawdziłem, ale mi nie siadły.
 - Dorfromantik
 - Blue Prince
 - Deer & Boy
+- The Eternal Life of Goldman
 - The Forest Quartet
 - Sea of Solitude
 - Chorus
